@@ -1,0 +1,39 @@
+{
+  "title": "Best Mother's Day Quotes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mobyi.MothersDayQuotes",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "December 27, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "9",
+  "rating": "4.111111",
+  "contentRating": "Everyone",
+  "creator": "Mobyi Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mobyi.MothersDayQuotes",
+  "extendedInfo": {
+    "installSize": "667k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "\"Mother\" - She is the most special person who cares & loves you in all walks of your life, time to make her feel extra-special on this Mother's Day!*** Are you still looking for perfect quotes for your cards and gifts? Look no further then here in our application Motherâs Day Quotes you can find huge list of Motherâs day Quotes. *** If you are creating a handmade Mother's Day card or even sending an e-card that you want to personalize with some thoughtful sayings, here is a list of some of the best-loved and most popular quotes and sayings that honor mothers on their special day. Some of these quotes would look the most beautiful in a child's handwriting!Looking for some ways to express your love on Mother's Day? Here our application Best Motherâs Day Quotes provides you quotes and sayings to fill that empty page!************************************************************Foremost feature of this application is you can post any quote on your facebook account directly from this apps.************************************************************The application is actively being developed with ease of user interface. You can browse each quote easily with having page-sliding effect; you just have to tap on next arrow of the application to slide next quote page. In this application you can easily manage your Favorite motherâs day quotes using Favorite facility of this application. And yes off course you can directly send any quotes to your friends using send mail feature. Isn't it great?We would appreciate you referring this motherâs day quote app to a friend.************************************************************FEATURES:************************************************************1) Large Collection of Motherâs Day Quotes.2) Nice application design with easy navigation.3) Facebook integration.4) Mark any quote as favorite. Navigate your favorite quote easily.5) Email any quote to your friends.6) No Internet connection required.",
+    "reviews": [
+      {
+        "timestampMsec": "1368379997250",
+        "starRating": "1",
+        "title": "Lame",
+        "comment": "Not worth downloading.",
+        "commentId": "gp:AOqpTOGzBBjx7NwlNvJIzijPjSiS-hm1yMB0IePKzr2Zy3b7lFeWLt8CV79I795bK-gKbDZNvqn_ovmYb6j0yg",
+        "author": "Josephine Gonzales",
+        "authorURL": "http://lh6.googleusercontent.com/-f8BxgZX-lsU/AAAAAAAAAAI/AAAAAAAAENE/66NzmQS-Fas/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-f8BxgZX-lsU/AAAAAAAAAAI/AAAAAAAAENE/66NzmQS-Fas/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "title": "Maverick: GPS Navigation",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.codesector.maverick.lite",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "November 27, 2012",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "5335",
+  "rating": "4.241612",
+  "contentRating": "Low Maturity",
+  "creator": "Code Sector",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.codesector.maverick.lite",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Use offline maps and GPS even without an internet connection. This app is great for hiking, boating, geocaching and other outdoor activities.â¢ Multiple global and regional online maps, including: Bing, Yandex, Open Street Maps, OSM Cycle, OSM Public Transport, Multimap (UK), OutdoorActive (Germany, Austria, South Tyrol), Cykloatlas, HikeBikeMap (Germany), Open Piste Map, NearMap (Australia) and many other maps.All maps automatically cached for offline use. Use Mobile Atlas Creator to download maps or MAPC2MAPC to convert maps from other formats.â¢ Share your current or planned positionYou can send address, GPS coordinates, link to Google Maps and even map image.â¢ Navigate easilyBuild-in radar shows the direction, distance and estimated time to a point of interest.â¢ Save places you visitAll waypoint stored in KML file and can be viewed and edited in Google Earth. â¢ Record tracks with single tapTracks are recorded in GPX format and can be viewed in Google Earth and other software. â¢ Upload tracks to GPSiesFree account is required for uploading.â¢ Trip ComputerWatch speed, altitude, pitch and many other values.Only in Pro version:â¢ Unlimited waypoints and tracksâ¢ Lock compass to bearingâ¢ UTM and OSGB gridsâ¢ FourSquare supportWe can implement standard Google MapView, but it's limited - no caching and terrain view. If you need it, please email us or leave a comment.",
+    "reviews": [
+      {
+        "timestampMsec": "1370016366883",
+        "starRating": "5",
+        "title": "Superb!",
+        "comment": "Quick and simple to use, brilliant app!",
+        "commentId": "lg:AOqpTOEQSX7uyWMXvQP2PhTve-xQClhTxnXZ9BKJ2274YRG7PTh2MdX2z8kdyD0zVOSSZK5IPMO-2-Rjkm81KpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368902975937",
+        "starRating": "5",
+        "title": "Very usefull...",
+        "comment": "The radar always show me the right way to go.. So never lost in every places... Nice app...",
+        "commentId": "gp:AOqpTOGcBzlFYvVWS3tFA90_De13qb9DFFLEVmVO6_aldrj-RT43toB9A5f-RvKPXjtDqxg9jq3WUjFp9B4iSL4",
+        "author": "Fran Wibowo Ardi",
+        "authorURL": "http://lh6.googleusercontent.com/-VafMRiM8cH0/AAAAAAAAAAI/AAAAAAAAAZA/3lRVldOOM-8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VafMRiM8cH0/AAAAAAAAAAI/AAAAAAAAAZA/3lRVldOOM-8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357061653134",
+        "starRating": "5",
+        "title": "Fantastic app"
+      },
+      {
+        "commentId": "gp:AOqpTOEUQigBGgdHy-pox9hai02V1I7s2Eu-FqpvE2RCYjd8lI4axquQ5k8y3kE2ILhPyAeAnVN3g7gb6ACljbM",
+        "author": "Paul Wahnon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369154869306",
+        "starRating": "5",
+        "title": "Best free GPS app I\\'ve used!",
+        "comment": "Top notch. It has many features only found in pro (paid) versions of other apps.",
+        "commentId": "gp:AOqpTOEyDTSEcWoD176N6wiPx4o9KiCsirZh20OSMGc8gVP3qygB7TfrVf03zDvWpzLJNa3Z4zYbYcXijBzqbFU",
+        "author": "Karl Jensen",
+        "authorURL": "http://lh5.googleusercontent.com/-wAc05VTBFmY/AAAAAAAAAAI/AAAAAAAAAFE/hC-UNl1BCLo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wAc05VTBFmY/AAAAAAAAAAI/AAAAAAAAAFE/hC-UNl1BCLo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368986335945",
+        "starRating": "5",
+        "title": "Really need.",
+        "comment": "Its good to track your place as long as you are still on the earth.. great app ever..",
+        "commentId": "gp:AOqpTOE1ObrhPssPzWuYzdhwRInwkmBMiuo_RRBik74UokvWeOkZARIhn4Dn2gqGIPrR8z-rEyLKiAu1_uk_eSc",
+        "author": "Peter Pan",
+        "authorURL": "http://lh6.googleusercontent.com/-lW_1Ta34eOQ/AAAAAAAAAAI/AAAAAAAAADc/qhKDsMLkLSE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-lW_1Ta34eOQ/AAAAAAAAAAI/AAAAAAAAADc/qhKDsMLkLSE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370120858215",
+        "starRating": "3",
+        "title": "worst support",
+        "comment": "I posted a support request on their website and never got a reply, even after 2 months. I would not recommend this for beginners (people who would need a lot of help). The actual app is brilliant. I love how the gps tracking works.",
+        "commentId": "gp:AOqpTOH-YLyergaB9okXVUc8iaY6sjpb2u94oiQ7SEHTdKGhmcM_7MS9vFg4h_tpoY079iEOZxx00FolKcedD-o",
+        "author": "Declan Marks",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374024388528",
+        "starRating": "5",
+        "title": "Easy to understand and use even begginer like me..",
+        "comment": "Using it on asus fonepad and and very useful to i want buy the pro version the price reasonable but i dont have credit card \\302\\246-( is there any method to buy pro version. From malaysia.....",
+        "commentId": "gp:AOqpTOG45eYBPKtCRwYQrexd4OnsO2dGkbOaCsnu6kFQs-ADf_nsTHxZIkHjtvDFpbOsoL6DfKnkMKIwnwawoyA",
+        "author": "wilson johnny",
+        "authorURL": "http://lh5.googleusercontent.com/-cG3itRhpWYk/AAAAAAAAAAI/AAAAAAAAAIc/8_sJm7yc8-M/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-cG3itRhpWYk/AAAAAAAAAAI/AAAAAAAAAIc/8_sJm7yc8-M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376809374246",
+        "starRating": "1",
+        "title": "Very poor gui.",
+        "comment": "Barely usable, told me I was in a different country even with GPS on and working, other apps showed correct location",
+        "commentId": "gp:AOqpTOEwmM54XyKhyqinTD-nzrs2Re5HTEFF3oXv7fX53DXjbgvfos2cL0sd45CIHHA7EnsRsq8dQXzTMJ2Au6U",
+        "author": "A Neale",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369149833009",
+        "starRating": "3",
+        "title": "Map flickers",
+        "comment": "Tiles on the map are flickering.   Pretty sure I have the latest version, as the play store is not offering me an update button.   Would like more zoom, too.  Other than those two things its great.",
+        "commentId": "gp:AOqpTOEnNkrdpcDfXq72vvFc12U58cieM5RCb8FnFQCYhTTH-z0b6Td8sQ3vgTKC28r-e8Bht7hv6TR_qqp8Ab4",
+        "author": "Matthew Hester",
+        "authorURL": "http://lh6.googleusercontent.com/-ttlihyreXtI/AAAAAAAAAAI/AAAAAAAAA8g/jcARgyGHlxA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ttlihyreXtI/AAAAAAAAAAI/AAAAAAAAA8g/jcARgyGHlxA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358131262185",
+        "starRating": "2",
+        "title": "Doesn\\'t track",
+        "comment": "This thing had me standing still and wasn\\'t tracking that i had traveled 60km+ from where it said i was. As bad as Google maps which has me in a town ,which i was 300km from my real location.",
+        "commentId": "gp:AOqpTOERW7d8ZBAgaa_YUkaMpVaokObBUkVWlM8-oCHyUw4W6JtQuqo0RHcMLWNCQT85vXAKjZicQTCPnxGbGaw",
+        "author": "blake james",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361771399013",
+        "starRating": "4",
+        "title": "No google offline map support",
+        "comment": "A nice feature would be support for using already-downloaded offline maps from google maps. I was disappointed when I couldn\\'t use googld navigation offline, but this is what i need except for the fact that it doesn\\'t have google maps offline support.",
+        "commentId": "gp:AOqpTOH3IW6wdafFQ4z1z4e4EzfWryQoS3UOwJaAkV_sjChqT6BPL4CbckyRj5gFOcMHO45b40k-QabermQbZSo",
+        "author": "Dennis Grudzinsky",
+        "authorURL": "http://lh6.googleusercontent.com/-aJPk9qsQxZE/AAAAAAAAAAI/AAAAAAAAAAA/LX1o2VSu9s4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-aJPk9qsQxZE/AAAAAAAAAAI/AAAAAAAAAAA/LX1o2VSu9s4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362729457857",
+        "starRating": "5",
+        "title": "Superb",
+        "comment": "Excellent. Does everything you could ask. Very clean and easy to use.  Bought pro version to support developer even though I didn\\'t require extra stuff.",
+        "commentId": "gp:AOqpTOF9Ng0-TvVsbRs8L-WmpPsikvFJZKIV0dnSmz44dS9R77OT2HPxfsVS_oki6Wbm4SO9ntXMe_ETFS-itCk",
+        "author": "Reg Ward",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363121351630",
+        "starRating": "2",
+        "title": "Real Time GPS issues",
+        "comment": "Just installed it at my office. Been at my office for the last 4 hours. When I switched on Maverick it shows my current location being my home instead of my office. Tried to click on my location a few times but no go. Confirmed on my phone\\'s location setting having gps, wifi and all those options checked off. Went to google maps and it shows my location at work (though google maps initially showed it .5 mile off but then over 30 seconds it found the correct location).",
+        "commentId": "gp:AOqpTOF2taL_RZt7BX6H0wFuu11g29rlJbnBVMC-hXPJNMHEmkcyDt4AP2BqC2mIIHJ6tg9ipHDEk3qTRTaK2FY",
+        "author": "Joe Lau",
+        "authorURL": "http://lh6.googleusercontent.com/-t4sl6JKmuQY/AAAAAAAAAAI/AAAAAAAAAXE/HWGtyxEoPcg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-t4sl6JKmuQY/AAAAAAAAAAI/AAAAAAAAAXE/HWGtyxEoPcg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369431821512",
+        "starRating": "1",
+        "title": "This is Fake",
+        "comment": "This is one big fake, nothing work for free on my phone. You must to pay and upgrade to not free version.  I don\\'t like cheaters.",
+        "commentId": "gp:AOqpTOGZVpmT14lsjM5XRtm1XE4sit9XpJBvmTUYKEJVbn90WeGCkTw2GfyIuJycl3LRZ5KIDG5He0TucSP6euM",
+        "author": "tina tui",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366513402045",
+        "starRating": "5",
+        "title": "great app",
+        "comment": "I am using this app in flight. this works fine till the height is less than 13000 feet. but it stops working every time above 13000 feet. what could be the reason. how can it be rectified.",
+        "commentId": "gp:AOqpTOHnBcAW5E-PME0QvhZW049lxsYc2_P_JkSfLaFZrOkveFoSosYOlLeOxKeu95y2bRnJRQpEjjofqPzRHEw",
+        "author": "ujjwal kumar",
+        "authorURL": "http://lh5.googleusercontent.com/-7Bs18kijtdM/AAAAAAAAAAI/AAAAAAAAAAA/7xuZ7MLRepI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-7Bs18kijtdM/AAAAAAAAAAI/AAAAAAAAAAA/7xuZ7MLRepI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1363583418382",
+        "starRating": "5",
+        "title": "\\342\\231\\245\\342\\231\\245\\342\\231\\245",
+        "comment": "\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241very excellent is very wonderful app and helpful really\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\241\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\342\\231\\245\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\302\\260\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\302\\260\\302\\260\\342\\200\\242\\342\\200\\242\\342\\200\\242\\302\\260\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\302\\260\\342\\200\\242\\342\\200\\242\\302\\260\\342\\200\\242\\342\\200\\242\\342\\227\\213\\302\\260\\302\\260\\342\\200\\242\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\342\\200\\242\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\302\\260\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\200\\242\\342\\227\\213",
+        "commentId": "gp:AOqpTOFpLZKN6N68gCqGq-0pKo81zacW3kmMUcXQLWqvM4RBoCjanWpr0OuedtWjuv6wBFm9YrujkyX6Acx9mVI",
+        "author": "robary sabry",
+        "authorURL": "http://lh4.googleusercontent.com/-_mxJGX0KKj4/AAAAAAAAAAI/AAAAAAAAAGo/2_tHitN0GN8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-_mxJGX0KKj4/AAAAAAAAAAI/AAAAAAAAAGo/2_tHitN0GN8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360916600804",
+        "starRating": "5",
+        "title": "Great app for walking!",
+        "comment": "As a regular dog walker, this is a great little app. No downsides that I have found. Love the ability to use landranger explorer OS maps.",
+        "commentId": "gp:AOqpTOFuKEeS2bqUNhWDryVjCWRZ-UbBPrnkFRm9Sk7dk1BYDLpA-e0gGLIxyd5VqnjcD-2801hqqoYrcBmgMOI",
+        "author": "Martin Chalk",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361935880068",
+        "starRating": "5",
+        "title": "Great app 5 stars.",
+        "comment": "Great job,  I am a helicopter pilot,  and run my own Ag spray biz. We use this app to mark our fields so we dont\\'t have to try and figure out weather we are at the right field,  we just mark them the night before.  Thanks",
+        "commentId": "gp:AOqpTOEHxcCv6PxCaC2CT8De8dyL2qgLRF-TDmiQR8DqvMQkbABKqAC56wsBXP0ECF48kBEABsa9X_mJaDtvAIU",
+        "author": "Christopher Vankoughnett",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354645744697",
+        "starRating": "5",
+        "title": "EXCELLENT       Samsung Galaxy Tab 2 7.0",
+        "comment": "Just what I wanted. The app automatically stores the maps you view when planning a walk. They can then be viewed offline using GPS. Works well with OS Explorer on all scales.",
+        "commentId": "gp:AOqpTOGRTYXs9bI8j50lJqMiVX4w_SODCynZkWNkg959PT8fnrLdtRYhCYD2M0ls4dRssNu6nctkP8XRdyh7MD0",
+        "author": "Paul Glenister",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369034265935",
+        "starRating": "5",
+        "title": "Amazing app",
+        "comment": "Absolutely amazing app, the offline maps are fantastic, practically everywhere i go has crappy signal. Well worth the download, can\\'t believe its free. An outdoors must next to the flask :)",
+        "commentId": "gp:AOqpTOGPubBJiS3A2mlw1eXf2CKoZ4tFxyNucbxSdUscJifMUtjwu_b7nbCxke8Joz9fparaRLcipBqzB9ciII4",
+        "author": "Rob Stephens",
+        "authorURL": "http://lh4.googleusercontent.com/-GV46U0I-bjc/AAAAAAAAAAI/AAAAAAAAATA/K9W1ZJRntqU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-GV46U0I-bjc/AAAAAAAAAAI/AAAAAAAAATA/K9W1ZJRntqU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

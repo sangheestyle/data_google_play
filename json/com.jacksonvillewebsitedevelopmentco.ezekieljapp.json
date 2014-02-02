@@ -1,0 +1,40 @@
+{
+  "title": "Fun Ezekiel Jackson Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.ezekieljapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.ezekieljapp",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Do you love Ezekiel Jackson?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Ezekiel Jackson memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Ezekiel.Rycklon Stephens (born April 22, 1978) is a Guyanese bodybuilder and professional wrestler. He is signed in WWE working under the ring name Ezekiel Jackson. Stephens is a one-time world champion, having won the ECW World Heavyweight Championship in February 2010, and is recognized by WWE as the final ECW Champion. He is also a one-time Intercontinental Champion.Stephens signed a developmental contract with World Wrestling Entertainment in March 2007 and debuted in Florida Championship Wrestling (FCW) in late June. In his debut match on June 27, he teamed with Keith Walker to defeat Kofi Kingston and Eric PÃ©rez. He continued to compete in the promotion in both tag team and singles matches. On February 8, 2008 he competed in a match with tag partner Bryan Kelly in a losing effort against Steve Lewington and Heath Miller in a mini-tournament to face the WWE Tag Team Champions John Morrison and The Miz. On May 6, 2008, Stephens wrestled his final match in FCW before being called up to WWE's main roster.The Brian Kendrick's bodyguard (2008â09)After being trained in FCW, Stephens debuted on the July 18, 2008 episode of SmackDown under the name Ezekiel, as The Brian Kendrick's bodyguard. On the August 8, 2008 edition of SmackDown, his ring name was tweaked to Ezekiel Jackson, and he was revealed as being Kendrick's \"advisor\". He then began interfering in Kendrick's matches against Jeff Hardy, Finlay, and WWE Champion Triple H. On the October 17 episode of SmackDown, Jackson made his official in-ring debut by quickly defeating Super Crazy, after replacing a supposedly sick Kendrick. In late 2008, Jackson began teaming with Kendrick and both began feuding with the Tag Team Champions The ColÃ³ns (Carlito and Primo), although Kendrick and Jackson failed to win the championship. He suffered his first defeat on the February 13, 2009 episode of SmackDown, when he lost a singles match to R-Truth. Jackson made his final appearance on the SmackDown brand in a losing effort against Jeff Hardy on the April 3, 2009 episode.",
+    "reviews": [
+      {
+        "timestampMsec": "1373888911900",
+        "starRating": "1",
+        "comment": "Its so poor",
+        "commentId": "gp:AOqpTOH_C6n3zmyq95K1RgeUvZJ4Ro15yORFR9NofirTx2CRLPUemrwVPC7CPtZNjixs7CTd_6Qss2Jfg3Ch",
+        "author": "Abu Zaid",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.ezekieljapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

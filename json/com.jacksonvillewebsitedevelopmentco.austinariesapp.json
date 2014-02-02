@@ -1,0 +1,34 @@
+{
+  "title": "Fun Austin Aries Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.austinariesapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.austinariesapp",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Austin Aries?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Austin Aries memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Austin.Daniel Healy \"Dan\" Solwold, Jr. (born April 15, 1978) better known by his ring name Austin Aries, is an American professional wrestler, currently signed to Total Nonstop Action Wrestling (TNA). He is also a former one-time World Heavyweight, X Division Champion (with his reign of 298 days being the longest in the X Division title's history), and TNA World Tag Team Championship with Bobby Roode, thus making him the fifth TNA Triple Crown Champion. He is also known for performing in Ring of Honor, where he became the first and thus far only two-time ROH World Champion.Solwold began training under Eddie Sharkey and Terry Fox in 2000 and debuted on November 11, 2000, facing \"Sheriff\" Johnny Emerald. He wrestled in the midwest for several years before his east coast wrestling career was jumpstarted after he progressed to the finals of the 2004 ECWA Super 8 Tournament, where he was defeated by Christopher Daniels.Ring of Honor (2004â2007)From there, he joined Ring of Honor. Aries made his ROH main show debut at ROH: Reborn Stage 2 in Chicago Ridge, Illinois on April 24, 2004. Aries was unsuccessful, however, losing a four corner survival match also involving Jimmy Rave, Rocky Romero, and the winner, Nigel McGuinness. Aries was scheduled to return at the May 22 show, Generation Next, to compete in a one night series which would showcase young, upcoming ROH talent. Alex Shelley, however, hand-picked Aries, along with Roderick Strong and Jack Evans, as members of a new stable (also meant to promote young, upcoming ROH talent) who, instead of earning their spots, would simply take them. The group took the name Generation Next as their own.Aries captured the ROH World Championship at Final Battle 2004 on December 26, 2004, in Philadelphia, Pennsylvania, by defeating the longest reigning ROH World Champion, Samoa Joe. On June 16, 2005, Ring of Honor named Aries the new head trainer at the ROH wrestling school, replacing the former head trainer, CM Punk, who had agreed to a contract with World Wrestling Entertainment. After a six-month string of non-stop defenses, many of which were international, Aries lost the championship to CM Punk on June 18, 2005.On December 17 in Edison, New Jersey at Final Battle 2005, Aries teamed with Strong to defeat Sal Rinauro and Tony Mamaluke for the ROH World Tag Team Championship. The two would then disband Generation Next on June 3, 2006. In a first time ever match, Aries took on Pro Wrestling Noah star and former GHC Jr. Heavyweight champion KENTA in Chicago on June 24, but was defeated following KENTA's Go 2 Sleep.On September 16, he and his partner Strong lost the ROH World Tag Team Championship to the Kings of Professional Wrestling (Chris Hero and Claudio Castagnoli). Aries and Strong continued to team together for the rest of the year. At Battle of the Icons on January 27, 2007, Aries and Strong teamed up with Jack Evans to defeat Davey Richards, Delirious and SHINGO. This apparent Generation Next reunion was short lived when, at the following show on February 16, Strong attacked Aries after their tag team title match against Christopher Daniels and Matt Sydal. Strong then formed the \"No Remorse Corps\" with Davey Richards. Jack Evans ran down and pulled Strong off Aries, but refused to side with either of them. The following night, Aries called out Strong twice, but was unable to get his hands on him. When Evans refused to side with him, Aries said he was going to form a new faction with members of the next generation of wrestling. With that, he formed \"The Resilience\" with Erick Stevens and Matt Cross.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.austinariesapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

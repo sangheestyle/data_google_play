@@ -1,0 +1,114 @@
+{
+  "title": "WiFi Alarm",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jdr_software.wifi_alarm",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 25, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "29",
+  "rating": "4.586207",
+  "contentRating": "Everyone",
+  "creator": "JdR Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jdr_software.wifi_alarm",
+  "extendedInfo": {
+    "installSize": "55k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Use WiFi Alarm to never forget anything anymore!With WiFi Alarm you are able to setup a wifi alarm message, which alarms when you enter or leave a building. To be more precise when being in or out of range of a selected WiFi Network of your choice. When using a normal preset alarm on your smartphone the problem is that it only will go off at a preset time. So not any more with WiFi alarm. WiFi Alarm helps to remind you what is important to you, at just the right time. For instance when you are leaving your work after a very busy business day, Wifi Alarm helps to remind you not to forget to buy olive oil for preparing dinner on your way home. Or when leaving your house when heading to a big party, WiFi Alarm reminds you to bring flowers. And on your way back when entering your house again, to not forget to feed the cat. With WiFi Alarm it is even possible to delay the Alarm Start date and time, so that the WiFi Alarm will go off after a preferred Day.So as you see WiFi Alarm is here to improve your quality of live.Disclaimer: We cannot give any guarantees about wifi alarms going off at the right time. Use this application at your own responsibility.",
+    "reviews": [
+      {
+        "timestampMsec": "1334155665327",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "Best location reminder ever! I\\'ve been looking for this forever! GPS based reminders never worked well and i don\\'t like leaving my gps radio on, but i always leave my wifi on so this is great! also love check in check out feature!",
+        "commentId": "lg:AOqpTOE8FKq1yUw9yODCqt6JOaygbxBDPWNYeoLS6R-nB90SY6bVvjqikCGmEUQspvxBOGyHPQ67lE4jxT67U9k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357673488525",
+        "starRating": "3",
+        "title": "Good,but could be great!",
+        "comment": "Using GS3 it won\\'t even open, just crashes. using JB 4.1.1  Update: found out it only works when WIFI is turned on. Kind of a bummer since it allows you to create alerts when entering wifi areas, would be nice to be able to create alerts when away from known wifi spots to remind you when you get back in the area to do something.",
+        "commentId": "gp:AOqpTOG_erTfJxsUSTluLPngjH1B2lgoH8C26Am7c0V8oahwy81I5YeGMz8N5K9REHiJ1i_O54sTVahwLefVG6M",
+        "author": "Damon Reeher",
+        "authorURL": "http://lh6.googleusercontent.com/-PgebtIC2v2Y/AAAAAAAAAAI/AAAAAAAAAqw/vhPqug6yxEo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-PgebtIC2v2Y/AAAAAAAAAAI/AAAAAAAAAqw/vhPqug6yxEo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1333785301465",
+        "starRating": "5",
+        "title": "Nice little app",
+        "comment": "Comes in handy and does what it says on the tin",
+        "commentId": "lg:AOqpTOGwDfu02SOTDeQLE6gvJ18AVvo2OYsyJ9reDQHzx_JJGWEcQs27bGbNsJaOrRIPi_o17wXRlg-H-5w6AFw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344272991408",
+        "starRating": "3",
+        "title": "Great, but can\\'t create alarms while wifi is off.",
+        "comment": "Works well, good configurable alarms.  Good defaults, too.  I love that this app doesn\\'t use GPS (and thus hog batteries).  Problems: If you try to create an alarm while WIFI is off, you can\\'t select a wifi location, can\\'t save the alarm and it doesn\\'t refresh when wifi turns on.  Also, it won\\'t memorize wifi locations that you haven\\'t saved passwords for.   This could use a TON of improvement.  The developer should look at the Llama app for ideas.",
+        "commentId": "lg:AOqpTOHIL4E6euE2BGzjbBmBEZvrRd8yGTHR5_8BfFxDChT6NdqWrbzJnkoXO6FeVKPZ_imDf9cxZJSTU_V4kHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359423905856",
+        "starRating": "3",
+        "title": "Does not honor sound pref. Lacks obvious features.",
+        "comment": "Even if you switch your phone to silent mode, the app generates audible alarms. Unless of course you configure its own silent mode, which nobody wants to do for every single app. That is why device OS\\'s have a global setting for that. Thanks for waking me up in the middle of the night because of a wifi handshake. Speaking of which, this app has a hairtrigger. The slightest wifi disruption and off it goes! Very naive logic.  Also, this program lacks \\\"doh, obvious\\\" features.   There is no way to connect multiple access points being connected to the same alarm message object. If you want the same alarm on entering or leaving numerous hotspots, you have to duplicate it.  There is no way to set a \\\"wildcard\\"
+      },
+      {
+        "commentId": "gp:AOqpTOGlOLewpA6KE7H_mSMX-yC5YQ1UI6qF1KsbqyehLmy4sQOiZxb3HHg9bfYYkJluTDWteVrMARd0MqNzTOw",
+        "author": "Kaz Kylheku",
+        "authorURL": "http://lh3.googleusercontent.com/-2X-0DL5XDIA/AAAAAAAAAAI/AAAAAAAAAKw/9AvREElRvEA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-2X-0DL5XDIA/AAAAAAAAAAI/AAAAAAAAAKw/9AvREElRvEA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1332697475145",
+        "starRating": "5",
+        "title": "Handy tool.",
+        "comment": "Great reminder!",
+        "commentId": "lg:AOqpTOGSejqsNkxQsRmOwgo5QeGAywM8JU808Lt4Gzyx3YWUBKEGgI4t7_atl12pqSCiztUvuYA7c3pkjpgcWso",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333689199069",
+        "starRating": "5",
+        "title": "5",
+        "comment": "Something useful",
+        "commentId": "lg:AOqpTOEpcrdsr_Tg3aPy18X5c5A09q83Ha_C4zVbL0S__GP8qzvTvhf5l2jqaHVSVuQskJUwJXloe206RdAkACM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334609860916",
+        "starRating": "4",
+        "title": "Rate",
+        "comment": "Good app!!!!",
+        "commentId": "lg:AOqpTOFrSOMNYlSRZNLBJtdL9OnuQg2-aEcNWti_LTwrmzvpMgjUANcZOyMyIMGo3j4VY6wu91RXjU_tOjGL8mc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335102617633",
+        "starRating": "5",
+        "title": "App",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOH0feuvd1WfMrdwp4JiuyEawzIq4ySqV-xGtQMtRSLCOXHr8Udut_oSHghqMxahibQXt2CaKc60wB9I-AQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ]
+  }
+}

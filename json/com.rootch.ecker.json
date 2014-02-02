@@ -1,0 +1,81 @@
+{
+  "title": "Simple Root Checker - Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.rootch.ecker",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "17",
+  "rating": "4.470588",
+  "contentRating": "Everyone",
+  "creator": "Jaikirat Singh Seth",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.rootch.ecker",
+  "extendedInfo": {
+    "installSize": "350k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "** PLEASE EMAIL FEEDBACK REGARDING THE APPLICATION CONTENT TO \"jaikirat.seth19@gmail.com\" AS I WANT TO IMPROVE THIS APPLICATION ****Please email me about any concern, bug or issue! before leaving a negative feedback about the app.**This application, will allow the user to confirm they have proper root access configured and operational.After clicking on the Check for Root Button wait for few seconds and you are done. The results will be displayed to You.This app will add a few search access points on your device. If you do not want to use this new search page, you can either ignore it or delete it. If you do use it, we get a few cents and it will help us a lot to keep developing more apps. If you donât, you can delete it and no harm is done (our app remains the same, no need to uninstall it!). Thank you.Keywords :-  Root Checker, Root Check, SU Check, SU Checker, Root Access, Check Root Access, android root, verify root, superuser, super user, super su, busybox check, su checker, su check, test root, root tester rooting, superuser, sudo checker, user access, uid, gid, sh, admin, execute, developer, shell, bash, administrator, free, lite, basic",
+    "reviews": [
+      {
+        "timestampMsec": "1375276310902",
+        "starRating": "5",
+        "title": "Good apps",
+        "comment": "My phone is not rooted.",
+        "commentId": "gp:AOqpTOHjmlH7ZW40WxztTkwxIp64BclUbJlGP1kOdp3ZLOqNSdnbuOWeg59I37MWviHSfvbyVKC6hTbLIDYQlj4",
+        "author": "Chirag Chauhan",
+        "authorURL": "http://lh5.googleusercontent.com/-vzuKliW1ZqU/AAAAAAAAAAI/AAAAAAAAADA/__tJDXUP49c/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-vzuKliW1ZqU/AAAAAAAAAAI/AAAAAAAAADA/__tJDXUP49c/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364650393508",
+        "starRating": "5",
+        "title": "Awsome..",
+        "comment": "Very easy and straightforward app..",
+        "commentId": "gp:AOqpTOHYPecMOoQJDwJFrFnTHEBtZMzyBIztZUCzFXXnygN_pGoJKbm7eY6T2RLi1_5OtvBK2XxIZ22Hzw77n9c",
+        "author": "jaikirat singh seth",
+        "authorURL": "http://lh6.googleusercontent.com/-RdjNjq_zXyE/AAAAAAAAAAI/AAAAAAAAAHA/A0NZyEJZDYk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RdjNjq_zXyE/AAAAAAAAAAI/AAAAAAAAAHA/A0NZyEJZDYk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366888928118",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "Awsome",
+        "commentId": "gp:AOqpTOH9C6FlNq6Xbo6CG93jtBuPKxmK0yOn4KrZLdw2xTxWx9BY_4EflTUmOFBl9G7JDkqhpukbOUKa3D5XztE",
+        "author": "Ravneet Singh",
+        "authorURL": "http://lh6.googleusercontent.com/-oH8YJ6drMHM/AAAAAAAAAAI/AAAAAAAAADs/0JZKbWGslCY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-oH8YJ6drMHM/AAAAAAAAAAI/AAAAAAAAADs/0JZKbWGslCY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369346112933",
+        "starRating": "5",
+        "title": "Has all I need =) =D",
+        "comment": "It has all I need",
+        "commentId": "gp:AOqpTOEOVG96GNi7L8WxdiCVTB1hT-CjwQJlaTuRsW6WIE-i943xzBcVU7sSYn1XIzHJnbNno6ph5u9vJoEMppU",
+        "author": "michael hewes",
+        "authorURL": "http://lh5.googleusercontent.com/-PQOiXJwW27g/AAAAAAAAAAI/AAAAAAAAADY/31xkt5gXtu4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-PQOiXJwW27g/AAAAAAAAAAI/AAAAAAAAADY/31xkt5gXtu4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "title": "DAR Radio Downloader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.astroplayerdar",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "1.179",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "106",
+  "rating": "3.2264152",
+  "contentRating": "Everyone",
+  "creator": "Rosfactory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.astroplayerdar",
+  "extendedInfo": {
+    "installSize": "8.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The DAR Radio Downloader lets you play recorded radio shows interactively: pause, rewind, fast-forward or even skip ahead 30 seconds at a time. Go to www.dar.fm to find popular radio shows that can be recorded with just a click. Show recordings are automatically downloaded by the Downloader for enjoying anytime on the go.FeaturesAdvanced bookmarksUnlimited number of custom bookmarksFolder auto-bookmarksAll tracks auto-bookmarks (restores position on per-file basis)Each bookmark restores not only playback position but the corresponding playlist as wellUnique featuresAdjustable playback speed: fast/slow 2x - .05x and 2x speed with the same pitchNon-Unicode encoding supportAuto-resuming and undo/redoUnlimited number of undo/redo playback positionsAuto-resumeStores playback positions each ten seconds in order to recover properly after exceptional situationsMiscEqualizerMulti-languageLock screen with gestures and album artScrobblingNice user interface with large buttonsSleep timerFetches missing album art from the net and SDCARDFull screen album artFull screen lyrics/auto lyrics\"Now playing\" notification windowResume/pause playback when the headset is plugged/unpluggedBluetooth headset supportQuit application option (saves system resources)Hotkeys, actions, menu, and buttons organizersGapless playbackBass boostMono playback mode (advanced player only)Virtualizer effect for surround sound (Android >2.3 devices)Full screen 4x4 widget",
+    "reviews": [
+      {
+        "timestampMsec": "1377549290361",
+        "starRating": "5",
+        "title": "So far so good...",
+        "comment": "The reviews are very conflicting, security wise, Zoner Mobile Security green lights the app (and it\\'s in tune with all the ad companies that invade our privacy) so I feel the app is safe. Downloaded via link on website, opened app and it automatically logged me in and immediately began to download all the shows I had chosen, without any problems with speed or connection via wifi. I like the fact that the app has a huge amount of customization options , right down to font size and button placement.",
+        "commentId": "gp:AOqpTOGWSqlgkyfLXnJas5jPlS3PB4gjCS5a9F-1LthOXqIpggyIvvK6KPNkG0Wr7cDh-7DuPQH-cn2eiOTpVbU",
+        "author": "Daniel Mackintosh",
+        "authorURL": "http://lh4.googleusercontent.com/-KBmolZiu7x0/AAAAAAAAAAI/AAAAAAAAAXE/0CjnyFZ-i4E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KBmolZiu7x0/AAAAAAAAAAI/AAAAAAAAAXE/0CjnyFZ-i4E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376820126055",
+        "starRating": "1",
+        "title": "new version can\\'t be removed (Xoom 4.1.2)",
+        "comment": "New version not only doesn\\'t work, but also lacks an uninstaller. Use at your own risk! Could be Trojan horse!",
+        "commentId": "gp:AOqpTOFnsY9-Ea4kOTvHmn7l4yrPgKAA3MpTEB6dScAB1nEB576GiY5TArMFPFCQuN3ugnS_kKCbQTqKvMrbLKQ",
+        "author": "Jim Zix",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.177.3",
+        "timestampMsec": "1375197591895",
+        "starRating": "1",
+        "title": "Removed my G +1 rating. This app is headed for the toilet.",
+        "comment": "I use to love this app. I had questions in the past that were promptly answered, but just recently on 7/24/2013, I submitted a question because of issues I am having with my new Galaxy S4 . Today is 7/30/2013 and I have not received any reply from support and also from the link to the CEO I used. If you record just one program the app is free so you have nothing to lose but DO NOT give this company your money for this app until you start seeing posts about the company actually doing some positive support. Very disappointed in the app and support for multiple recordings.",
+        "commentId": "gp:AOqpTOGCHSsOlnwtWDDyj8Svl3lR5rZT--dBM_qwXXNX1aaQ-tXuHF83Cy1uTi8jEySwYfYeThh6WtZOspNqC68",
+        "author": "John Levesque",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.177.3",
+        "timestampMsec": "1376161675958",
+        "starRating": "1",
+        "title": "***Reads your contacts!!!***",
+        "comment": "Uninstalling... until dev removes excessivive permissions!!   Nothing like file size doubling so extra permissions get added. :/",
+        "commentId": "gp:AOqpTOFKl7Hg2XwOwYNMKsWCZC6PqrmdoS_uhCgp8gEdSbE-2PSp7NhLoh8XMGvRc5qTKvwUmQ5BZhh4BQgYmwE",
+        "author": "Marilyn C.",
+        "authorURL": "http://lh5.googleusercontent.com/-XorIQlP_YmU/AAAAAAAAAAI/AAAAAAAAE5g/4KMyDaHRLhs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XorIQlP_YmU/AAAAAAAAAAI/AAAAAAAAE5g/4KMyDaHRLhs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373345676411",
+        "starRating": "4",
+        "title": "Update seems to be working",
+        "comment": "This app went to crap after last update..seems It\\'s been reversed now. All of my recordings are showing up and playing finally!",
+        "commentId": "gp:AOqpTOHZ6UeFHy6X9aHSVFabs6wCseOFo6i9kl9SXUlYdkDwY17gd5wP2NCB6kZLXQnSME2OBUxjl4eFGE5UjVA",
+        "author": "J Clouse",
+        "authorURL": "http://lh3.googleusercontent.com/-HodYOZicLZA/AAAAAAAAAAI/AAAAAAAAArk/LJMHgZgZXsE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-HodYOZicLZA/AAAAAAAAAAI/AAAAAAAAArk/LJMHgZgZXsE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374373546104",
+        "starRating": "1",
+        "title": "DAR Radio Downloader for Android seems outdated or broken",
+        "comment": "I searched for alternatives, and found Astro Player, which is by the same developer, and has DAR.FM mode, and works much better (downloads proceed smoothly, which DAR Radio Downloader failed to do most of the time. So I consider it to be either a tease or just outdated. My version is 1.175. If find the DAR.FM on my PC browser works fine, so the cloud service is not the problem.",
+        "commentId": "gp:AOqpTOEGD5ZAd42rPWqZS_F6cEVrDcBzKuZa6AWxdhu-4Z0xmBaY_IYpEJ9nRl-ArD4IA8Uw2r_3ydjcWG4BLrg",
+        "author": "John Nelson",
+        "authorURL": "http://lh5.googleusercontent.com/-t7wT2dbKE10/AAAAAAAAAAI/AAAAAAAAAvc/tDEHb7OGFAk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-t7wT2dbKE10/AAAAAAAAAAI/AAAAAAAAAvc/tDEHb7OGFAk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374209899538",
+        "starRating": "1",
+        "comment": "Android 2.1 crashes at start up.",
+        "commentId": "lg:AOqpTOFrH-LLlnpuyEduI_ErhdDCXaf7SIUcoygA9EbpYsLBzLFj3FG42X32l2GBt6g9njDeOgnNcmBXO2IQ2wc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374015391305",
+        "starRating": "1",
+        "title": "Not good!!",
+        "comment": "I paid forty bucks for this just for one radio program, it used to work fine now it doesn\\'t do anything. I can\\'t get it to download so I can\\'t get it to play. I\\'ll be looking for a refund!!",
+        "commentId": "gp:AOqpTOEKVfzLgG8JlJMM8rx-4jhBoQD0YFohO6HvFPp0yZYLWQ8hyqdp_NkYSkdfiC1Py5exUuWI5JahGr4gXHE",
+        "author": "Donald Clark",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370127179770",
+        "starRating": "1",
+        "title": "What\\'s new?",
+        "comment": "Well, made it so the app is frustrating as hell to use. Other than that, nothing. Cannot choose what downloads in what order. You have to manually pause and resume downloads after each 15 min file, you cannot delete something off the account and if you delete something off your phone it will start to re-download itself and you cannot make it stop doing so, forever. Piece of shiat.",
+        "commentId": "gp:AOqpTOF42sQZ1u3alvuR5QeKNZeAkPlUvjAkeN8fPOz_fmKJn5mU3zNOR44V3LmDqfguOsNhRZ8a6FxhJr1i2PE",
+        "author": "William Miller",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367704988189",
+        "starRating": "1",
+        "title": "Eats battery and locks up",
+        "comment": "New version devours battery and locks up when you try to open it, didn\\'t respond to menu button, taps, or attempts to scroll. Completely unusable.  Please fix lock ups and add an option to only auto download when plugged into power to avoid draining battery.",
+        "commentId": "gp:AOqpTOElCgc_XP1REejjji6GyDdASls3nWj64dGgmbE_evDRRgJVMIdt8v0FEfSLfNsLlpZ4LETmC1-eYRlDD0U",
+        "author": "Brett Vasconcellos",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368058045579",
+        "starRating": "3",
+        "title": "New version... getting better",
+        "comment": "New ui is not as good as I thought it would be. Several major issues fixed. Still not as good as the pre update versions.  Not sure I will reup my subscription if it doesn\\'t get better than it currently is",
+        "commentId": "lg:AOqpTOHoBPZspjjhnnlSkA2-Bl2U9i6PjTDbxhcTPAEDYsNLwTMNFhVXR3jNeN1MnMoo6awjOAkhvcRPmW3mwcI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372903021426",
+        "starRating": "2",
+        "title": "Disturbingly unreliable",
+        "comment": "WHAT this app does is great, useful, valuable, worth paying for. HOW this app does it is frustratingly unreliable and not at all user friendly -- it crashes several times a day, for example. This app needs to be redesigned from scratch and rewritten, yet it\\'s one app I would not want to be without.",
+        "commentId": "gp:AOqpTOGYQPLU8-pwd9cN9wZS3mIye4d0guosiJY0-Kw2V108XTV6prHLLkQK6I_GCyYa5p-p7qOX9LSRVGw7g2s",
+        "author": "Joe Freeman",
+        "authorURL": "http://lh4.googleusercontent.com/-4FmxAysszAc/AAAAAAAAAAI/AAAAAAAClWc/Am0kuzBA364/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4FmxAysszAc/AAAAAAAAAAI/AAAAAAAClWc/Am0kuzBA364/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370622450420",
+        "starRating": "1",
+        "title": "great until the update",
+        "comment": "The new update to the app is awful, which is disappointing since I have a paid account. I have to keep deleting shows I am done with because they continue to pop back up and download (even when I go to the site and delete the show!)  And you cannot keep it from downloading once it starts, even if you delete everything! It drains my battery and my phone continues to freeze now. Looks like Ill have to stick with podcasts I can download minus this - like Carolla and Penn Jillette until this is fixed.",
+        "commentId": "lg:AOqpTOH4QvLkGNwnuXkDbz8h90EyjaZzNIJkUwVnflsLZlIbDSmDb3Dg7YDGJfQfvKD1C3tGWmavT0blm-3go3s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369493172138",
+        "starRating": "2",
+        "title": "Remove files is broken",
+        "comment": "Since the last update when you select \\\"remove files from dar.fm\\\" it does not do so.  It will just re-download them later until you remove them via your pc from the site.",
+        "commentId": "gp:AOqpTOG3Ajng2J5zykmRKoYHlVEo5o_4tWatrWeuY49qTpnztK29x6kjYHh-MuJqH4p6U_eBGObvSbd0TdHYVJg",
+        "author": "Scott Drum",
+        "authorURL": "http://lh3.googleusercontent.com/-Kh-zpKdNU34/AAAAAAAAAAI/AAAAAAAABPw/lWZlmnSnx08/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Kh-zpKdNU34/AAAAAAAAAAI/AAAAAAAABPw/lWZlmnSnx08/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372838250384",
+        "starRating": "1",
+        "title": "Horrible go figure.",
+        "comment": "This app makes no sense at all.",
+        "commentId": "gp:AOqpTOHSkVb7qldLpecEe8vWLbgSk_0i_Kjx3DiIB71fcmUbfV8xllgbV_ZKoU8l4yOTkJxewcqDp-qdrBRCEbA",
+        "author": "Will Mcbride",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368723208662",
+        "starRating": "1",
+        "title": "Great idea very poor execution",
+        "comment": "Download loop  of death complete app overhaul is needed",
+        "commentId": "gp:AOqpTOECq3_M-prkFKWjHsdw_upbJly7sPtT4-KoGylnyPWhw1BVhPq0tX39gLUPTOmrFIHRA6owUNMJGvoQQ3M",
+        "author": "Chris Vallot",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376147820682",
+        "starRating": "5",
+        "title": "aEg-A great app",
+        "comment": "REVISION: Since last update, the downloading stops and won\\'t restart. Force stops and/or uninstall and reinstall doesn\\'t fix it on my Samgung Galaxy S3.   Too bad. Please fix. :(  ***I especially like the ability to skip through the commercials.   Choosing a faster playback speed allows me to listen to much more of my favorite programming. My local stations quit carrying Michael Savage. Now I can listen at my convenience with no commercials.  5 stars for sure.",
+        "commentId": "gp:AOqpTOE5Yw3rgFf9espXvMHcBkQwjLF_mxpq4hJeaRMnN-7ZRQXtaPdT7C_Ydab2SCsKY1ezex73HM8a3EsmL-o",
+        "author": "Andrew Graham",
+        "authorURL": "http://lh4.googleusercontent.com/-4fG-koYVjDs/AAAAAAAAAAI/AAAAAAAAAM4/-4KBIxuPjGk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4fG-koYVjDs/AAAAAAAAAAI/AAAAAAAAAM4/-4KBIxuPjGk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367019975570",
+        "starRating": "1",
+        "title": "Failure with last upgrade.",
+        "comment": "I agree with the previous reviews. I\\'m having all the same issues I had to uninstall. I\\'m glad I didn\\'t pay for it. Please fix!",
+        "commentId": "gp:AOqpTOEl7ZqDqsdRZEX8Tcgp0RueMb1iFjluZ8UqTNWBdY0gVEsd3woy5Z1f8Y5NZgpUmU4M1ucLad1ets1doSs",
+        "author": "Phil Washburn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367453024143",
+        "starRating": "5",
+        "comment": "Great app",
+        "commentId": "gp:AOqpTOEVc_-6_0PS-JIRk1zoQ_BXzUPhhiCdZ_a7nkMcXHc_P-QhQ-DJ4OUwb5g7xU5BBqriZnnz6X6Tx3IlkaM",
+        "author": "Stefan Bartelski",
+        "authorURL": "http://lh3.googleusercontent.com/-Bg8po8-mhWs/AAAAAAAAAAI/AAAAAAAAAm0/lLYGcXdUKEY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Bg8po8-mhWs/AAAAAAAAAAI/AAAAAAAAAm0/lLYGcXdUKEY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366584833428",
+        "starRating": "1",
+        "title": "FAIL",
+        "comment": "Just get the message \\\"Connection with an account on DAR.fm was broken. Disconnection.\\\" App completely unusable.",
+        "commentId": "gp:AOqpTOFSQPaYLujUngv0BEKs5G0J4iLaV93FF5r8-Ks-sSw8sK0MODh-ulE4W3CCVWRwDA1_hhF7JUBicf_YiLY",
+        "author": "Vincent Lo",
+        "authorURL": "http://lh6.googleusercontent.com/-OuuHajh0E44/AAAAAAAAAAI/AAAAAAAAAK4/vJib7BnN3PM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-OuuHajh0E44/AAAAAAAAAAI/AAAAAAAAAK4/vJib7BnN3PM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BROADCAST_STICKY"
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "title": "920 Text Editor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jecelyin.editor",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 18, 2013",
+  "version": "13.7.18",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1460",
+  "rating": "4.408904",
+  "contentRating": "Everyone",
+  "creator": "Qooyee.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jecelyin.editor",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "920 Text Editor is a run on the Android phone a powerful text editor, anywhere, you can easily view or edit your code, you can also use it as e-book reader to open txt novel, it is like on Windows EmEditor, EditPlus so powerful.More change log please go to www.jecelyin.comFeatures: 1. Multi Tab, you can open different files in different tabs to facilitate you in a different text of this switch to edit2. syntax highlighting:     ASP, ActionScript, C/C++, C#, Erlang, Frink, HTML/XML/WML, CSS, Javascript, Java, JSP, Perl, PHP, Python, Shell/Bash, Lua, SQL, VB/VBS, Tcl, TeX/LaTeX, Verilog, AutoHotKey, AutoLisp, PowerShell, Pascal,Fortran, ColdFusion, VHDL3. show line numbers4. show blank characters (tabs, line breaks) 5. automatically detects the open file encoding, and you can also convert the current file encoding support:     ISO-2022-CN, BIG5, EUC-TW, GBK, GB2312, ISO-8859-5, KOI8-R, WINDOWS-1251, MACCYRILLIC, IBM866, IBM855     , ISO-8859-7, WINDOWS-1253, ISO-8859-8, WINDOWS-1255, ISO-2022-JP, SHIFT_JIS, EUC-JP, ISO-2022-KR     , EUC-KR, UTF-8, UTF-16BE / UTF-16LE, UTF-32BE / UTF-32LE / X-ISO-10646-UCS-4-34121 / X-ISO-10646-UCS-4-21431     , WINDOWS-1252 6. easy toolbar, you can quickly make a new file, open, save, save as, undo/redo, and some commonly used symbols, back to last edit location, etc.7. list of recently opened files history 8. regular search, replace or replace all 9. change the font and font size 10. \"Word wrap\" switch 11. lock the screen orientation in: auto, horizontal or vertical 12. remember the last open file 13. hide the soft keyboard, long press the edit area can be turn on 14. long press the \"edit area\" you can convert selected text to uppercase or lowercase15. auto indent16. keep the screen in the awake state17. you can run at ROOT permissions18. easy's file manager, you can delete or rename the file, or open with other application to view, copy/move etc. to manage files19. use the volume keys to quickly switch the display/hide the toolbar, full-screen mode20. preview the HTML file21. power Color Picker22. use Grep recursive search keyword in the path23. you can use the \"Preferences\" menu \"Donate\" page to the donate itTags: text editor, ASP Editor for Android, ActionScript Editor for Android, C/C++ Editor for Android, C# Editor for Android, Erlang Editor for Android, Frink Editor for Android, HTML Editor for Android, XML/WML Editor for Android, CSS Editor for Android, Javascript Editor for Android, Java Editor for Android, JSP Editor for Android, Perl Editor for Android , PHP Editor for Android, Python Editor for Android, Shell/Bash Editor for Android, Lua Editor for Android, SQL Editor for Android, VB/VBS Editor for Android, Tcl Editor for Android, TeX/LaTeX Editor for Android, Verilog Editor for Android",
+    "reviews": [
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376570171504",
+        "starRating": "4",
+        "title": "Looks great",
+        "comment": "Does what I need it to do, in moderation. Otherwise, I like the interface",
+        "commentId": "gp:AOqpTOETTf4RLIH4WitAN789CWtn4OBvDT_ZYKOxqLffeEf4g5a6Szn2LGOtz3v3Ewx7PJ9N-8Jm_vRlrvzffA",
+        "author": "Joseph Buono",
+        "authorURL": "http://lh5.googleusercontent.com/-DhbIOEJN1Xw/AAAAAAAAAAI/AAAAAAAAA60/7LUAVLDDz6s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-DhbIOEJN1Xw/AAAAAAAAAAI/AAAAAAAAA60/7LUAVLDDz6s/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1378112664285",
+        "starRating": "2",
+        "title": "Jass4u",
+        "comment": "Nice but not work properly",
+        "commentId": "gp:AOqpTOF1JgZI0dAFa0YUzAkKZfgy3ZaJJv-Y_eucFgEISGO0RV-Cf6j_lfVYzlE67VC0EsyCe68XR2sS_fDMqQ",
+        "author": "Patel Jasmin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1375449755285",
+        "starRating": "3",
+        "title": "Missing x86 binaries",
+        "comment": "Good app, but the developer forgot to build x86 binaries. This makes the app slower than necessary.",
+        "commentId": "gp:AOqpTOHbi5bDONHv1PjjU9IOJsppYyBAkz0Zstjek5HB2Nr3ZM9cWmMUi0XALemDKc9YcCXQfT2sEAZJTEW3BA",
+        "author": "Alvaro Burnett",
+        "authorURL": "http://lh4.googleusercontent.com/-VvIp82fhhnk/AAAAAAAAAAI/AAAAAAAAADQ/IRnWAUDEok4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-VvIp82fhhnk/AAAAAAAAAAI/AAAAAAAAADQ/IRnWAUDEok4/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376606915938",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOGr-y-wRMhLNPgIbiP0aRdyuBq8o1KnioNvGGrPPjwkOdPkktrtA6unzO0DXzVUu-BhFNDytWhFStBfjQ",
+        "author": "Ng\\341\\273\\215c Kh\\303\\241nh H\\303\\240",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376279872339",
+        "starRating": "5",
+        "title": "Galaxy Ace",
+        "comment": "nice app but i can\\'t get the bottom.",
+        "commentId": "gp:AOqpTOHgrjhVfgpyDeBYW6k5idGSeBCxTtuJymQJ6h6STK2XCVu6KgTdVjsi8o8puTDDqY02vY_At117Io9vmA",
+        "author": "Kuldeep Vaid",
+        "authorURL": "http://lh6.googleusercontent.com/-CX5EK_LbAyI/AAAAAAAAAAI/AAAAAAAAAU8/T2y0JeLvgQU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-CX5EK_LbAyI/AAAAAAAAAAI/AAAAAAAAAU8/T2y0JeLvgQU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1378629633263",
+        "starRating": "1",
+        "title": "Not the best for php",
+        "comment": "It shows squares instead of tabulator.",
+        "commentId": "gp:AOqpTOHY8YnRp8ewMR9Q_S7dDoF5ngPBpYU9S5Z2C1X36F68xpUiGLV5wQU2YmS9pN_Ukp2kMd6FvEiVBcmuVA",
+        "author": "Detre Dominus",
+        "authorURL": "http://lh6.googleusercontent.com/-BpDe_AckIPE/AAAAAAAAAAI/AAAAAAAAEV8/GFN0kWTs0qg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BpDe_AckIPE/AAAAAAAAAAI/AAAAAAAAEV8/GFN0kWTs0qg/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376842246461",
+        "starRating": "4",
+        "title": "Very good",
+        "comment": "Any chance of an unreal script highlighter?",
+        "commentId": "gp:AOqpTOFlyVXulkiw_oY9utZgjsRldsmH6Et1MSNrLDOKW1MmLTi85-dMQnQg0sxUppc_Pz_5YV6Y9zvcLj0dGw",
+        "author": "Spors Maal",
+        "authorURL": "http://lh3.googleusercontent.com/-rQI1PR0vYcg/AAAAAAAAAAI/AAAAAAAAACY/7ytZSmYrM0g/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-rQI1PR0vYcg/AAAAAAAAAAI/AAAAAAAAACY/7ytZSmYrM0g/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376994388999",
+        "starRating": "3",
+        "title": "Error",
+        "comment": "Good app... but since last update(s?) errors:\\'ClassNotFoundException when unmarshalling\\' every time I try something.",
+        "commentId": "gp:AOqpTOHiCQgIoH9t_nQC-9CZXxY3d7E0noJ2em6NrGuQdZS3kCSUnj8p1HwWR_vJCdPuJ4FZUqpYNx1_oeyJag",
+        "author": "Ron Valstar",
+        "authorURL": "http://lh3.googleusercontent.com/-RE_ayYRPceU/AAAAAAAAAAI/AAAAAAAAAAA/7B1vLrlhWaY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-RE_ayYRPceU/AAAAAAAAAAI/AAAAAAAAAAA/7B1vLrlhWaY/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1374326936743",
+        "starRating": "1",
+        "title": "Can\\'t save",
+        "comment": "Says ClassNotFoundException during unmarshalling, whenever I hit the save button. Frustrated, because I lost 10 minutes worth of creativity.",
+        "commentId": "gp:AOqpTOG78vu75Ub2TnYqyrIAfRX7dd1JPmtecXFh4UJctvpxKCh2MNsrONyYfjgdcnKrbW1RhtOjmRRosV1Qrw",
+        "author": "Ashish Kumar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376920932460",
+        "starRating": "5",
+        "title": "Best IDE Mobile App",
+        "comment": "There is no better mobile app that offers such rich features for editing code.",
+        "commentId": "gp:AOqpTOE6oi8Tsf9K0Acv5UILefc9X3R6UvtS6-ZqIZFU8d0cuArNlC8F8b8i8AA455QDOa9fHohtKA2-Iry6xQ",
+        "author": "HR Wong",
+        "authorURL": "http://lh5.googleusercontent.com/-nOewPNoIxK0/AAAAAAAAAAI/AAAAAAAABRI/B9kvZcKpagg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-nOewPNoIxK0/AAAAAAAAAAI/AAAAAAAABRI/B9kvZcKpagg/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1375946034760",
+        "starRating": "2",
+        "title": "can\\'t get to bottom",
+        "comment": "nice and speedy. but you can\\'t get the text at the bottom to scroll up and above the soft-keyboard. if you had a hardware keyboard this could br nice. but i\\'m stuck with a soft keyboard and can\\'t edit the bottom of my files!",
+        "commentId": "gp:AOqpTOFfb1vUui23-YjKfli_BrX87Krom5WftJvU-jhM5FrlL0i6N9LhD9ScIfNga9Je5SL4KNbNWaGXNwC3Ng",
+        "author": "Jon Foster",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1378797601959",
+        "starRating": "3",
+        "title": "works fine",
+        "comment": "works fine in my mobile",
+        "commentId": "gp:AOqpTOEcb9-sELpC5hlpIZ9rgWyhuI6loaZ_9S_aBpr7K_SM-TrBe0MxdgW2rBE-HqjPepuAJllFEoCVMLznIg",
+        "author": "yusuf painter",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1374230474868",
+        "starRating": "5",
+        "title": "Very Good Editor",
+        "comment": "This is the best code editor that I\\'ve tried. Feature request is for the save icon button to be grayed when document is un-touched or is already saved.",
+        "commentId": "gp:AOqpTOHj2-eFeZWjwkeJP1oni8IpmPRfkm1YqWmq2P9YvzqavBxtaVERTnQL15gpULSsu1PlnMA4B1XyKgxSuQ",
+        "author": "Joper Lizard",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1374548573028",
+        "starRating": "5",
+        "comment": "Easy to use, does the job",
+        "commentId": "gp:AOqpTOFqUDt4eH1n5BVc9TL-LDaXkxNloAvdRMfT696Xoo8phyMxg4FGl3t4am9TMp5ho07HCmdDPwJcWM1a3g",
+        "author": "Richard Biddle",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1377534261066",
+        "starRating": "4",
+        "title": "Best editor",
+        "comment": "Best editor in the play store",
+        "commentId": "gp:AOqpTOH-jbpoT20_kdLjNyjEcj7-dPAYnMK1a3alUoDetw6xbfitr0GWQk18Mj6rI2hDqDWh0Wd_rNwvgHbm4A",
+        "author": "Baljeet Singh",
+        "authorURL": "http://lh6.googleusercontent.com/-PUYAfnF8U0A/AAAAAAAAAAI/AAAAAAAAA7g/Ue-xM0jNB_o/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-PUYAfnF8U0A/AAAAAAAAAAI/AAAAAAAAA7g/Ue-xM0jNB_o/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1375792831436",
+        "starRating": "5",
+        "title": "very good editor",
+        "comment": "The editor is very intuitive and has important features. Feature request: option to highlight spaces.",
+        "commentId": "gp:AOqpTOHVE1y6QCFx3QNGiD3qAkO_KMhHfheSb8QjeRe-G2rBHbsnSN5sZ_Xc5WTxchcdPeZvniAwDNOp_LXGdA",
+        "author": "Daniel Sangorrin",
+        "authorURL": "http://lh5.googleusercontent.com/-6--RHjwKAko/AAAAAAAAAAI/AAAAAAAAGH0/GwigjTxWYug/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-6--RHjwKAko/AAAAAAAAAAI/AAAAAAAAGH0/GwigjTxWYug/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376575592943",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "No ads, opens practically everything",
+        "commentId": "gp:AOqpTOGoLO8Z-wCYmk85VG_vJUfRzj0FjjnukxaNQEcd4L7FFReYJ_faoCkRpW5s4pZIvcXOR49pWvCaailh2g",
+        "author": "Yves Bungie",
+        "authorURL": "http://lh3.googleusercontent.com/-LkyiAC0xLnI/AAAAAAAAAAI/AAAAAAAAAAw/cs2sRxD1WcM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LkyiAC0xLnI/AAAAAAAAAAI/AAAAAAAAAAw/cs2sRxD1WcM/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376767962526",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Lite easy and lovable",
+        "commentId": "gp:AOqpTOHCT-Q6KWQXLQyDH1N45bxA-aebyoxRYYRNP7K9xGpUEECLA1T3XMEnJpv79TVD7KPIT6e0hMDQt0CGkw",
+        "author": "Satyakam Ghude",
+        "authorURL": "http://lh3.googleusercontent.com/-P78jjCdUaw8/AAAAAAAAAAI/AAAAAAAAADs/sTOCK6V5Lto/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-P78jjCdUaw8/AAAAAAAAAAI/AAAAAAAAADs/sTOCK6V5Lto/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1375584050685",
+        "starRating": "5",
+        "comment": "Fantastic",
+        "commentId": "gp:AOqpTOHIZDpkdJF7lNdlIg2KRtovz4y3ea3b57OD4BWGTodl3DqZDKxy6QPRsYVXe47t3auefk3H_7ADWp0K4w",
+        "author": "Slaught Er",
+        "authorURL": "http://lh4.googleusercontent.com/-8TAQ0njrbeY/AAAAAAAAAAI/AAAAAAAAAdo/GHM9wmTN-OQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-8TAQ0njrbeY/AAAAAAAAAAI/AAAAAAAAAdo/GHM9wmTN-OQ/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.18",
+        "timestampMsec": "1376136196889",
+        "starRating": "5",
+        "title": "I love it",
+        "comment": "I love it, save as option",
+        "commentId": "gp:AOqpTOGPXTtAy9sOd-f1ZWllxfh-WWgm0sM1eOsSDkRDlPpNSVbVzWC486Y9wBQLwylVniiTEiwYxHlGCi8Dbw",
+        "author": "Kwame Yeboah",
+        "authorURL": "http://lh4.googleusercontent.com/-DaqEkV3oNYY/AAAAAAAAAAI/AAAAAAAAA6w/KLgMA8cHY-k/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-DaqEkV3oNYY/AAAAAAAAAAI/AAAAAAAAA6w/KLgMA8cHY-k/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

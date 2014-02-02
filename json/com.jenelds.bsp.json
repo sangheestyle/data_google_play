@@ -1,0 +1,29 @@
+{
+  "title": "Brick Breaker-Brick Break Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jenelds.bsp",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "September 2, 2013",
+  "version": "1.4c",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "14",
+  "rating": "4.357143",
+  "contentRating": "Everyone",
+  "creator": "Jenelds",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jenelds.bsp",
+  "extendedInfo": {
+    "installSize": "8.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Brick Break Game with a fresh new feeling!Not only the traditional stages of brick break games, but also stages to scroll vertically or horizontally are available.In addition, three-dimensional stages with height difference, bring you a new game experience!Some stages are very tough, and you must challenge them!If you are good at breaking bricks, come on and try to clear all the stages!Also, there is a story behind the battles in this minimum space.It would be a pleasure to find out the ending.Come on and try your best to find out it!â»This story is a fiction, the names of the group/persons that appears are all fictitious.â»Please refrain from unauthorized copying or unauthorized distribution of this software.â»Terms of useThe creators of this game are not responsible for any loss or damage as a result of use of this software.Please use it at your own risk.GAME TITLE: ACTIVE SPACEBrick Breaker(Brick Break Game, Breakout)BGM: 2dgames.jp, senses circuit, amachamusicSE: affexceed arts, pocket soundGame engine: e3roidMap tool: tiledtag: Brick Break, Brick Breaker, Breakout, Games of Android, the latest games, popular games,free games, Featured games, essential, new game, Arkanoid, ACTIVE SPACE",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

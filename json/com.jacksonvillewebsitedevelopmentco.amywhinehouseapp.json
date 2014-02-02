@@ -1,0 +1,34 @@
+{
+  "title": "Fun Amy Winehouse Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.amywhinehouseapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.amywhinehouseapp",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Amy Winehouse?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Amy Winehouse memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Amy.Amy Jade Winehouse (14 September 1983 â 23 July 2011) was an English singer and songwriter known for her deep contralto vocals and her eclectic mix of musical genres including R&B, soul and jazz. Winehouse's 2003 debut album, Frank, was critically successful in the UK and was nominated for the Mercury Prize. Her 2006 follow-up album, Back to Black, led to six Grammy Award nominations and five wins, tying the then record for the most wins by a female artist in a single night, and made Winehouse the first British female to win five Grammys, including three of the \"Big Four\": Best New Artist, Record of the Year and Song of the Year.In 2007 she won a Brit Award for Best British Female Artist; she had also been nominated for Best British Album. She won the Ivor Novello Award three times: once in 2004 for Best Contemporary Song (musically and lyrically) for \"Stronger Than Me\", once in 2007 for Best Contemporary Song for \"Rehab\", and once in 2008 for Best Song Musically and Lyrically for \"Love Is a Losing Game\".Winehouse died of alcohol poisoning on 23 July 2011. Her album Back to Black posthumously became the UK's best-selling album of the 21st century, at that point. In 2012, Winehouse was listed at number 26 on VH1's 100 Greatest Women in Music.A young Winehouse was first introduced to jazz by way of Frank Sinatraâshe named her debut album after himAmy Winehouse was born in the Southgate area of north London, to Jewish parents. Part of her mother's family originated in Russia. Her parents influenced her interest in jazz. Her father, Mitchell \"Mitch\" Winehouse, was a taxi driver; her mother, Janis Winehouse (nÃ©e Seaton), a pharmacist. Her grandmother Cynthia was a singer and she had an older brother, Alex (born 1979). Many of her uncles on the mother's side of her family were professional jazz musicians. Her father Mitch often sang Frank Sinatra songs to young Amy, who also took to a constant habit of singing to the point that teachers found it difficult keeping her quiet in class. Winehouse's parents separated when she was nine.When Winehouse was nine years old, her grandmother Cynthia suggested she attend the Susi Earnshaw Theatre School for furthering her vocal education. She attended the Earnshaw school for four years and founded a short-lived rap group called Sweet 'n' Sour with Juliette Ashby, her childhood friend before seeking full-time training at Sylvia Young Theatre School; however, Winehouse was allegedly expelled at 14 for \"not applying herself\" and also for piercing her nose. (Sylvia Young herself has denied thisâ\"She changed schools at 15âI've heard it said she was expelled; she wasn't. I'd never have expelled Amy.\") She also appeared in an episode of The Fast Show, 1997, with other children from the Sylvia Young School and later attended The Mount School, Mill Hill, the BRIT School in Selhurst, Croydon, Southgate School and then Ashmole School.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.amywhinehouseapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

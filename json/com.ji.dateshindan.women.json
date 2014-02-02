@@ -1,0 +1,50 @@
+{
+  "title": "Dating diagnosis to Girl",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.dateshindan.women",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "2.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "12",
+  "rating": "3.75",
+  "contentRating": "Medium Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.dateshindan.women",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "How is you imagination in boys' eyes when dating ?ãDating diagnosis to Girlãcheck your dating capability by 15 questions.What is your evaluation in boys' opinionï¼Let's diagnose the embarrassing vexation âªBeing popular and catch boys' heartsãâ ï¼ï¼ tips for butterflies in boys' stomachãï¼ãArrive the place earlier than do on time. Boy thinks that you pay attention on this date.ãï¼ãAlways smile. Boy feels happiness when seeing girl's smile.ãï¼ãListen to what boy says and it makes him satisfied.ãï¼ãLooking up to boy is the strongest arms of girls.ãï¼ãPretend to pay after dinner. Do not think it is usual that boy should pay for.ãï¼ãReceive a gift which girl brought back. It seems like girl thinks about boy on a trip.ãï¼ãTo knead boy's side of jacket or cloth when walking.ãï¼ãExpress your feeling when you two are hand in hand.ãï¼ãSome boys like active girls.ãï¼ï¼ãTell boy that you wanna spend more time to be with him on the way home.ãï¼ï¼ãWhen finished dating, saying goodbye and having smile to boy. It maks boy glad.ãï¼ï¼ãSend a thanks message to boy after dating makes boy relaxible.",
+    "reviews": [
+      {
+        "timestampMsec": "1378551172856",
+        "starRating": "1",
+        "title": "Disapointed",
+        "comment": "Im very disapointed that there is no english translation",
+        "commentId": "gp:AOqpTOFPHSNQyuFLT21_ykOAhXc97qrjB-uEC1iDnUDutd-OB2EHtsOPd6QICPW73Az2gozJUawXCGkMfJ5FTQ",
+        "author": "Nicole Hansen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358993155483",
+        "starRating": "1",
+        "title": "Concerned American",
+        "comment": "I am disappointed that there is no English translation.",
+        "commentId": "gp:AOqpTOFSc3zyZCGpZ0U9S5xAmqLXAK29fYGy7tDq7nmkY00misCeKuqHSiNpctHqpIhftbLAS3qiRbjMhsH_dA",
+        "author": "Dakota Wollmer",
+        "authorURL": "http://lh4.googleusercontent.com/-jnps6DrKP7A/AAAAAAAAAAI/AAAAAAAAAIc/m__cmXBfZqk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-jnps6DrKP7A/AAAAAAAAAAI/AAAAAAAAAIc/m__cmXBfZqk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.dateshindan.women.permission.C2D_MESSAGE"
+    ]
+  }
+}

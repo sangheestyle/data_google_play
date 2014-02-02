@@ -1,0 +1,248 @@
+{
+  "title": "Goodreads",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.goodreads",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "1.12.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7299",
+  "rating": "4.2041373",
+  "contentRating": "Low Maturity",
+  "creator": "Goodreads",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.goodreads",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Tap into the world's largest social network for readers with the Goodreads Android app! Read thousands of book reviews by your friends and other Goodreads members, keep a virtual bookshelf of what you've read, and build your to-read list as you discover great books on the app.Goodreads is a free service for everyone who reads. We have more than 8,500,000 members who have added more than 300,000,000 books.* Search, rate, and review any book in our catalog of more than 12 million books.* See book reviews and updates from your friends, and comment on them.* Browse your shelves! Next time you are deciding what to read, your to-read list will be handy.* Add status updates and page number updates for books you are currently reading.* Use the barcode scanner to quickly scan all of your books onto your Goodreads shelves.* Also use the scanner to quickly access book information while on the go.* Find your address book contacts or Facebook friends on GoodreadsYou can use the basic features of this app without a Goodreads account, but sign in or sign up (you can do this in the app) for the best experience!--Why does Goodreads need the READ_CONTACTS permission?You may choose to use your Android Contacts to find which of your family and friends are already on Goodreads. Your contacts will not be read unless you explicitly choose to do this.",
+    "reviews": [
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1370221933394",
+        "starRating": "4",
+        "title": "Good service",
+        "comment": "Good app to find books to read by recommendations and through friends. Please in an upcoming update let people change their profile. For some reason it says I live in California. I registered through Facebook and it is not what FB says. Also need to be able to edit shelves info like name and stand alone instead of having to delete entire shelf if you want something changed.",
+        "commentId": "gp:AOqpTOFoW0Vv-Yg9UGEYYUnQano4IsAq5HA-fc5gOH3TjR7Js0RWrOJ3mTa1ZHEZRy2tl74R-wqxUrHU9rzjaYs",
+        "author": "Becky Arp",
+        "authorURL": "http://lh3.googleusercontent.com/-77YAEmILtyE/AAAAAAAAAAI/AAAAAAAAAC4/KRgEG8Q3Kcs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-77YAEmILtyE/AAAAAAAAAAI/AAAAAAAAAC4/KRgEG8Q3Kcs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1366675270609",
+        "starRating": "3",
+        "title": "Needs a few tweaks",
+        "comment": "Recommendations show in portrait orientation only. I generally use my tablet when docked, and therefore in landscape. So this doesn\\'t work well.   Group discussions should scroll to the first new item when opened. Instead it always opens up the list to the first item, making you scroll all the way down, which is tedious on a long discussion. Also apparently one cannot mark the discussion as \\'read\\'\\342\\200\\224and it is not obvious how to refresh the list to pick up new items.",
+        "commentId": "gp:AOqpTOHHiEkPgRq7Fi3Vcpim8NqUFgxkcQAQDl2HFNCDX5G3_5CHMqQxkie4kMfWeJo7yRmw2R_I4J7xesUi2L0",
+        "author": "Tom Semple",
+        "authorURL": "http://lh6.googleusercontent.com/-l00j5t9j0N0/AAAAAAAAAAI/AAAAAAAAAk0/On8gvDNyvSs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-l00j5t9j0N0/AAAAAAAAAAI/AAAAAAAAAk0/On8gvDNyvSs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1368483334561",
+        "starRating": "5",
+        "title": "Awesome!",
+        "comment": "This app is essential for any bibliophile like myself. It works seamlessly w/ the GR website. I\\'ve tried other similar apps and this one outshines them all.",
+        "commentId": "gp:AOqpTOHjUy2j4qim4NNwY_o7P1-ssN3ALNymOBS22nWJCL5IkalYUlHDsHpQI-4ZrmmI2714kPh-8XvrohmtVkE",
+        "author": "Jud Hanson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1370243405528",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Easy to use. Suggest: rec\\'s determined by own shelves/genres would change more often. Would like multiple sign in option for more than one user of app (e.g. tablet). Love the rec\\'s under book titles. Great app.",
+        "commentId": "lg:AOqpTOGLI_ybL97T9edDgrAl7dPL53nPoRpzcCg2ns_qXkpFu0MrKcc6cAj3CVeNLPb8JPYxT7TyK9icsrs-W4M",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1374944159610",
+        "starRating": "4",
+        "title": "Needs update",
+        "comment": "Notification for groups starts acting weird yesterday. It says I have 20 notifications and new posts, then when I clicked it, says No new notifications. It is so annoying. I have to go to the browser to check for my notifications. Fix this please . Also with the next update, I hope adding of book covers in the comments or group discussion.  Will change rating when issues has been fixed.",
+        "commentId": "gp:AOqpTOHVDmYDpdTTK5VyoRQQ9M3I2RsV4Yx8lmjd8a0k5sONXooJOpC3o3Jk9YQdNxrNdvlPLLzC3pJsr_EgDc8",
+        "author": "Erica Tarnate",
+        "authorURL": "http://lh6.googleusercontent.com/-2kWptOdrgzI/AAAAAAAAAAI/AAAAAAAAABU/55FrseCoKSw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2kWptOdrgzI/AAAAAAAAAAI/AAAAAAAAABU/55FrseCoKSw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1367724876709",
+        "starRating": "3",
+        "title": "So far so good",
+        "comment": "My only request would be to add an offline version of the \\\"to read\\\" list - when I go to a bookstore I like to bring my list along with me - right now I just print it off on paper and kill about 9 pages worth of tree to do it.  Would be very nice if you could somehow \\'save\\' the \\'to be read\\' (or whatever) library to the phone so you could remind yourself of authors/books you were going to look for when you get where you\\'re going and it doesn\\'t have wi-fi (i.e. nowhere around here has wi-fi).",
+        "commentId": "gp:AOqpTOESkvH4JmPUhA3Fu4bztohKcGHhfvmJfAw6nbhuIse2jmttGyRgpgSU79DwUz60fWJJ3TeSKqaVC9tfAd8",
+        "author": "Be Ba",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1372875060465",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Love this app love good reads and the ability to add books to my list on a mobile device",
+        "commentId": "gp:AOqpTOHeKv4WhNTWp7S16hwmSjyNoxfgbRRyJ4iuubA7bSA_nDp5c6DhyzIFOou_opgw010rVC-7ApI0ZnojAQM",
+        "author": "Clifford Brown",
+        "authorURL": "http://lh3.googleusercontent.com/-9FpPjAEBh2A/AAAAAAAAAAI/AAAAAAAAAFc/grFhhwo-0XY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9FpPjAEBh2A/AAAAAAAAAAI/AAAAAAAAAFc/grFhhwo-0XY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1367054096327",
+        "starRating": "4",
+        "title": "Great!",
+        "comment": "Really love this app!  Would like to see a widget.  And w/in the app would like a way to be able to delete books from shelves...unless there is one & I\\'m missing it.  There are times I add books to my TBR shelf then later decide to delete 1 or 2 & I always have to go to the website to delete it.  Other than that...love it!  =)",
+        "commentId": "gp:AOqpTOFWnXP3hpHAE5G0yXOfL9t05IsWs7EJ9N7802ZLqcPnYZl5sbAtHUNdq6zIqmZaRZKNtoYOusjVfL0_-2I",
+        "author": "Kristen Farley",
+        "authorURL": "http://lh6.googleusercontent.com/-fgRWRZgBz7s/AAAAAAAAAAI/AAAAAAAAABM/8LnyCxWKYKM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-fgRWRZgBz7s/AAAAAAAAAAI/AAAAAAAAABM/8LnyCxWKYKM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1370610645998",
+        "starRating": "5",
+        "title": "Used the site",
+        "comment": "Before the actual app and never had a problem with it until recently. Its only a minor problem but would appreciate feed back about it. It no longer publishes to fb or twitter!",
+        "commentId": "gp:AOqpTOHORMYOhEeS5LCCG0d8zLYNMGimP26_ayNuW_NkKPob55-_LQssOcG4fqojA3zVzi_szBcfpGunyRYr5fw",
+        "author": "christina cavalier",
+        "authorURL": "http://lh5.googleusercontent.com/-dQLzdsmScTA/AAAAAAAAAAI/AAAAAAAAASo/VBiv5-NyLsQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dQLzdsmScTA/AAAAAAAAAAI/AAAAAAAAASo/VBiv5-NyLsQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1365665131280",
+        "starRating": "4",
+        "title": "Nice app but needs improvement",
+        "comment": "I really like the idea that I can share what I have read,am reading and will read with the world. And making the to-read list really help clearing my mind. But it\\'d be better if I could manage (eg. delete ) my bookshelf in the app.",
+        "commentId": "gp:AOqpTOFZGYW6nHIlyvR3cwj7reavS2aJdac8R2n52ar5lEbl0E2flI76gIUQnNWgbhBvOGibCbow6EgtqFddhR4",
+        "author": "Jonathan Yip",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1369841398021",
+        "starRating": "4",
+        "title": "Awesome app.....however",
+        "comment": "I was introduced to this app earlier this week and have spent most of my free time on it since. I love how you can read/write reviews and also comment on other reviews. I\\'ve joined a couple of groups but I find that there is no way to get to the current posts on threads created and there is no way I\\'m going through 10k posts to get to the most recent. This is easily resolved by either current posts need to be at the top of the thread, the app needs to take you automatically to the current posts or there is an option to skip pages. So instead of going page by page one can skip to the end. Once this gets done I\\'ll add the extra star.",
+        "commentId": "gp:AOqpTOFccJ_Wys-NAFPZQ1nfhtkrln_S2iGqsCsiIPiSI7-phGp1xHliQZCLB9LYd9NAyIE2Pi93JPIIeK3G-4Y",
+        "author": "Kelly Burton",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1377687583691",
+        "starRating": "4",
+        "title": "Almost perfect",
+        "comment": "It\\'s a great app, for the most part. I really like the barcode scanning (and automatic shelving) feature. But why doesn\\'t it allow me to answer the Friend-Request question that is set by some people on goodreads. Seems like such an important (and easy to implement) functionality.",
+        "commentId": "gp:AOqpTOEMA2-hKZQ1PE8iaMziiIaiLWZvorZ74QmS_MIdbETfLqsU17QjSX6tQ1rQvuR8w5tUct12nQHKiPI6cWE",
+        "author": "Anirudh Tewathia",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1368293494777",
+        "starRating": "5",
+        "title": "Love this reader.",
+        "comment": "Personally, I like this reader way more than the Kindle App. It is better at adjusting pages to fit and is just smoother overall. Only complaint is the slight drag time between \\\"page turns\\\". I love it though.",
+        "commentId": "gp:AOqpTOHgkR1Kr8blregkUZ_IMYLlmvot7tzu_te_ldFDNBkoUVxjIMhHqMtqQ1nH3CI7I72QohcbaqP3Gp36vkk",
+        "author": "Marsha Sioux",
+        "authorURL": "http://lh4.googleusercontent.com/-9R1AjvEbWSE/AAAAAAAAAAI/AAAAAAAABF4/HljpOO6VRKI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9R1AjvEbWSE/AAAAAAAAAAI/AAAAAAAABF4/HljpOO6VRKI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1375939397765",
+        "starRating": "4",
+        "title": "Add",
+        "comment": "Great app, but is there any chance that a way to edit and change your bookshelf could be added. It would be better then creating tons of bookshelves just to get the one you want......especially if your new and don\\'t know what the little box below the name is.Also be great if there was a way to keep track of fav authors and or series.",
+        "commentId": "gp:AOqpTOG3v_63p6dWwG0rMTnhe6dM6YGJLrhkoUs4D2ONTLuqp6oGisXGDqOkQ1fLdUmWrdKgwI4oSavBjmMS1hw",
+        "author": "Kayla Corson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1366050097880",
+        "starRating": "4",
+        "title": "Love the app.",
+        "comment": "Only suggestion is to make a reading progress widget so we can update from our home screen. :)",
+        "commentId": "gp:AOqpTOH_MBgkdAW6iaKKrBpvWATaNAuVsvSvWbL0nLnZ_xYk3y3dv1IUpD9Z8Jd8mE_wrgPONbU-_fAOqshevtA",
+        "author": "Andria Armstrong",
+        "authorURL": "http://lh4.googleusercontent.com/-CJh42ZF64TU/AAAAAAAAAAI/AAAAAAAABxs/5Bpe6xL6BW8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CJh42ZF64TU/AAAAAAAAAAI/AAAAAAAABxs/5Bpe6xL6BW8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1367763579047",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "I love this app! Makes it easy to quickly add a book to my GR shelf when I\\'m out and about, and I love that I can scan books to look them up even faster!",
+        "commentId": "gp:AOqpTOFDogM-0Vo7iqn1v6tud5AYyMe6UsJn0A4gmI2-5hkjNN2AgOeypjkBcJqj9upiCxxc0GCJ1Mk7I0OqWt8",
+        "author": "Sherri Lloyd",
+        "authorURL": "http://lh6.googleusercontent.com/-CLtGpaO9ub0/AAAAAAAAAAI/AAAAAAAAADI/3ZbUSIWvlEE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-CLtGpaO9ub0/AAAAAAAAAAI/AAAAAAAAADI/3ZbUSIWvlEE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1372267485432",
+        "starRating": "3",
+        "title": "Needs work",
+        "comment": "I am just starting out with goodreads and this app is great except that there is no way to remove books from your shelves. If they fixed that then I would give this five stars!",
+        "commentId": "gp:AOqpTOEKqjbpwnY0Kkkl1x8sgqJDzJ-9mxmnUybOTLaZkomsiWBiIGXTs_IlK97xoIrmPewcpKm40VtlPOzB1SI",
+        "author": "Ruby Smith",
+        "authorURL": "http://lh4.googleusercontent.com/-HW-rnFfkhUs/AAAAAAAAAAI/AAAAAAAAAC0/K4EBjmMlvGk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-HW-rnFfkhUs/AAAAAAAAAAI/AAAAAAAAAC0/K4EBjmMlvGk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1377958721350",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great app overall, use it every day to update my reads and check book reviews. One suggestion, would be good if you could click on a book title and it takes you to the list of books in a series like you can on the site.",
+        "commentId": "gp:AOqpTOE8XGcvs42wj990G_IuwKxd-PESTli17LUVQpS9IXOnVUwpyuhTrGQUg5mXEeNdZRETFPsYQKHKeXXqqcI",
+        "author": "Clare W",
+        "authorURL": "http://lh4.googleusercontent.com/-T6tKx91McGA/AAAAAAAAAAI/AAAAAAAAAGA/cDSphUQE0Ho/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-T6tKx91McGA/AAAAAAAAAAI/AAAAAAAAAGA/cDSphUQE0Ho/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1375867475703",
+        "starRating": "5",
+        "title": "Book Paradise",
+        "comment": "The home-net of good brains (: I strongly recommend this app, you\\'ll learn, you\\'ll enjoy, you\\'ll love it :D",
+        "commentId": "gp:AOqpTOGnclqnlXjsVltbfjtclWhq3tt0MhnUaabQcayIrYOYC9jxC3U2G0N0ZlRbS7ZYSop7M3gr7PY1vBpKWOs",
+        "author": "Leiraj Murillo",
+        "authorURL": "http://lh5.googleusercontent.com/-rTjkxNqZYSg/AAAAAAAAAAI/AAAAAAAAACE/dqJU-HpkFnw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rTjkxNqZYSg/AAAAAAAAAAI/AAAAAAAAACE/dqJU-HpkFnw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.12.3",
+        "timestampMsec": "1378083164768",
+        "starRating": "2",
+        "comment": "Can\\'t log on through the app. I get the following error message: The page you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may be broken or expired, or you may not have permission to view this page.",
+        "commentId": "gp:AOqpTOGl4aj2MFXLkk8kuFNsHHDqVoU2wLAGHZcZSonLhpqHzMwqEIlHKBJyPjrW_INCmAkPnN48Uv7CswsNxGE",
+        "author": "Shelly Walther",
+        "authorURL": "http://lh6.googleusercontent.com/-3eKnfkbyLig/AAAAAAAAAAI/AAAAAAAAErs/9Nojy8tzPEk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-3eKnfkbyLig/AAAAAAAAAAI/AAAAAAAAErs/9Nojy8tzPEk/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

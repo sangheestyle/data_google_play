@@ -1,0 +1,33 @@
+{
+  "title": "Diagnosis of Melancholia",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.depression",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 8, 2013",
+  "version": "3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "454",
+  "rating": "3.7268722",
+  "contentRating": "Everyone",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.depression",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "â Over than 250,000 downloads!!â NO.4 for free casualâ NO.9 for free gameDiagnose how blue you are by answering questions.Choose ãYesããNoããNeitherã to answer 1~30 questions.â»This application is a simple test made by Beck Depression Inventory test. Please ask specialists for details of spirital disease.There is 1person having melancholia in every 15 persons.Recently, a movie about melancholia has been on air. News about rate of suicide is increasing and be noticed by sociaty. Check how blue you are and find a good way to cure of melancholia.[About melancholia] Melancholia is a disease which has symptoms like feel anxious, less energy, off one's feed and insomnia.For example, you go to see a doctor via stomachache and be dianosed to a gastric ulcer. But you do not recover until the treat. You are still in a low tension continiously.Be aware of feelings like menopause also with anxiety with no reasons. Do you have any experiences like that ?Is it merely caused by the mental disease ?For instance, recent report says that about 10 percent of patient of internal medicine erupting melancholia at the same time. But the symptoms are usually think as usual because of sick, even being upset.It would be worse if ignoring melancholia.[Resource] what is melancholia http://know-utsubyo.jugem.jp",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.depression.permission.C2D_MESSAGE"
+    ]
+  }
+}

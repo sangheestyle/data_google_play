@@ -1,0 +1,31 @@
+{
+  "title": "First Hope Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.FirstHopeBank",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "July 27, 2012",
+  "version": "v1.6.1a1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "First Hope Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.FirstHopeBank",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Mobile Banking with First Hope makes banking more safe and convenient than ever. Use your Android mobile device to maintain your First Hope Bank accounts and loans from anywhere.  The first Hope Bank App allows you to check account balances, view transactions, make transfers, pay bills and receive alerts using the same username and password to access Internet Banking.First Hope Mobile Banking App is a FREE* service that allows you to access your accounts anytime, from anywhere, using your Android mobile device. For your security, you must enable Mobile Banking Services from within Internet Banking before you may use any of the First Hope Mobile Banking features, including this App.  Before using this App for the first time, make sure you login to Internet Banking and select Manage Settings, click the Mobile Settings tab and Activate Mobile Banking Access.*There is no fee from First Hope Bank.  Connectivity and usage rates may apply.  Contact your wireless service provider for more details.First Hope Bank will not send unsolicited text or email messages containing urgent requests to contact the bank or asking for personal information. Whenever communicating with the bank by phone, only use official First Hope Bank phone numbers published on your bank statement, the back of your debit card or on our website at www.firsthope.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

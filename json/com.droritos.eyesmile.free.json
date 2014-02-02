@@ -1,0 +1,36 @@
+{
+  "title": "EyeSmile Sound",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.droritos.eyesmile.free",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "January 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Droritos",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.droritos.eyesmile.free",
+  "extendedInfo": {
+    "installSize": "287k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "EyeSmile is the ultimate notification tool for helping your eyes rest from long computer monitor staring (using an on/off widget).Staring at a computer monitor for a long period of time can cause Computer Vision Syndrome (CVS), which is a temporary condition resulting from focusing the eyes on a computer display for protracted, uninterrupted periods of time.Some symptoms include headaches, blurred vision, fatigue and redness in the eyes, and estimated to affect some 90% of the people who spend three hours or more a day at a computer. âSound Notifications    For those who just want to hear it.âVibrate Notifications*    For those who just want to feel it.âVisual Notifications*    For those who just want to see it.âCombination of the above*(* version with everything)Using this app you should accept the challenge of making your eyes rest periodically. Every twenty minutes or so, you should get up, stretch your back and neck and look around.If you liked it, buy the version with everything for just a buck dollar (thank you!) and help me pay bills as well as buy more flowers to my girlfriend (:Rate & ENJOY!! â-------------------Extra Points:-------------------â In visual mode, lean your phone against the screen, facing your direction, in order to see more clearly.â Although I aimed the app to be a reminder tool against CVS, I find myself use it for other activities such as reading.â Zedge.net is a nice source for wallpapers and notifications.â If you have decided to show your gratitude by buying it, please donât forget to uninstall the previous sound version. â If youâre having problems with downloads, installs, refunds, payments, or Google Play access, please contact Google Play team through the Google Play Help Center and user forum.----------------------------Permissions Used:----------------------------Startup â to be allowed to start the service after boot.Storage â to be allowed to save selected images for fast loading.Vibration â to be allowed to vibrate.Phone state â to be allowed to know when youâre in a call. I have no need for the identity.Development tools â a side effect of simply needing to write to external storage.",
+    "reviews": [
+      {
+        "timestampMsec": "1354741539499",
+        "starRating": "5",
+        "title": "Cool idea!",
+        "comment": "Works like a charm",
+        "commentId": "gp:AOqpTOGzpTzRjmPaZtua7HJ8nmNaFEp_K6WnA_A3FUygnqthXJFwOLSV9vE15M2LIsOEralkhYAdFOztwb9PLg",
+        "author": "Roy Weiss",
+        "authorURL": "http://lh4.googleusercontent.com/-R-9J4xMpkJ8/AAAAAAAAAAI/AAAAAAAAHN4/rgJ9kFv2PmQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-R-9J4xMpkJ8/AAAAAAAAAAI/AAAAAAAAHN4/rgJ9kFv2PmQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

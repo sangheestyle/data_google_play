@@ -1,0 +1,81 @@
+{
+  "title": "Notepad by AgileNote! (Memo)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.phoeniix.agilenote",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 19, 2013",
+  "version": "0.9.13",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "12",
+  "rating": "4.4166665",
+  "contentRating": "Low Maturity",
+  "creator": "phoeniix",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.phoeniix.agilenote",
+  "extendedInfo": {
+    "installSize": "812k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "AgileNote! Beta is a multi-input notepad for Android 3+ that enables users to quickly take notes with many different input methods.  You can create Voice Transcription notes, Text Notes, Audio Notes, Drawing Notes, and Photo Notes.  Have a thought?  Click and speak your idea to AgileNote! and have it transcribed to text.  Need to draw something?  Click and start drawing immediately.  Think of some funny jokes?  Click the text button and jot it down.Features- Take notes 5 different ways!  Voice Transcription, Text, Audio Recording, Drawing and Photo.- View your notepad in an easy to read list.  You can choose between a single list or a list grouped by folder.- Assign notes to folders.- Rate your notes by importance.- Share your notes via Twitter, Facebook, Email, Text Message.- Backup notes to an xml file on the storage device.Upcoming Features- Google Docs synchronization.- Calendar and reminder integration.- Many more...This app requires internet permission for voice transcriptions, analytics and feedback.This app is still in Beta it may still have bugs or features still in progress.  Please report any issues to the developer.",
+    "reviews": [
+      {
+        "documentVersion": "0.9.13",
+        "timestampMsec": "1358149319704",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "Like the offline capabilities. Simple and does a lot.",
+        "commentId": "lg:AOqpTOF63tLS_SfXoN-snSxVv_DXuzbeB6JX-ONQyLKbhrXuMb7ecG1k_g9PsGntOxnytfhRLLKp9suV1UTP9R0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.13",
+        "timestampMsec": "1343694608248",
+        "starRating": "5",
+        "title": "I like it.",
+        "comment": "It word so many thing.",
+        "commentId": "lg:AOqpTOHcPsWFBNHml6CNfdA4Np03FpgyMx47aK4Ex9tC_HZv85qGTOQZimcvGz9T3BTJhwYziKglRMPZVI_x5C8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.1",
+        "timestampMsec": "1330586448953",
+        "starRating": "5",
+        "comment": "Initial launch",
+        "commentId": "lg:AOqpTOGzsrnK5gP1PWs-6AjhMiv5H8ER8BfK3NuLLmbeUnbFp1IHDFvVHa3VOORBFldv8tnlOxveqmMcGSLwRPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363892719742",
+        "starRating": "3",
+        "title": "Good potential.",
+        "comment": "This could be an excellent notes app once it gets gdocs sync working. Could be even better than Keep. Uninstalling right now, Will reinstall once it gets sync capability.",
+        "commentId": "gp:AOqpTOESrxTIS0FtLQeJHAxtiO2-VEqKF8aYznwlKuLN2sRD1pHV7mk2PPMg0XihM7r1yZt_6VrNSF83GW6BuTs",
+        "author": "Gitesh Khurana",
+        "authorURL": "http://lh3.googleusercontent.com/-hLcpIA9U8xM/AAAAAAAAAAI/AAAAAAAAEjA/fovT5wDqAFM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hLcpIA9U8xM/AAAAAAAAAAI/AAAAAAAAEjA/fovT5wDqAFM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358807453948",
+        "starRating": "5",
+        "comment": "K",
+        "commentId": "gp:AOqpTOFLPryEPWNoM1veAS_6373YclwFB0APu2JOVuPzoVaRMiNijHun3I63bmbOfe2Zr-GltanWLGhDP5kQn6g",
+        "author": "Denae Matias",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "WebHR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.VergeSystems.WebHR",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 28, 2013",
+  "version": "3.0.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Verge Systems",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.VergeSystems.WebHR",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "WeHR - Web Human Resource is a Cloud based HR System. WebHR Android is a supporting app for WebHR.WebHR is an indispensable tool for HR; it is reliable yet affordable application not just for an HR Manager, but for each employee in the organization. WebHR will become an essential tool of Human Resource in the organization and it aims at creating true paperless work environment. WebHR will not only save money to the organizations, but will also boost productivity, save space and make inter and intra-office communications fast, reliable and more efficient.\"WebHR assists in managing the organizations' most important asset - its Human Resource\"WebHR is currently used in over 160 countries world wide by thousands of organizations to manage their HR.WebHR converts human resources information into a digital format, allowing that information to be added to the knowledge management systems of the organization. The result of this is that HR data can be turned into useful information that can cater the needs of any other department within the organization. In analyzing organization wide resource usage this data can prove valuable. Data related to the time usage of the workforce can enhance the decision making abilities of management, allowing the HR department to form an integral aspect of strategy formation for the organization as a whole.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

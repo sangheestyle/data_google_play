@@ -1,0 +1,243 @@
+{
+  "title": "LastPass for Dolphin *Premium",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.lastpass.lpdolphin",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "2.0.21",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "2267",
+  "rating": "4.5152183",
+  "contentRating": "Everyone",
+  "creator": "LastPass",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.lastpass.lpdolphin",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Dolphin Browser extension for the award-winning LastPass password manager. Fast, easy and simple; securely syncs your passwords across all your browsers and devices.Key Features:- Built-in browser that will automatically fill your login information for each of your saved LastPass sites.- Automatically fill forms on all sites.- Secure Password Generator.- Add, update, and delete Secure Notes and Sites.* 14-day free trial, requires $1/month LastPass Premium subscription afterwards.Allows you to utilize Dolphin Browser instead of or in addition to the LastPass browser/app for Android. Use the Toolbar icon under 'Menu' in Dolphin to see it!Note: LastPass runs in the same process as Dolphin, so applications that monitor data usage combine the usage of LastPass with the usage of Dolphin itself.  These applications also often display the LastPass icon instead of the Dolphin icon, causing it to look at first glance like LastPass is using a great deal of data, when in reality Dolphin is using most of the data.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1376138104961",
+        "starRating": "1",
+        "title": "almost good but stays logged in forever",
+        "comment": "Mostly good but there is no auto-logout timeout. This is a showstopper bug in the context of a phone or tablet  that may easily be lost or stolen or simply borrowed by another person. This issue drops my rating from 4 stars to 1 star.",
+        "commentId": "gp:AOqpTOFtoaS_KPcMAn9b4nmV59gasPBBNE-i-NipFkqOG5ai3rMyON_JR9HoSi4UOE7Aln3fOGu_DGmeH-sO8A",
+        "author": "Alan Barrett",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375184864049",
+        "starRating": "5",
+        "title": "Fantastic",
+        "comment": "You already know how awesome LastPass integrates with your desktop browser, now experiance the same simplistic integration on your mobile device with this plugin for Dolphin.",
+        "commentId": "gp:AOqpTOG59R_j0hHi9oAasIqmSl0PgV8O6CnRCoVjPqmtSWYHWj_nwbUgC0I9SOnYZ7RbOIV0GntbHCjKHm5Ccg",
+        "author": "Chris Thomas",
+        "authorURL": "http://lh3.googleusercontent.com/-q6k1P-VsOqs/AAAAAAAAAAI/AAAAAAAAAPY/1B0dwas4KWg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-q6k1P-VsOqs/AAAAAAAAAAI/AAAAAAAAAPY/1B0dwas4KWg/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375167543286",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "I use last pass all the time, not using it would be a mistake.",
+        "commentId": "gp:AOqpTOFRbd-J64eLltycs6eOD6nJe1A8QcmLbjY-lG9ZKkW0xk-_UyUJy5wea6sZVHUuamIuJ82HhhVHc7l_sw",
+        "author": "Matthew Humphries",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1377549129236",
+        "starRating": "2",
+        "title": "NEEDS some form of auto-logout",
+        "comment": "An excellent addition to the lastpass system, but is a glaring security risk as it stands. LastPass will not automatically log out on any event short of a total phone reboot. (And even then, i\\'m not 100% sure it will) If your phone is compromised while logged in, then your passwords are completely exposed to whoever has it.  I\\'d absolutely love to use this and pay for LastPass premium, but this issue prevents me from trusting them enough to do so. Simply even adding a time-based auto-logout delay (can be user configurable) would remove (or at the very least lessen) the risk in using this add-on.",
+        "commentId": "gp:AOqpTOET4IAl3dwB5jm8d3KJc4tHc38ZniDWP9Xb3zcDAVHFqd9s1qnd7Qx3wmvVwuxWtHHARrcWWl4UHS3fwA",
+        "author": "Edward Powell",
+        "authorURL": "http://lh5.googleusercontent.com/-cYY6Ll_ASoY/AAAAAAAAAAI/AAAAAAAAABM/6M9hk1d44YI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-cYY6Ll_ASoY/AAAAAAAAAAI/AAAAAAAAABM/6M9hk1d44YI/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1377875251111",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Really good.",
+        "commentId": "gp:AOqpTOE5NsS-2XBuwogn84mIqchl1jlUfDNHguAnvNHiiF9eD7e7EpPz4zBNe_kV-OGf1Vjuz-PfhBb6j2u4Ww",
+        "author": "Robert Edwards",
+        "authorURL": "http://lh3.googleusercontent.com/-mGYdvI5ZqYQ/AAAAAAAAAAI/AAAAAAAAAGY/ZcA3kU82rB4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mGYdvI5ZqYQ/AAAAAAAAAAI/AAAAAAAAAGY/ZcA3kU82rB4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1377567692969",
+        "starRating": "5",
+        "title": "little c wch to find fault -",
+        "comment": "though there is always something, isn\\'t there? at the moment, though, & as it\\'s been a while since ii actively used LastPass, I\\'ll leave my disparagements suitably, justifiably vague.good job, guys.",
+        "commentId": "gp:AOqpTOHocbaiqF1Wf4PleBg03A_fAb0HtnZPB4RPov-3m7zHouYWDXPbTnZP36RjwPSDO6jyN6Ccx0EjhSXnVA",
+        "author": "Parker Houghtaling",
+        "authorURL": "http://lh6.googleusercontent.com/-Ba0-A1Gk82w/AAAAAAAAAAI/AAAAAAAAA8Q/QGNQy2dXoVY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Ba0-A1Gk82w/AAAAAAAAAAI/AAAAAAAAA8Q/QGNQy2dXoVY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375390467560",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "The power of dolphin and lastpass combined",
+        "commentId": "gp:AOqpTOFeYWEMsnbkiALDGKXjYtI8tHNDBzCCdfCCxneHMtbYR38wHQ0yxDi_LW_YCouY9zOrbZnkVAJwnuoRtQ",
+        "author": "James Schanz",
+        "authorURL": "http://lh4.googleusercontent.com/-XtAWI29Hlno/AAAAAAAAAAI/AAAAAAAAA6c/LDZIwenz07g/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-XtAWI29Hlno/AAAAAAAAAAI/AAAAAAAAA6c/LDZIwenz07g/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375144152140",
+        "starRating": "5",
+        "title": "Brillint",
+        "comment": "A great app that saves a lot of time",
+        "commentId": "gp:AOqpTOGC9YaXBA1G4TnbACoZHuZYrmxCwi1P0HK7bWZ0awZJz7bo5A_JLCQcxUgPeDbDmK_kyGGC11JzJF4ucQ",
+        "author": "David Thomas",
+        "authorURL": "http://lh3.googleusercontent.com/-0G_o34xVa8o/AAAAAAAAAAI/AAAAAAAAAis/RXUN3WN_pkU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-0G_o34xVa8o/AAAAAAAAAAI/AAAAAAAAAis/RXUN3WN_pkU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1377525292748",
+        "starRating": "4",
+        "title": "Great but add timed logout",
+        "comment": "This is extensions is the reason why I\\'m no longer using chrome, but add an timed logout feature!",
+        "commentId": "gp:AOqpTOGtk6tPwP-4kHF3VgaYtOWB26oHFaGB17-kF9-kHq4U_DLv5CdJL-wxVuG2go101OtMr6ZcwRBQX8cq3w",
+        "author": "Mark Glagola",
+        "authorURL": "http://lh5.googleusercontent.com/-hEokKzSmD5o/AAAAAAAAAAI/AAAAAAAAALc/xv0xtHlsf14/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-hEokKzSmD5o/AAAAAAAAAAI/AAAAAAAAALc/xv0xtHlsf14/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375166373517",
+        "starRating": "5",
+        "title": "Top Class",
+        "comment": "Can\\'t live without Lastpass",
+        "commentId": "gp:AOqpTOG6aF3tyU0h1rXCHNjuTVUf3x1i9Z4LFOjL_hSbqBWQ1N700GDGyD5brlrwW9x7qpEVrNFAeSRgK_N8bg",
+        "author": "David Hallam",
+        "authorURL": "http://lh4.googleusercontent.com/-xi3mn08NlEo/AAAAAAAAAAI/AAAAAAAAR5U/75rhTV4CsUc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-xi3mn08NlEo/AAAAAAAAAAI/AAAAAAAAR5U/75rhTV4CsUc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375142155626",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Best there is",
+        "commentId": "gp:AOqpTOHKwunMeNX4YIrt69eosBJvMAIikm69Y-GR3ciEFoq5ncPEft0uEU3JhE2sTqCUo3pTJpHrCMie0UMcNg",
+        "author": "STEVEN EPSTEIN",
+        "authorURL": "http://lh3.googleusercontent.com/-dMvnHApFld4/AAAAAAAAAAI/AAAAAAAABT8/iGc3ojzzvrw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-dMvnHApFld4/AAAAAAAAAAI/AAAAAAAABT8/iGc3ojzzvrw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1376884959946",
+        "starRating": "1",
+        "title": "Timeout!",
+        "comment": "Secure this apppppp by addding timeout feature. For GOd sake",
+        "commentId": "gp:AOqpTOGc0b-8SwN3FppAWPVsbvytIDxkKsBVq_Cj6g_VFImkxvNO8fHEzuU7cOcdghMKC29U4JMvuiWD4jz9yQ",
+        "author": "Adnan Hassan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375271741666",
+        "starRating": "5",
+        "comment": "Great browser.",
+        "commentId": "gp:AOqpTOF_Mta8CmVOv7H8k3-YSbWDCUnWZgjRgmEIH3f0xGqHrc3uNT4p5BRj0Xbuilwd9cqswREI-VQ2_q4OgQ",
+        "author": "Mark Adams",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375216497402",
+        "starRating": "3",
+        "comment": "Not seamless and doesn\\'t always auto fill.",
+        "commentId": "gp:AOqpTOGh3xaoJEdO9ca_SIVKyvvkzjVgAOARnHMiAWuBGcc9WIGzY6m7kz6MsHNVw806WkqUwi_23lVySrpIFw",
+        "author": "Dennis Merrill",
+        "authorURL": "http://lh3.googleusercontent.com/-8wgkyhTZOfM/AAAAAAAAAAI/AAAAAAAAAAA/mt-WZ6TD5zM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-8wgkyhTZOfM/AAAAAAAAAAI/AAAAAAAAAAA/mt-WZ6TD5zM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.21",
+        "timestampMsec": "1375140761528",
+        "starRating": "5",
+        "title": "Dolphin",
+        "comment": "Excellent",
+        "commentId": "gp:AOqpTOGbFAOPU7Pl4XZRcOQvctQN5OFOfADD9-oF3xYN5UXihIa6s7PeA53zZXokF7PH-qmNRi3tU-jh2x6_pQ",
+        "author": "david savage",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.20",
+        "timestampMsec": "1363139837099",
+        "starRating": "3",
+        "title": "Finally a decent update",
+        "comment": "Next thing needed is to auto detect and add lastpass links to pages with forms, rather than having to click over to the add ons page every time. Also needs to offer to save new passwords. Also needs pin login option.",
+        "commentId": "lg:AOqpTOH1ZcwgIk54B0_o1jmY34dvpdKmN3MM9cr7ztcDsafjDQB7WPsF3BMiCYDfTzyK1Dlyg4UOlpvtI9JucQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.20",
+        "timestampMsec": "1374801071570",
+        "starRating": "5",
+        "title": "Works like a charm!",
+        "comment": "This is by far my favorite way to use LastPass on the mobile platform! It works better here than even in their own web browser in my opinion.",
+        "commentId": "gp:AOqpTOHdk9QqVJYjzp7yZb_rR1JnzW2EZGy8BzB9LHOY-zUAAVwuiN_b4hKC78wIlHzufr_F3hY9bMORRO29DA",
+        "author": "Jason Lindberg",
+        "authorURL": "http://lh4.googleusercontent.com/-S4lF2_FCpJ4/AAAAAAAAAAI/AAAAAAAAAXk/VH2aCOmR9Ao/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-S4lF2_FCpJ4/AAAAAAAAAAI/AAAAAAAAAXk/VH2aCOmR9Ao/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.20",
+        "timestampMsec": "1371272175781",
+        "starRating": "4",
+        "title": "Great browser addin",
+        "comment": "Lastpass rocks. Beginning with the browser addon, to the mobile app, to the dolphin browser addon that I just got, and works great. Best password manager there is and well worth $12 a year.",
+        "commentId": "gp:AOqpTOGd7nCyl5_ZNLmiOAdynb45hptHrUGM_gKgaC6NdBql7jxRKrrSQ7Y5AsitZkdyNu7592CatqTOcqFKpA",
+        "author": "Chris W.",
+        "authorURL": "http://lh5.googleusercontent.com/-cjI7QOcJNFo/AAAAAAAAAAI/AAAAAAAAACY/YFrfeRpIne8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-cjI7QOcJNFo/AAAAAAAAAAI/AAAAAAAAACY/YFrfeRpIne8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.20",
+        "timestampMsec": "1371559646751",
+        "starRating": "1",
+        "title": "Desperately needs a timeout option",
+        "comment": "LastPass is great in general. But a mobile version is insecure without a timeout option. Anyone who gets my phone can access my accounts even hours after the add-on was last used. Useless to me until this issue is fixed. Keeping it disabled and looking for updates.",
+        "commentId": "gp:AOqpTOE9lX_YLahB4b30lt1BGbOmYZZPNI2CNJ07MqUrlMze12dz-fHQskk2P8nwTIljfLEQLb5l_Bg25wU8dg",
+        "author": "Alicia W.B.",
+        "authorURL": "http://lh3.googleusercontent.com/-C4T68uoMz5k/AAAAAAAAAAI/AAAAAAAANP8/7f2QbBy3OG4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-C4T68uoMz5k/AAAAAAAAAAI/AAAAAAAANP8/7f2QbBy3OG4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.20",
+        "timestampMsec": "1367738785257",
+        "starRating": "3",
+        "title": "Good; but, room for improvement.",
+        "comment": "This app is great; but, I have recently started to notice security issues that should be prevented by the app and not caused by it. Please tighten security or allow the user to tighten it dependent on their desires.",
+        "commentId": "gp:AOqpTOEC3fuDDCzpdG1C6Jr_uvvrTwzh-v2gpwXpKaoIRrkjETnV07O1hF8LLyTzqWWothVw7Bnvj42S53EK3A",
+        "author": "Ron Lundberg",
+        "authorURL": "http://lh5.googleusercontent.com/-y1BH-SbeFQ8/AAAAAAAAAAI/AAAAAAAACTw/4nHXhYMqqXU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-y1BH-SbeFQ8/AAAAAAAAAAI/AAAAAAAACTw/4nHXhYMqqXU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "tunnybrowser.permission.Extension"
+    ]
+  }
+}

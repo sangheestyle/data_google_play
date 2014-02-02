@@ -1,0 +1,39 @@
+{
+  "title": "Carpal tunnel Syndrome",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.canny.CarpalTunnelSyndrome",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "October 10, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "Canny Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.canny.CarpalTunnelSyndrome",
+  "extendedInfo": {
+    "installSize": "3.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Carpal tunnel syndrome is caused by compression of the median nerve in the wrist. This app consists of causes, symptoms, treatment for CTS. It consists of animated user friendly exercises which help to prevent stiffness in your wrist join. These exercises are easy to understand and perform. These exercises are demonstrated in detail, so that you can easily understand and perform them. Exercises: STRECHING EXERCISES ,wrist flexor strech ,wrist extensor strech , foream supination strech , foream pronation strech ,STRENGTHING EXERCISES,isometric wrist flexion ,isometric wrist extension ,isometric radial deviation ,isometric ulnar deviation, isometric forearm supination ,isometric forearm pronation,towel roll squeeez , resistive forearm supination/pronation , finger exercise with rubber band ,ACTIVE EXERCISES,wrist flexion /extension, wrist ulnar/ radial deviation ,forearm supination/pronation, palm hollowing exercise,paper crumpling exercise. This application is not meant to be used in any medical or legal decision making, or they should contact emergency response 911 when they are in a medical urgent situation for example",
+    "reviews": [
+      {
+        "timestampMsec": "1361807831009",
+        "starRating": "1",
+        "title": "Can\\'t use it...",
+        "comment": "Would have really liked having something to help get by with less pain being a PC gamer with CTS. Sadly though this app instantly crashes when I try to run it. Shame :(",
+        "commentId": "gp:AOqpTOHyKDsVJFURUrDTaQgQyGj0W_014K0P1OEGRyHQJFZiwnE-DPHxRSzI_9P9nQ_zpZ21R1IfLyXEBp8mixk",
+        "author": "Jamie Bobbitt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

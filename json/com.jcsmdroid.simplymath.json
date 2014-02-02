@@ -1,0 +1,31 @@
+{
+  "title": "Simply Math Workout",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jcsmdroid.simplymath",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "June 4, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Low Maturity",
+  "creator": "JcsmSoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jcsmdroid.simplymath",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Would you like to easily practice math? Includes practice with addition and subtraction (multiplication and division coming soon)It's a great app for the whole family. Consists in choosing the correct operands and operators to get the correct result. You have 3 lives and the more quickly, more score you get.â Various difficulty levelsâ Negative numbersâ Global and country scoresâ Share your achievements on Twitter and FacebookTry it now! Examine your speed in the operations of addition and subtraction and check your position in the world ranking.It's a great game to improve agility and mental arithmetic for kids, young and old. This application can help you with your math skills, concentration and attention.The app is new and your opinion is very important! If you like, you can leave feedback, report bugs or request features via email. Note: This app is supported by adsTags: math game, math quiz, math workout, math puzzle, math training, math trainer, mental math, fast math game, simply math, pure math, just math, quick math, math plus, math skills, brain, exercises, puzzle, mental, mathematic, education",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

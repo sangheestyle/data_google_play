@@ -1,0 +1,75 @@
+{
+  "title": "B.A.P BAP Fans",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.bap",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "40",
+  "rating": "4.775",
+  "contentRating": "Low Maturity",
+  "creator": "HK Nut",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.bap",
+  "extendedInfo": {
+    "installSize": "8.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "B.A.P (Korean: ë¹ìì´í¼; an acronym for Best Absolute Perfect) is a six-member hip-hop South Korean group formed in 2012 under the management of TS Entertainment. The group consists of Bang Yong Guk, Kim Himchan, Daehyun, Youngjae, Jong Up, and Zelo, former member Kim YooHyun was a Chinese American and left before B.A.P debuted. On January 26, 2012, B.A.P made their recording debut with the single \"Warrior\", followed by the release of their debut EP, Warrior in February 2012.B.A.P. was formed and began promoting in late 2011, starting with Yong Guk, who takes the role of leader in the group. He signed to TS Entertainment and was featured on labelmate Song Jieun's song \"Going Crazy\". He made a solo debut on August 11, 2011, with the single \"I Remember\", featuring B2ST's Yang Yo-seob. A second member, Him Chan, an ulzzang multi-instrumentalist, was the second member of BAP to be introduced to the public as an MC for a music show program on MTV Korea, called \"The Show\". And lastly, on November 23, 2011, Zelo, the third member from BAP to be publicly introduced, collaborated with fellow member Bang Yong Guk, under the moniker Bang & Zelo. They released a song, titled \"Never Give Up\".In this app you can find everything about B.A.Psuch as - B.A.P latest music video- B.A.P Facebook- B.A.P Twitter- B.A.P Website- B.A.P Fancafe- B.A.P Puzzleand much more ...........",
+    "reviews": [
+      {
+        "timestampMsec": "1373807759362",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "B.A.P saranghaeyo!",
+        "commentId": "gp:AOqpTOHdAKzpSHR6S6_OwyI7v16v-vy3JNA1Dj6mPRQTQB_XFLkh-VVGvluJxJ2NzeT9rDY5i13m-dxxnIZboA",
+        "author": "Galakly Galakly",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371961421646",
+        "starRating": "5",
+        "title": "I love BAP",
+        "comment": "BAP is the best!",
+        "commentId": "gp:AOqpTOE0IOwEbJDG68y8mZB8lt_C23ScSfCzHLwg8I9XzyDvTnJ5ph9CkIpe-bVGCHoHi0B5v-gSxE7d48NGiA",
+        "author": "Ditoong Shikao",
+        "authorURL": "http://lh5.googleusercontent.com/-sJRxXMxxcEE/AAAAAAAAAAI/AAAAAAAAACI/YBT3z5HD4Ec/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-sJRxXMxxcEE/AAAAAAAAAAI/AAAAAAAAACI/YBT3z5HD4Ec/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368269936582",
+        "starRating": "5",
+        "comment": "Love bap",
+        "commentId": "gp:AOqpTOHVuosUul6ysPAL47JokQA7zemlEuRx0Ly4756uDCQjaqQ-BLdsRYvL4fKNxrTOkH_mnBGNTFcFMhezhw",
+        "author": "Nad Zainuddin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373593456508",
+        "starRating": "5",
+        "title": "COOL!!",
+        "comment": "Thank you for people who make this aplication! ><",
+        "commentId": "gp:AOqpTOFQi8qvIFHPbEPu2ZJoObv5P7htuk7RcSVmL0ZYMkOznlsBeVOJnvtHB8gx06UEfXkrwDDBjgGZJYF3sw",
+        "author": "Meutia Amalina",
+        "authorURL": "http://lh6.googleusercontent.com/-Jy09pBAxrjQ/AAAAAAAAAAI/AAAAAAAAAE0/NiSeCkjcoeU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Jy09pBAxrjQ/AAAAAAAAAAI/AAAAAAAAAE0/NiSeCkjcoeU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.jetsodoor.bap.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

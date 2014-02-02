@@ -1,0 +1,30 @@
+{
+  "title": "The Good Soldier By Ford Madox",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.FordMadoxFord",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "January 17, 2011",
+  "version": "0.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Publish This, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.FordMadoxFord",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "About the BookThe Good Soldier [1915]The Good Soldier: A Tale of Passion is a 1915 novel by English novelist Ford Madox Ford. It is set just before World War I and chronicles the tragedies of the lives of two seemingly perfect couples. The novel is told using a series of flashbacks in non-chronological order, a literary technique pioneered by Ford. It also makes use of the device of the unreliable narrator,[1] as the main character gradually reveals a version of events that is quite different from what the introduction leads you to believe. The novel was loosely based on two incidents of adultery and on Ford's messy personal life.The novelâs original title was The Saddest Story, but after the onset of World War I, the publishers asked Ford for a new title. Ford suggested (perhaps sarcastically) The Good Soldier, and the name stuckThe Good Soldier is narrated by the character John Dowell, half of one of the couples whose dissolving relationships form the subject of the novel. Dowell tells the stories of those dissolutions as well as the deaths of three characters and the madness of a fourth, in a rambling, non-chronological fashion that leaves gaps for the reader to fill.The novel opens with the famous line, âThis is the saddest story I have ever heard.â Dowell explains that for nine years he, his wife Florence and their friends Captain Edward Ashburnham (the âgood soldierâ of the bookâs title) and his wife Leonora had an ostensibly normal friendship while Edward and Florence sought treatment for their heart ailments at a spa in Nauheim, Germany.As it turns out, nothing in the relationships or in the characters is as it first seems. Florenceâs heart ailment is a fiction she perpetrated on John to force them to stay in Europe so that she could continue her affair with an American thug named Jimmy. Edward and Leonora have a loveless, imbalanced marriage broken by his constant infidelities (both of body and heart) and Leonoraâs attempts to control Edwardâs affairs (both financial and romantic). Dowell is a fool and is coming to realize how much of a fool he is, as Florence and Edward had an affair under his nose for nine years without John knowing until Florence was dead.About the AuthorEnglish novelist, poet, critic and editor whose journals, The English Review and The Transatlantic Review, were instrumental in the development of early 20th-century English literature. He is now best remembered for The Good Soldier (1915) and the Parade's End tetralogy. The Good Soldier is frequently included among the great literature of the past century.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

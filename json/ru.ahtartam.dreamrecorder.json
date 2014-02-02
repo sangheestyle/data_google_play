@@ -1,0 +1,69 @@
+{
+  "title": "Dream Recorder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=ru.ahtartam.dreamrecorder",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 26, 2013",
+  "version": "1.1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "24",
+  "rating": "4.1666665",
+  "contentRating": "Everyone",
+  "creator": "ahtartam",
+  "creatorURL": "https://play.google.com/store/apps/details?id=ru.ahtartam.dreamrecorder",
+  "extendedInfo": {
+    "installSize": "604k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Though the screenshots in Russian, English version is present.This program is designed for recording dreams upon awakening. If you practice lucid dreaming or want to learn it or just want to remember their dreams - this program is for you.Dream tries to escape from the memory, and if it did not immediately write down, then it will be too difficult to remember.In the application there are 2 ways to enter information: text and voice (voice recorder). Waking up at night, you may not want to turn on the lights, take a pen and write down a dream in a notebook. With this application, you can dial a dream on a telephone keypad, while dictating to the recorder. Later, you can listen to these records and retype the text. Voice recordings are stored attached to the record is the dream to which they relate.The application contains two icons to launch: the first - this is normal start, the second - for a quick start recording at the one touch (put this icon on the main screen for easy access at night.Provides the function of dreams in the export xml-file, which can later be converted to the correct format (for example, to import into another application for recording dreams). Sound recordings are in the public folder you can copy to your computer.What if you set a password and forgot it? DreamRecorder not asking for a password from 4:00 am to 5:00 am. Wake up at that time and change the password.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.7",
+        "timestampMsec": "1372131849439",
+        "starRating": "5",
+        "title": "Great for recording dreams!",
+        "comment": "The automaticly recording one is nice for when you don\\'t want to type and the typing one is good for if you can remember dreams later in the day and you have free-time. Makes for a great dream journal for those who don\\'t like to keep one.",
+        "commentId": "gp:AOqpTOFG1z3RwpshsCQzyLmS3hJKSzSn0oChZXMoaGl50kwuppD4EF1UGCj9zEGS-VLRUXdPx9YLLgOs5VNccw",
+        "author": "Platypus Person",
+        "authorURL": "http://lh3.googleusercontent.com/-opdpJoVsUgw/AAAAAAAAAAI/AAAAAAAAAHU/3M2QV8pb5Vc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-opdpJoVsUgw/AAAAAAAAAAI/AAAAAAAAAHU/3M2QV8pb5Vc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1360447909386",
+        "starRating": "2",
+        "title": "Ivan",
+        "comment": "1. When I wake and I\\'m half asleep, I can not grope and seek little button to start recording (and even to write title), and the same is to stop the recording. I need (may be alternatively to standard control one large button to start recording and -- of course -- to stop it)  2. Also, it is not a good idea to stop recording after the screen blank.",
+        "commentId": "gp:AOqpTOHnVcwKpf-Z1504jztl-gmKq_FewNa1Mo-RBdVbluhJwXKI6itbY6gXi5b0Oz-kHEnHr4ZaTmoUmR8IGw",
+        "author": "Ivan Koz\\303\\241k",
+        "authorURL": "http://lh6.googleusercontent.com/-N2PYcU7S1tk/AAAAAAAAAAI/AAAAAAAAAAA/eh37-c_-1dU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-N2PYcU7S1tk/AAAAAAAAAAI/AAAAAAAAAAA/eh37-c_-1dU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376830374447",
+        "starRating": "1",
+        "title": "Weird",
+        "comment": "Confusing and does its own thing",
+        "commentId": "gp:AOqpTOEeyrjcz1zTyvlDSXjU7q958XlG487PgzQ_9tiAn-AuqAmkaABqBkN30F4eb3JJmSJcy_E1FwQ6XE_wYA",
+        "author": "Nikki Glasson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363291645263",
+        "starRating": "1",
+        "title": "forceclose",
+        "comment": "had to restart my phone",
+        "commentId": "gp:AOqpTOEXsfP1LZN6AaffCBSNuN585TVhcl36kGlC6nFQecg-CRl_2BKyqzgiTw1xlpx6sxi5D97Kj8p89of5Gw",
+        "author": "Shlomy S",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

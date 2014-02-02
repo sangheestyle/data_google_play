@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Jey Uso Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.jeyusoapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.jeyusoapp",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Jey Uso?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Jey Uso memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Jey.The Usos (also known as The Uso Brothers) are an American professional wrestling tag team consisting of twin brothers Jimmy Uso and Jey Uso, who appear in WWE. The pair were previously managed by Tamina and are former FCW Florida Tag Team Champions.Jimmy (real name Jonathan Solofa Fatu Jr.) and Jey (real name Joshua Samuel Fatu) are the sons of Solofa Fatu, better known as Rikishi, and are part of the Anoa'i family. As part of the family they are also related to fellow WWE superstars Roman Reigns and The Rock, as well as the late Umaga and Yokozuna.Appearing under their real names, Jonathan and Joshua Fatu debuted as a tag team at a World Xtreme Wrestling (WXW) show in Milton, Florida on June 8, 2007.Jimmy Uso (Jonathan Fatu) appeared at the Florida Championship Wrestling (FCW) television tapings on November 5, accompanying Donny Marlow to the ring. Jimmy also appeared in a dark match prior to the FCW television tapings on November 19, defeating Titus O'Neill.The Uso Brothers began 2010 by defeating The Rotondo Brothers (Duke and Bo) on January 14. In a clash of the generational wrestlers on February 18, The Rotundo Brothers teamed up with Wes Brisco to defeat The Usos and Donny Marlow. They continued their association with Marlow at the television tapings on February 25, when he accompanied them to ringside for a victory against Titus O'Neill and Big E. Langston. In March they were joined by Sarona Snuka, who began acting as their manager and on March 13, The Usos defeated The Fortunate Sons (Joe Hennig and Brett DiBiase) to win the FCW Florida Tag Team Championship. They made their first title defense at the March 18 television tapins by defeating The Dudebusters (Trent Baretta and Caylen Croft) to retain. They went on to successfully defend the championship against Percy Watson and Darren Young, Hunico and Tito Nieves, Skip Sheffield and Darren Young, and The Dudebusters, who they defeated by disqualification when Tamina pulled the referee out of the ring to stop him from counting the pinfall. On June 3, The Usos lost the Florida Tag Team Championship to \"Los Aviadores\" (Hunico and Dos Equis).",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.jeyusoapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

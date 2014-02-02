@@ -1,0 +1,230 @@
+{
+  "title": "Linux Installer STANDARD",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.galoula.LinuxInstall",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 21, 2013",
+  "version": "4.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "957",
+  "rating": "3.8390806",
+  "contentRating": "Everyone",
+  "creator": "Galoula",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.galoula.LinuxInstall",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "* Need root * only 50MiB to download * down to 180MiB disk space used * no need to partition * no need to remove Android *PLEASE USE DEBIAN INSTED OF UBUNTU !!! (Support only for Debian, Ubuntu only for real advanced users).The GUI is handled by \"Linux Installer Advanced\" version !Please, if you encounter any issue, send a bug report. Click on console, wait 1mn for the console to appear, then Menu, Mail, and send.This application will allow you to install a complete Debian distribution in your Android device. Based on  chroot, it will perform a standard debootstrap and install a legacy Debian so that you can install, and run any classic Linux command, tool, daemon or service.The package has few limitations; it is not restricted to Debian; we already offer the choice to use Ubuntu, and will add more distributions in close future. Each distribution is available in several tastes (stable, testing ...). It will not require to reboot; chroot is run inside Android. Installation can be done on any storage device, either on SD card, or inernal memory; no need to repartition any thing, run mkfs or fdisk. We do with what you let use. If you have almost nothing, the package will manage with almost nothing; if you can afford for a large ext4 partition on your SD card, the package will be happy to use it.It will allow you to install all classic LAMP services like Apache, MySql, PHP, Samba, Netatalk, or just any classic Linux tool like vim, xterm, aterm, Abiword, Firefox, dillo, wget, cron, Perl, Python ... just everything.Package utilisation will require a rooted device.Reasons to install this package can not be listed. Just too many: want a cron daemon ? want to have gcc inside your phone ? want to recompile some kernel driver because the legacy Android driver for your Wi-Fi card has is bogus or limited ? want to use vim, or the real full featured desktop ls, ip, nmap, or top commands ? this package will give you all this for free, and much much more.Requierments:- an Android device based on some Linux kernel- a rooted environment- 300M free spaceThat's all.Only 50MiB to download for a basic Debian, and down to 180MiB space used if you select the Directory method.Optionnal registration on our website, http://android.galoula.com/LinuxInstall/Register.php , will allow you to use advanced management features, and install package from within the application interface. You will not need to type any strange command in any terminal. And you will be able to make some services start automaticly at phone boot, and/or application start.Online documentation: http://android.galoula.com/en/LinuxInstall/Quick installation guide: http://android.galoula.com/en/LinuxInstall/QuickTutorial.htmlThe interface have been completely redesigned, and the English language have been rewritten. Any one who feels like translating is welcome to contact us. Even the French language part should be re-translated from English.Keywords :linux installer debian ubuntu gentoo knoppix android HTC samsung ssh LAMP apache lighttpd mysql php installation netatalk vim nano joe xterm aterm eterm screenperl python php-cli ruby firefox iceweasel dillo rox-filer pidgin thunderbird icedove abiword nautillus epiphany prompt shell bash interface block loop distribution command emulator terminal xterm x xorg x.org terminal busybox shell debootstrap chroot tux penguin PC laptop make",
+    "reviews": [
+      {
+        "timestampMsec": "1365623904616",
+        "starRating": "5",
+        "title": "GREAT app for the Linux savvy",
+        "comment": "This is one of the GREATEST apps I\\'ve have ever installed on Android to date. It took a little poking around to get things running but it was totally worth it! It even runs great without any problems on a Nexus 10 mounted from a USB stick. Props to the devs!",
+        "commentId": "gp:AOqpTOFfTLEhgEc5IDMwZJdw7A0C1nZYg7mPzJo1Ovj5r1MBi9tIHEd0Vk40mnUtn16Kp8u4gAAWKOe58CYWkQ",
+        "author": "Danilo Meulens",
+        "authorURL": "http://lh4.googleusercontent.com/-ryfyXFnLO6g/AAAAAAAAAAI/AAAAAAAABBs/j94ztgTRs1M/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ryfyXFnLO6g/AAAAAAAAAAI/AAAAAAAABBs/j94ztgTRs1M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362662475898",
+        "starRating": "5",
+        "title": "Very useful and powerful",
+        "comment": "It allows one to use the tablet using a full fledged Linux distribution. I didn\\'t touch my laptop in months !",
+        "commentId": "gp:AOqpTOGjjcM2DZVNOG5tSGoB_knS5aS1IerIJNsW3Psvh5ksQ_zh1QWl0a020UMt82RkdUqzcH6QczoQBBMm2Q",
+        "author": "Daniel Nastase",
+        "authorURL": "http://lh6.googleusercontent.com/-qflyKqLw-pk/AAAAAAAAAAI/AAAAAAAAAAA/K94hA4Ru1mc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-qflyKqLw-pk/AAAAAAAAAAI/AAAAAAAAAAA/K94hA4Ru1mc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371294634940",
+        "starRating": "5",
+        "title": "packages not installing",
+        "comment": "I tried installing gcc using apt-get. giving error \\'ldconfig\\' not found in PATH and \\\"root paths should contain /usr/local/sbin, /usr/sbin and /sbin\\\".  Linux (Debian Wheezy) installed properly without any issues. Installed system working fine. ------- Now added following in .bashrc and installed gcc fine. export PATH=$PATH:/usr/local/bin:/usr/sbin:/sbin -------",
+        "commentId": "gp:AOqpTOEIO2rchE4BSgLpCRtVOyyYPoWbdHBiCJNp0-99Muj4qy2Zuu6cLdIF6Nca7YKpYHd1EMbW2VaLKRnUtw",
+        "author": "Milind Lokde",
+        "authorURL": "http://lh4.googleusercontent.com/-1ZFmFUCoRUM/AAAAAAAAAAI/AAAAAAAAAAA/BQtxc0OCp5k/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1ZFmFUCoRUM/AAAAAAAAAAI/AAAAAAAAAAA/BQtxc0OCp5k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360355763105",
+        "starRating": "5",
+        "title": "If you have apt-get errors...",
+        "comment": "People with apt-get errors, type in \\\"export PATH=$PATH:/usr/local/sbin:/usr/sbin:/sbin\\\" (obviously without quotes) beforehand, then it should work. Other than that, in AOKP JB 4.2.1, I can only use mount the environment once, after that it is unable to mount again at all. Very odd. In CM10.1, I can mount linux fine but not after a reboot, I have to mount it via the app first, and then run the command.",
+        "commentId": "gp:AOqpTOFXks972W0s8uE9fW0WJRAfeA6tyRJ59Mqpz0MGJlQ3NiqpXtqDAbtGc1FuXBpI463BuVKJa2C8EwLOUQ",
+        "author": "Callum Ross",
+        "authorURL": "http://lh4.googleusercontent.com/-_liArx-fKSA/AAAAAAAAAAI/AAAAAAAAACs/eZOjgUbLIQA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-_liArx-fKSA/AAAAAAAAAAI/AAAAAAAAACs/eZOjgUbLIQA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369778260680",
+        "starRating": "5",
+        "title": "Amazing for development",
+        "comment": "I\\'ve installed Debian on my tablet for development purposes. After the initial installation filesystems were not auto mounted. A reboot of the device solved that. Another issue I had was that MySQLd would not start at all. It exited with an error: \\\"Can\\'t create IP socket. Permission denied.\\\"  The solution to this problem is typing the following command : adduser mysql AID_INET It adds the user mysql to the group AID_INET. After this MySQLd will start just fine.  An dist-upgrade to Debian 7 worked perfectly as well.",
+        "commentId": "gp:AOqpTOEYjoUGHdwIDxW7hNPK25JRQWwutAD2xvXoK8vtZfngv7vG_s2VMs9liUolWaPhLDQmXjIobiBFtLMKJg",
+        "author": "Dennis V",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373230717921",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "This is awesome! Got small issues with mkfs... need to install busybox as well to get everything to work (formatting the loop file used to fail cuz my host system did not have mkfs) Afterwards it took me half an day to get it to work, but now, once its working i just think this ist incredible awesome.  SSH to your mobile phone and beeing able to install everything like php / mysql / apache / svn ...  this is simply awesome... this replaces a server wich feeds on your electricity bill",
+        "commentId": "gp:AOqpTOGlEkKvBSrnGIXvN4NjzLMGqylg0Rckvw9nAHrS0qZuWnrrku_6hVSSG1iZ6DXIodyQVhztFCuq1vcVjQ",
+        "author": "Josch Fidelity",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376144204422",
+        "starRating": "5",
+        "title": "Safe to remove?",
+        "comment": "This is a great app and has a 5 star rating from me, i watched a tutorial to see the installation method and i installed to SD card as my internal memory wasn\\'t good, how can i safely remove this cuz i need more space on my memory card and i heard it can mess your phone up if you do?",
+        "commentId": "gp:AOqpTOGSjW849lew045mAuMj7yAV3RFwnSYfUKt_PcjECGenO52dZPbOekU88J1FKzRwJU_PojrApCnWxbz7oA",
+        "author": "james ellis",
+        "authorURL": "http://lh4.googleusercontent.com/-Tfo6jGo8lHI/AAAAAAAAAAI/AAAAAAAAACo/Netc2egbzYg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Tfo6jGo8lHI/AAAAAAAAAAI/AAAAAAAAACo/Netc2egbzYg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371426931708",
+        "starRating": "4",
+        "title": "How do you install anything?  And does swap work?",
+        "comment": "I\\'ve been using Linux for over a decade and this app looks good.  It installed just fine on my Samsung Galaxy Player 5 that\\'s rooted and using the Erygit ROM which is Gingerbread.  I installed the stable Debian version with the loop file in /data/ since I had around 2.6 GB of internal storage.  All went fine and I can ssh into my player...but now what.  Can I install things with apt-get??  I tried to install mplayer using apt-get in ssh and the whole thing ended with my Galaxy Player rebooting.  And when I tried apt-get install firefox it couldn\\'t find firefox.  So can I only do things from another pc with this in an ssh shell environment or can I execute commands from my Galaxy Player?  I\\'m also wondering if I can set up swap space on my SD card in /etc/fstab...df didn\\'t work, so I\\'m not sure where my SD card is.",
+        "commentId": "gp:AOqpTOFbeD6F4Ts09DcI9mg0NVWngjRmrzBXzM5PG9MGXfn3TqAhflTTDrDUCYhElf63jzycFIJ7_7UEDr1tUA",
+        "author": "Marty Linuxhippy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363257004728",
+        "starRating": "3",
+        "title": "Invalid chroot mountpoint",
+        "comment": "On the Galaxy S3 (4.1.2 jellybean), the default chroot path /data/local/mnt/Linux does not work. Installer notes not to use within /sdcard. Any pointers?",
+        "commentId": "gp:AOqpTOFNntRPvW2gRgDhPM7GS7nVdm8-UMAa2nHbce2aF5TrV9qlQzLardrzwV-loFXmRl6oIPJE4ZdJY8IkTA",
+        "author": "Henry Goh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363130046928",
+        "starRating": "5",
+        "title": "A mazing but 1 problem",
+        "comment": "Mounting the loop on the nexus had an issue but the dev says only continue if you know what your doing but format the loop before mounting also the removable storage note that\\'s shown on nexus 7 ignore its fine any help email rcc19@hotmail.co.uk oh the kernel keeps crashing to me can you fix this please other than that all epic takes 20mins if you know what you are doing",
+        "commentId": "gp:AOqpTOGHV56-E6asQXOlVRrusd3GpE_q6pt3Wb4mCsedzIHMOHUBuuMlZI23bRf4KuEli9I035rkTHNTO_aXdA",
+        "author": "Ryan Chandler",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378084713605",
+        "starRating": "5",
+        "title": "Bricked My Phone",
+        "comment": "I knew how to set everything correctly and everything was fine until the app was up when it was not suppose to be. I am lucky I fixed my phone and I wouldn\\'t recommend the apparently unless you are very lucky or Linux is your life.",
+        "commentId": "lg:AOqpTOFsNuUu1HLmvz6BQAHdHSonHRt63OH4TAzX2P78JvBQdxWj1RjaGyceDOSMJk7_NgwIxdwhn2WIHzp3XQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368882403365",
+        "starRating": "1",
+        "title": "Broken",
+        "comment": "Used to work but now cannot find any distribution ever. Claims the files are unavailable even though I can see them on the server via the very same URLs. I used to really like this. Might have to do everything manually instead.",
+        "commentId": "lg:AOqpTOFIq0z9H1Ifsx5imvN7k3feiBmzuy5N8-5cKYBI_deRXDcu7N47IsCPFfSXF3RMMzq0PVXNwDhXTgq1_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376385360016",
+        "starRating": "3",
+        "title": "Buttons grayed out",
+        "comment": "Under the category \\\"dist  MGT\\\" the \\\"install ssh\\\"-button is grayed out, so I can\\'t continue :/",
+        "commentId": "gp:AOqpTOGfp0QDHrySxdWgks3RbEgvlTRq3c8TKwxLd894Khm4WcYSDSU5BQuvCRKYgmBVh1aZUerETloeIX0j0g",
+        "author": "Patrik Kron",
+        "authorURL": "http://lh6.googleusercontent.com/-EkORBReMCgk/AAAAAAAAAAI/AAAAAAAAI0M/vagOeBEhiOk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-EkORBReMCgk/AAAAAAAAAAI/AAAAAAAAI0M/vagOeBEhiOk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366182954725",
+        "starRating": "1",
+        "title": "Creating loop file",
+        "comment": "It crashes and I had to reboot my tablet",
+        "commentId": "gp:AOqpTOHiZQNyS-zNM3HQZf7WXDxhfYgFXrJ5w9CKBxH4mCVVKQI210JnrFhbb-qXgyRKEAad73A3l9j3KRuPmg",
+        "author": "Nathan Clemance",
+        "authorURL": "http://lh5.googleusercontent.com/-ch-YTmOIyUw/AAAAAAAAAAI/AAAAAAAAALk/gZRrSKE-Moc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ch-YTmOIyUw/AAAAAAAAAAI/AAAAAAAAALk/gZRrSKE-Moc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364999644397",
+        "starRating": "2",
+        "title": "Always grayed-out \\\"Install SSH\\\" button",
+        "comment": "So it is never possible to install ssh nor use any other functions in Dist-Management menu. Only button \\\"Stop chroot is active\\\" (Android 4.1.1)",
+        "commentId": "gp:AOqpTOHwLMS0t6b6jh6ZQyTkmxHI9sz8qrBwc6obVCBqKJgwTaOZmtyqF4Ba-Cy_UBUw2I1AY7IzpVAHEp5F7w",
+        "author": "Mikhail Klimov",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367150042772",
+        "starRating": "5",
+        "title": "amazing app",
+        "comment": "this app works fine with my i9305,",
+        "commentId": "gp:AOqpTOEPSB7HhkysDULwz1iHhqynLkITCJTdAlrPMVCDq0xmi0QPQEVPx_6wftNdRuqHZg1cTVrBZc_wEaGtHw",
+        "author": "Chris Ho",
+        "authorURL": "http://lh3.googleusercontent.com/-QWD4vENxkVQ/AAAAAAAAAAI/AAAAAAAAADw/2CYEo4vY08E/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-QWD4vENxkVQ/AAAAAAAAAAI/AAAAAAAAADw/2CYEo4vY08E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369999930924",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Very good service.",
+        "commentId": "gp:AOqpTOFbfLRMfjbJ6600MwpVe85znwdV5I9Fuz19wZK38srp1RSobuX3PCHPqp9ihkzOYZcNhOwAc_Uj_B39_w",
+        "author": "HALEY SLAUGHTER",
+        "authorURL": "http://lh5.googleusercontent.com/-DS-Cd5OE_Vg/AAAAAAAAAAI/AAAAAAAAABE/oyU0xr6Va1k/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-DS-Cd5OE_Vg/AAAAAAAAAAI/AAAAAAAAABE/oyU0xr6Va1k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366197051346",
+        "starRating": "2",
+        "title": "Not working",
+        "comment": "Error mounting sdcard on Samsung Galaxy tab 7",
+        "commentId": "gp:AOqpTOF1-eZxFUQqJNVH9xoSx2oNtMAxfeU0SdXSYMZ2XrG_82ieN07PaHRyU46K7hC8QZFTV7vqcSUfAzAQXg",
+        "author": "JB Smith",
+        "authorURL": "http://lh6.googleusercontent.com/-KnpbCyQEUNE/AAAAAAAAAAI/AAAAAAAAABg/I8WmiL8u25U/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-KnpbCyQEUNE/AAAAAAAAAAI/AAAAAAAAABg/I8WmiL8u25U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367323491390",
+        "starRating": "1",
+        "title": "Constant errors whilst trying to install",
+        "comment": "Binary issue over and over again. Such a shame",
+        "commentId": "gp:AOqpTOGJtpMzNOXtz7wUQIUPlw31KxfYlqriC6hs7XzVfHHdI0vbSRWr6WFWz8g5ROlUnNtJ7Y9QNa5Xrii3dQ",
+        "author": "Cliff Richards",
+        "authorURL": "http://lh4.googleusercontent.com/-gHSqORP7LQc/AAAAAAAAAAI/AAAAAAAAAC8/lsMS4mqIgus/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gHSqORP7LQc/AAAAAAAAAAI/AAAAAAAAAC8/lsMS4mqIgus/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359341921003",
+        "starRating": "1",
+        "comment": "F",
+        "commentId": "lg:AOqpTOEuKqn5cWL66B_MT7mMZin0R60HIVxIWMQlzHJtL_Ah6v3PfheRMeza9q8L5Chesx3hfPZpVzFOVMMwHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_LOGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

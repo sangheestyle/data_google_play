@@ -1,0 +1,44 @@
+{
+  "title": "US Salary Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jerryco.us_salary_calculator",
+  "category": "Business",
+  "price": "$1.70",
+  "datePublished": "May 8, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "JerryCo Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jerryco.us_salary_calculator",
+  "extendedInfo": {
+    "installSize": "870k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Are you tired of hearing everytime talk about Gross Annual Salary.Do you want to understand how much you bring home after taxes and deductions from your salary?Wondering how much you will need to earn to support the lifestyle you want? Are you curious to know how many taxes you pay annually?US Salary Calculator is the application that calculates for you!US Salary Calculator is the first application for Android that allows you to calculate your US net salary and taxes using most current tax rates and considering all tax deductions. Moreover US Salary Calculator also allows you to easily and immediately find out which Gross Annual Salary you should ask to get a specific Net Monthly Salary.Why should I buy US Salary Calculator?* To calculate the Take-Home pay in respect of the Gross Annual* To be able to easily calculate how many taxes you pay annually* To understand how much you should ask in an interview for a specific Net Monthly Salaryif you need support feel free to contact the JerryCo Soft staff:jerryco.soft@gmail.comIf you want to have a Salary Calculator also for your own country or if you have any ideas to improve it, just tell us!jerryco.soft@gmail.com",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1331208532611",
+        "starRating": "5",
+        "comment": "Cool app!",
+        "commentId": "lg:AOqpTOHAYeptg9pns6bWqVu3dkMzUGz49Pu0pEbgp1eG_f976ST69skGlj8dSCCjcFuGxhAB_NyEk2tmmjq9Bo4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335727033142",
+        "starRating": "5",
+        "title": "Awesome app",
+        "comment": "Really useful!",
+        "commentId": "lg:AOqpTOE_5vkA-KpEThGguAexqexwAKfVpWR450YASP0Oz-KPZOeLHVb0W7kmpF7CPA1l0l_R_Db400rYh21SMFc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "MIPIM – Hamburger Gemeinschaft",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=cc.freiland.hamburgstandmipim12",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 20, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Freiland Netzlösungen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=cc.freiland.hamburgstandmipim12",
+  "extendedInfo": {
+    "installSize": "7.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Die HWF - Hamburgische Gesellschaft fÃ¼r WirtschaftsfÃ¶rderung mbH organisiert GemeinschaftsstÃ¤nde fÃ¼r Institutionen und Unternehmen aus der Metropolregion Hamburg, unter anderem auf verschiedenen nationalen und internationalen Messen fÃ¼r Gewerbeimmobilien. Der gemeinschaftliche Messeauftritt hat viele Vorteile:- Nutzung der AttraktivitÃ¤t Hamburgs bei der PrÃ¤sentation von Projekten- Reduzierung des eigenen organisatorischen Aufwands- Starke PrÃ¤senz durch StandgrÃ¶Ãe und Angebotsvielfalt- Synergien und KooperationsmÃ¶glichkeiten mit den StandpartnernDer neue Standort des Hamburger Gemeinschaftsstandes im modernen Zelt vor der âLerins Hallâ (Riviera Sea View), Ã¼berzeugt mit einer GrÃ¶Ãe von insgesamt 190 mÂ² und seinem klassischen SÃ¤ulenprinzip.Mit dieser App fÃ¼r Android stehen Ihnen ab sofort die wichtigsten Informationen zum Hamburg-Stand auf der MIPIM auch mobil zur VerfÃ¼gung:- AusstellerÃ¼bersicht inklusive Firmenprofil und Ansprechpartner- StandplÃ¤ne- VeranstaltungsÃ¼bersichtWeitere Informationen zum Hamburger Gemeinschaftsstand finden Sie auch unter: www.mipim.hamburg.de",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

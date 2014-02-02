@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Rihanna Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.rihannaapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.rihannaapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Rihanna? Do you want to play games with her as the star? Well now you can!  With this great app you will be able to play Rihanna memory, jigsaw puzzles, and Tetris.  You will love spending some quality free time with Rihanna.Robyn Rihanna Fenty (born February 20, 1988), known by her stage name Rihanna (pron.: /ri'??n?/ ree-AH-n? or /ri'Ã¦n?/ ree-AN-?), is a Barbadian recording artist, actress and fashion designer. Born in Saint Michael, Barbados, she began her career as a result of meeting record producer Evan Rogers in late 2003. At age 16, she moved to the United States to pursue a music career and began recording demo tapes under Rogers' guidance, subsequently signing a contract with Def Jam Recordings after auditioning for American rapper Jay-Z.Rihanna's debut studio album, Music of the Sun (2005), peaked at number ten on the Billboard 200 chart and features the Billboard Hot 100 top three hit single \"Pon de Replay\". Her second album, A Girl Like Me (2006), peaked at number five in the United States, and produced her first Hot 100 number one single, \"SOS\". Rihanna's third album, Good Girl Gone Bad (2007), spawned the international hit singles \"Umbrella\", \"Don't Stop the Music\", \"Take a Bow\", and \"Disturbia\". The album was nominated for nine Grammy Awards, winning Best Rap/Sung Collaboration for \"Umbrella\". Her fourth album, Rated R (2009), produced the top ten singles \"Russian Roulette\" and \"Hard\", plus the number one hit \"Rude Boy\". Rihanna's fifth album, Loud (2010), spawned the number one hit singles \"Only Girl (In the World)\", \"What's My Name?\", and \"S&M\". Her sixth album, Talk That Talk (2011), served the worldwide chart topper \"We Found Love\" and the top five single \"Where Have You Been\". Rihanna's seventh album, Unapologetic (2012), became her first number one album on the Billboard 200 and generated her twelfth Hot 100 number one single \"Diamonds\" and the top five hit \"Stay\". In addition to her solo music, Rihanna has collaborated with numerous other artists, notably being featured on the worldwide hits \"Live Your Life\" (with T.I.) and \"Love the Way You Lie\" (with Eminem).Rihanna's work has earned her numerous awards and accolades, including seven Grammy Awards, five American Music Awards, eighteen Billboard Music Awards and two BRIT Awards. Since the beginning of her career in 2005, Rihanna has sold 30 million albums and 120 million singles worldwide, which makes her one of the best-selling artists of all time. She has achieved a total of twelve number one singles on the Billboard Hot 100 chart, becoming the youngest solo artist to achieve the feat. Billboard named Rihanna the Digital Songs Artist of the 2000s decade, and ranked her as the seventeenth overall artist of the same decade. In 2012, Forbes ranked her as the fourth most powerful celebrity of 2012 with earnings of $53 million between May 2011 and May 2012. The same year, American magazine Time named Rihanna one of the most influential people in the world.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.rihannaapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

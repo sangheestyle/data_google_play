@@ -1,0 +1,29 @@
+{
+  "title": "Navkar Ki Dhoon",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaindial.navkarkidhoon",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "IndiaTaps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaindial.navkarkidhoon",
+  "extendedInfo": {
+    "installSize": "30M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This App Works Without Internet.Navkar Mantra Ki Dhoon in Audio Format is a Very useful Jainism app for People Following Jain Religion.Jainism traditionally known asÂ Jaina dharma, is an Indian ReligionÂ that prescribes a path of non-violence towards all living beings and emphasises spiritual independence and equality between all forms of life. Practitioners believe that non-violence and self-control are the means by which they can obtain liberation from the cycle of reincarnations. Currently, Jainism is divided into two major sects;Â Digambar & Shwetambar.Jainism is one of the oldest religions of the world,Â identified with the SramanaÂ tradition of ancient India and connected by some to the Indus Valley Civilisation.  Jains traditionally trace their history through a succession of twenty-four propagators of faith known as tirthankaraÂ with AdinathÂ as the firstÂ tirthankaraÂ and Mahavir as the last. For long periods of time Jainism was the state religion of Indian kingdoms and widely adopted in the Indian subcontinent. The sects of Jainism are Digamber, Shwetamber, Sthanakwasi & Terapanthi.The 24 Tirthankars are Sh. Rishabhdev, Ajitnath, Sambhavnath, Abhinandan Swami, Sumatinath, Padmaprabh Swami, Suparshwanath, Chandraprabh, Suvidhinath, Shitalnath, Shreyasnath, Vasupujay Swami, Vimalnath, Anantnath, Dharmanath, Shantinath, Kunthunath, Aranath, Mallinath, Munisivrat swami, Nami nath, Neminath, Parshwanath & Mahavir Swami.--------------------------------------------------Created By JainDial.comEditor: Kaushik Vakharia (Jain Dial)Feel Free to Write us on Editor@JainNews.in",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "GO SMS Pro OFF ROAD Theme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.tfd.offroad",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "March 30, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.142857",
+  "contentRating": "Low Maturity",
+  "creator": "Themes For Droid",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.tfd.offroad",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Cool theme for GO SMS Pro with motive from off-road vehicle. Texts of text messages in the main menu are in brown color, each of which contains part of the car, in this case the wheel off-road vehicle if there is no photo of friend. Sms windows background is transparent white color, icons and other items are brown and white, each window has a theme with text messages signs. Beam sms menu is brown and muddy, contains near Roadster, the number is displayed in yellow. Wallpaper menu picture text messages on the off-road vehicle off road. SMS selected window background is transparent dirty white color, text, and sender's name are in black, icons and elements are white, brown, window zawiarera wheel off-road vehicle and road signs.Requirements:This theme requires GO SMS Pro application installed on your phone. You can download it for free from Google Play typing GO SMS Pro in search field.This theme contains:- background with off road car- changed default icons- conversation list, sms popup window and compose message window are changed. How to run our theme:1. Download our GO SMS Pro OFF ROAD Theme for free.2. Open GO SMS Pro application and press MENU button.3. Choose our OFF ROAD Theme theme and click apply.How to change theme appearance:1. Open GO SMS Pro application and press Menu button.2. Choose Settings.3. From settings tab select Advanced tab.4. Press Appearance Settings5. Set any option of our theme. You can set there:- Conversation List appearance- Conversation appearance- Popup window appearance- Text Font- Reset to default settings.Support - Themes For DroidIf you need help with our theme please contact with us on email: themes.for.droid@gmail.comOur support works only in the English language. Please contact us in this language because we will solve your problem easier.Comments and rating:If you want to help other users find our theme please leave comment and positive rating.Before posting negative opinion please contact us. We can solve your issue in most cases and you will be happy using our theme without problems.Our thematically similar applications:GO Launcher EX OFF ROAD ThemeGO Locker OFF ROAD ThemeOur other applications:GO Launcher EX Pink LeopardGO Locker Leopard ThemeGO SMS Pro Pink Leopard ThemeGO SMS Pro Theme Hearts Advertising:This free application is ads supported. Ads may show in notification tray and / or your smartphone home screen. Permissions are for ads.Other themes from Themes For DroidFull list of our themes is available by clicking our developer name on Google Play.Check our other  GO Launcher EX, GO SMS Pro and GO Locker free themes. Themes are released regularly so you can find something new every time.Compatibility:Our themes has been tested on the most common smartphone-s offered by manufacturers such as: Samsung, HTC, LG, Sony and Motorola. Our themes works with Android 2.2 and later.",
+    "reviews": [
+      {
+        "timestampMsec": "1372784368574",
+        "starRating": "3",
+        "title": "Ok app but",
+        "comment": "Ad\\'s with this app is to much",
+        "commentId": "gp:AOqpTOHAtmX39OsfWBIvM8hn-cH6e76PYpLCEWaOFXXfEOLqFntWP0HpuU0LbReRtpYg_PGwuA4QlD4BeqRTDTs",
+        "author": "Tricia Peete",
+        "authorURL": "http://lh5.googleusercontent.com/-FgIhzkPFPFI/AAAAAAAAAAI/AAAAAAAAAAA/feyOaCAo9LA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-FgIhzkPFPFI/AAAAAAAAAAI/AAAAAAAAAAA/feyOaCAo9LA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

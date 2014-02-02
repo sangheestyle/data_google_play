@@ -1,0 +1,37 @@
+{
+  "title": "Summer Flower | GO SMS Theme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.starrlite.flowers.oT99IPFtlagyij6rUSuf",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "StarrLite Designs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.starrlite.flowers.oT99IPFtlagyij6rUSuf",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Summer Flower | GO SMS Pro ThemeStarrLite Designs presents another original GO SMS Pro theme! Please read about the requirementsand installation instructions below. As a bonus, we've included 101 beautiful fonts with this theme.Design Philosophy:     StarrLite Designs is a team of hobbyist graphic designers that is committed to bringing only the most beautiful themes to Android and GO SMS Pro. We do not add too many details, as this is often too distracting to the user. We implement color and pattern variations for many different themes. Please check out the rest of our developer channel for our ever-increasing library!Requires:\t- Latest version of GO SMS ProInstructions:    Once you have installed this theme, please open GO SMS Pro.    1.) Press Menu -> Themes    2.) Go to installed themes    3.) Scroll down to the bottom of the list and you should see your newly installed theme    If you experience any difficulty applying the theme, please email support:    \t- starrlitemedia@gmail.comCredits:\t- Obsidian Dawn (http://www.obsidiandawn.com)\t\t- created many of the amazing brushes and detail elements seen in our themes\t- Font Squirrel (http://www.fontsquirrel.com)\t\t- the fonts included in this theme were obtained from hereThanks:\tWe would like to thank our loyal userbase for your continued support. Look for more themes everyday!Future Development Plans:\tWe look forward to enhancing our products with better graphics.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

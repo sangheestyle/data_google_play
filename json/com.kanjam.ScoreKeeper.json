@@ -1,0 +1,207 @@
+{
+  "title": "KanJam Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.kanjam.ScoreKeeper",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "57",
+  "rating": "2.5614035",
+  "contentRating": "Everyone",
+  "creator": "clevermethod inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.kanjam.ScoreKeeper",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "4/19/13 Update: We've heard your feedback! The app was crashing on startup for a lot of users recently, and we have managed to squash those bugs and push out an update this Friday, April 19, 2013. Please let us know if you have any more issues with the crash and leave us feedback! Thanks.--------------------------------------------------------------------------KanJam Mobile brings the Official KanJam Rules, How To Play video and an easy to use Scorekeeper to your fingertips.Rules and How To PlayTrying to remember what happens when the flying disc goes in the front and out the top? End the discussion immediately with the KanJam Mobile App! You'll never have to guess how far apart to set the goals again!ScorekeeperKeeping score has never been easier - let the KanJam Mobile App do the work for you. Enter your Player Names to keep score right on your smart phone. The App will automatically declare a winner and even alert you at the key points in the game. Feel like gloating? Post the game results to your Facebook page, and start the rematch with the press of a button.",
+    "reviews": [
+      {
+        "timestampMsec": "1369509588864",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "The app works well. The video to learn how to play needs to be update to HD quality",
+        "commentId": "gp:AOqpTOHVCf3BwyOs9Mbd-MU-qtJJFnv4_FV56yP4YstD6vJT5dsHkXgVjSuRAETymZw6Qa0mU6bIHiOX-Fcyuw",
+        "author": "Edwin Aguilar",
+        "authorURL": "http://lh3.googleusercontent.com/-EgzcmL19ToU/AAAAAAAAAAI/AAAAAAAABto/j3kyO-Z1J8I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-EgzcmL19ToU/AAAAAAAAAAI/AAAAAAAABto/j3kyO-Z1J8I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371870847624",
+        "starRating": "4",
+        "title": "Its great but...",
+        "comment": "Crashes on Facebook sharing",
+        "commentId": "gp:AOqpTOEz9TLzooFveUUurYIP158Jc3w4UJhxiKjNPdY4Ii_44Az8yJXYhFqOQvYWDo3Jf0fAeF3i9B5TYlUbEg",
+        "author": "Chance Starcher",
+        "authorURL": "http://lh6.googleusercontent.com/-5o-MVaXiobw/AAAAAAAAAAI/AAAAAAAAAGI/_POJYgj_dVw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5o-MVaXiobw/AAAAAAAAAAI/AAAAAAAAAGI/_POJYgj_dVw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352569282051",
+        "starRating": "1",
+        "title": "Used to work until ICS",
+        "comment": "This app was amazing if you played official KanJam rules. Now that I have Ice Cream Sandwich the app doesn\\'t work anymore.  Please fix!!",
+        "commentId": "lg:AOqpTOFrsNE8GVAzabPs0pna-JSfY4fXG_X6tiUHsIBSezMSQHiNJIxHXRaxMWDr62eZQ9Vz0Qz8CY6WOch7MQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323411015579",
+        "starRating": "3",
+        "title": "Great execution but",
+        "comment": "We play with house rules, which are clearly common (listed as misconceptions) as a result, I could ONLY use the app if it incorporated them",
+        "commentId": "lg:AOqpTOECfvw3rIkffZFy-R8s2ZV9GDVRgINQCm5HE_OBljUGXPAytrHcX3FIjlgW7oiMnklg3lDgMLqNWXgGoQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352344750737",
+        "starRating": "1",
+        "title": "Love the game but app crashes!",
+        "comment": "Please fix! It\\'s been months!",
+        "commentId": "lg:AOqpTOHAWDxU3ZL7ZuuMAaFc8livozpD8y7d5o-mzN42l5xtc-qoHFQDutcp0jGPH--FwpwzWKupLT5jFaBbOw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365339432156",
+        "starRating": "1",
+        "title": "Kan\\'t Jam",
+        "comment": "App doesn\\'t even work. Two different phones same result. Can\\'t even start up. Fail",
+        "commentId": "gp:AOqpTOGwixkQCS890FnbDtOTYgFEhmTJUhThwCHTrdJ47bBzUrK9BHJQfL1zB_5RFG5BqmiuGTpS7BAKZTsJSA",
+        "author": "Kevin Kosh",
+        "authorURL": "http://lh5.googleusercontent.com/-ai_ioBbvbtg/AAAAAAAAAAI/AAAAAAAAHr8/q_VMda963Ks/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ai_ioBbvbtg/AAAAAAAAAAI/AAAAAAAAHr8/q_VMda963Ks/photo.jpg"
+      },
+      {
+        "timestampMsec": "1306556619379",
+        "starRating": "5",
+        "comment": "Amazing!",
+        "commentId": "lg:AOqpTOH2YI032DYkiAcTmx8Wx6uGLdOr2gNHeOKjb9eXglV8V3SsigoKdSOeEVcdaU6IPMVzuHmw5jbaLpeARQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345463386921",
+        "starRating": "1",
+        "title": "Horrible !",
+        "comment": "First time opening it I has to do a hard reset on my phone. I wish I could give no stars. !",
+        "commentId": "lg:AOqpTOEwBJggApHNhZA0-PQmcjVq_fKFbSJCOtXN5aHEd-K3yPulwratmb3u7tqye5PdEpyHN8uYoSf1G3WPyA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345927181395",
+        "starRating": "1",
+        "title": "Broken",
+        "comment": "Does not work on ICS...  How stupid",
+        "commentId": "lg:AOqpTOGr4VUd9oPrWcxDBwyb_U57FgLrpr3k2uqcf2eiOelFXBvjebf7o8I4h6BXKmeGjXBiN_d2iJ4SbEsflw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340752027880",
+        "starRating": "1",
+        "title": "Force close",
+        "comment": "Force closes on 4.0. App is useless on current phone lineup. Fix this, please!",
+        "commentId": "lg:AOqpTOE7Hh-PYewrM00_9r3NJkFP4dTpcREuLmvGgKUhbZSVtRthPwfmX_GtALvb7GWirHT0UHvQ3clx7BoT6A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306503354264",
+        "starRating": "5",
+        "comment": "Love it.",
+        "commentId": "lg:AOqpTOGbM-_WsvdqY6fWx0-aZADSSfK4U20p7gJcNjn3aYouaxhewBEBhSeOJdtsm4Bvsm_f3TsF4WRagurDDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344187254326",
+        "starRating": "1",
+        "title": "Kevin",
+        "comment": "Doesnt work on my droid RAZR",
+        "commentId": "lg:AOqpTOHGawikmU7SymA3u3OzE9q_R7-K90Js2alo6kBW9FufYsWGCkXYoVqRs21Hq6dbdD-R8uW9-m7RfVDJQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337358790040",
+        "starRating": "1",
+        "title": "Compatibility",
+        "comment": "Galaxy Nexus support please.",
+        "commentId": "lg:AOqpTOH4IGoGoIiN_ZI9Gl7JTBwrZacvvzcgfKSSPVQ60SwFjJjRP-NPIl780l9y6Co-LPM0sIKzX2GWjznyRg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342918969365",
+        "starRating": "5",
+        "title": "Jon O",
+        "comment": "How about an option for a tournament bracket?",
+        "commentId": "lg:AOqpTOEMTbNFJ0yoqX6HQv4imXyRYHMuTF6sP6r2FGiytei1TNOfwFhkYrXt_ATpOwSJsAmJgPvjhDvZtTmE7A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338233946999",
+        "starRating": "1",
+        "title": "Fail",
+        "comment": "Force closes on galaxy nexus. Ice cream sandwich has been out for a while.....no support?",
+        "commentId": "lg:AOqpTOGfMHU5vmgsHkUYVqjzUiGjmkpPeEM-iyweGVIFCbRLtjVEOn7e6watxeUz9wg4Bqv9J9-gEUYILHyKFg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340638170187",
+        "starRating": "1",
+        "title": "Crashes",
+        "comment": "Doesn\\'t open on galaxy nexus",
+        "commentId": "lg:AOqpTOGdG019V68h1CR9Isn0w_O2GG0qesrzXWJqZgWsui0xVDYyOXjOHtGgDGwIuJ--TFwOZhxDXVOmlcC2jA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311380469123",
+        "starRating": "5",
+        "comment": "Never have to remember scores again!",
+        "commentId": "lg:AOqpTOFuJZBGnNR-cwZACmUYVaAJZ72iuVmMH-CkIsPUwJBQwVTMwWGSJJlv4TxNj8rBWFE23k7a7dgLbOs0nw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337533288324",
+        "starRating": "1",
+        "title": "No android 4.0 support",
+        "comment": "This app does not work on the latest version of Android! Please fix it! I want to use it on my nexus. I might consider returning my kan jam set because this app was a selling point for me",
+        "commentId": "lg:AOqpTOEJ8iHeIOboZ7g_don2dwPhvvw83iiHAynMouhicG96LV0cG9u9m3EdyOrYJEqqok_JO4qTi0dUGWrJ7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337126380002",
+        "starRating": "1",
+        "title": "Doesn\\'t work on galaxy nexus",
+        "comment": "Doesn\\'t work on galaxy nexus",
+        "commentId": "lg:AOqpTOEFxOmFhjDe63lLQDAijeKauabYgAmHlBC3KoWlmDZU_Js5_pCPS-Yn-50vJ8QU8rAkrC4H8Qr1syUqaQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365085064182",
+        "starRating": "1",
+        "title": "Does not open",
+        "comment": "App does not work with RAZR max.  Please fix",
+        "commentId": "gp:AOqpTOE8iRjRvomoSR9Z4MChaZoMvQPirJ2uSzGlUHzN_bL3SBRnjAHmhQZSxxTU7haXwYORqTu2eQVK7sZvtw",
+        "author": "Brian Walsh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

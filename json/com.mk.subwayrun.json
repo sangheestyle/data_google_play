@@ -1,0 +1,45 @@
+{
+  "title": "Subway Run",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mk.subwayrun",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "FunLikeGames",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mk.subwayrun",
+  "extendedInfo": {
+    "installSize": "8.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Subway Run has many fun free online game. There are five fun online games.Just like Subway Surfers Game which likable by many kids.Additional Free Online Games1) Subway sneeze is fun like the most popular game subway surfers.2) Icy candy will remind you of Candy Crush Saga where you will play while you are in the train.3) Gun Run Game is pretty fun, just like Fun Run-Multiplayer Race. Sound like FamousTemple Run 2. 4) Samurai Ninja is another cool game, it feels like you are slashing Fruit jus like Fruit Ninja app.5) Hamster Run is another thrilling game for kids where the hamster run in a wheel.If you are tired of fruit ninja, shark attack, candy crush, fast and furious, crazy dentist, dentist officeThis is for you!Features:There are 3 Games available to play. It's a 3-in-1 game right from your mobile phone.Game 1-Memory Game : Little Dentist reveals the Subway Train Pictures blocks to match similar pictures, test your memory!Game 2-Puzzle Game. Move and shift each block to the correct place using Subway SurfersGame 3-Tetris Game. Rotate the blocks using Subway Surfers to fit each other.Once you have completed each level, you will love this game very much.Tip on Scoring:---------------The more block you clear, the more score you will get.Other features:---------------You can pause the game and resume later.",
+    "reviews": [
+      {
+        "timestampMsec": "1376496822003",
+        "starRating": "5",
+        "comment": "Many nice games",
+        "commentId": "gp:AOqpTOHvVsg79oZgVNZkPpKvxxeboJBtJ_X7tqszuCqq1ANWzCo8bWx1bQbOw6pKlPCTlE6bU5hUKWwLEueUb00",
+        "author": "Mulikah Monica",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "com.mk.subwayrun.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

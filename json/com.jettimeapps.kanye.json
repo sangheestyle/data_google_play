@@ -1,0 +1,36 @@
+{
+  "title": "Kanye West Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.kanye",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacob Jetts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.kanye",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "GOOD Music is in full effect with Kanye and his leather jacket in this free LWP of the hip hop legend!  Kanye Omari West is an American recording artist, record producer, film director and fashion designer from Chicago, Illinois. West first rose to fame as a producer for Roc-A-Fella Records, where he eventually achieved recognition for his work on Jay-Z's 2001 album The Blueprint, as well as hit singles for musical artists including Alicia Keys, Ludacris, and Janet Jackson. His style of production originally used pitched-up vocal samples from soul songs incorporated with his own drums and instruments. However, subsequent productions saw him broadening his musical palette and expressing influences encompassing '70s R&B, baroque pop, trip hop, arena rock, folk, alternative, electronica, synthpop, and classical music.  West released his debut album The College Dropout in 2004, his second album Late Registration in 2005, his third album Graduation in 2007, his fourth album 808s & Heartbreak in 2008, and his fifth album My Beautiful Dark Twisted Fantasy in 2010. West released a collaborative album, Watch the Throne with Jay-Z in 2011, which is the duo's first collaborative album. His five solo albums, all of which have gone platinum, have received numerous awards and critical acclaim. All albums have been very commercially successful, with My Beautiful Dark Twisted Fantasy becoming his fourth consecutive No. 1 album in the U.S. upon release. West has had 6 songs exceed 3 million in digital sales as of December 2012, with \"Gold Digger\" selling 3,086,000, \"Stronger\" selling 4,402,000, \"Heartless\" selling 3,742,000, \"E.T.\" selling over 4,000,000, \"Love Lockdown\" selling over 3,000,000, and \"Niggas in Paris\" selling over 3,000,000, placing him third in overall digital sales of the past decade.  He has sold over 30 million digital songs in the United States making him one of the best-selling digital artists of all-time. He is also one of the most awarded artists of all-time.  West also runs his own record label GOOD Music, home to artists such as John Legend, Mos Def and Big Sean. West's mascot and trademark is \"Dropout Bear,\" a teddy bear which has appeared on the covers of three of his five solo albums as well as various single covers and in his music videos.**************************************************Please show support by posting comments and ratings! Thank youThis app contains ads that may appear in the notification tray or homescreen as an Icon. You can optout the ads from the links below:Leadbolt Optout: http://opt.leadbolt.com/To delete the icons just hold your finger on them and drag to the trash can to delete.**************************************************Tags: hip hop, rap, swag, Jay-Z, Roc Nation, GOOD, legend, fashionKey Words: LWP, custom, background, SD card, Jets",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

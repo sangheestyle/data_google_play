@@ -1,0 +1,243 @@
+{
+  "title": "Astro Player (old)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.astroplayer",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "1487",
+  "rating": "3.9179556",
+  "contentRating": "Everyone",
+  "creator": "Rosfactory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.astroplayer",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Astro Player is a powerful media player with audiobooks and podcasts support. Astro Player has advanced bookmarking functionality. It allows listening audiobooks, podcasts, music, and watch video in parallel and never lose playback position. Astro Player introduces several unique features like adjustable speed playback, equalizer, and non-unicode tags support. Moreover, it shows lyrics, supports scrobbling, fetches missing album art, plays Internet radio, supports flac, has convenient file browser with play folder option and hotkeys organizer. Supports DAR.fm.Supported formats:Audio: mp3, ogg, flac, m4b(partial support), mp4, 3gp, mid, wma(not all devices), xmf, mxmf, rtttl,rtx,  wav, m4a, amr.Video: mp4, 3gpFeatures: Advanced bookmarks[Pro]Unlimited number of custom bookmarks[Pro]Rename bookmark[Pro]Video bookmarks[Pro]Auto-bookmarking[Pro]Auto-resumeRewind on pause / after bookmark[Pro]Adjustable audio speed[only 3.0x-6.0x]Adjustable speed pitch controlPodcast supportAuto removal of played podcasts[Pro]DAR.fm supportWi-Fi white/black lists[Pro]Podcast auto-download[Pro]ScrobblingSound controlsGapless and Mono playback[Pro]EqualizersSpectrum analyzer[Pro]Equalizer presetsAdvanced playlistsPlaylist auto generation based on a selected folderSearch in playlists and music browserSorting tracks by rating and play countM3U playlists supportFavorites[Pro]Select a folder for playbackPlaylist shortcutsMisc.Custom skinsResume/pause playback when the headset is plugged/unpluggedBluetooth headset supportHotkeys, actions, menu, and buttons organizersPreloaded Internet Radio stations[only 1]Fetching cover arts[only from ID3tags]Tag editor[Pro]Customize mode for skin buttons[Pro]Menu configurationFetch lyrics from the Internet[Pro]Lyrics from tagsCustom backup rotation[Pro]Playing video in background[Pro]Shake controls[Pro]Non-Unicode encoding support (displays Artist, Album in your own language for Non-Unicode encodings)[Pro]Triple-click support[Pro]Sleep timer[Pro]",
+    "reviews": [
+      {
+        "timestampMsec": "1372723285760",
+        "starRating": "2",
+        "title": "Can\\'t browse and play files on local WiFi network",
+        "comment": "Doesn\\'t support access to network-based resources.  I need a player that can also look at folders on a network WiFi drive and play them.  EQ would be better if it had something like 10 bands. Too many Version-Split features.  Develop only one version and make it do all it can.",
+        "commentId": "gp:AOqpTOElkbTbHtZoGZZvZg19dGn_HpXI1qZYImoGL1No1JpMYmCTxE6i-HWV8cgJW3UK3wg9_3P9rrg5T7Pjmw",
+        "author": "Darwin Long",
+        "authorURL": "http://lh3.googleusercontent.com/-eow1ULtMsM0/AAAAAAAAAAI/AAAAAAAAAB4/d47T7oHgT14/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-eow1ULtMsM0/AAAAAAAAAAI/AAAAAAAAAB4/d47T7oHgT14/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377284122487",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Your app is excellent. It offers so many features. You did a great job. And I give you 5 stars. But, there is one thing I don\\'t like. The lyric doesn\\'t show line by line. It is crowded. If you fix this, there will be no doubt that you deserve 5 stars. I have tried increasing the font size. That doesn\\'t look good.",
+        "commentId": "gp:AOqpTOF42X96_BQCu-9q56QXzzfqOOCToRcHWfrfeMb7x3sJ7loIUXfFC6EmhtbzUL9WsadHoS0NHS9MXNLsIA",
+        "author": "Aung Kyaw",
+        "authorURL": "http://lh5.googleusercontent.com/-BL-A_6-HmSw/AAAAAAAAAAI/AAAAAAAAACU/PPKSSmfdGU8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-BL-A_6-HmSw/AAAAAAAAAAI/AAAAAAAAACU/PPKSSmfdGU8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374989893029",
+        "starRating": "3",
+        "title": "Needs Work",
+        "comment": "I can tell this would be a big hit if it had more work done, meanwhile it is a decent app. The player is not very swift and easy to use, album covers dont show and there is no option to show lyrics to the song. I do whatsoever  love the look, however right now I\\'ll rate it average \\342\\230\\205\\342\\230\\205\\342\\230\\205three stars",
+        "commentId": "gp:AOqpTOEefwoYTF1H1UJ1Q_u7pSROGsXSeEWPwifPUVpksUZdN909iuv5WC2vksOk7oFStBufE4E9G7vgZ1dGDA",
+        "author": "Jenifer Medina",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375692924736",
+        "starRating": "1",
+        "title": "crap! playlist wont work",
+        "comment": "nothing but crap i organized all my music into folders and astro player didn recognized them in order to make playlist stay away!",
+        "commentId": "gp:AOqpTOHNWpjq9QIso-zCpipZudUzexxqaoyw1IoFZ5-QmPCSetxAqzLw9jcYlBGFNgVg-653z3tjEEoevJJ11g",
+        "author": "Alessandro P",
+        "authorURL": "http://lh6.googleusercontent.com/-h4-xC2Tf-aI/AAAAAAAAAAI/AAAAAAAAEt8/Idp_eDSL6j0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-h4-xC2Tf-aI/AAAAAAAAAAI/AAAAAAAAEt8/Idp_eDSL6j0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372921259049",
+        "starRating": "5",
+        "title": "Great mp3 player",
+        "comment": "Support for non unicode tags is great! I updated to Galaxy S4 and now I cannot set Custom Default skin. I\\'m so used to this skin so that it\\'s hard for me to use it otherwise. I checked with my buddy, he has S3 and it worked great there, as well as my old HD2. Could you please fix skin issue for GS4?!",
+        "commentId": "gp:AOqpTOGdrCOpIe4OipGinSiQxWyVfeMzOTSi7BR5vPTyf1W6owoQwhHvqrlIbhy0DLbezZW3fv9X4LC_OZCY3w",
+        "author": "Vladimir Bychkov",
+        "authorURL": "http://lh6.googleusercontent.com/-sypBm_y2HJY/AAAAAAAAAAI/AAAAAAAACrs/sig1HL9W0gE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-sypBm_y2HJY/AAAAAAAAAAI/AAAAAAAACrs/sig1HL9W0gE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375609470209",
+        "starRating": "2",
+        "title": "Nooo",
+        "comment": "I try to listen to my regular music player , but five seconds later it goes to astro player... T\\'ff , uninstall...",
+        "commentId": "gp:AOqpTOHguW1jeQ2xPOHM68tOtVbXP3z16395Y_CRzvC3mVxsto089l3EGIVlEqNgnSg0InSZbavTUmwhcS2nNQ",
+        "author": "Jazzy Baby",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377846566572",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "best in Market,version 1.183 is better than Astro Player Pro.",
+        "commentId": "gp:AOqpTOEIQdQfI3u1f6unSMQJBUTx-nTTmZLOay5WslcKp1CW-AbR9xCQXxortxLryI4n5YuSw1J0fyYOVlzT-A",
+        "author": "Shyam Ayalani",
+        "authorURL": "http://lh3.googleusercontent.com/-91Tpr9_s7_o/AAAAAAAAAAI/AAAAAAAAACg/apYPBxlzFPM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-91Tpr9_s7_o/AAAAAAAAAAI/AAAAAAAAACg/apYPBxlzFPM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372377545402",
+        "starRating": "4",
+        "title": "Excelente aplicacion",
+        "comment": "El unico inconveniente es que no puedes buscar musica por su nombre almenos eso pasa en mi Galaxy note.",
+        "commentId": "gp:AOqpTOEs6rFxgqcYOLhTnCbQDnngGnVP4MqfEHCWTrEqllwPLXqdYjv6PndvQchuhlazVQYh1gQLJnQYpbgf_Q",
+        "author": "Ismael Almonte",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376973189181",
+        "starRating": "3",
+        "title": "Some good, some not so much. I only want to play, too many features.",
+        "comment": "Pro: plays .flac files on Android 2.3  Con: very slow to respond to volume buttons on phone (2+ seconds), app must start up when phone boots and there is no quit function, horrific amount of user settings can be tweaked.  Me, I\\'d use maybe 5 or 6 of the available features.  Trying to capture an industry title or award for the most bells and whistles? Just wondering.",
+        "commentId": "gp:AOqpTOFu0xUpA4t7FksZINluTLqEAXECY76gc0rg7sypTwcOfy-2p0jmtXIe8oLcOh8BMjIlQrDvFfU3O5C67A",
+        "author": "Lee Dunbar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377404561460",
+        "starRating": "3",
+        "title": "It\\'s really good",
+        "comment": "It\\'s cool but needs a lot of work",
+        "commentId": "gp:AOqpTOGCVHVn-7_w3nq-zLePlq3jmFo6hN2owI0U7B4o4g0s6OWzQzM9yvGAqpuOntFoAHpd0WP_K69kwZzVLg",
+        "author": "Christian Medrano",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374626751956",
+        "starRating": "3",
+        "title": "Super",
+        "comment": "Best player",
+        "commentId": "gp:AOqpTOHfnsSMr21FlsFbwrYPiC4OxuTSF_sfyKG-ZSTo8Tjgj6owPzgJIney7_ZSen_7dD_Vby26wp_oWD9WyA",
+        "author": "Boom Ali",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375003153455",
+        "starRating": "3",
+        "title": "Cool...",
+        "comment": "Nice...app i like it...",
+        "commentId": "gp:AOqpTOEMEdiCDuucKaBqqQRBUmmOT6Uo5fveAHICtFkWY_CBDgX924Kp2VE_adsNRzbzRrplLNDYLyKDD9bDTQ",
+        "author": "rafi cool",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377913881793",
+        "starRating": "1",
+        "title": "Permissions",
+        "comment": "Requesting dangerous new permissions and nothing in the change log...",
+        "commentId": "gp:AOqpTOH7JLSCDnbuyMKGin7RjrlTSqaJLYu-KYFxRtEORO6q9SDrILoFHu5tV9VhgGmDycWwVyGzRAUozEsxrw",
+        "author": "Adrian King",
+        "authorURL": "http://lh5.googleusercontent.com/-XrkpHOeS4-M/AAAAAAAAAAI/AAAAAAAAA0Q/N6odMrNwApk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XrkpHOeS4-M/AAAAAAAAAAI/AAAAAAAAA0Q/N6odMrNwApk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372171242079",
+        "starRating": "5",
+        "title": "for ma tab2",
+        "comment": "nice",
+        "commentId": "gp:AOqpTOFOei6Xa77xMIV-1w-zHuucqr59WEJjTYyJvEGTd419lebKfyUThImSWLIMvJsTEnt2sGOcO0Ie0ZBHaA",
+        "author": "ganesh kumar",
+        "authorURL": "http://lh6.googleusercontent.com/-P3W1X08PZzk/AAAAAAAAAAI/AAAAAAAAACw/C4nua_VQz94/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-P3W1X08PZzk/AAAAAAAAAAI/AAAAAAAAACw/C4nua_VQz94/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373043882037",
+        "starRating": "5",
+        "title": "Hmf..",
+        "comment": "Nice...equalizer...",
+        "commentId": "gp:AOqpTOFRdj6pKA5MlhPiVq95P2mfmsbRIb0E007vM-Y3j_mEd9OGzxMHwFdBziLzDViHUAQDw5LiyPmWp3ymTQ",
+        "author": "Rogelio Abiada",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372526707005",
+        "starRating": "4",
+        "title": "3.9",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOF2KIkRN1ApgaBDk4G9RgSZgxnSqe3ORYR4dhfVaqt7yATsT1LtRbVjV2pN92XWfEmMfM9OTXmIce1zHA",
+        "author": "G Meraaz",
+        "authorURL": "http://lh4.googleusercontent.com/-LB3Mg0oCQXU/AAAAAAAAAAI/AAAAAAAAAA4/r9U_bzvQqPw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-LB3Mg0oCQXU/AAAAAAAAAAI/AAAAAAAAAA4/r9U_bzvQqPw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371810875034",
+        "starRating": "5",
+        "title": "Vj",
+        "comment": "Nj",
+        "commentId": "gp:AOqpTOEG-x9lZpUzLg7N-uPm-eGOS4yjknX5UPxy_6ddUSWsK-wl0uJ6Uekfr5WHidmUhwCXy2GTLYK4F1GN2Q",
+        "author": "pintu chak",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374309397231",
+        "starRating": "3",
+        "title": "waw",
+        "comment": "waw",
+        "commentId": "gp:AOqpTOEIDjK8VE-IZOPBlg3wLKPRjxxpRVoqbgYASUS2i9_y0zWR80W1ETTOHjBxTS6_TbHC4h9ouZOcDiNe5w",
+        "author": "Omar Hh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371094340929",
+        "starRating": "3",
+        "title": "Risky privs for key features behind paywall",
+        "comment": "You can find other media players with fewer required app privileges that offer full speed playback control without requiring the pro version. They may not have as many options but they work for me. Give Audio Speed Control a try.",
+        "commentId": "gp:AOqpTOFBnKN4stDFMSzjIOyUG-HacrwhSFQCkQc9Ib52Zd05n7AG6W3IKfNDpaKkxEd_Ci7_OXl876pZgQN9Hg",
+        "author": "Michael Sheldon",
+        "authorURL": "http://lh4.googleusercontent.com/-xmqzsFjr9IY/AAAAAAAAAAI/AAAAAAAAAAA/WssOJ-MV2z4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-xmqzsFjr9IY/AAAAAAAAAAI/AAAAAAAAAAA/WssOJ-MV2z4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370788283819",
+        "starRating": "2",
+        "comment": "good",
+        "commentId": "gp:AOqpTOEizIZ0pZFCzaPpUnTYmN3QP7l0zdtv4RI2ePxD-tXMPQSycpAFfzPA89IhYFw2znjO-5b8KVcYbE4auQ",
+        "author": "Thiyaga Rajan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.UPDATE_DEVICE_STATS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BROADCAST_STICKY"
+    ]
+  }
+}

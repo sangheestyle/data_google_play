@@ -1,0 +1,251 @@
+{
+  "title": "The Guardian",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.guardian",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "4726",
+  "rating": "4.1591196",
+  "contentRating": "Medium Maturity",
+  "creator": "Guardian News & Media Ltd",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.guardian",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "The Guardian Android app delivers all the latest content from the Guardian to your phone or tablet. Read today's news, sport, comment and reviews. Explore our award-winning multimedia content with videos, podcasts and stunning picture galleries.Join the conversation: view, recommend, share and submit comments.Upgrade to the Premium Tier (69p a month) for access to Crosswords, an advert-free experience, and future exclusive features and content.Full feature list:- download your homepage and favourites for offline reading with the touch of a button, or schedule a daily download for a time that suits you- take part with comments and debate- subscribe to the premium tier for:  - the cryptic and quick crosswords delivered every day direct to your phone  - no adverts  - exclusive future features and content- live football scores, results and tables for hundreds of English, Scottish, European and international games- receive alerts for big news stories, exclusives, and goals from your favourite football teams- navigate by section, topic or contributor and discover related stories in an article - browse our award-winning audio and video content- save contributors, topics and sections to your favourites - add favourites to your homescreen with an expanded view or link- live, updating coverage of news and sport events- swipe through stunning full-screen picture galleries- share articles and galleries using the Android share menu Information about the permissions we request:http://www.theguardian.com/mobile/insideguardian/android-app-permissionsPrivacy policy:http://www.theguardian.com/help/privacy-policy",
+    "reviews": [
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378368620297",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "...and improving all the time.  And finally the option to subscribe!  Thank you :)",
+        "commentId": "gp:AOqpTOG1rkNLe8RxUA18VnJ-l8D7xbhE35iDz9bC8Yv4Jy9W3OL-Ab8B0xjwsjo6XujnUWqn2c8qp6ZBmIV0Mw",
+        "author": "Ben Willmott",
+        "authorURL": "http://lh6.googleusercontent.com/-nrlt1f-BNDc/AAAAAAAAAAI/AAAAAAAAAE0/Th4S3Klf85Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-nrlt1f-BNDc/AAAAAAAAAAI/AAAAAAAAAE0/Th4S3Klf85Y/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378306630189",
+        "starRating": "3",
+        "title": "New look?",
+        "comment": "A whole new look would be nice to be honest",
+        "commentId": "gp:AOqpTOEe5i-MJHE3StXMdeZR0uAssZ-clrnGWYZPHHuB9FFGkR5taybot2tk5z0kTHX9HfYQvaN-1bdf7bXa-A",
+        "author": "Ryan Curran",
+        "authorURL": "http://lh6.googleusercontent.com/-OqbjUBgIp1I/AAAAAAAAAAI/AAAAAAAAADE/vSjYInwQfig/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-OqbjUBgIp1I/AAAAAAAAAAI/AAAAAAAAADE/vSjYInwQfig/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378341235459",
+        "starRating": "3",
+        "title": "Yay Crosswords - But Can\\'t Clear All Sections",
+        "comment": "Yay, I can finally get back to Guardian crosswords on my mobile. Feels smoother than the old dedicated client, and more than happy to pay the 69p/month tarrif.  However, since I\\'m here only for the crosswords, I\\'d rather like to clear all the other sections from the homepage.  I can clear all but one, on clearing the final one the application crashes and restarts with all the sections loaded again.",
+        "commentId": "gp:AOqpTOElgB0PuhHqkwU5M4c9TSzBMFjoeAPyliFBKlPr9_eTIg_FmJpAIqg1aBsfr_uG5J2Zn76rPv7TLlH_rw",
+        "author": "Kian Ryan",
+        "authorURL": "http://lh3.googleusercontent.com/-JpLOFTySp1c/AAAAAAAAAAI/AAAAAAAABPM/IpJe0knwtrs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-JpLOFTySp1c/AAAAAAAAAAI/AAAAAAAABPM/IpJe0knwtrs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378291496586",
+        "starRating": "4",
+        "title": "Great, with some flaws",
+        "comment": "The app is generally very good, easy to operate and looks nice, but scrolling within stories is horrible, both laggy and slow. Until that\\'s fixed, I must stay with 4 stars...",
+        "commentId": "gp:AOqpTOHDGf0szM3NnDhEqsJ2RPj5JNl-nkQ1p3YV56_Ip8XR7oWwl3fgqaN8fyhQybPtDcRkNxolWAAFqpNOCQ",
+        "author": "Yuval Novik",
+        "authorURL": "http://lh5.googleusercontent.com/-gSk6IMjqV_U/AAAAAAAAAAI/AAAAAAAAACA/_E7tsJiLhqE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-gSk6IMjqV_U/AAAAAAAAAAI/AAAAAAAAACA/_E7tsJiLhqE/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378379866753",
+        "starRating": "3",
+        "title": "Nice app but useless search",
+        "comment": "The app seems to work well enough but the search (Find) functionality seems to be pretty useless. Maybe I\\'m just misunderstanding but it seems you can only search for pre defined terms, not content in articles. If someone could explain how I could search for articles containing say \\'bedroom tax\\' from the app, I\\'d be impressed",
+        "commentId": "gp:AOqpTOGW179-a6DCCOve3qJN-05My-V2Ai0twmugA7qFfg9IQnqHaYHYjtACxSwAYJZFxz-8-a5MfBolRvbgQA",
+        "author": "Chris Whittleston",
+        "authorURL": "http://lh6.googleusercontent.com/-cPn7OcJ3HpU/AAAAAAAAAAI/AAAAAAAA-O8/zbOGY9BCOqk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cPn7OcJ3HpU/AAAAAAAAAAI/AAAAAAAA-O8/zbOGY9BCOqk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378287974259",
+        "starRating": "4",
+        "title": "Good apps...with reliable  news",
+        "comment": "One of the best new apps",
+        "commentId": "gp:AOqpTOFJpyxyzlva6ks4F36XP0YYdG0GxAVeOiiJkdIMdPEFcsnpL1lI4cAYJHXZyJFlrs0dPhMv0AJBZxj2Ug",
+        "author": "Aneel Koirala",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378268464192",
+        "starRating": "1",
+        "title": "Nagging",
+        "comment": "Was fine the first day,  after an update all it does is nag for money. Uninstalling now.",
+        "commentId": "gp:AOqpTOG5Q8_bvyCNEr5dikQWVy-vBI58Y6AhfbtFUinck8FPncWruJMGDA2z9k77QJLNpR1rH-YWnmtg8SnICQ",
+        "author": "Ariel Nieves",
+        "authorURL": "http://lh4.googleusercontent.com/-rqjBr5iU9ik/AAAAAAAAAAI/AAAAAAAAAAA/tnNDtWMHliE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-rqjBr5iU9ik/AAAAAAAAAAI/AAAAAAAAAAA/tnNDtWMHliE/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378239460767",
+        "starRating": "5",
+        "title": "Awesome!!",
+        "comment": "Mavailable.r news, reviews, opinions and most of all Sports analysis, top notch, please don\\'t let this premium option take away from current content available",
+        "commentId": "gp:AOqpTOFvt2swh_E-j4hEb3Fa4KC2xrISsz0ayeXS8UwkI79utKxZW-yEYb-30R6hxyNvY1epQJAjnmlalQ9rJA",
+        "author": "Tadhg Lane",
+        "authorURL": "http://lh6.googleusercontent.com/-gejG3mmPGIk/AAAAAAAAAAI/AAAAAAAAA3M/OzutDZOpw5k/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gejG3mmPGIk/AAAAAAAAAAI/AAAAAAAAA3M/OzutDZOpw5k/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.3",
+        "timestampMsec": "1378286979671",
+        "starRating": "3",
+        "comment": "Widget please, it\\'s android not shit ios",
+        "commentId": "gp:AOqpTOHqPSi9rrSrNHykeBo3koGHPwEHzXHLrjzYtBL1d-k7yJwRNmbcCDXKPjZnfBxUPp7pn0Jg1XTQNodhQQ",
+        "author": "Yichen Hu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378177580947",
+        "starRating": "5",
+        "title": "Perfect now without the ads",
+        "comment": "What can I say, now it is the perfect news app.",
+        "commentId": "gp:AOqpTOG9bfinBfCPclo5synQFZ6mGfaL978z-cYDJ7w2hx7Gw81uBuxc_cW32E6KdYEiO9dkEw7AUcyrRlBreg",
+        "author": "Christof Damian",
+        "authorURL": "http://lh6.googleusercontent.com/-cZTbsLHGAZQ/AAAAAAAAAAI/AAAAAAAANmM/iXaCm8k0N7E/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cZTbsLHGAZQ/AAAAAAAAAAI/AAAAAAAANmM/iXaCm8k0N7E/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378218558915",
+        "starRating": "5",
+        "title": "World\\'s best source of news iimho",
+        "comment": "Now just got better-looking. Slightly apprehensive about introduction of \\'premium fee\\'; that has a tendency to hide all but the headlines & weather after some time...",
+        "commentId": "gp:AOqpTOEUpa8LmOls0zA9kh5L9IfCjtp1ohKuqd0SAj6KIUQo4bzSBIuY76hIJsi_4U1DRj-ppVpoC3AHSCQCBQ",
+        "author": "diederik klumper",
+        "authorURL": "http://lh4.googleusercontent.com/-SLphcFWoMK4/AAAAAAAAAAI/AAAAAAAABuA/2JTIUF1-hLQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-SLphcFWoMK4/AAAAAAAAAAI/AAAAAAAABuA/2JTIUF1-hLQ/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378137549583",
+        "starRating": "5",
+        "title": "Excellent!!!",
+        "comment": "Surpurb app, worth more then 5*****. Completely blows all other uk newspaper apps out the water.  I had the uk times as a free orange swappable app, but not any longer as they think its ok for you to pay for it! Even though its far less superior and dated news updates.  No thanks. This doesn\\'t get any better!! Thank you guardian!",
+        "commentId": "gp:AOqpTOFxbfeeczHXdbokAw7mmmT7Go3HaULgtk7eXivZR1OoAP32ybkxjUPTFyBe4I0Cg6NoqdgzxGD2DmLiuA",
+        "author": "Mark Davies",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378147931643",
+        "starRating": "1",
+        "title": "Fox News wannabe",
+        "comment": "Heavily biased reporting. Lots of self-righteous journalism that that is rife with puerile elitism. Al Jazeera is the best app for unbiased world news, the guardian is just a bunch of whining dbags.",
+        "commentId": "gp:AOqpTOFzIoXHox2-_QXxWLJyywIxEVJe7u-rFiR48ZXg3qa9rDsEezkotLUv68HyJW6DEctLLr7dL4yi2puZOg",
+        "author": "matthew mcguire",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378150412149",
+        "starRating": "5",
+        "title": "Much improved",
+        "comment": "Happy to pay a small amount to ditch the ads! The best newspaper app there is",
+        "commentId": "lg:AOqpTOHxqulwLgH8x3hfFNGT0wbV_RO9IPfrluhu0DRqMgfiCHzLzflBYz3ooYGpVg1PSkfXwSndk5Gr737atg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378157982837",
+        "starRating": "1",
+        "title": "why..WHY !!",
+        "comment": "why do you have ad\\'s in international widely known  news app , i mean honestly that\\'s soo low in beyond limits !!!",
+        "commentId": "lg:AOqpTOEtzpvjmLiSiz0j8ioLKnVTmJn55JVP4aRAzaQnJVitZ9Rb2Zc7dtl_MBZiLMOlHkg7Y9EkJn4pZgZufg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378147865015",
+        "starRating": "5",
+        "title": "Flashing adverts too intrusive!",
+        "comment": "Now the subscription option is available, I give it 5 stars! And all for 69p a month - Bargain!",
+        "commentId": "lg:AOqpTOEgP91DCdZaGEUQcKNwaYP__hEOMijZOWCvsUhq-H2a27IvavYwse5pGnnXD7CU8tFZxxM9lBA6b8nGkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378147365704",
+        "starRating": "2",
+        "title": "Was good...",
+        "comment": "..while it lasted.",
+        "commentId": "lg:AOqpTOFlMPT85sO5JfbS2UxqwQ81_oP-VwBmzZzScUY3HlhkWvMVbv-C2KZsC6qNvWajnxJSgHretjSl6R0UmA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378187502352",
+        "starRating": "5",
+        "title": "Missing button",
+        "comment": "I can\\'t seam to find the button on this app marked \\\"send all data to NSA\\\"",
+        "commentId": "gp:AOqpTOHYTqWIC5ihLX8fkB2frnYmdbwriH8Gfh9BlAnUgbTz8Gjb7Iz_e37UcDNJoMA6dCxZbH2efGVfCqrQiw",
+        "author": "Matthew Baynham",
+        "authorURL": "http://lh6.googleusercontent.com/-0RF-6k5FRgE/AAAAAAAAAAI/AAAAAAAABig/hX3l_RNnYrQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0RF-6k5FRgE/AAAAAAAAAAI/AAAAAAAABig/hX3l_RNnYrQ/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378202552346",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Best news app available! Great variety of articles.",
+        "commentId": "gp:AOqpTOFRPX2h14GehNs-g_FgdfOrjkpFSl4uZHDmnCLH5UPstaFTanCLeOR37rFYvc7EXt2KqmVt9CaF_FN_xQ",
+        "author": "Marti Mclean",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.7.2",
+        "timestampMsec": "1378164714902",
+        "starRating": "4",
+        "comment": "Superb, and free",
+        "commentId": "gp:AOqpTOHnhD31CiK9GM98kNABwZ3rrQaIeQppR6A-h93jWhOklR4TCBWauxObBZ_wk3BfdziOp1FEqbpVRe7xOw",
+        "author": "Mark Carter",
+        "authorURL": "http://lh6.googleusercontent.com/-5P0JGyoDf7A/AAAAAAAAAAI/AAAAAAAAAeQ/Hq0qIJZ0rNI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5P0JGyoDf7A/AAAAAAAAAAI/AAAAAAAAAeQ/Hq0qIJZ0rNI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.guardian.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCOUNT_MANAGER",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

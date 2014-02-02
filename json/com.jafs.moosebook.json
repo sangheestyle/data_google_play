@@ -1,0 +1,28 @@
+{
+  "title": "Moose brushing his teeth",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jafs.moosebook",
+  "category": "Books & Reference",
+  "price": "$3.99",
+  "datePublished": "February 22, 2012",
+  "version": "2.0",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "WorldOfMoose",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jafs.moosebook",
+  "extendedInfo": {
+    "installSize": "48M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Have you ever seen a Moose brushing his teeth?This exciting new App Book engages children through rhyming, singsong lyrics and whimsical, vibrant illustrations. Children follow \"moose\" along on his quest to rid himself of slimy, green, grass and hay-laden teeth. Sling the green slime, brush \"moose's\" teeth, help him rinse and spit and finish off with necessary flossing are some of the hilarious interactive activities each reader can enjoy. The young tooth enthusiasts can either read the book themselves or choose to have the book read to them. They can move through the book at their own pace and enjoy each interactive adventure as they choose. Can a moose sing? This tooth-brushing moose DOES and you don't want to miss the fun as he learns the importance of good dental hygiene!Based on the successful book series âHave you ever seen a Mooseâ from the author Jamie McClaineâ¢Read to meâ¢Read alongâ¢Play gamesâ¢Interactive activitiesAlso download the new game \"Have you ever seen a Moose play a game\" with Moose and friends as you master the art of launching his spit through moving rings. Hit Ernie the Eagle and multiply your points rapidly! This fast-paced, addictive game has multiple levels and increasing ring speed as it challenges young and old alike!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

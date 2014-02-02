@@ -1,0 +1,52 @@
+{
+  "title": "Unique Lock Screen",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.UniqueLockScreen9_3",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 27, 2013",
+  "version": "01011",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "15",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "HD AllinOne Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.UniqueLockScreen9_3",
+  "extendedInfo": {
+    "installSize": "887k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Unique Lock Screen published as a unparalleled originality mobile phone lock, has a open door appearance and unique unlocking way. It has same principle with sliding lock but more functional and interesting than general unlock tool.A phone lock owns Quick Links (link to contact book, message page), Date and Time, \"SLIDING\" open a door functions offered for free now!TRAIT owned:Free mobile phone screen lock.Quick link to make a call.Quick link to make a message.Unlock easily and quickly.Detail date: day/month/year.Real present time: hour : minAppearance:A gate or door placed on phone screen to protect information in phone.After drag the LOCK to open, you can see the door opening progress.It has same appearance with electronic lock. Let's know it better. An electronic lock (or the electric lock) is a kind of locking device which operates by means of electric current. Electric locks are sometimes stand-alone with an electronic control assembly mounted directly to the lock. Usually electric locks are connected to system of an access control.After downloading and install to phone, please do not forget give us good comments and we are honored to solve problems for you by receiving emails.### Known before download ####We work hard to develop apps and offered all for you with 0 money. In order to keep company running, our apps are ad supported. If you get icon ads or notification ads in software, hope you understand us. If you dislike them, just uninstall this app and please do not leave us low ratting!-------------------------------------------------------",
+    "reviews": [
+      {
+        "timestampMsec": "1371264026943",
+        "starRating": "3",
+        "title": "Bad",
+        "comment": "Improve graphics",
+        "commentId": "gp:AOqpTOEt6Hyko8BvVcGtKfea3ienbZGVUFukc54wPbSzqh1pJPtsx66OOEUbPCzEDtqAwsnLfUxfsDciG2Yegw",
+        "author": "Preetsingh Panesar",
+        "authorURL": "http://lh4.googleusercontent.com/-6smQ8-qXhZA/AAAAAAAAAAI/AAAAAAAAAFE/lDafucVe-J4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-6smQ8-qXhZA/AAAAAAAAAAI/AAAAAAAAAFE/lDafucVe-J4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365361061505",
+        "starRating": "1",
+        "comment": "POOR..always FORCE CLOSE",
+        "commentId": "lg:AOqpTOHO5GEeBIWMjUO-vVmKT216MSFokTMFqPaSKAw47qPeI7LXP6jc4Ub5mP73hMQ4XE3fslZOrPblb9guBA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNAL_SYSTEM_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

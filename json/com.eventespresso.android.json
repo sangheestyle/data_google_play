@@ -1,0 +1,103 @@
+{
+  "title": "Event Espresso",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eventespresso.android",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 20, 2012",
+  "version": "2.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "2.7272727",
+  "contentRating": "Low Maturity",
+  "creator": "Seth Shoultes",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eventespresso.android",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you host events such as concerts, yoga classes, yoga lessons, training seminars, etc., and need to check people in at the door? With the Event Espresso WordPress plugin and our ticketing app, you can have your own registration system to manage attendees and check them in at the door. Don't rely on a third-party website to handle your event registration and attendee management, get your own event registration system with Event Espresso. More information at http://eventespresso.comThis app will work in conjunction with our ticketing system QR codes, via the add-on we released earlier this year, by scanning the codes at the door to check in attendees.* Speed up registrations at the door* Real time integration with the attendee list* Allows for multiple check-in \"stations\". Eg. Use multiple iPhone phones and iPods to log into to the same attendee list so employees can scan tickets using multiple different iPhones.* Send an e-mail to the ticket holder with a \"Thank you for Attending\" (Coming Soon) - This will save time from currently having to check the name off and having attendees sign a confirmation that they were present at the event. This will help to avoid refund situations.* Keep your events \"Green\" by providing an environmentally friendly ticketing solution.* Custom tickets can double as a name badge!",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1360862145350",
+        "starRating": "1",
+        "title": "Could be great",
+        "comment": "At this time I can not recommend this app as it creates more problems than solutions. Needs quicker QR scan, at least on htc evo, flashlight on/off option could help, the current day\\'s event is found in past events section. MOST OF ALL, NEEDS A MULTIPLE SCAN OPTION. In EE, one QR code is generated for each ticket, but a ticket can be good for multiple people. If a ticket is good for say a Qty of 4, you must scan it 4 times to have correct count! Your gate line backs up while trying to do so.  It Sucks!",
+        "commentId": "gp:AOqpTOGdwruNrjE-6jdZ39sL1hTpUBSpz1oOPRyXJa3I98CiZ4xMeatOZS-L9W5Kxv_Hyk39sx0_oXWev6EI",
+        "author": "Jeff Copeland",
+        "authorURL": "http://lh6.googleusercontent.com/-xF6gqc_n6JE/AAAAAAAAAAI/AAAAAAAAAGY/33F_LUXd8Hs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xF6gqc_n6JE/AAAAAAAAAAI/AAAAAAAAAGY/33F_LUXd8Hs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1362463662066",
+        "starRating": "2",
+        "title": "Fetching event goes on and on",
+        "comment": "Downloaded this app but it tries to search for events forever,  I have set up the event in word press plug hoping this app will help,  guess not.",
+        "commentId": "gp:AOqpTOGND-L8I7-bRBPorvhnvhx00H3aTrfESXv312u5jIu3LQf3SHupYNWYOOoir3nnZrjnA6wNz76o9YD2",
+        "author": "Kenneth Chew",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1321630610857",
+        "starRating": "3",
+        "title": "Crashes",
+        "comment": "Crashes when you try to access settings while scanning",
+        "commentId": "lg:AOqpTOEjGhM_tzzLWiJJtsXcdmZf03h2BVdtBLuo1LnU6NQAh_Z_QRaOeKrnr0hOYrx6RvdCoIcFpPq9fo02",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1306763416251",
+        "starRating": "1",
+        "comment": "An exciting application but no chance to test it without first buying WordPress modules that I don\\'t own.",
+        "commentId": "lg:AOqpTOFUqBmBeKuggCnfq3y5EevLvR27lkIFYvy8-RzMbKweD3N6_NZrd3idX3vM2TjAIdujkWw_wGFe4HQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1311366291944",
+        "starRating": "1",
+        "comment": "HTC Incredible. Many random crashes. When a QR code is finally read, the status is not shown or allows me to do anything else. Poor documentation.",
+        "commentId": "lg:AOqpTOEkCPHQl0TQWzkqgfqd5WNMYheTvoyeIT0iEa66XSvSFW-_hHgDCvVMkA4hFEYPYJ8Qn4tFThgVJetv",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1306659033653",
+        "starRating": "5",
+        "comment": "Will, Do you have the API files installed on your server? You will need those files and the latest version of the plugin and ticketing addo installed.",
+        "commentId": "lg:AOqpTOF9EphRGQOj4l3MUnr7wBPdlY5YEQKtLMYOpt2KshzI3Em37AKIFBx14q_F4ES8bNjjmZ434BOI4LtG",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

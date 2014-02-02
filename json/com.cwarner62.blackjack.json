@@ -1,0 +1,211 @@
+{
+  "title": "Casino Blackjack",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cwarner62.blackjack",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "April 10, 2011",
+  "version": "1.6",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "765",
+  "rating": "3.6379085",
+  "contentRating": "Medium Maturity",
+  "creator": "Craig Warner",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cwarner62.blackjack",
+  "extendedInfo": {
+    "installSize": "926k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Not your ordinary blackjack app - a real blackjack simulator with standard Vegas rules, packed with customizable features and different game modes!Regular Mode is a completely realistic blackjack simulator (card order in the shoe is randomized during the shuffle).  Shoe is 6 decks by default and is shuffled 3/4 of the way through.  If pro features are enabled, these can be customized.  You start with 1000 chips and $10,000 in the bank.  You can \"borrow money\" if your bankroll goes negative. Stats are tracked so you can see your performance over time!  Start a new session anytime from the stats page.New in version 1.5: You can enable many of the \"pro features\" for free!  Note that this will also enable an ad bar at the bottom of the screen but you can always uncheck the setting and turn the ads and pro features back off.  The pro features include:*Expected Value (EV) calculated live for every play based on the up cards.*Customize the rules, # of decks, and when decks are shuffled.*Lots of stats tracked for both the current session and overall including stats on your double downs, splits, and hand distribution.*SurrenderPlus 3 additional game modes:*Cheat Mode stacks the deck in your favor.  Despite what some reviewers seem to think, the deck is randomized in Regular Mode.  However, in Cheat Mode it is harder for you to bust and less likely for you to pull a low card on a double down.  If you'd rather win than have realistic odds, Cheat Mode is for you!*Sim Mode allows you to prepare yourself for any scenario you may face in a casino.  Its not actually a blackjack game - you can't win or lose bets - but it allows you to see your EV for any possible hand.  Click on either of your cards or the dealer's first card to choose the value of that card and see what your odds are.  Click a card again to change its value.  Not sure if you made the right play while at a casino?  Enter the hand in Sim Mode and find out!*X-Ray Mode: Wouldn't you like to have a pair of X-Ray glasses at the blackjack table that allow you to see the dealer's hole card?  Now you can with X-Ray Mode!*Note on permissions: These are required by Mobclix for ads.  However, you must enable pro features for ads to be run at all.  The choice is yours.",
+    "reviews": [
+      {
+        "timestampMsec": "1367006808461",
+        "starRating": "1",
+        "title": "Blatently rigged",
+        "comment": "Worst odds I\\'ve ever seen.  No where near realistic for any dealer to be this lucky. Worst blackjack game in market. Anyone saying anything contrary work with the company. Owners obviously anti-gamblers.",
+        "commentId": "gp:AOqpTOHncmJ_Wzir-pLT4mk8XNiDgtiKm-qIug9QanfIfKxFQsIbgaieIxVjBI74uifNZrLEy7eceHu6Dwdc_ow",
+        "author": "leonard dickey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306776875045",
+        "starRating": "1",
+        "comment": "Dealer wins far too much. I will get 19 or above and always end up pushing or losing. Strange and unfair",
+        "commentId": "lg:AOqpTOFCVmMkEvr6f_DsMlUYUEoForRqNRi8TTtOsUGpgn1GOBhrQvoaSCSj0jEUz9lMrFIc5hLbd0xNOMq3xGE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365608726171",
+        "starRating": "1",
+        "title": "Unreal",
+        "comment": "This app was made by someone who is against gambling.  I\\'m down $1.7 million betting $10,000 per hand.   I use basic strategy.  Way to many BJ\\'s for dealer.  At one point I lost 30 out of 33 double-downs.",
+        "commentId": "gp:AOqpTOHlZ6D0gKHcKaWXetpiVOqwoifXJJnQ7lGW9gmtgkqqn4zCwuyYQzHdiNb9IP_lDtxkS7Efz2Trceym1ok",
+        "author": "Ron Crowther",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302657789291",
+        "starRating": "1",
+        "comment": "Game is only good for wasting time. The deck is totally stacked in the dealers favor. Impossible to win.",
+        "commentId": "lg:AOqpTOH5SewbDq_JhcRcfd7Um2FoNOJ6sE2zwO1itcDLN_fgZRwkY6z4E-0-ExBvXcf4ZweXsxdhs7g9KTrXkdM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362359732186",
+        "starRating": "4",
+        "title": "Very accurate",
+        "comment": "Found this to be very accurate in its odds. Anyone who has played other black jack games is used to winning too easily, this is much like playing at the table. UI could be a bit better. Buying chips is a bit ugly other than that a good game.",
+        "commentId": "gp:AOqpTOHnvw0G9inHGXxVm136rMgEHxklUqWevrd0Tq-oepN8Vaa_XVeoLvtspXIza3mxWLwubx8_wUCebR1XDic",
+        "author": "Michael Bell",
+        "authorURL": "http://lh6.googleusercontent.com/--OlJE0oldS4/AAAAAAAAAAI/AAAAAAAABBY/dq1DKTj_NvU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--OlJE0oldS4/AAAAAAAAAAI/AAAAAAAABBY/dq1DKTj_NvU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375703227077",
+        "starRating": "4",
+        "title": "Good game",
+        "comment": "Getting ready for my Vegas trip. The people crying obviously aren\\'t PLAYERS. They may play a little but, this game is very close to real odds..... In real life sometimes dealers do go on ridiculous steaks..... Just what I was looking for... Nice and quick without unnecessary graphics. Would have gave 5 stars if it had a multiple hand option.",
+        "commentId": "gp:AOqpTOGXiPBtHkQDqXnsHgkSRWCa60Dp82OE32OoMNDTTES9Se_AcyMicbrw7szujxEHDM7gHUu6WkLEgznwupA",
+        "author": "cyd martin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334097276297",
+        "starRating": "5",
+        "title": "Great blackjack app!",
+        "comment": "Best I\\'ve seen...love the ability to play as fast as I want to without getting bogged down with excess graphics. Stats feature is great. Best way to practice blackjack is with this app.",
+        "commentId": "lg:AOqpTOGbSa5DkPEfwfVykWzUg9HT7PD5YtGC_eNn6sw6UhaQ347xEDhwMVAANvqLX-6vgMIhgGFa_araWVr4X8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330714981104",
+        "starRating": "4",
+        "title": "Realistic?",
+        "comment": "To all those who say they can\\'t win, you just suck at the game. Learn basic strategy. That is though my only question about this game. I\\'m consistently winning 51%-53% of my hands played. Mathematically I doubt this is feasible. I always thought that played perfectly I should win about 48% of the time. Weird.  Overall good game. VERY customizable. Lots of things to toy with. I do wish it looked better tho. The plain white background almost hurts the eyes after a while.",
+        "commentId": "lg:AOqpTOGM2WmkCR1USicE-RvPC6a_tHPjX7ycXneqL-dCuf0ORvQ01xmoBlyVPuAQB9eJoNJGCVcj8sle24AmZQo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351606216707",
+        "starRating": "5",
+        "title": "Lose all your money, just like Vegas!",
+        "comment": "I love this app! Those of you complaining that dealer wins a little too often are just a bunch of crybabies. The reality is the odds always favor the house. This is a great tool to set your Vegas expectations.",
+        "commentId": "lg:AOqpTOFV4JYzfJC9Sfe10Dx2XzTiHUNZ5rnxd-g2NcgajxRQXpCzdI6FtqHPb09ooVQ-x6TkKmxZ8l6__uS2djA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335374915675",
+        "starRating": "1",
+        "title": "Worst game",
+        "comment": "No interactive graphics... Boring at 1st site... Uninstalling now",
+        "commentId": "lg:AOqpTOFEkvs1NOtKrMvlBzbPo-UuSkesKKbbluN5iUIUfbpjWNjpy4ZDd-dzoOvsKjH_A6pB7W_lBPtMALPJDWo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330123840826",
+        "starRating": "1",
+        "title": "Casino blackjack.",
+        "comment": "Just like a casino, dealer always has great hands. Whoever made this game, its not real let us win! Lame game, no fun just losing!!!",
+        "commentId": "lg:AOqpTOFXSxG_NnaYi8BpSZ30vQ0wZradBZimB_Kt2UobKjetjmPSNakqMBAgbDFDHHOWeuRACJ516i9MCQs-Igg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377396586626",
+        "starRating": "5",
+        "title": "Excellant",
+        "comment": "Super cool game big bankroll small spa e on device and true random cards best fro ex dealer of game",
+        "commentId": "gp:AOqpTOGiQcFmO_RmtKUyu_x8wkIh6AmSE1vys5MHemn7HjhHCGrT1Yri9vazG5-0dBB8OsF7UYRXpxNVFq-jxGY",
+        "author": "edward haynes",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338005205353",
+        "starRating": "4",
+        "title": "Could u please...",
+        "comment": "Can u add the following features: 1) Shuffle with one deck left 2) double only on hard 9, 10 or 11 3) dealer only draw one card initially.",
+        "commentId": "lg:AOqpTOFEfalvKP1vFH5ZQWHoUjJEqHaBaaaF1u2RaaJ9z_iYnfEqVBT9GJ3yjsDky4WiPOVEH1X9EJ4DVgfpPQ0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306308923203",
+        "starRating": "2",
+        "comment": "Boring interface, bets not working, can\\'t make changes Samsung Epic",
+        "commentId": "lg:AOqpTOG7aE9WTU50mwOm6f1hEFzQot1aNNTX43xTMUU6HX0GxaozfuHZ-T0bEDeVL1PHRfjlnK2AZ2AGKO6D81Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320382394014",
+        "starRating": "5",
+        "title": "Good for practice",
+        "comment": "I like it",
+        "commentId": "lg:AOqpTOFBWZfFb8G7ZpgEkW9T-UeDxkEJJmISx5j9LqAjr8uyU6-SdNBACWPtY-WbQAt4xxBYZUtT6_cteAg99N8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321470750684",
+        "starRating": "1",
+        "title": "Cant ever win...",
+        "comment": "But its got lot of money u can loose",
+        "commentId": "lg:AOqpTOGIQnceRCR0cLU_Ne6OqU4GqdxPnigRowMmgpJ__ZiYCrwGOLALZsTsOuMbDWilteR2YN1f5Rwk18hVxGs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1305456869703",
+        "starRating": "3",
+        "comment": "I cannot give a fair rating as it does not work on my EVE...",
+        "commentId": "lg:AOqpTOFUkHjHk6eGZA-LOk1JSR2bY9ju2z33QaJu3IU5lji2Zr02cyCa8WqCGYrujxB0BrStSRIacwJ8RP0BVZQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335083869075",
+        "starRating": "1",
+        "title": "Rigged!",
+        "comment": "Why is it that dealer wins 90% of the time, gets blackjack 5 times to my one time?  This was one of the Best apps ever. What happened?  No fun to lose all the time!",
+        "commentId": "lg:AOqpTOFi1icZjaHNmdHt9uNnCrD1znlHaXPY8etFxkCeMTv7SPl7iVmoGgZ5ZQCV3hBRbv_KSsw8x_-wES75EaE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307884587893",
+        "starRating": "1",
+        "comment": "Very poor interface and cards are not shuffled correctly, but with every deal making the odds of winning highly stacked for the house",
+        "commentId": "lg:AOqpTOFzOfSIdi58UyD1EtlCBxubcAilAMcTBBP5sGvhnfF-hvnhoDSnc0D3VCpqyagZxB03-yhRPsfhdpyE2w8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370864413973",
+        "starRating": "1",
+        "title": "Dumb app",
+        "comment": "Fucked up app puss app",
+        "commentId": "gp:AOqpTOEWulsA9Jl7Kv47TFONRzOxmIwpU6mLcLUe_tT095AD5hGiVE305wbUkwF9H35GFkIhW4Cnei2vOGBtrd0",
+        "author": "Joash Singh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

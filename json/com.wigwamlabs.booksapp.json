@@ -1,0 +1,226 @@
+{
+  "title": "BooksApp",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.wigwamlabs.booksapp",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "November 6, 2011",
+  "version": "1.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "227",
+  "rating": "4.0396476",
+  "contentRating": "Everyone",
+  "creator": "Wigwam Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.wigwamlabs.booksapp",
+  "extendedInfo": {
+    "installSize": "634k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "BooksApp helps you organize your home library effortlessly. Scan the barcode of a book and all its information is downloaded from the web and saved to your phone automaticallyÂ¹. You can then easily keep track of your books.To lend a book to someone, scan it (or open it from the list), press \"Lend book\" and select your friend. When a month has passed, you will get a notification to remind you where the book is. If you have a book you want to recommend to a friend, you can do that over SMS, e-mail or Facebook etc.You can organize your books into collections, e.g. \"Favorites\", \"Reading now\" or whatever tickles your fancy.Finding more books is trivial. You can search for books by the same author or publisher, or books dealing with the same subject, all without typing a single character. Saving any of the matches to your phone is just one tap away.You can export books in two ways, either as a spreadsheetâwhich you can send to anyoneâor to Google DocsÂ². The spreadsheet is a CSV (Comma-separated values) file that you can open in any spreadsheet program. You can also send the file to other BooksApp users, both Android and iPhone users.Importing books is done by opening a CSV file from an e-mail or from the file manager.BooksApp exists for iPhone as well, see www.books-app.com for more information.Happy book organization! :-)BooksApp is open source and released under the Apache 2.0 Licensehttps://github.com/jonasb/BooksAppÂ¹) Should the book not exist amongst Google Books vast amounts of books, you can always enter it manually.Â²) Google Docs export requires Android 2.1 or later.",
+    "reviews": [
+      {
+        "timestampMsec": "1370581321597",
+        "starRating": "4",
+        "title": "It almost meets all my needs...",
+        "comment": "I was so happy to find this app!   As a elementary teacher, I have a lot of my personal books mixed in with the classroom library and this app makes it easier to track where and who has what.   The only downside is that the app doesn\\'t have a way to track multiple copies.  If this feature could be added, it would be perfect!",
+        "commentId": "gp:AOqpTOGhsDYQsQ2akPDtr9AE1owomJecZ0EdMy_5Z0iZT9HEeLKgODD8TtdvrJX0ASp4mbRq1IULLpOjwJxADuo",
+        "author": "Krystal Broodie-Stewart",
+        "authorURL": "http://lh3.googleusercontent.com/--7q9wIMZISY/AAAAAAAAAAI/AAAAAAAATbk/XBKOqVksii0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--7q9wIMZISY/AAAAAAAAAAI/AAAAAAAATbk/XBKOqVksii0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353055881213",
+        "starRating": "4",
+        "title": "Love it but....",
+        "comment": "Love this app. Does what is says and I love the way it is set up. However it needs copy button instead of sending as a spread sheet. Would also love to have this on my laptop computer. But over all a brilliant app",
+        "commentId": "lg:AOqpTOGQEX4Trhxlreqw-oPOtrgTnK_XP2UV7gUJUsskchQz97qRD3fuubyVUfJcADPwW1m-mmybCYAkLXSFz8c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306233334814",
+        "starRating": "5",
+        "title": "Just what I\\'ve been looking for!!! :)",
+        "comment": "Excellent app. Makes documenting books so much easier. Easy to use and scanner works well. Ability to categorise books into read and to read and can even add your own categories so i was able to mark books as sold :)",
+        "commentId": "lg:AOqpTOFd1OOFLvghTdp9OXDcwZLInNTwdbt68sBTrLMYxSwsBQ9aknYhzf5zoBWDV2rMXzIRm74L9LYUqjzjdfw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376776492038",
+        "starRating": "3",
+        "title": "A good start",
+        "comment": "Fast search, good simple interface but needs to be able to sync to get some real power.  Couldn\\'t find import functionality.",
+        "commentId": "gp:AOqpTOGajbzVfZiTRqRW97AYBDVPS30zMyGRRPHdMXYGhAb9Mz98izWqtEX5yluAOw9EobAsXkl0o5wWuAGH6QE",
+        "author": "Edward Whishaw",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367696040775",
+        "starRating": "2",
+        "title": "Good app but NO Pro version for android",
+        "comment": "Cannot backup books if changing phones.  Very poor.  seems all development is now for Iphones only..",
+        "commentId": "gp:AOqpTOHQQv2KW9vGNymEc4DcHXTmdolXoBHPK8-SDu57o7ppyl7TfwkQ5tryTzqT_B_V2A2RPBsx0C24cPMuO08",
+        "author": "Gwenda Young",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374727525282",
+        "starRating": "4",
+        "title": "Wonderful but could be better!",
+        "comment": "I love this app. I appreciate that the app has its own scanner so I don\\'t need to download a separate scanner app just to scan my books\\' barcodes. For books that have to be manually inputted, I wish there was an option to find/import the book\\'s information & cover from the internet. Also, I haven\\'t tried the lending feature yet but it looks like you can only lend to your phone\\'s contacts? How about a manual name input option there? A version for the iPad to use in the classroom would be greatly appreciated!",
+        "commentId": "gp:AOqpTOFBbezf3FhBKhLGfXC_pMoNGcrEJkfiKQDOHYHrrLj5KjIYAHOKW5pJnUC-h3-pj5FUpmtp0RUjslCDm3s",
+        "author": "Oanh Nguyen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377133331686",
+        "starRating": "4",
+        "title": "Amazing for teacher libraries",
+        "comment": "Amazing invention fir teachers.  Just wish it could scan  and recognize books that need a typed ISBN code :-\\\\ maybe in the updates?!?!?",
+        "commentId": "gp:AOqpTOEph4JjqFxZ9zfOkb-E9oasN1r71dGqcJmcokczdkf2kJNUpdNs9c19nxnJE__IoTnT7IfyUJkpHmwZ0G8",
+        "author": "AURORA ALEXANDER",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327770335066",
+        "starRating": "1",
+        "title": "v1.4 doesn\\'t work with ICS",
+        "comment": "Crashed after scanning a bar code on my galaxy nexus.",
+        "commentId": "lg:AOqpTOEaEr96-7dhIj4FBMyyA1_rkXyZU6nT6C0K5OQLvCK_w20VtkvVU4RWcw7tBdSyuSvi5zQdAJm8WpqL508",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357566787310",
+        "starRating": "5",
+        "title": "Fab!",
+        "comment": "Scans most of my books, and much easier to search shelves than other apps i have tried. Would love to have CD and DVD apps by this programmer!",
+        "commentId": "gp:AOqpTOGMk3Hvr4vI8Lov9iVW9vHVm9JBAuzX-kbR4dBLYCY2mDCDlMN0fJNr3pvBIvtOq8saa7yWgJnKpo4my2o",
+        "author": "J Rourke",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359318546748",
+        "starRating": "5",
+        "title": "love this perfect",
+        "comment": "thank you wigwam labs. i can keep track of books i\\'ve read, or want to read.  comes with a scanner as well as ability to organize.  if you made a pc version so i can keep in case lost phone would be the cherry on top!",
+        "commentId": "gp:AOqpTOHKsoLaGzy5y_2Ip_WlIIRPQNpHRxh8NqeM_7E3uVoFwQ5qscC8w8C6rCgDXi3XfC01MQKBatNuJ6hvD0I",
+        "author": "Melanie G",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349278753247",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Its the best app I could find. Tried others & didn\\'t like them. I changed my rating because I found out you could search foe the book if scanning didn\\'t work. All around really is best app.",
+        "commentId": "lg:AOqpTOH91xbkLCPEGhHHwFB2PmOqXPBnx_sIVKWPeDKHQiA0_jjIHhxeSi9tJlf68MJzXGJnsmAOcoHJXmccLIw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360651837868",
+        "starRating": "2",
+        "title": "Force Close",
+        "comment": "Amazing app, would help me so much to list all my books. But it keep force close after take the barcode. Please fix it n ill give 5star.",
+        "commentId": "gp:AOqpTOHp_jW8pdqmCHTJvX5nyl00mKuKJ1qHYuHX7qHK1710wU48dknz1oGRs7-Q1ZTHdb7ox37Kx4u7A02Rw-M",
+        "author": "Gita Oetary",
+        "authorURL": "http://lh5.googleusercontent.com/-YlJtzv-elHU/AAAAAAAAAAI/AAAAAAAAGSo/BeY9GO5ifJU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-YlJtzv-elHU/AAAAAAAAAAI/AAAAAAAAGSo/BeY9GO5ifJU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371220691035",
+        "starRating": "4",
+        "title": "Love this app but can suggest a few improvements.",
+        "comment": "I have been able to keep track of all of my books with this app BUT I agree with the other woman who said that the app needs a way to keep track of multiple copies of books. My only issues are that you can\\'t make changes to the order of the \\\"Collections\\\", you can\\'t search for an ISBN number (if the book doesn\\'t have a barcode or it has been covered, you have to enter EVERYTHING by hand), and that when I finally switch phones, there isn\\'t a way to save all of the books to another phone or tablet.",
+        "commentId": "gp:AOqpTOH-G2SGYUD2avBJas7g0945er2ZCpij1CcSiPmMOlCv-B_2C_6f4dBsTeNURfhIqHuit6uvB8zY_nhXQDA",
+        "author": "Shannon Lepak",
+        "authorURL": "http://lh5.googleusercontent.com/-CJq-_mYVN60/AAAAAAAAAAI/AAAAAAAAAYA/tXS5OvD6PO4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-CJq-_mYVN60/AAAAAAAAAAI/AAAAAAAAAYA/tXS5OvD6PO4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352178514592",
+        "starRating": "3",
+        "title": "Impressed",
+        "comment": "I really like this app, is easy and quick however, I cannot make a \\\"series\\\". there is no logical way to create a series even though it is a feature!.  There really isn\\'t a help feature that has helpful information.  I think it is in the right track and would love to see it becoming much better.",
+        "commentId": "lg:AOqpTOHnwEDM5kp2rx9edN924uMCWIgVtb2dZARhXhWEibL2WWtiMmorSuLoJ1cjdq2f_YK4d9nKORJIOAkkrKs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353857538418",
+        "starRating": "5",
+        "title": "Very reliable app",
+        "comment": "I am amazed at what this app could take. Over the weekend I scanned almost 600 books from my shelves at home and it worked like a reliable clock. Most books could be scanned but I have to input info for a few (mostly the older ones). The other good thing is I am able to export my list to Google docs. I could also send a .csv file to my email address. Great stuff. Better than other library book apps that I have tried.   Would love to have option to mark where the books are kept, ie, which shelf. Thanks.",
+        "commentId": "lg:AOqpTOFJtytsyMfKkr8MyiKyLgArFUDad0WwyJAxn6FrZf_A57GaIjsRLr7_uTtsGKAOoF-8MQMR9LOYk9iLR-E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310813106122",
+        "starRating": "5",
+        "title": "Great powerful and useful app!",
+        "comment": "This is a great application, very intuitive to use and withwell designed functions for sorting my books, like custom categories and filters. The scanner is very fast, and it permits to continue scanning and collecting multiple books while it download data in background (other barcode scanners don\\'t permit that). The uploading feature is useful for importing books on anobii or similar sites, now the only thing I need is an import function to do the opposite. Anyway, I find this app really useful.",
+        "commentId": "lg:AOqpTOFZB_GAQwynCiXaRamI2hvxUu0imP0Tv3M1u7kyL6_5C-1wdkJYa9RK6A0pC9uonNbHA-VsDLxqRvFuuII",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372259440852",
+        "starRating": "1",
+        "title": "Crashes; Cumbersome Interface",
+        "comment": "I downloaded this particular book inventory app based on the average rating, but it seems I will need to go find a different one.  This app crashed as soon as I tried to scan my first barcode.  I opened it again and tried to scan again and it crashed again.  Amazingly upon the next open, the book was listed in the \\\"Books\\\" section.  However, I cannot figure out how to add it to a list like \\\"To Read\\\" or \\\"Have Read\\\" which seems like a natural next step once it is in the library.  I think I have to scan it again to add to that list.  I\\'m not sure.  Anyway, the app seems cumbersome and buggy based on my initial use, so I\\'m giving it up and looking for something else.",
+        "commentId": "gp:AOqpTOEau7FJ6heGuHKUVX3XTucDveL6x9dgQ7G-cDEiX3CZcdZNzFCyMA99FP4QgcCJOrd7o3NllUpYH0A2VLA",
+        "author": "Leona Dorothy",
+        "authorURL": "http://lh4.googleusercontent.com/-lxkSoEdLqvk/AAAAAAAAAAI/AAAAAAAAAK8/YdGa1AfoO2g/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-lxkSoEdLqvk/AAAAAAAAAAI/AAAAAAAAAK8/YdGa1AfoO2g/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372858661877",
+        "starRating": "1",
+        "title": "Very Disappointed",
+        "comment": "I was very excited to get this app. It stopped working on my first scan. I uninstalled it and then reinstalled it and it did the  same thing. I\\'m using it on a Motorola RAZR M or rather trying to use it. I\\'m very disappointed with this app I was really looking forward to using it as I have 100\\'s of books.",
+        "commentId": "gp:AOqpTOGC_0sX_NWZEawQN_jJOC4sSuFjaM_6EJkrRYyWX98TDaizNBMPv9zeqCC2OSYg1e_4nLLhVnnAYEADCkU",
+        "author": "Cindy K",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371204069821",
+        "starRating": "4",
+        "title": "Great library service.",
+        "comment": "Works a treat. I can upload my list to Google docs but how I do import a list back?",
+        "commentId": "gp:AOqpTOEhSsrPOMKp946ui0_k0z6oN9fKolMkRSIfH_9YeJ6Dt0M_E5NR3UQeMd4i8Be6I5pbKWbyqyKphFyZ6Z4",
+        "author": "Kuldip Singh",
+        "authorURL": "http://lh5.googleusercontent.com/-oY2I9snaiyU/AAAAAAAAAAI/AAAAAAABIMo/UWCQ8t5GoPw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-oY2I9snaiyU/AAAAAAAAAAI/AAAAAAABIMo/UWCQ8t5GoPw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1322133261430",
+        "starRating": "5",
+        "comment": "Really brilliant app - I love it! Makes keeping track of all my books infinitely easier.",
+        "commentId": "lg:AOqpTOGLZq--lMLqZLxO-XZ8qdAsIcLPaGwvisGcsBVmGvIk-lqOubXfYxbKRQNWdmvAJa392dkfV0gRkc5cjHA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

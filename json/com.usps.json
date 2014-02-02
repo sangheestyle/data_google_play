@@ -1,0 +1,242 @@
+{
+  "title": "USPS MOBILE®",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.usps",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "2.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3078",
+  "rating": "4.0445094",
+  "contentRating": "Low Maturity",
+  "creator": "United States Postal Service®",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.usps",
+  "extendedInfo": {
+    "installSize": "6.5M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "Access popular USPS.comÂ® tools on the go with USPS MobileÂ® app. Find a Post Officeâ¢ or an Approved Postal ProviderÂ®, look up a ZIP Codeâ¢, calculate shipping prices (limitations apply), schedule pickups, order supplies, scan labels and coupons (available on certain devices), hold your mail, and use the Track & Confirm tool anywhere you go.Find USPSÂ® Locations when you need to get to a Post Officeâ¢, Self-Service Kiosk (APCÂ®) or collection box with an easy-to-filter locator. The USPS Mobile app uses your deviceâs GPS and map features to show your closest options, along with their Regular Hours, Special Hours and Last Collection Times, and provide mapped results with driving, walking, or transit directions. Look up a ZIP Codeâ¢ for any U.S. address.Calculate a Price to determine how much postage you will need when you ship a letter, card, large envelope, or package (limitations apply). Now you can choose retail or online pricing, add any extra services you need, and view the total, too.Use the Track & Confirm tool to check the status of shipments sent using Priority Mail Expressâ¢, Certified MailÂ®, and certain other delivery services. You can give your shipment a nickname and save it in the app to easily keep tabs on your items.Schedule a next-day pickup and have your Letter Carrier pick up Priority MailÂ®, Priority Mail Expressâ¢, Global Express GuaranteedÂ®, or Merchandise Returns shipments from your home or office during regular mail delivery. Request Hold Mail Service while youâre away, and weâll keep your mail at your local Post Officeâ¢ until you return. Order USPSÂ® boxes and envelopes and have them delivered right to your door.Scan the barcode on shipping labels with your phoneâs camera. The app recognizes the shipment and stores the label number, so you can stay on top of its status.You can also save coupons and keep them organized in your phone to redeem at merchants who accept digital coupons. Please check the merchantâs coupon redemption policy, as some merchants may require a physical coupon at the time of purchase. View the Terms of UseU.S. Postal ServiceÂ® Web Site",
+    "reviews": [
+      {
+        "timestampMsec": "1378204336650",
+        "starRating": "1",
+        "title": "Battery hog",
+        "comment": "The app is a huge battery hog (responsible for 40% of my battery usage). It constantly searches for a GPS signal, even when it\\'s inactive in the background. Also, it lists collection boxes that straight up don\\'t exist -- huge waste of time.",
+        "commentId": "gp:AOqpTOH_TgER5WQtLtekeyTFN9Lbc8E5q3h1sBXShAbOAypN2AbTYpAOj0aBmYa38kDVSFJ6Gark9oZfZQCsdHk",
+        "author": "Zach Lutz",
+        "authorURL": "http://lh3.googleusercontent.com/-6hHO09_Ij1w/AAAAAAAAAAI/AAAAAAAAAOI/SJZIzDTEyrA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6hHO09_Ij1w/AAAAAAAAAAI/AAAAAAAAAOI/SJZIzDTEyrA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375830189204",
+        "starRating": "2",
+        "title": "Stinks",
+        "comment": "I hate USPS they do not always give you a expected ship date like UPS , FEDEX etc.  Come on USPS get with the times...When I track using this app it only gives me the last location my package it at.",
+        "commentId": "gp:AOqpTOHcOYeyzhEK3xYBO3--eDkdwB2M0PVXI74gK4TY1fLlg_nKTem-s8lDPH4sQrvqhGFWA7od_1evPygcTUU",
+        "author": "Keisha Woods",
+        "authorURL": "http://lh5.googleusercontent.com/-2EdeY0vkNrg/AAAAAAAAAAI/AAAAAAAAAkQ/w2Psfp2Lm74/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-2EdeY0vkNrg/AAAAAAAAAAI/AAAAAAAAAkQ/w2Psfp2Lm74/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375626996661",
+        "starRating": "3",
+        "title": "Updates and Notifications",
+        "comment": "The app would be better if it would have realtime updates.  My EBay tracking has more info for some of my packages.  Also it would be better if there were notification capabilities.",
+        "commentId": "gp:AOqpTOEDzRT4ZLTSfZiRp9gnBTgT6a0Xx3sgw-TbmmAdQlM29bewLlbrVbXr3JzgBe9iIUW9TZ5OfemIeUGUx-M",
+        "author": "Susan Schneider",
+        "authorURL": "http://lh6.googleusercontent.com/-r6sgptxXMHw/AAAAAAAAAAI/AAAAAAAAAEU/eK-ZitLY9t4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-r6sgptxXMHw/AAAAAAAAAAI/AAAAAAAAAEU/eK-ZitLY9t4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377269895099",
+        "starRating": "1",
+        "title": "Does not let you log into your USPS account",
+        "comment": "I went to hold my mail and the app pulled my name from my contacts and pulled the correct Street address but put me in the wrong state.",
+        "commentId": "gp:AOqpTOGwOdMOePMNbSMzTjDzX0Q5WIbi7QMGA20XNMpOAzQZ1wER5GohLiIONF-xtsZU6c9GBjzjLDJRPj6NYxQ",
+        "author": "micheal benson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376297431003",
+        "starRating": "3",
+        "title": "Good could be great.",
+        "comment": "If I didn\\'t have to be reminded that my GPS isn\\'t open every time I open and I would get more info and some notifications of package updates it would be perfect.",
+        "commentId": "gp:AOqpTOHRGPVLzeKO0VpSrzK7caPKiCwT98EHgECtFgefBHNdt9spV7IQH7kn9A86Ap0dsBQiShBd7nykLg3Feek",
+        "author": "revengefulgh0st",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375711467000",
+        "starRating": "5",
+        "title": "Work\\'s ok no problems with the app.",
+        "comment": "I use this on a constant basis and so far it has never been a problem nor giving me problems.",
+        "commentId": "gp:AOqpTOEH3FrXY2DeT81WV0IjDPSFXAn2CqP-erKSIAvAK34LkwT6vNL5MILSYkP0I4wGhEeTILoJ1Gd0ZLkKbTA",
+        "author": "melissa silva",
+        "authorURL": "http://lh6.googleusercontent.com/-BbfgI9kWOwA/AAAAAAAAAAI/AAAAAAAAAHM/mBDyolv1zJk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BbfgI9kWOwA/AAAAAAAAAAI/AAAAAAAAAHM/mBDyolv1zJk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377375945465",
+        "starRating": "3",
+        "title": "Way Too Many Permissions",
+        "comment": "Good app but thank goodness for Google\\'s \\\"Permission\\\" app that let\\'s users Block permissions set by the app Devs! Now I no longer worry why \\\"Angry Birds\\\" (ONLY a sample app name) needs my SMS or Exact Location.",
+        "commentId": "gp:AOqpTOFZMZ-ycxyyjxGcZlg_JgK2B58XJex4y_BogUjJOz1Rs9p_hVj_kxsvdx-LbQeBcGa19hd5xwkdPNjVhYg",
+        "author": "Terry Bartee",
+        "authorURL": "http://lh3.googleusercontent.com/-wqh-fnLR-fc/AAAAAAAAAAI/AAAAAAAAHaA/fVUXkztKs_E/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wqh-fnLR-fc/AAAAAAAAAAI/AAAAAAAAHaA/fVUXkztKs_E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377977511249",
+        "starRating": "1",
+        "title": "You can\\'t buy stamps???",
+        "comment": "Stupid.  How idiotic to have a post office app that doesn\\'t sell stamps!!!  What moron devices these things?",
+        "commentId": "gp:AOqpTOEtYWTrDxLjJwdsU0xGFkYhCzIn8r6CSkZHHVew4scM52MaSgTbP3TLhVbgRfnKTdpobpXAt5xktoqqUZ4",
+        "author": "Anthony Warren",
+        "authorURL": "http://lh3.googleusercontent.com/-pWyURPD9gzE/AAAAAAAAAAI/AAAAAAAAAAA/e7WPnFnblzk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pWyURPD9gzE/AAAAAAAAAAI/AAAAAAAAAAA/e7WPnFnblzk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376509583540",
+        "starRating": "2",
+        "title": "eh",
+        "comment": "I would get 5 stars if the tracking was more detailed like the tracking on the actual site.  Hopefully it will be updated 12/3/12 htc evo 4G still not detailed and glitchy 5/8/13 droid razor how is it on here and web it takes a few days for info to be updated? so if i send or recieve 2 day mail i wont know where its at?! usps needs an update on their systems.",
+        "commentId": "gp:AOqpTOEspe6nNOXWsSWS83U2sp4aLXhqHa5_ill6XdhYP0iDxnRMwEP36zRuLjM00UWTWK0DFGraqIOlxziYLdc",
+        "author": "Sarah Lundy",
+        "authorURL": "http://lh6.googleusercontent.com/-gXtwuM57YJU/AAAAAAAAAAI/AAAAAAAAAB8/lzenTImG-_w/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gXtwuM57YJU/AAAAAAAAAAI/AAAAAAAAAB8/lzenTImG-_w/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375111999843",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "I can track all of my orders, determine when they\\'ll arrive, and order shipping supplies as well.",
+        "commentId": "lg:AOqpTOEbqEfJRa88wouT3vbdT7fAdQgOLl9k6Rk0BxFX1hwcTVJeGo8nNC5QhB_w20WjGqqNZmNMqrMcavohlNk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377181888902",
+        "starRating": "5",
+        "title": "It\\'s great to have wen buy-in offline",
+        "comment": "Love it great app slow but great",
+        "commentId": "gp:AOqpTOH6-MYoXcXK1twaMWAc5tGR8msu9OEo90kKAWhQNlCp5ReI68-Y74uzBzlTn1dYupO_wOI108t7cKYIKIM",
+        "author": "Robert Zeagler",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375118246276",
+        "starRating": "4",
+        "title": "USPS is my favor mailing supplier",
+        "comment": "If it can link with my online account, that will make this app perfect.",
+        "commentId": "gp:AOqpTOH4eHi3xNHVtASf-SN5NvyD5LgMURA-R9watvJ4sTVI7LmD_3Z32b4PUshHCdbGR_5tl1rImz3NDsnBMxg",
+        "author": "Rex Chang",
+        "authorURL": "http://lh4.googleusercontent.com/-8YCSHmlh5sI/AAAAAAAAAAI/AAAAAAAAAAA/ZGzUo640Fss/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-8YCSHmlh5sI/AAAAAAAAAAI/AAAAAAAAAAA/ZGzUo640Fss/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377882249455",
+        "starRating": "1",
+        "title": "Explain this please....",
+        "comment": "The  postal service has been around for how long now, and your app is garbage compared to fedex and ups apps. No real time updates...and when you receive your tracking number, it takes days for it to update...many times my package arives  before it updates at all...or only says its being processed...yet I already have it...get w/ the times here. No wonder no one bothers w/ the united states postal service/ regular mail anymore. Never reliable...even on a simple app",
+        "commentId": "gp:AOqpTOFt95MmIgsStbX2oSdAhA4aW0FZKZ1g7BBcxg4Eb1PYoV37cBJf6Nw7X-dJFTZuC-8yt40vUPvwOrSdju4",
+        "author": "Chuck Richardson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378095628356",
+        "starRating": "5",
+        "title": "Best App",
+        "comment": "The Post Office is reliable, easy to use and a must to track your USPS parcels.",
+        "commentId": "gp:AOqpTOGZW78QcIW9zezYQorfwg6ib93BnA76RhZu4uomTx5lK6wMzuZcD2igqOg7KVtOKieWC6FBayn8PmLgTjY",
+        "author": "Mundo Sanchez",
+        "authorURL": "http://lh4.googleusercontent.com/-wvFXqU5zQ4Q/AAAAAAAAAAI/AAAAAAAAFHA/0vco2JL4fpQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-wvFXqU5zQ4Q/AAAAAAAAAAI/AAAAAAAAFHA/0vco2JL4fpQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377719994917",
+        "starRating": "3",
+        "title": "Needs work",
+        "comment": "Support U.S.PS. Many features that I use daily. However the app always tells me location services are not set, but they are.",
+        "commentId": "gp:AOqpTOE4S41q1YZiA1w5xv2JY2rdbDFMpVHDqphe1_If2wmCUXnmhP0qPg8RoGBZUEPgbBv8ioTtV6aFeMMfS4o",
+        "author": "code inacan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375436087037",
+        "starRating": "3",
+        "title": "Need additional supplies added.",
+        "comment": "I send several hundred boxes to the troops in Afghanistan a month. I need to be able to order the clear customs form envelopes from this app.",
+        "commentId": "gp:AOqpTOE2TFQ4N-2MI0UNHdxf2yMPv8tRxsJ8CS-INrgIfvlj1OV8_-iHezLCO-XgdgzP4aGV8cF8nmqTpjB63NM",
+        "author": "Robert Allan",
+        "authorURL": "http://lh5.googleusercontent.com/-81U7KMfixpI/AAAAAAAAAAI/AAAAAAAACro/ZWWzcKkpHCY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-81U7KMfixpI/AAAAAAAAAAI/AAAAAAAACro/ZWWzcKkpHCY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378413556338",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Awesome, easy app",
+        "commentId": "gp:AOqpTOH8YRyPa0mSyCsWyZ-G6yR7wOpXoSnzxSkrloX61TYYXDbQogjA_8VmNIEQZj2Bk5a3Fng5GOrd93bjP44",
+        "author": "Alexandra Bryant",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377425656876",
+        "starRating": "4",
+        "title": "Great app but...",
+        "comment": "...the only problem that I find is that tracked items are only listed in chronological order. I\\'d like to be able to reverse the order so that newer items are on top or better yet, to reorganize them in any way I want.",
+        "commentId": "gp:AOqpTOEQWlArY0NSHYFCIdUHOJbb4YZ2XJLAn0sjz5ObBu4mkKyXYWkiXbCOQltk8WO9GpMfUl5Tkdij9Kx_rJg",
+        "author": "Ivan Jam",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378123937067",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "I like this app as it obiously lets you track your packages.",
+        "commentId": "gp:AOqpTOFq0phV6CaZ1kjV3YndCjy8EkoS5c4-8pOBprCmqmXKX2482Vnwo8Vh-0Htn3Rl5Gc8y1LiNL-j3Rx5cD8",
+        "author": "Juan Flores",
+        "authorURL": "http://lh5.googleusercontent.com/-4A6YXnClUcI/AAAAAAAAAAI/AAAAAAAAAJY/1E-ryq0wwSU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-4A6YXnClUcI/AAAAAAAAAAI/AAAAAAAAAJY/1E-ryq0wwSU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375121587996",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "Works perfectly",
+        "commentId": "gp:AOqpTOEIxswosqO47kEHNn80HozoBkhruJ5tJ6-W8UXGXBfu-E3qHoqYsHq1iOuwAJzMdtEllkeZB3tAbRc9xnU",
+        "author": "Samuel Thayer",
+        "authorURL": "http://lh5.googleusercontent.com/-ThB4UReGM9E/AAAAAAAAAAI/AAAAAAAAATE/Vys6HPF5Rmc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ThB4UReGM9E/AAAAAAAAAAI/AAAAAAAAATE/Vys6HPF5Rmc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

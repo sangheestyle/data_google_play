@@ -1,0 +1,91 @@
+{
+  "title": "Chicago Crime Map",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jeremybryan.crimemap",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "February 28, 2012",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "15",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "BSJS Developers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jeremybryan.crimemap",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "The Chicago Crime Map is an Android application that utilizes the Chicago crime dataset and Google Maps. Currently, existing crime applications simply display each individual crime as a bullet point on a map. The Chicago Crime Map, however, divides the city into 1,000 meter squares and displays a rating for each individual square. This rating is displayed via a simple color overlay that ranges between green, yellow, and red. Much like a weather map where green represents tame climates and red often symbolizes high heat or extreme weather, green on the Chicago Crime Map are historically areas of low crime, yellow depicts a moderate crime rating, and red warns of a historically high crime area. By creating a color spectrum of crime ratings rather than individual bullet points, the map becomes less muddled and overwhelmed. There are thousands of data points within the Chicago crime database and condensing that valuable information into a color coded crime guide will help make it more user-friendly. To further increase usability Chicago Crime Map also has multiple overlay maps available for viewing. Based only upon the information provided by the city of Chicago crime database, an attempted statistical analysis (or algorithm) was developed into the default map view. Within this default map, areas of historically high crime verses the areas of historically low crime can be easily differentiated by their respective color. This algorithm calculates a crime rating for each 1,000 meter square and assigns a color solely based on the Chicago crime data. The crime rating is assigned by statistical data comparison; essentially, each 1,000 meter square is compared to all the other squares on the map. In other views a user can change their map based on a specific type of crime: assault, battery, burglary, criminal damage, homicide, narcotics, prostitution, robbery, sexual assault, vehicle theft, and violent. Disclaimer:This application uses the Crime Data provided by the city of Chicago as the sole foundation for the data presented. The city of Chicago does not guarantee the accuracy, correctness, or completeness of the Crime Data provided and thus neither do the developers of the Chicago Crime Map application. The developers of this application shall have zero liability for the use of or results derived from the use of the Chicago Crime Map application. When using the Chicago Crime Map application, the user should remember that the crime data provided by the city of Chicago only includes reported crimes. The Chicago Crime Map application does not guarantee âsafeâ and âunsafeâ areas. The use of the Chicago Crime Map application indicates the userâs unconditional acceptance of all risks associated with the use of the Chicago Crime Map application.  The Chicago Crime Map application is provided as is and does not include any warranty of any kind. The risk of using the application in terms of quality and performance is with the user.",
+    "reviews": [
+      {
+        "timestampMsec": "1318522965490",
+        "starRating": "2",
+        "title": "It\\'s \\\"ok\\\", but...",
+        "comment": "I uninstalled cause of the ads. I also would\\'ve liked to be able to select more than 1 crime at a time. And that it wouldn\\'t zoom out when selected.",
+        "commentId": "lg:AOqpTOFYXgePu4j071R2Wr2NsnhlT7MXBUCQs6DfH2kwDaSWlbUuqjqpwOfwHtJ0KnZnKo5iscB_xy_Ow5T31w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317831884184",
+        "starRating": "5",
+        "comment": "Great App! Very easy to use and understand, I have been looking for a good crime map that points out the not so great areas of Chicago.",
+        "commentId": "lg:AOqpTOGjlx91L9pbBL1tHlPPuMxWxCWMXP_TXxIgCt9HUWG4Qk2txgdQEmUzkS0vspDmaSOP8dj1nUFDMq1lOw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319622512281",
+        "starRating": "5",
+        "title": "Excellent app!",
+        "comment": "Thank you developers!",
+        "commentId": "lg:AOqpTOGXn3E57W9_jYqMKNYDSoMVBn2NAC5BzCmLmpzu1fQ9nC_DUGORa--ZtfD1oXFeNtbK0pPz0-4MQtirFg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319935311159",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Finds all chicago politicians",
+        "commentId": "lg:AOqpTOFackpai6dc5hMi9dQ6RbMiiY2rNpSnEN1Cs1MK8LLN4PniKKtPpDAHHzocot-d5vCftZs9biN9tEkLJw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365585036207",
+        "starRating": "1",
+        "title": "Won\\'t open",
+        "comment": "I down loaded it but it wouldn\\'t open.  Its a bummer cause I want to see the crimes stats in Chicago since their body count was 500 last year.",
+        "commentId": "gp:AOqpTOF-iWTBRwPb_1_PukFty-GXtlxpuYEdws79cspQ3LLAu-cfO-_FQdRyP0GUgUddjG0N2t4nhZsbJMJlyw",
+        "author": "Jessica Johns",
+        "authorURL": "http://lh3.googleusercontent.com/-MG0Px-rhNLc/AAAAAAAAAAI/AAAAAAAAAAA/JTtcgFHxgco/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-MG0Px-rhNLc/AAAAAAAAAAI/AAAAAAAAAAA/JTtcgFHxgco/photo.jpg"
+      },
+      {
+        "timestampMsec": "1343860622985",
+        "starRating": "5",
+        "title": "Awesomenessess",
+        "comment": "Best way to know were to pick up prostitutes",
+        "commentId": "lg:AOqpTOGKQG6_fNteFGiXjjGLiR0MzCPJuHF2jMowYXoI2L9XXXwXPUI-3ebX_PGKiSc_NN2QtZ_leg9dHSTw0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330495637791",
+        "starRating": "5",
+        "comment": "I like it",
+        "commentId": "lg:AOqpTOHbqvrrOuB_PZ_iMJm059xXW9BcQQZnjC7qWqYX54wSDJNt7c6o9vAnor0g7i0aXRAKuKjrKbO3wsNP5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ]
+  }
+}

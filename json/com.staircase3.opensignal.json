@@ -1,0 +1,245 @@
+{
+  "title": "OpenSignal - 3G/4G/WiFi maps",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.staircase3.opensignal",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "65205",
+  "rating": "4.2067785",
+  "contentRating": "Low Maturity",
+  "creator": "OpenSignal.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.staircase3.opensignal",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "With OpenSignal you can map cellular coverage, find Wi-Fi hotspots, test and improve your reception & get faster data.PLEASE NOTE: We never access or read your messages. We only need that permission to count your calls and texts to help you keep track of them. â Signal compass points you in the direction your signal is coming from, just walk towards it! â Wi-Fi map allows you to easily locate nearby public networks. â Coverage maps allow you see the best places for signal. â Speedtest feature allows you to see the true speed of your connection.â NetworkRank allows you to see which carrier is best in your area. â Keep track of your monthly data, text and voice usage so you donât go over your limit. â See a map of local cell towers. â Help improve our coverage and Wi-Fi maps. â Share your findings on twitter and Facebook and compare your connection with other users. â View your history of signal readings.â Save your data to SD card. â Signal booster for compatible phonesHelp contribute to our crowdsourced impartial maps of carrier coverage and wireless hotspots by using our app to improve your connection. Based on our community-generated data we are able to help keep you better connected by giving you a practical solution to the problems of slow mobile internet and dropped calls. Simply follow our signal compass to walk towards better phone signal or see our in-app coverage maps to work out which carrier is best for where you are, useful if you're thinking about changing. Our wifi maps help you find local public-access wireless networks (WAPs), helpful if you're travelling abroad or just want to find a local cafe with free Wi-Fi. Our Stats tab helps you to keep track of your usage, so thereâs no danger of you going over your plan limit on data, voice or text. (NB â this is why the app needs permission to access contacts and SMS, these are the permissions needed to count calls and texts, messages are never accessed or read!). Slow/fast mobile internet? Run a speedtest to see the real speed of your connection. Best of all, every time you use the app you're helping to improve it! By helping us to expand our Wi-Fi database and improve our coverage maps you're making the app work better and everyone else who uses it. The best tactic for getting better signal is to follow the signal compass.Maps are not updated in real-time. Donât worry though, we log all the information you share with us to improve our coverage maps and signal information. Weâre working as hard as we can to make sure the data you contribute to the project is available to everyone as quickly as possible. Thanks to everyone who has contributed translations: Wellington Lima, Gurkenglas, Daniel Dietrich, Aleksandr Autayeu, Evgeny Tverdohlebov,Alessio Capaci, Pierre Reynes, J Basnak, Ricardo Cescon, Simon P., Keruj Amles, Dinesh RProblems? Try our forum - http://opensignal.com/blog/forums/Tips:- Not all towers and wireless routers are in our database. But weâre working on it!- Use Wi-Fi and GPS for best speed and accuracy- Verizon & Sprint users will see only one connected tower at a time- Moving in the direction of your cell tower will not always improve reception due to interference effects/local geography.- Data is crowd sourced - wireless and antenna locations are calculated by triangulation. As more people use the app the tower locations will improve.Advanced notes:- For GSM, cell tower are identified via cell id and location area code (CID and LAC)- For CDMA, cell towers are identified via Network ID, Base sub-station ID and system ID (NID, BSSID and SID). CDMA phones include the Droid (II, X, HD, etc), EVO 4G - all phones on Verizon and Sprint.  - For tablets (some models of Xoom, Asus Transformer and others) that do not have cell radios the app will only work in wifi modeFormerly: opensignalmapsWe map- Coverage and Speed tests for Verizon, Sprint, Vodafone, EE, AT&T, O2, 3, TIM, T-Mobile, Telcel, I WInd, SFR and more..",
+    "reviews": [
+      {
+        "timestampMsec": "1377986883250",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "Extremely helpful to locate signal strength and location. Silky smooth interface. Great Job!",
+        "commentId": "gp:AOqpTOEGDtjn4UvcAEr98O-EpH4KS8juY1kvGek6Kc0aAL_0Tty126UgxZ1B29gElofwv6zCmmh7uhp7mSRS3Q",
+        "author": "Ruben Sierra",
+        "authorURL": "http://lh6.googleusercontent.com/-bfYGLRXdRPk/AAAAAAAAAAI/AAAAAAAAAEo/IHbYe62oS9Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-bfYGLRXdRPk/AAAAAAAAAAI/AAAAAAAAAEo/IHbYe62oS9Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374176592035",
+        "starRating": "5",
+        "title": "Probably most informative app I have ever used!",
+        "comment": "I love this app because you can refresh your signal, view all time statistics of you cell strength or just today\\'s statistics! Plain and simple a great spot!",
+        "commentId": "gp:AOqpTOECX8UXHJ3V7phm-5L2f2V47Fw5IbClaf4RZoz2wDDzZlBa5iYsAc6XIMueQCdZWBJki4foo1roucLPfA",
+        "author": "Scott Kenders",
+        "authorURL": "http://lh6.googleusercontent.com/-f95uh_7zlRw/AAAAAAAAAAI/AAAAAAAAAGQ/3DBR1u2v96E/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-f95uh_7zlRw/AAAAAAAAAAI/AAAAAAAAAGQ/3DBR1u2v96E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374200248094",
+        "starRating": "5",
+        "title": "Very useful",
+        "comment": "This app has been helpful by giving me a direction of the closest tower and providing friends recommendations as to who the best wireless provider is in their area. Very useful.",
+        "commentId": "gp:AOqpTOG9BS6bTsPLvfhThZk2WIBWB3eOhto8U5_8IypkNJnKEZaNieU4ArQQrJ6rxWjErW4lzME9MRy-4475Iw",
+        "author": "Donanfer Montoya",
+        "authorURL": "http://lh5.googleusercontent.com/-tZdHOTf9y0U/AAAAAAAAAAI/AAAAAAAAABM/mBdycL_fkUk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-tZdHOTf9y0U/AAAAAAAAAAI/AAAAAAAAABM/mBdycL_fkUk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374342748771",
+        "starRating": "5",
+        "title": "Excellent app!",
+        "comment": "Intuitive, quick and useful! Great work!",
+        "commentId": "gp:AOqpTOHzJxxQ9wqoJoTgCKl_jYcDmrx-d1WA_JbdoAvz8AgGCdmhduvsEuI49z96cVa31QHcJyiM4u1M0RjUkg",
+        "author": "Scott Linton",
+        "authorURL": "http://lh5.googleusercontent.com/-sdtYKNnsNtY/AAAAAAAAAAI/AAAAAAAAADs/Rc2lrPiRAHo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-sdtYKNnsNtY/AAAAAAAAAAI/AAAAAAAAADs/Rc2lrPiRAHo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374768791982",
+        "starRating": "4",
+        "title": "The best of the best app",
+        "comment": "The app is great.but when i use it a long time (force to close).thank u 4 d great app.",
+        "commentId": "gp:AOqpTOFSeu9qL98ppG9WbpiJ6xbmr21OtHvNcWMxWNe4Ui_CFeDSruDRzItimLZ8_DdooB_A9oGNmgUcZkVQYw",
+        "author": "Henry Tamondong",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378032108628",
+        "starRating": "4",
+        "title": "Speed Test Comparison"
+      },
+      {
+        "commentId": "gp:AOqpTOHYlh5EHWT-YaHC8nz8yfzZN4ZA4rTl1NsdT-751j7qgiEw6LmbKJBNl5CuP3CxciBnxT15XFXD3qRCIw",
+        "author": "TheKevoyo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377722360846",
+        "starRating": "5",
+        "title": "Great app.",
+        "comment": "This app detects and finds  major monitoring location in your  neighborhood, place of business and anywhere you travel. It is in real time.   It is a sad situation that our right to privacy has been lost with continuous monitoring and data storage of all through air transmitting signals. This app gives the user the ability to find safe zones and hot zones.  It let\\'s you know to be cautious with your communications. This is a must have app.",
+        "commentId": "gp:AOqpTOF6165w6GhTaDUv2q18SeyBKQHfeMXP4elbgxrv25oJ3m_gPZ8dkSloDnVCrKzP0Wh16EB6Zp4tj2gKrw",
+        "author": "Milke Demp",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372200757769",
+        "starRating": "5",
+        "title": "Great update",
+        "comment": "love this app even more after update been using it for 2 years now its had its problems which get sorted in good time. should make a pro version with extra features",
+        "commentId": "lg:AOqpTOEIRYj_wyGv2WjDZwjZeygB39fifGnS8Z9HbWhKd8N9OXqglHJ6ihNK349DxezXP15UTTGKr0No3KyyMQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375905854984",
+        "starRating": "5",
+        "title": "Excellent, practical app",
+        "comment": "So much useful information, really lays it out there for the user. Much more logical and rational than info from the telecom companies. This could help you choose a carrier, too. And, being crowdsourced, it improves with time!",
+        "commentId": "gp:AOqpTOFXAl-22yjC9Tma68BZImcaoGJnw7H3tfiyBZ25gula4UAbFFT61BWQ8Y-1Zo8gwlCQUZiW-tJJlQU_eg",
+        "author": "Charlotte Pierce",
+        "authorURL": "http://lh3.googleusercontent.com/-ZMUvoHFNuZ8/AAAAAAAAAAI/AAAAAAABcbk/MlrshAXstLA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZMUvoHFNuZ8/AAAAAAAAAAI/AAAAAAABcbk/MlrshAXstLA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377447549175",
+        "starRating": "5",
+        "title": "Wonderful app",
+        "comment": "Good information that is useable and informative - an essential app in the toolbox for anyone who is interested in their cellular and wireless environment",
+        "commentId": "gp:AOqpTOET2vbiZvqcqlDe_Bqqi6JYP_r5nEEWdf4IB0ofkE6CI4Ltbhsni7uS5xBPaPmDKKF7j1NvIHqfDkZA2w",
+        "author": "S L Friedman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378150573638",
+        "starRating": "5",
+        "title": "Great job. Read on.",
+        "comment": "Performing like it says on the thin. It shows a map in the sales blurb that that shows lines to the site you are linked to but I haven\\'t seen that work yet. Maybe I am still learning how. The coverage maps is very useful too. I would like to recommend highlighting 3G sites on the map as this is good new for Skype and download user in the rural areas. Maybe it does this too but not found this function yet. Great job! Thanks.",
+        "commentId": "gp:AOqpTOHNAU4RMBnZKfP7mA_yXgmkUbD91p0cK-eQ40l946mAiztIcXzpfeecmLq3AabCTZv7xm397c4m56spZA",
+        "author": "Mark Lewis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378097166032",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Great app.",
+        "commentId": "lg:AOqpTOFDy1LvzT_zZhOYIjYqOCOdfNyFr3AQy3cYPcVgI6G7AvYmrPVfc38XoJOjp-BVUOxO_zy6UXP_ZtFxag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378308110232",
+        "starRating": "4",
+        "title": "Free version works well",
+        "comment": "Only comment is that the stats show for my area ATT works better than Verizon. My neighborhood has no ATT coverage so not sure where that area is. Really like the product",
+        "commentId": "gp:AOqpTOG57QdkfxQ8JbYRsgJVNzbcRPBnyCmIPub8ZCjulUVY-jvDAmkPBENN2sanQt5OGXZtVFUV_TwOt9mEJQ",
+        "author": "sherry collura",
+        "authorURL": "http://lh5.googleusercontent.com/-LtNqymY416Y/AAAAAAAAAAI/AAAAAAAAAAA/wfnddJ9ACkc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-LtNqymY416Y/AAAAAAAAAAI/AAAAAAAAAAA/wfnddJ9ACkc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375451324487",
+        "starRating": "3",
+        "title": "Nice tool, but...",
+        "comment": "For some reason on my HTC ONE, all the options have gone blank. The graphics are there but the words are not, unless you have the options memorized you had be no idea what to tap. Hopefully the developer can provide some answers.",
+        "commentId": "gp:AOqpTOEUGWtlHUlS5ZxprEqkdL3zXx2aNDdK-8tPcadfO9H_WQqBTz2WmaA679aKuG4lr9GS8FQtA1FfSVI9nA",
+        "author": "Mark Rusinski",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375209421408",
+        "starRating": "5",
+        "title": "Very very good",
+        "comment": "Since using this software, my 3g internet connection can stay in hsdpa mode without much failure. In fact, after the refresh function, the system seems to choose the right 3g broadcast station.",
+        "commentId": "gp:AOqpTOHTU_wHURex5JdgXNRuLEMX4PWExhzvXWcUYdkeWM0Vdc4weH5MbSroO0OKInepkcpBCU50rxolQPTZGw",
+        "author": "LITT PANG HIEW",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373821900139",
+        "starRating": "3",
+        "title": "Maps not updated often",
+        "comment": "I have been contributing t-mobile data in my city for quite a while now. The current maps do not have very much filled in. My data has not been added at all. Uninstalling to try another app where my data will be useful for other people.",
+        "commentId": "gp:AOqpTOG0suYp3IJkDJTDkLGf3LkBXLC7jGntn2b6-ufn-5kTiic0Kk_GPddSfpKTRVKAkPHq-vPwksPcP3wcCg",
+        "author": "Ira Menard",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371997910354",
+        "starRating": "5",
+        "title": "Useful",
+        "comment": "Fun app. But actually it\\'s very informative and quite accurate. Helps me with my downloads... when the signal tests patience.",
+        "commentId": "gp:AOqpTOFpwDxWip3ogYQV2HiaKlGx3TRGkCB46pDGTuh-3HEjoZdgxJ_yVRUQjNxj5sUkgFaIDlaoMd_nMG48jQ",
+        "author": "Marietta Utami",
+        "authorURL": "http://lh4.googleusercontent.com/-NZ0UnDbzwoI/AAAAAAAAAAI/AAAAAAAAAG8/oLC5HJPhxXk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-NZ0UnDbzwoI/AAAAAAAAAAI/AAAAAAAAAG8/oLC5HJPhxXk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374398779952",
+        "starRating": "4",
+        "title": "Wi fi locations on the map are incorrect and way out of place",
+        "comment": "For instance my wifi network that I am connected to doesnot show on map weather im connected to it or not...",
+        "commentId": "gp:AOqpTOE2DUZfhDj17JSE0l3QbS6FdLG1mBP4d2_5TLp1XTKCqVN5MoHSgig6KUQp_XK-SYS9xuRYLZyxZ-bpZw",
+        "author": "James Hartzell",
+        "authorURL": "http://lh3.googleusercontent.com/-U32uzClarJw/AAAAAAAAAAI/AAAAAAAAAAA/8NxHO4_ryXw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-U32uzClarJw/AAAAAAAAAAI/AAAAAAAAAAA/8NxHO4_ryXw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375425934164",
+        "starRating": "5",
+        "title": "Get it!",
+        "comment": "Free. No Ads. Maps and resets tower and gives you best reception. Also shows you cell phone signal reception and wi fi power in area. Best app of its kind and it makes its money from selling cell reception info to phone companies. NO    ADS!",
+        "commentId": "gp:AOqpTOHWCG27EJtNymJRUWNP29a09P3g5fKUM5Z3AQLCD3gfbAFZWKM3fsas0uM4GtFPLeF7QGqfGFIfQ3SYaw",
+        "author": "Ceranko Man",
+        "authorURL": "http://lh3.googleusercontent.com/-u1jBSvt72lQ/AAAAAAAAAAI/AAAAAAAAASM/TkuFiCNGRsU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-u1jBSvt72lQ/AAAAAAAAAAI/AAAAAAAAASM/TkuFiCNGRsU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372087665864",
+        "starRating": "4",
+        "title": "3+",
+        "comment": "It had been good at showing me where WiFi is located but doesn\\'t know if it\\'s secured or open.",
+        "commentId": "gp:AOqpTOHnZuDee-zxCXyI_xa0BctGtsLZniwjjNGmcLxnjXBl-FbkaSzdn55JHKbw5n7dxlhFiMDt33spH5onwg",
+        "author": "Susan Ackeridge",
+        "authorURL": "http://lh4.googleusercontent.com/-MP4uHCMGYUA/AAAAAAAAAAI/AAAAAAAAAAA/CGi_t85UdRE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-MP4uHCMGYUA/AAAAAAAAAAI/AAAAAAAAAAA/CGi_t85UdRE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.staircase3.opensignal.permission.MAPS_RECEIVE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.READ_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_GPS",
+      "android.permission.ACCESS_CELL_ID",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

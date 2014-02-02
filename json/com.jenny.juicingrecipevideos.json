@@ -1,0 +1,36 @@
+{
+  "title": "Juicing Recipe Videos",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jenny.juicingrecipevideos",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 3, 2013",
+  "version": "1.02",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "3.0",
+  "contentRating": "Everyone",
+  "creator": "OnTimeApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jenny.juicingrecipevideos",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Free App To Watch Juicing Recipe VideosIt doesn't matter if you're looking for juicing recipes for weight loss, juice fast recipes, green juice recipes, vegetable juice recipes, want to do a juice detox or juice cleanse, or go on a juice diet, you'll find it here. I've included over 300 videos so there are plenty of juicer recipes so you can find your favorites.You'll also discover the benefits of juicing and find out why there is nothing better to jump-start your way to health than with juicing.And if you haven't seen the movie 'Fat,Sick and Nearly Dead', you really need to watch it. I know it's on YouTube, and you can also get a 30 day free trial at Netflix and watch it there.That's the movie that motivated me to get back into juicing and I've been looking for juice recipes ever since.Here's to your health!Disclaimer The content provided in this application is hosted on YouTube and is available in the public domain.We have not uploaded any videos to YouTube. This application is just an organized way to browse and view Youtube videos in another way.This app is unofficial and is simply a shortcut to the free information offered by YouTube.Any problems or suggestions please contact us.",
+    "reviews": [
+      {
+        "timestampMsec": "1373154943602",
+        "starRating": "3",
+        "title": "Did not work for me",
+        "comment": "It tried to play one video for a while and the screen went  black. It doesn\\'t open up at all or flashes an ad for more apps. This app just didn\\'t work at all",
+        "commentId": "gp:AOqpTOGuTK82FfSbrZJ99CB8JSdXB2JbbweVta1fRj3_9oFisncUr-Oj-zNiaWZFaGiAwcQspw0y7BqbJBtlpA",
+        "author": "Trevor Blanch",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

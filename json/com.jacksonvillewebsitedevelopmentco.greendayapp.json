@@ -1,0 +1,41 @@
+{
+  "title": "Fun Green Day Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.greendayapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.greendayapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Green Day?  Do you wish you could play games with them as the star?  Well now you can.  With this great free app you will be able to play Green Day memory, jigsaw puzzles and Tetris.  You will love passing the time with Green Day.Green Day is an American punk rock band formed in 1987. The band consists of lead vocalist and guitarist Billie Joe Armstrong, bassist and backing vocalist Mike Dirnt, drummer TrÃ© Cool and guitarist and backing vocalist Jason White, who became a full member after playing in the band as a session and touring guitarist for 13 years. Cool replaced former drummer John Kiffmeyer in 1990, prior to the recording of the band's second studio album, Kerplunk (1992).Green Day was originally part of the punk scene at 924 Gilman Street in Berkeley, California. The band's early releases were from the independent record label Lookout! Records. In 1994, its major label debut Dookie released through Reprise Records became a breakout success and eventually sold over 10 million copies in the U.S. Green Day was widely credited, alongside fellow California punk bands Sublime, The Offspring and Rancid, with popularizing and reviving mainstream interest in punk rock in the United States. Green Day's three follow-up albums, Insomniac (1995), Nimrod (1997), and Warning (2000) did not achieve the massive success of Dookie, though they were still successful, with Insomniac and Nimrod reaching double platinum and Warning reaching gold status. The band's rock opera, American Idiot (2004), reignited the band's popularity with a younger generation, selling five million copies in the United States. The band's eighth studio album, 21st Century Breakdown, was released in 2009 which achieved the band's best chart performance to date. In 2012, 21st Century Breakdown was followed up by a trilogy of albums called Â¡Uno!, Â¡Dos!, and Â¡TrÃ©!. Â¡Uno! was released on September 25, Â¡Dos! on November 13, and Â¡TrÃ©! on December 11, 2012.They are one of the worldâs best-selling groups of all time, having sold over 75 million albums worldwide. The group has won five Grammy Awards: Best Alternative Album for Dookie, Best Rock Album for American Idiot, Record of the Year for \"Boulevard of Broken Dreams\", Best Rock Album for the second time for 21st Century Breakdown and Best Musical Show Album for American Idiot: The Original Broadway Cast Recording. In 2010, a stage adaptation of American Idiot debuted on Broadway. The musical was nominated for several Tony Awards, including Best Musical and Best Scenic Design.",
+    "reviews": [
+      {
+        "timestampMsec": "1378546408461",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Awesome",
+        "commentId": "gp:AOqpTOG7ppuJnf2T9ocZ7buAOvmiISdY481bwgfsXNzUaZZqtZS0uyAjMM_BI3u7rnFmpA5DC_QTtGt3Kj8u1A",
+        "author": "Chelsea Armstrong",
+        "authorURL": "http://lh5.googleusercontent.com/-KTOTt_uhwak/AAAAAAAAAAI/AAAAAAAAFJY/SAbeRdcEq9o/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-KTOTt_uhwak/AAAAAAAAAAI/AAAAAAAAFJY/SAbeRdcEq9o/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.greendayapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

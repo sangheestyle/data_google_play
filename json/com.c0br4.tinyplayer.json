@@ -1,0 +1,218 @@
+{
+  "title": "tinyPlayer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.c0br4.tinyplayer",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 17, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "3388",
+  "rating": "4.226682",
+  "contentRating": "Everyone",
+  "creator": "C0br4Softworks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.c0br4.tinyplayer",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "tinyPlayer is a smart and lightweight  music and audio book / podcast player with file / folder based navigation and not through broken or missing audio metadata tags. This app can also play every format of audio streams that are supported by android where other apps have problems. It is super small but without lacking any features you would expect. If you don't like bloatware, this is for you.+navigate through folders+organize files in playlists+jumping to specific time (good for audio book / podcast listeners)+save bookmarks (file @ position)+play and bookmark audio streams (internet radio)(many already included (Digitally Imported di.fm, sky.fm, soma.fm, ...)+view media file metadata+player widgets+file operations (delete, copy, move, rename, make dir) +player customization+Last.fm / Libre.fm scrobbling support (through ASLS)+ad free!(for languages other than English and German, the description is auto translated, sorry if it sounds weird)tags: player music media audio scrobbling scrobbler last fm libre fm digital imported di.fm mp3 mp4 m4a mp4a aac amr 3gp ogg wav wma flac m4a m4b oga ts mkv",
+    "reviews": [
+      {
+        "timestampMsec": "1374107230346",
+        "starRating": "5",
+        "title": "Wonderfully Inclusive!",
+        "comment": "I downloaded this program because other players will only play mp3s or m4bs but not both, and a lot of my audio book files are one or the other, so this program will play both and I don\\'t have to have two different players installed to use depending on the file format of the book I want to listen to. The free streaming radio stations are just an added welcome bonus. ^_^  Thank you sincerely from a very satisfied customer!  ~Ami E. Bowen via an Acer Iconia a500.",
+        "commentId": "gp:AOqpTOF6Who-OAnX2qOQ20aYwcP4PziT49UIKNvNH6WL76RnS5RuxoM5qUC3ZGBi7BFmkeB4GD0yt9SZ-WbgqdE",
+        "author": "Skayda Lee",
+        "authorURL": "http://lh5.googleusercontent.com/-D4MiwuKGQsw/AAAAAAAAAAI/AAAAAAAABTc/WLmMnVwIRoI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-D4MiwuKGQsw/AAAAAAAAAAI/AAAAAAAABTc/WLmMnVwIRoI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374487605793",
+        "starRating": "5",
+        "comment": "Works extremely well with my audio books love the bookmark feature which had been lacking with other apps.",
+        "commentId": "lg:AOqpTOHKFuJ_m-l_3sVqjF45tHH-PIELTG1kYBUZqeqDDoJoFkeCbubOrItykU0ZwXcMyO4iyoFA3x_okM02Ujg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377235460212",
+        "starRating": "1",
+        "title": "Do not update",
+        "comment": "I updated this today, it completely uninstalled TinyPlayer+ and made me install the free version. I can\\'t play anything on it, and my desktop widget disappeared. E-mailed about these issues and got no response. This was a great player yesterday.",
+        "commentId": "gp:AOqpTOFWLtx8QnUBkaHI3Yc84DA5zusreFcVll_rs6CGw15x2hnnUVpAJIB8zzHM86T1Qn_CTjm9G6oZNUD3Ztw",
+        "author": "Joshua Black",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375683983322",
+        "starRating": "4",
+        "title": "New interface is not good",
+        "comment": "I like previous version.  Neat and simple.  New update is pain.  Font size is too big.  Hope it is a bug and developer will fox it soon.",
+        "commentId": "lg:AOqpTOHCFs6HQtq0Eusf-yj3d8gZCRPkQp_U2FJniy038oFOXr0NhQKDz27GT7Jo81FKVvnCaQwWx42NK3Tr6II",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378154243496",
+        "starRating": "5",
+        "title": "Ha!",
+        "comment": "Very handy and useful. \\355\\225\\234.",
+        "commentId": "lg:AOqpTOG4UhkJjPme5NGFFwttuJ_Mv0RwzX_ZAlQk1ADyBL30dzr0tnanKTZCLEIQkOigmZPaW06OXYftWfkeiZU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377301352848",
+        "starRating": "5",
+        "title": "Good player",
+        "comment": "The only one i use.",
+        "commentId": "gp:AOqpTOFjyadsQoADvCnRNA5tMi4sVnxKLQx3gLdiNKiVfJMZyIH0fQS0rDhFSzzU8exD3qTSVQWHn9sekmIfEPo",
+        "author": "Michael Holland",
+        "authorURL": "http://lh6.googleusercontent.com/-hSSTi7sdry8/AAAAAAAAAAI/AAAAAAAAAK4/yo4gYgB6RdI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-hSSTi7sdry8/AAAAAAAAAAI/AAAAAAAAAK4/yo4gYgB6RdI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373368792355",
+        "starRating": "1",
+        "title": "No free version",
+        "comment": "Does not allow music player unless you buy the app",
+        "commentId": "gp:AOqpTOETp2jnzQhDtJG6uc8yy0TpKDYKbd8ggtGeSzv4YYrt9KcMZLQJPtZrwin9U1xtO8Wl4I8dmioAAa297Uw",
+        "author": "Prudence Remick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377918440608",
+        "starRating": "4",
+        "title": "Excellent program",
+        "comment": "Easy to access all my audio files by folder. Quick and just the right size.",
+        "commentId": "gp:AOqpTOFm44hCtNEH5XiYfb4Bv5Bs6va8ULrL1D0xCUGjXIkRtGemtJr9hJQGpRtnIwnr-MlieQBTUA06OR_h7KM",
+        "author": "Dustin Pope",
+        "authorURL": "http://lh5.googleusercontent.com/-iDvuM8dYQxg/AAAAAAAAAAI/AAAAAAAAABY/27EMYFgeNdw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-iDvuM8dYQxg/AAAAAAAAAAI/AAAAAAAAABY/27EMYFgeNdw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375904278511",
+        "starRating": "5",
+        "comment": "Works perfectly and with ease!",
+        "commentId": "gp:AOqpTOHJZ7Fgs4LV_93TGi0wFfFYfkYStAXwdxMIpXTZe_c_5auI3tdEbB-5dul1RT3EAAJP4U1yVlyhVpsZkuk",
+        "author": "Joe Piervincenti",
+        "authorURL": "http://lh6.googleusercontent.com/-TpOo8rG8NUg/AAAAAAAAAAI/AAAAAAAAAAA/ESL7OxLJITg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-TpOo8rG8NUg/AAAAAAAAAAI/AAAAAAAAAAA/ESL7OxLJITg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377120013230",
+        "starRating": "5",
+        "title": "Thx",
+        "comment": "Thx dear",
+        "commentId": "gp:AOqpTOEKyIun6AYQtoTUH1PXzhNna6mTqbZP6J2UbWPx2WbXSTGGJXGWxBrfiX9WM0mljJf--XIco9iv5hHenRg",
+        "author": "Brave Heart",
+        "authorURL": "http://lh3.googleusercontent.com/-r26rNhC295c/AAAAAAAAAAI/AAAAAAAAACM/jDjPN3oV8XY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-r26rNhC295c/AAAAAAAAAAI/AAAAAAAAACM/jDjPN3oV8XY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372867624789",
+        "starRating": "5",
+        "comment": "Without this,my mobile is nothing.",
+        "commentId": "lg:AOqpTOHdGcUcAE3GeK1yyrs4oZNoqYhXMvBbVTwchi1M2uzx3xNVOOi_kDY3YHL0QCYVD5-cv0Kwp-PfcUg8_6M",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366213424480",
+        "starRating": "2",
+        "title": "It\\'s getting worse...",
+        "comment": "Dear developer,  Classic mode doesn\\'t crash anymore but the font is still to small to read. Why have you removed the finetuning of the lisibilty of the font ??  Useless functions are added and I prefer by far the simple interface of the very beginning of this app.",
+        "commentId": "lg:AOqpTOGcCqUKrFYr9yYqNEU9SLziGOKWVYXrzeefPwUZfAq_iRFgQ_R-sJap3C-0KmThvFn3sv91QUHPRT2Q3XA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366837129349",
+        "starRating": "1",
+        "title": "Acer iconia 210",
+        "comment": "Will not play any music. Tells me I need to buy tiny player +. I would have bought the + if the free one had been ok",
+        "commentId": "gp:AOqpTOEGMgr83JwJsJWT-NfXNJrxeJ_vzx8_QSj-vbl-mWhOkBUwGbHKK-rkgw-31Q7rj4ATadboAiFvBKUfpso",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369050855846",
+        "starRating": "1",
+        "title": "Doesn\\'t remember last position",
+        "comment": "The most important function when listening to a audio book, to remember the last position does usually not work even when the activity has not finished.",
+        "commentId": "gp:AOqpTOGXE0WktAETkC_VDo1k1T6yVggzgP-MqfTAuKFL6Nu3IIly7Fdj9kvx35SDet0VIYi306a-jaiTABCKsg8",
+        "author": "Andreas \\303\\205berg",
+        "authorURL": "http://lh4.googleusercontent.com/-AIH0NlVluOQ/AAAAAAAAAAI/AAAAAAAAFqQ/7xjD0HuIT-Y/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-AIH0NlVluOQ/AAAAAAAAAAI/AAAAAAAAFqQ/7xjD0HuIT-Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370521303048",
+        "starRating": "1",
+        "title": "crashes",
+        "comment": "It sucks after the last update. it keeps on crashing.",
+        "commentId": "lg:AOqpTOGZXWs5xpXJdWWIReXc7sSK6HDNaj0K7jwGIiPMIcVOOYihnb46qrcnRaM2JUG3sRFBc-_W0Zvj3O8qrGs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366166206350",
+        "starRating": "1",
+        "title": "Was my favorite app for music",
+        "comment": "With all of these latest updates the app is garbage now. It was so easy and basic I loved it. Now there is way to Much clutter and sh|t going on that it sucks!!!!!",
+        "commentId": "gp:AOqpTOG_S9WSDJ6emDzB4Q9wzjWGVv3iLiMZPurW6M-JuFBn7vKzaKOlu4knoJC_xNLTohQvFDUbUcEg4OGLG-g",
+        "author": "Jonathan Lang",
+        "authorURL": "http://lh5.googleusercontent.com/-zWf-SKiWO1s/AAAAAAAAAAI/AAAAAAAAC5g/DtYWoCYo6kk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-zWf-SKiWO1s/AAAAAAAAAAI/AAAAAAAAC5g/DtYWoCYo6kk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366238041178",
+        "starRating": "2",
+        "title": "Fail",
+        "comment": "I used to love this application. its appeal was that it was tiny. it was lightweight and easy to use. with every release it has gotten more bloated. stop adding features and start stripping it down.",
+        "commentId": "gp:AOqpTOEdydvBGaEM4xKtK_Zc5e87-y_gIuUktb-zrrjPuHaOTHdZf_eQ2qF20zMFRpHpsAAJezXhTXqhvE2dXVc",
+        "author": "Bill Ezell",
+        "authorURL": "http://lh6.googleusercontent.com/-suuY6skjwBg/AAAAAAAAAAI/AAAAAAAAAAA/7_C6D0zT7dc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-suuY6skjwBg/AAAAAAAAAAI/AAAAAAAAAAA/7_C6D0zT7dc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365862491713",
+        "starRating": "1",
+        "title": "Latest update has killed app.",
+        "comment": "Utility has been sacrificed on tha altar of shiny newness. App will not run after this last update. This was one of my most-used. I am forced to find a replacement. I am dissappoint!",
+        "commentId": "lg:AOqpTOEb0g4lCHNCFZmlS6tWCoy9IiCLm2v-fNg8w_dSMy6XpQuh7D3PLV7eFEoYyPmfzLUTFvwxWQkFbxOPU2Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365846260481",
+        "starRating": "3",
+        "title": "Samsung i5801, sorry but...",
+        "comment": "not working in classic mode, too big song list font for last update. it\\'s not tiny like before, the worst is sometimes this stucks my phone, i  cannot do anything but reboot, the developer add some useless functions for most users but as the basic function, music playback and ui are not very well. i have to find another player and last, that is also a simply and folder-based music player called \\'andLess\\', it\\'s looks nice and support flac / ape!",
+        "commentId": "lg:AOqpTOFBUt4vpGGxXmU1jEHVwHzyav9_2vkwbe8ikgCrrvsJXILQAyOd67D3YNB8wmSRin2A2bzAV2y4H0dDONs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367505976970",
+        "starRating": "1",
+        "title": "Clunky & Crashes like crazy",
+        "comment": "Update: used to be my favorite player. Now the interface keeps getting worse with all the extra functionality the dev tries to squeeze into it. So much for the \\\"tiny\\\" moniker. And it now crashes 9 times out of 10. Awful!",
+        "commentId": "lg:AOqpTOHXAcv1qo-PNsUdMsNx_MyJ_xdq4hqauAfnbmCELuhYlClUzIXzpU7wxaZnTolKJf8rFHr85qpO91G9SA8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

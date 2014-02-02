@@ -1,0 +1,76 @@
+{
+  "title": "Street Beats",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=us.one_dollar.StreetBeats",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "June 29, 2012",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "16",
+  "rating": "3.75",
+  "contentRating": "Everyone",
+  "creator": "SteV-O",
+  "creatorURL": "https://play.google.com/store/apps/details?id=us.one_dollar.StreetBeats",
+  "extendedInfo": {
+    "installSize": "801k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Find that perfect song for the perfect moment, instantly!Street Beats helps you search for music on your device by metadata (i.e. name, artist, album name, genre, or even by year), or by lyrics.  You can submit a search by typing in the query into the box, or by speaking your query into your device after hitting the large Microphone button.  The name \"Street Beats\" hints at the facilitation of music queries while you should be paying attention to other things ;) but you're welcome to use it outside of the car as well.In \"Metadata\" mode, your music files must have correct tag information in order to show up in results.In \"Lyrics\" mode, you can submit a portion of the lyrics, then a lyric search service (ChartLyrics) will retrieve all matches.  Lyrics queries also attempt to find and help you play music from services like Google Music, Last.fm, Pandora, or Spotify (if your device has these programs installed).\"Hum\" mode is coming soon.  I left the tab in as a teaser.Once you see the results, you can play one song by clicking on it, or export each song found on your device from among the result set into your favorite music player.  (At this time, only Lyrics search results found on your device will be added to the playlist.)Regarding lyrics results, keep in mind you may have better luck by either avoiding or using proper punctuation in lyrics, and by avoiding numerals (such as \"5\" -- type \"five\" instead).This application was developed in conjunction with the Interactive Audio Lab at Northwestern University.  They are a federally-funded research group by the NSF in the United States, and are working on an interesting query-by-hum system called Tunebot.  It will be incorporated into Street Beats once their new servers are rolled out, and pending regulatory approval.  This will allow you to query for music on your phone by singing or humming it!  Meanwhile, you may contribute to Tunebot's body of known music at tunebot.cs.northwestern.edu.",
+    "reviews": [
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1332746501884",
+        "starRating": "1",
+        "title": "doesn\\'t perform as described",
+        "comment": "APP DOES NOT SEARCH BY GENRE OR IN SPOTIFY AS DESCRIBED I have Spotify premium and all local files have good tags metadata on purchased music from  Amazon and Google and yes I have checked for and confirmed intact id3 tags. tried search by genre as described. entered \\\"hip hop\\\" (most of my music is) and this app returned only one track that says hip hop in it\\'s title and NO SPOTIFY RESULTS. just in my local  music files a genre search on hip hop should yield at least 50 songs. DON\\'T MAKE FALSE CLAIMS PLEASE",
+        "commentId": "lg:AOqpTOGOy5ZsI8fGMPHnUP9-Tt9xuY3mPeVc_b8v-8mV5tsJZQ-g0a9R9FBl5FK7OKhoT_POmSSmWBt_bWHinXM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1323795893335",
+        "starRating": "5",
+        "title": "Cool app, quick access",
+        "comment": "Ever hummmm that song as you walk down the road of life. And want the real song, street beats lets me get quick access  and oh so easy to use!",
+        "commentId": "lg:AOqpTOFeOrG7hUuR6incrrIV9dBhlIrRyZE2_OqibzYh1LCHp08Ac6U-7MkjTHhD5CUKu4AjzRV4HLluBdmWYNw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.2",
+        "timestampMsec": "1335521982251",
+        "starRating": "2",
+        "title": "Not clear what the whole ...",
+        "comment": "Purpose of the program is",
+        "commentId": "lg:AOqpTOF_3Lchtd9d_tixBbP3x5bXCHIeG5Vq4w3qskI0F1vn6FbWzWUZe0vsJ5JF4baqLTjdrKK-1deXkMkmJic",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1315577702324",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Works perfectly!",
+        "commentId": "lg:AOqpTOEJL0bnR65gtwzSHoRWiSFPQkxAk84xSbP2tDpbgLmwVQNn83Dw7ySOX60lIBGEDtSrZTXDbjWwIFIolww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309051949178",
+        "starRating": "5",
+        "comment": "Wow just got this and it actually works. Love the playlist feature and ability to play directly by tapping. Now to make soundtrack to my life... !",
+        "commentId": "lg:AOqpTOHS6fsqvw7PIzWbhTyLTGv6ZrQupuIBaMPVHtoFQ7Bp5TuyessNUoZ5legnacheMvNRV1U5C7ViOYZ87jg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

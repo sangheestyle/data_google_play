@@ -1,0 +1,48 @@
+{
+  "title": "Peoples State Bank goTeller",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.PeoplesStateBankLA",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 14, 2012",
+  "version": "v2012.08.07.01a1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "The Peoples State Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.PeoplesStateBankLA",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Peoples State Bank Mobile Banking App is a mobile banking solution that enables Peoples State Bank customers to use their Android to initiate routine transactions and conduct research anytime, from anywhere. Customers can view account balances and transaction history, view account alerts, initiate account transfers and pay bills.The Peoples State Bank Mobile Banking App supports all account types including checking, certificates-of-deposit, money markets, loans, and lines-of-credit.The Peoples State Bank Mobile Banking App service is a FREE* service that allows you to access your accounts anytime, from anywhere, using your Android.Peoples State Bank is a locally owned community bank serving the follow Louisiana, Arkansas, and Texas cities: Alexandria, Florien, Greenwood, Mansfield, Many, Natchitoches, Pleasant Hill, Robeline, Texarkana, Toledo Bend, and Zwolle. High quality customer service is the true mission of this bank. The Bank's most important asset is its customers. Our services are tailored to meet the needs of customers, and our employees are hired to meet the needs of the customers.*There is no fee form Peoples State Bank. Connectivity and usage rates may apply. Contact your wireless service provider for more details.",
+    "reviews": [
+      {
+        "documentVersion": "8.07.01",
+        "timestampMsec": "1351426494582",
+        "starRating": "5",
+        "title": "Wonderful",
+        "comment": "My community bank\\'s app is better than the big national bank ones. Safe to use. Easy to use. Recommend to all.",
+        "commentId": "lg:AOqpTOF2g_y7bjdyXdowBDbjYXJ2NwCRABlqd35MRsmf-ky2-fN6NesURAMmj9xaJULa81SdVH--a1AmWHtX0fI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357176664453",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "Gets the job done",
+        "commentId": "gp:AOqpTOHLl4qQPY5ovokcl9f4b3xMJmyHVdtcgCuo658x9geG69W5agpcN2M9coO8RPPJrMzgKAmgmjBTCf5ro2I",
+        "author": "Vash Plant",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

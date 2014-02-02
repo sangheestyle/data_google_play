@@ -1,0 +1,29 @@
+{
+  "title": "What Should I Do",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.alex.whatshouldido",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "May 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "DrHorrible",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.alex.whatshouldido",
+  "extendedInfo": {
+    "installSize": "720k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "It often happens in life, we need make an important or very important decision. For example: go to the movies with a girlfriend in a restaurant or a walking in the park? To go on holiday to Spain, Turkey, Greece or Egypt? What is the nickname of your pets or to choose the name of the unborn child? We always make a choice. Sometimes it is very difficult to make a decision. We toss a coin, but it will only choose from two perspectives. And if there are more decisions what to do? My app will help you! You can enter any number of positions, press only one button and get the right decision!Advantages of applications:-Written on 4 languages (English, French, German, Russian)-Simple and intuitive interface.-The app is free.-Ability to use even as a game with your friends!-New will be added as download (will be greater than 100)Instructions:1.Download application2.Run3.To add text, type it in the box and click \"Add\"4.Enter at least two strings and click Â«Let's do itÂ»5.To delete click \"Remove\"Itâs one of my first application, I will be happy if you  support and comment it!Write whatever application you'd like to see in play market, and I'll create it for you.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

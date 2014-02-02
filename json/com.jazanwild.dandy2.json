@@ -1,0 +1,30 @@
+{
+  "title": "DANDY Step Into The Krazy Life",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jazanwild.dandy2",
+  "category": "Comics",
+  "price": "Free",
+  "datePublished": "June 22, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "CARNIVAL COMICS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jazanwild.dandy2",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "\"The Dandy Story has been featured in a major campaign by McDonald's which included a contest, a page on the company's website, 16 million placemats, and even subway signs throughout Sweden, where Dandy \"The Novel\" reached #1. The magical tale is currently in the works for a Vegas Musical.\"DANDY - STEP INTO THE KRAZY LIFE.Book Two in the Dandy Series:So now you know the legend, now you've heard the songs. The melody persists, beckoning for you to hum that tune and to once again... sing along. Of course there are more questions; answers unknown. Krazy's Club's is ready to open... and the trumpets are about to be blown. Then Step inside a place free of strife... Step inside the Krazy Life!You are all invited into this wonder filled extravaganza! Welcome, One and All.. to a crazy world, where if You Can Dream it... You Can Be IT! DANDYWORLD.  DANDY Created by Andreas Carlsson and Jazan WildMusical Composer / Hitmaker : Andreas CarlssonAuthor / Scripter : Jazan WildArtist : David MillerColorist : Matt YackeyDandy Copyright 2006 Jazan Wild / CARNIVAL COMICSÂ®",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

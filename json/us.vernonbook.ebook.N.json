@@ -1,0 +1,57 @@
+{
+  "title": "Horror Series I",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=us.vernonbook.ebook.N",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 1, 2013",
+  "version": "0701",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "1.6666666",
+  "contentRating": "High Maturity",
+  "creator": "kosik63985",
+  "creatorURL": "https://play.google.com/store/apps/details?id=us.vernonbook.ebook.N",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "NecroscopeTwenty years ago, the horror world was forever altered by the publication of \"Necroscope.\" An instant classic, Brian Lumley's astonishing feat of imagination spawned a universe which Lumley has explored and expanded through more that a baker's dozen of novels and novellas. Millions of copies of \"Necroscope \"and its successors are in print in a dozen languages throughout the world. Nominated for the British Fantasy Award, \"Necroscope\" has inspired everything from comic books and graphic novels to sculptures and soundtracks. This new edition of \"Necroscope\" uses the author's preferred text and includes a special introduction by Brian Lumley, telling how the \"Necroscope\" saga came to be. It also includes chapter ornaments by Hugo-Award-Winning artist Bob Eggleton, long identified with Lumley's blood-sucking monsters.As a classic, \"Necroscope\" rightfully claims a place in the Orb trade paperback list, for scholars of the field and the dedicated Lumley collector. And also for all the people who have read more than one mass market copy of the book to tatters.Harry Keogh is the man who can talk to the dead, the man for whom every grave willingly gives up its secrets, the one man who knows how to travel effortlessly through time and space to destroy the vampires that threaten all humanity. In \"Necroscope,\" Harry is startled to discover that he is not the only person with unusual mental powers--Britain and the Soviet Union both maintain super-secret, psychically-powered espionage organizations. But Harry is the only person who knows about Thibor Ferenczy, a vampire long buried in the mountains of Romania--still horribly alive, in undeath--and Thibor's insane \"offspring,\" Boris Dragosani, who rips information from the souls of the dead in a terrible, ever-lasting form of torture. Somehow, Harry must convince Britain's E-Branch that only by working together can they locate and destroy Dragosani and his army of demonic warriors--before the half-vampire succeeds in taking over the world!",
+    "reviews": [
+      {
+        "timestampMsec": "1373825281023",
+        "starRating": "1",
+        "title": "Fix",
+        "comment": "This app sucks you can\\'t change pages do to an  advertisement at the bottom of the page that takes away the arrows that you need to change the page. The sad thing is that this is one of my favorite books.",
+        "commentId": "gp:AOqpTOH0QsVGiRJy4vMaWEzdcwVzjhnD7AOjrirgM1SJbXOJZ8fL6ndOXl-qGsJgr2A08A1b7_JYbmxtJnd7ECs",
+        "author": "joe baur",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375481026119",
+        "starRating": "1",
+        "title": "Decent",
+        "comment": "Needs to fix the ADS on the arrows to change the page",
+        "commentId": "gp:AOqpTOEdq9h9l5UexYjVawLK0HktRn_vUwt3gRXMMZqSoYTmBs874nkCzkA1ltvtFksHwa0VofePqS66TAWbKEM",
+        "author": "joe leblanc",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376964953555",
+        "starRating": "3",
+        "comment": "Just Go offline and it removes the ads and puts the page numbers and page turning arrows back. :)",
+        "commentId": "gp:AOqpTOFyXGOBTXluuXVdzEl93wEbgj-Mz128MDzQrfpxN94_0Lmih97DiDtAPgJPZJoOI7jClRv83QIchF0KoVQ",
+        "author": "Melody Murphy",
+        "authorURL": "http://lh5.googleusercontent.com/-fEYxHOuFTHY/AAAAAAAAAAI/AAAAAAAAAAA/5erNh7as5Ao/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fEYxHOuFTHY/AAAAAAAAAAI/AAAAAAAAAAA/5erNh7as5Ao/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

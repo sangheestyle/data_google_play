@@ -1,0 +1,60 @@
+{
+  "title": "Bußgeldrechner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cgerold.bussgeldrechner",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "April 16, 2013",
+  "version": "1.96",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "882",
+  "rating": "4.54195",
+  "contentRating": "Everyone",
+  "creator": "CGerold",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cgerold.bussgeldrechner",
+  "extendedInfo": {
+    "installSize": "298k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Der BuÃgeldrechner 2013 enthÃ¤lt aktuelle Informationen zum deutschen BuÃgeldkatalog 2012/2013.Die intuitive BedienungsoberflÃ¤che fÃ¼hrt Sie von der Berechnung der BuÃgelder fÃ¼r GeschwindigkeitsÃ¼berschreitungen, zu geringem Abstand, das Ãberfahren einer roten Ampel und Alkohol am Steuer bis hin zum Nachschlagen einzelner BuÃgelder in einem umfassenden Katalog.Der Katalog unterteilt sich in die Rubriken BahnÃ¼bergang, Ladung, Gurtpflicht, Handy am Steuer, Kennzeichen, Licht, Ãberholverbot, Parken und Halten, Radfahrer, Rechtsfahrgebot, Reifenprofil, Stoppschild, TÃV/AU und Winterreifen.Neben der Berechnung des BuÃgeldes wird auch Ã¼ber anstehende Sanktionen bei einem Vergehen innerhalb der Probezeit informiert.Innerhalb des BuÃgeldrechners fÃ¼r TempoÃ¼berschreitungen kann zwischen verschiedenen Kfz-Typen ausgewÃ¤hlt werden:* Kfz bis 3.5t* Kfz Ã¼ber 3.5t* Kfz mit AnhÃ¤nger* Kfz mit gefÃ¤hrlichen GÃ¼ternHinweis:FÃ¼r die Korrektheit, ZuverlÃ¤ssigkeit oder VollstÃ¤ndigkeit der in der BuÃgeldrechner-App enthaltenen Informationen gibt der Entwickler keine GewÃ¤hrleistung oder Zusicherung.Die kalkulierten Werte dienen lediglich zur Orientierung und bilden keineswegs eine Rechtsgrundlage.Die Daten, die Sie in der Anwendung zur Berechnung des BuÃgeldes eingeben, werden zu keiner Zeit an den Entwickler oder an Dritte weitergeleitet.",
+    "reviews": [
+      {
+        "timestampMsec": "1352595071349",
+        "starRating": "5",
+        "title": "X",
+        "comment": ".",
+        "commentId": "lg:AOqpTOGBnxqM0Ke7yzfkFE45o7P9dmjxh5TMt5PPbx5esO1d4G0RLRw7Z1_RWFu2wozY27fIhwjhE0ZVVjN6jw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324207325738",
+        "starRating": "5",
+        "title": "Alles inklusive",
+        "comment": "Verl\\303\\244ssliche Daten nach aktueller Gesetzeslage, einfache Bedienung und teilweise gr\\303\\266\\303\\237erer Umfang als die kostenpflichtige Konkurrenz - top app!",
+        "commentId": "lg:AOqpTOHPUV4yW9913-D90Mj5mJHaFnhJ0IfZpBc9V4sLStsVTtKCsj4QqCpZ30vuKuAdX_bb2I4LSypN7o-EHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1289891846513",
+        "starRating": "4",
+        "comment": "great! would be nice if it showed the according statutes",
+        "commentId": "lg:AOqpTOEnwwWe2tgoVf5tYyeYtwPu0IDXPkRsy_xNit-8c605Ddk0wvQF-0xum3jCHSG-mNHix_zbQiclGxBeDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1284569673536",
+        "starRating": "5",
+        "comment": "Klasse App...",
+        "commentId": "lg:AOqpTOGmzLC97j6SC8qMGMnCb-4sm4mWHwhHk41Hv2SN4PkXJLIYB3OFB5lUNymqdAUmtUOF29bczNg8fhGvMw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

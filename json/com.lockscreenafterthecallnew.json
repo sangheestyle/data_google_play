@@ -1,0 +1,71 @@
+{
+  "title": "lock screen after the call",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.lockscreenafterthecallnew",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 25, 2013",
+  "version": "3.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "3.909091",
+  "contentRating": "Everyone",
+  "creator": "benzel",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.lockscreenafterthecallnew",
+  "extendedInfo": {
+    "installSize": "241k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "&&&&&  please don't install if you have  android 2.1 and below  &&&&&&Do you call people out by Clicking accidentally on the touch screen?Do you have broken/hard pressing power button ? tired pressing on the power button after the call end?Do you accidentally call people after you finish talking on Bluetooth headset when the device stays in the pocket?Most unwanted calls are made By mistake after we hung up outgoing calls, because the screen isn't lock !!!This application will help you deal with at least one of the problems.Before uninstalling app make sure to disable admin permissions in Locationand security > Select device admin > Lock after calledDetails:- The application locks the screen immediately when the call is finished- There is no need to press the black button to close the phone afterending a call, simply end the call and put it in the pocketyou can set the screen lock after 1 second/ 5 seconds/ 10 seconds / 30 seconds / 1 minute /2 minutes / 5 minutesPlease let me know your device type if the latest version work/didn't work on your deviceso i can post it for new users/solve your problem",
+    "reviews": [
+      {
+        "timestampMsec": "1372348623728",
+        "starRating": "3",
+        "title": "Good but Vd Bug",
+        "comment": "Developers, on no. Of occasions screen bcm blank while buttons are on and screen also works while blind or black when I press power button to on the screen..just buttons glow vd light not screen on many occasions works fine..",
+        "commentId": "gp:AOqpTOGRcmfDGtVjPc9FC6FHT3SvdtZYgYTFZN6iCZqsiHDrcyUT27875xl4VRMXcG1-hjlLLvSPLN8ItBoo1w",
+        "author": "Prashant Gupta",
+        "authorURL": "http://lh6.googleusercontent.com/-aq0meqdVI_Q/AAAAAAAAAAI/AAAAAAAAAAA/V-tRrMy6qNA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-aq0meqdVI_Q/AAAAAAAAAAI/AAAAAAAAAAA/V-tRrMy6qNA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358838169021",
+        "starRating": "5",
+        "title": "Cool app,",
+        "comment": "Is working great,  i even shared it to my friends.",
+        "commentId": "gp:AOqpTOGUCvx3q6qoXkJ44LBZuYldwFXBv0FiERgfkizqUGQ8rE7dNSXzHSFHEtzxOUr-eFe1jwVS1LXFFhb5lQ",
+        "author": "Cosmin Bodeanu",
+        "authorURL": "http://lh6.googleusercontent.com/-v_haXaconW0/AAAAAAAAAAI/AAAAAAAAAfQ/IlZWhxkVYAg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-v_haXaconW0/AAAAAAAAAAI/AAAAAAAAAfQ/IlZWhxkVYAg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358750904432",
+        "starRating": "5",
+        "title": "Amazing app",
+        "comment": "Really amazing app i am going to recommend for download Thx",
+        "commentId": "gp:AOqpTOGICTq7opYYziRfbXok8x-RDaDeOM2GHjkwIz2LvgcLNds6KKdO-_Gd4f1DSX-mtoBfw_v2f4cRX9tLhQ",
+        "author": "Aditya Choudhary",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365445488425",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "It helps me alot.",
+        "commentId": "gp:AOqpTOGNpcB1-tcu-i1Hd1bTc1iyLXJKaCNLhn3lIiO3DzYAOalC5Io6VI-skWCuTTfJVXbi4AbjNDZwGIoeIA",
+        "author": "sumit acharya",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.USES_POLICY_FORCE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

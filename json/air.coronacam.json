@@ -1,0 +1,49 @@
+{
+  "title": "Corona Cam",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=air.coronacam",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "April 12, 2012",
+  "version": "1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "2.6",
+  "contentRating": "Medium Maturity",
+  "creator": "HOUSE OF BEER",
+  "creatorURL": "https://play.google.com/store/apps/details?id=air.coronacam",
+  "extendedInfo": {
+    "installSize": "6.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "TURN YOUR WORLD UPSIDE DOWN AND WINMake your life a beach. With Corona Cam you can take photos and apply awesome Corona beach and vintage filters. At the tip of your finger, your favourite snapshots become cool hangout images.Turn your images upside down and post them directly to our Corona Switzerland Facebook page. The pic with the most votes wins a three-week trip to Downunder.Select your settings and preview, shoot away, post it and enter the competition for three unforgettable weeks in Australia.AWESOME FEATURES- Full-fledged camera- Double light exposure- Take upside down pictures- 4 different frame settings- 5 different vintage settings- 3 different color setting- Loads and loads of possible combinations- Save your photo to your gallery- Direct upload to Corona Switzerland Facebook page or your own Facebook timeline- Take part in the competition for your trip to AustraliaAND THE BEST: IT'S 100% FREEThanks for downloading Corona Cam. We are looking forward to see your awesome upside down pictures on our Facebook page real soon! Good luck!Your Corona Switzerland",
+    "reviews": [
+      {
+        "timestampMsec": "1352599952643",
+        "starRating": "1",
+        "title": "C\\303\\241mara",
+        "comment": "The app do not work the picture please make a up grade.... i have a Samsung galaxy 3 for example...",
+        "commentId": "lg:AOqpTOF07FQfCUOTJ23r4ksQmAUAlYZycww3lV0iPg5aWUvdLSUWUBbnsbjNJMBJ3hXX5JRw5gQFgfpvCFA1GA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357267063295",
+        "starRating": "1",
+        "title": "Booing!",
+        "comment": "Terrible!  It\\'s full of virus! No way!",
+        "commentId": "gp:AOqpTOEw80HNTUhF3PSw1R_JzkZHR6eaD-mj2YAfRMRqZ_VyLHl63eXWWAlc8q1sNUu-R_VUFJjPbCJzmwHd2w",
+        "author": "sinan olcayto",
+        "authorURL": "http://lh3.googleusercontent.com/-z89PBZJ19V0/AAAAAAAAAAI/AAAAAAAAACg/gP3p3ldOXh0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-z89PBZJ19V0/AAAAAAAAAAI/AAAAAAAAACg/gP3p3ldOXh0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

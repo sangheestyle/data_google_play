@@ -1,0 +1,40 @@
+{
+  "title": "Diagnosis of Carnivorous",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.nikuniku",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "2.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "66",
+  "rating": "4.0757575",
+  "contentRating": "Low Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.nikuniku",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "ââOver than 50,000 downloads!!ââAre you carnivorousï¼or herbivoreï¼Diagnose how herbivore you are by 30 questions immediatelyï¼This diagnosis analyzes your character and love tend, suggestions which to meet the Mr.Ms/Right to you.Results might be different to what you thoughtï¼To know how type of character you are may turn you to be popularï¼ï¼Someone has doubts in whether herbivore or carnivorous he/she is.And confussed in a border between herbivore or carnivorousï¼Let's start the \"Diagnosis of Herbivore\" now.âªYou can also check your boyfriend or girlfriend in a partyï¼â Characters of Carnivorous Girlsã»It seems that girls bite carnivorous boys in word, but it doesn't actually.ã»When there is no boy closes by, cranivorous girls start to persue them, whom called to be \" Carnivorous Girls\".â Characters of Carnivorous Boysã»Be active to the opposite sex and acts in any chancesãã»And he is not miserly to pay for bills or something else.ã»They want to make a truly love.ã»Men over than mid-life are almost Carnivorous.ã»It is heard that it becomes extinct.â Characters of Herbivor Girlsã»Even single she is okay, and never tried to connect to boys.ã»She won't confess her love.ã»She feels happy when be with girls.â Characters of Herbivor Boysã»Spend many times and money on hobbies.ã»Be good at cooking.ã»Smoking girl ï¼®ï¼§ãDrinking girl ï¼®ï¼§ãBad words ï¼®ï¼§.",
+    "reviews": [
+      {
+        "timestampMsec": "1368588456113",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Why have the title English when ur quiz doesn\\'t??",
+        "commentId": "gp:AOqpTOEXKvY_TQhF_EpfkJPyN6vo1BtxXAd8yrQHSH774r3w3sgP1JWN4cxM42y9BXRJhU8cMhiLzoY0bfPiUMk",
+        "author": "LeeAnn Lawrence",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.nikuniku.permission.C2D_MESSAGE"
+    ]
+  }
+}

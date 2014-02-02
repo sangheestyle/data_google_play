@@ -1,0 +1,38 @@
+{
+  "title": "Converter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ssit.apps.myprofile",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 3, 2012",
+  "version": "0.0.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Lokesh L",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ssit.apps.myprofile",
+  "extendedInfo": {
+    "installSize": "378k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Total unit convert are most powerful and fully featured Unit converter, Currency converter. It's intuitive and easy to use. Features fast, real time  Currency and unit conversion in a clean and user-friendly  interface. The easiest to use unit converter on the market. Features:  *  Currency conversions      - World currencies (40+), live exchange rates.  *  Universal Unit converter     - Real-time conversion     - It provides a fast, reliable and comfortable tool         to convert values into different categories such as         Mass/Weight, Length, Temperature, Area , Pressure,        Speed, Power, Energy, Fuel Consumption, Force,         Bits/Bytes, volume ,time, Density and Speed.     - It Convert 15+ conversions NOTE: **Please leave your comments for Total Converter on market.   It will encourage the developer to continue his effort. **If  you have any questions or issues, send an email at    the address given below. To request additional units,   please send an email instead of writing a comment.   lakkojulokesh@gmail.com",
+    "reviews": [
+      {
+        "timestampMsec": "1357322274467",
+        "starRating": "1",
+        "title": "Converter",
+        "comment": "Always pops up with a network error",
+        "commentId": "gp:AOqpTOEyvLxYHNhHeE_EnCnWpNj2P6OJg-RCl7USl2VKKBWtOv8n9qvqzEYCdVXVwkOhmGQY6Q2DAJoZsgyEHQ",
+        "author": "James IP",
+        "authorURL": "http://lh3.googleusercontent.com/-k8thm9JiqCE/AAAAAAAAAAI/AAAAAAAAAFE/RLczKCEV070/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-k8thm9JiqCE/AAAAAAAAAAI/AAAAAAAAAFE/RLczKCEV070/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

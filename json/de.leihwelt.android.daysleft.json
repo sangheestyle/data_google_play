@@ -1,0 +1,230 @@
+{
+  "title": "Days Left Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.leihwelt.android.daysleft",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "1.5.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "19960",
+  "rating": "4.3852205",
+  "contentRating": "Everyone",
+  "creator": "leihwelt.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.leihwelt.android.daysleft",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Check out my latest game Escape from Space for all Jelly Bean (and onwards) devices!https://play.google.com/store/apps/details?id=com.leihwelt.ouya.escapeDid you ever forget an important date? Do you want to count down the days until a game or gadget release? Did you ever forget your moms or girlfriends birthday? You did? - oh no how could you!Help yourself with this shiny new little widget for your home-screen. Never miss an important day again. Set up an daily countdown to new years eve, to Christmas, to your birthday or to a totally random day - just because you like daily countdowns!If you want to customize the widget you can choose between several colors and overlays to combine them into your own designed day counter!All of that - for free.BUT, if you like the Widget please let others know by giving a rating! And if you want to show your love for this widget, you can also Donate money to me by clicking on the Donate button in the Setup view.IMPORTANT - READ BEFORE RATING:- This is a homescreen widget THUS IT IS NOT meant for INSTALL ON SD according to google - Apps2SD will not be enabled in this application, i am sorry.- You didn't find a way to start this App? Well, that's because it's an Widget not an App - go longlick on your homescreen -> add Widget -> \"Days Left\" there you go.- added widgets for size 2x1 and 3x1 to support more information on days left widgets- added several new overlay icons for christmas, birthdays, cakes, softball and soccer- added INTERNET permission to change the donate button in a later version to advertisements - Internet is currently NOT USED!!UPDATE:This Update now needs INTERNET access rights - altough they are NOT USED at the moment - they might be needed in a future version to enable advertisments (where the *donation* button currently is). INTERNET is NOT used right now!!--------------------------IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT!This is a Widget for your home screen - you can add it by long pressing your homescreen -> than go to \"Widgets\" -> and than \"Days Left\"Please DONT give One-Star ratings because the app \"wont open\". It is a Widget! It is NOT shown in your application launcher.LATEST UPDATE:FIX FOR not updating anymore bug! It will update once every hour - but it's not exactly at 12pm it can be between 12pm and 12:30pm!IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT!--------------------------Similar Apps: TheDayBefore Widget Timer Countdown Days Until Calendar Days D-Day Counter Day Counter Days Matter Shopping Days to Christmas TheDayBefore ëë°ì´ìì ¯",
+    "reviews": [
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1329776355545",
+        "starRating": "5",
+        "comment": "Great app. Works great. Would like more options to make it \\\"pretty\\\". Also needs a RX icon, for my med refills. Thanks",
+        "commentId": "lg:AOqpTOF-pofxsFH577vNx_eB5V0GIIaOxayPy_1mcPIEGNvFRIDcNVhxYMqEPa-CBRhPjhnKDbVzHSHd_9OWJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1368650620783",
+        "starRating": "5",
+        "title": "Best countdown app!:D",
+        "comment": "I have downloaded 3 countdown apps before and I have to say this is by far the best one! Simple, clear graphics, customisable and very effective and cute!<3",
+        "commentId": "gp:AOqpTOFdWOBPKptfHaBdP4p3A4hAbdcOWR4Ej3hXeDCzS3l8GK5bArHQI3okkhTq2VL-9i4hVXsOpoGaYVew8A",
+        "author": "Emma Moore",
+        "authorURL": "http://lh6.googleusercontent.com/-1B3LcSGxX6o/AAAAAAAAAAI/AAAAAAAAAHs/hz014yp8h20/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1B3LcSGxX6o/AAAAAAAAAAI/AAAAAAAAAHs/hz014yp8h20/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1334802786250",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "I like it. It does what I want:p  One suggestion would be to add a graduation cap for one of the icon thingys, that\\'d be really cool! (:",
+        "commentId": "lg:AOqpTOFf0TF67mrPlAxVFJwd019l0q6XFJCuGAERJPKonDFLbsXLk4IYcxXQifpr9FipP_L_jADcMoLmfVlLHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1343662775093",
+        "starRating": "5",
+        "title": "Excellent Countdown!",
+        "comment": "This widget is a great way to countdown the number of days to an event.  Easy to use, with a good set of directions, and customizable.",
+        "commentId": "lg:AOqpTOF3uRnxbZsg0ua2_NvjA7MsK4C6s8o3ySBtoqOIFsQEJQWQGGtvyErZVEv3BdwjvIG6ln-rklGCbqrxyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1355292281473",
+        "starRating": "5",
+        "title": "great",
+        "comment": "it\\'s really easy to use an really fast to install. I\\'m happy",
+        "commentId": "gp:AOqpTOHDCHfrqKQlW1Y7e0QfTkJbE1w7XVSxRdsiJwi3TjV_j5h4wm-8NtliHVu3YyKzb1bcuwkZc6iXcFxygQ",
+        "author": "mckenion allen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1333997553155",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Very nice for projects and the like since it gives me a very good idea of when my projects are due. It is also extremely easy to use. Just wish that there were more overlay icons",
+        "commentId": "lg:AOqpTOEE7GkqvnqKd6oCaJEuVaCjpUN3Qa5SOsiHC25I-5E7TWphaSTPkF7lj8C6Y8GFbtfMxbe09zcXDHdHxw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1346270339036",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "A smooth, attractive and handy little app. I love it!",
+        "commentId": "lg:AOqpTOEiGkd5fq1RU6TU_Hemv7v1ZshPtWUe_wDGDUFbgiR6KgW_-KZECjDflzSfMDplItiJRoCP-BRoUqKJPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1346275116466",
+        "starRating": "5",
+        "title": "Excellently simply :D",
+        "comment": "Really good, simply and easy to use. Recommend!",
+        "commentId": "lg:AOqpTOEe92ALz-xk0kIauyf5TfMt0M62TYa6Z52Hf4oj20Qv03C-2v5ENJm8j0T-B_qNTnhRAWvyPtFKGC81Jw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1350625614246",
+        "starRating": "5",
+        "title": "Killer app",
+        "comment": "Simple to use. Looks great and is customizable. Keep up the great work! Thanks.",
+        "commentId": "lg:AOqpTOFYXjkCjO_9AUMP7YWU11SzyC0or7C2JYNeyOVDyqBBF5c0Igg3fafYQFLKTlVl10Ld3EboO8O8rxzOdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1375393212300",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "This app is very good, you can personalize it however you like because you can change the colour and you can also have an emotion or a picture on your calendar. The best app I have ever used and I would recommend this app to a friend, install this app xxxx",
+        "commentId": "gp:AOqpTOEYIKh09v8EEi8LSN6Ja0Sf06lr6LhF5aaAT2ARrajOAes5nJPbbxGR_Icg2ah2xM_06JtNG7-p3s27rQ",
+        "author": "rebecca asquith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1350547359443",
+        "starRating": "4",
+        "title": "Passes the time",
+        "comment": "I love this widget. Put it right on my home screen so I know when my boyfriend comes home from his army pre deployment training. Only problem I have with it is it will randomly set the date back one day and I have to go back and change it. Other then that its nice to have.",
+        "commentId": "lg:AOqpTOFGON2TEd_-4Det-f6NmqTTg3075n-GwhI-IEYUV083zVnpzc6Lrvhuw0r9E8iEkxBUyKgCWxedOa8tAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1351868256503",
+        "starRating": "5",
+        "title": "Amazing!!!\\342\\231\\245",
+        "comment": "It does exactly what I want, the widgets come in great sizes and I love the little emoticons you can add!!! So happy with this app, counting down the days is so much easier ^-^",
+        "commentId": "lg:AOqpTOF-7RSi0MD6RJLckqIDiloxXDvfvQ7lf6ZRsK2geVkm7K-qS9A4l2G7hTOG3FapAsscBhw4j-pmn6uKCw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1361334545210",
+        "starRating": "5",
+        "title": "Awesome app!",
+        "comment": "I love it... it\\'s exact what I was looking for... I like the emoticons it comes with & love the colors available!  Perfect!",
+        "commentId": "gp:AOqpTOEd0lsF5DGagvENjrZvHyKJ7oMACWNTGubjFGv5s4QBy8FyHqKdwfphQgi0AfbJ258JIVx_4YKDUWufug",
+        "author": "Fabiola Bolanos",
+        "authorURL": "http://lh5.googleusercontent.com/-3lZjEm3Nn1A/AAAAAAAAAAI/AAAAAAAAAHc/Fga3RpWufNc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-3lZjEm3Nn1A/AAAAAAAAAAI/AAAAAAAAAHc/Fga3RpWufNc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1331795076229",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "Perfect for counting down the days until I get to see my man! Love the size and love that I can customize it to match the colors on my phone! A+ :)",
+        "commentId": "lg:AOqpTOHyXedoP4BbchOqVNNHPvKrykHrmWlLqpPbA9H0Sq4yPfbJbsEXJOgvp8_RJ2icKiVPhJiTWp8sZOswmg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1375762018377",
+        "starRating": "5",
+        "title": "Very nice app",
+        "comment": "Perfect! Small lightweight and easy on eyes. Perfect app. Thank you!",
+        "commentId": "gp:AOqpTOEIpYjZHSRTv3kJcx-DQLCEi8f6rPfyyNB50ajAODdu1YJ4YZ1ZuWILzWFpKkm8749dtd56sEkthpURLg",
+        "author": "mike berg",
+        "authorURL": "http://lh4.googleusercontent.com/-mOlYEPfV1-8/AAAAAAAAAAI/AAAAAAAAABI/fsqAHssvfWE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mOlYEPfV1-8/AAAAAAAAAAI/AAAAAAAAABI/fsqAHssvfWE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1332323951479",
+        "starRating": "5",
+        "title": "Great & Perfect! I\\'ll never forget a thing again! TNX !",
+        "comment": "Great & Perfect! I\\'ll never forget a thing again! TNX!",
+        "commentId": "lg:AOqpTOEAVo9CW5u6lx47XQ5CL_yDjPqdJoBxKEf8mhetge9MTYvAs2gajTAeP3cxMqjSUgFU52LEUSNsdbP2lQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1346310328039",
+        "starRating": "5",
+        "title": "AWESOME",
+        "comment": "I LOVE THIS APP.. THE EMOTION ICONS ARE CUTE.. I LIKE THE FACT YOU GET TO CHOOSE BETWEEN DAYS LEFT OR A TITLE ^_^.. SUPER AWESOME DEFINITELY NOT REMOVING THIS APP EVER ^_-",
+        "commentId": "lg:AOqpTOEzwu-ckDkdhIOhIy6A_P7rb97ItkDFbkJyD1U3b1KXO8IQTfJAuZw08vrsu947R8Wx-wRT2Gx0zWG6YQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1336631771667",
+        "starRating": "5",
+        "title": "brillliant",
+        "comment": "absolutely brilliant i am a school girl and its brilliant!! i\\'m counting down till my birthday and when i go Harry Potter tour and its real good i recomend it to everyone real easy to use as well xxx ;D",
+        "commentId": "lg:AOqpTOFq4p_og2YVtxx24Gej4-prB9JWDJ6dPdSS3-35SCrUYK3xSKb7Ah1lgdgMNCCZNJJHtJamNPqRC1WVjw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1344256117911",
+        "starRating": "5",
+        "title": "Good fun!",
+        "comment": "Very good on my samsung galaxy y Widget is high quality and is great fun telling your friends thwt theirs so many days till your birthday or christmas!",
+        "commentId": "lg:AOqpTOES6aZatUyWu4N_OzSYSkdF38gOXkZA1mXoJ74oDZdG32QgLIFvOadCwMRinc-cs7a3wwYE-V17EA5PCw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1332193845763",
+        "starRating": "5",
+        "title": "Brill countdown app",
+        "comment": "I love this. Multiple countdowns and diff size/ level of detail is great. Nice features such as customising colours. Easy to use and runs well.",
+        "commentId": "lg:AOqpTOEpzSXbWDKCGHpmyvZsckM1_Y90U0czgb25NzMInt5O2nTWUJsjJhz7KOCnVaW1TrIz5KqMFuKpOMeNew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

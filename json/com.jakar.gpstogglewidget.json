@@ -1,0 +1,215 @@
+{
+  "title": "GPS Toggle Widget (root)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jakar.gpstogglewidget",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 21, 2013",
+  "version": "1.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "231",
+  "rating": "4.1385283",
+  "contentRating": "Low Maturity",
+  "creator": "Jakar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jakar.gpstogglewidget",
+  "extendedInfo": {
+    "installSize": "280k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The best GPS Toggle Widget. It just turns GPS off or on with one click.NOTICE: You may need to reboot after adding widget with root methodâ¢ It works on all Froyo (Android 2.2) or earlier phones.â¢ Works on rooted phones even when the other methods (that other widgets use) don't work.â¢ If you can't use either of the above methods, then you can use the 2-click, which is still much faster than opening the settings manually.â¢ When GPS is turned on/off through status bar/system settings, or another application, widget automatically updates. Works on all Gingerbread (2.3) and above phones. May not work on Froyo (2.2) and before due to Android limitations.Note: You must have an sdcard (internal or external) to enable the root method. After enabling the \"Root\" method for the first time, you may need to reboot the phone.Please also note that it may not work on some rooted phones because root-related methods are not always consistent, so it is in a beta stage, but it should work on most rooted phones.If it does not work, please do not leave a bad rating. Instead contact me at support@jakar.co telling me your device name, model number, and Android version, and I'll do everything I can to help.If you want information about rooting, look at my website: http://goo.gl/KHx7KAbout Permissions:â¢The location permission is required to check your GPS status (whether it is on or off).â¢The modify files on sd card is because to enable the root method, I have to temporarily write files to your SD card which I delete immediately after.â¢ The internet permission is used for the ads.â¢ The access network state permission is also for ads.",
+    "reviews": [
+      {
+        "timestampMsec": "1376554263582",
+        "starRating": "5",
+        "title": "Thanks Developers",
+        "comment": "I appreciate you! And if your phone is rooted its pretty much guaranteed to work! Don\\'t get mad if it doesn\\'t work and your phones not rooted...I mean the title says Root! Anyways thanks again guys I will be upgradong to the paid version after a few days of making sure it works how it does now!",
+        "commentId": "gp:AOqpTOEdrD0-fQ03biWWQV1bZMrAEQTn9KhlYJdeFRgdofDYxZVFv_J4yOubiSAv97RgBGAzpympzjfg7OghOUU",
+        "author": "Angel P",
+        "authorURL": "http://lh4.googleusercontent.com/-vKye8P-Nvyw/AAAAAAAAAAI/AAAAAAAAADk/8rGXNGcqefI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vKye8P-Nvyw/AAAAAAAAAAI/AAAAAAAAADk/8rGXNGcqefI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376699168827",
+        "starRating": "2",
+        "title": "Works but pop up defeats it\\'s purpose",
+        "comment": "The app works just like it says, but every time you use that widget, it has a pop-up screen telling you to upgrade. 2 stars since it works, but the pop-up screen defeats the purpose of the widget since you have multiple steps with it, just like going into the settings menu to manually do it.",
+        "commentId": "gp:AOqpTOFwijicCB9aW9mV1iOqfXViJiborJf4t95yPgYG8qfaJC2vFnBthZwHhpSSbK1DNgAh4r1i7A6FAEYgKEI",
+        "author": "Bill Derr",
+        "authorURL": "http://lh3.googleusercontent.com/-hg7oiFy-RwM/AAAAAAAAAAI/AAAAAAAAI6w/mAQ3hgc8e_s/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hg7oiFy-RwM/AAAAAAAAAAI/AAAAAAAAI6w/mAQ3hgc8e_s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372561042247",
+        "starRating": "3",
+        "title": "It\\'s work but...",
+        "comment": "Annoying upgrade remind.",
+        "commentId": "gp:AOqpTOGt7R_Y8xHQ_2AnryBvZoO6KKvMbFGx57btbsJOwMdf9IX1s_J2-_TlhC1uMhEIfNKJ5GHx9nIMruEyyyk",
+        "author": "Panuwat O-Thong",
+        "authorURL": "http://lh5.googleusercontent.com/-mgSyJSULMds/AAAAAAAAAAI/AAAAAAAAAEw/FSg0wFoQWUI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-mgSyJSULMds/AAAAAAAAAAI/AAAAAAAAAEw/FSg0wFoQWUI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367470922407",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Works great on sprint optimus w/ root. Saves alot of time and helps me save battery in the process",
+        "commentId": "gp:AOqpTOF59Sq8sNDYO0YNcR7FpW9xWd-6a32nvk844h4LAXOPmDbu5wRep0CiYxtFsG3yOUF_aU-5SE-rHFPgwcw",
+        "author": "Johnnie M",
+        "authorURL": "http://lh5.googleusercontent.com/-wW-2b2bagHc/AAAAAAAAAAI/AAAAAAAAABU/ZkBF46q3V3k/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wW-2b2bagHc/AAAAAAAAAAI/AAAAAAAAABU/ZkBF46q3V3k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374060577489",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Cool app, one click for GPS on/off",
+        "commentId": "gp:AOqpTOEHDeJLH5evE1Rw5Mi0zVkDsoKRYT2XbRUd0-5MaMzluyIy8glj4mKZIQlQD4G3E-1HQL-a76OM9l6aqTU",
+        "author": "Karl Bovelle",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368601296176",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Succeeded where all other failed!",
+        "commentId": "gp:AOqpTOEueHgElkysPcjLDnhpFOVo5tFMa-ma8RK5JYe1l_0q5Tz1Cx_yqHbIAA07pi29Q7AFk1VciRA9yb3khRM",
+        "author": "Eliyahu Greitzer",
+        "authorURL": "http://lh6.googleusercontent.com/-kgszXgaSNv4/AAAAAAAAAAI/AAAAAAAACD4/ckdropxBABE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kgszXgaSNv4/AAAAAAAAAAI/AAAAAAAACD4/ckdropxBABE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372698201829",
+        "starRating": "3",
+        "title": "Hello",
+        "comment": "Nice job.",
+        "commentId": "gp:AOqpTOGJCX51B4VTSA6ItZG8X8deEDgSJDiQiOeT8-oWb0-X97rKh6hFzdww22DNLE7m7Lb_omM0VBwCLDvXjaw",
+        "author": "Terence A. J. Mannion",
+        "authorURL": "http://lh5.googleusercontent.com/-GcOrGLE8Cao/AAAAAAAAAAI/AAAAAAAAAAA/9cWYZLf5CTQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GcOrGLE8Cao/AAAAAAAAAAI/AAAAAAAAAAA/9cWYZLf5CTQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376639557303",
+        "starRating": "5",
+        "comment": "Exclent",
+        "commentId": "gp:AOqpTOH8eEx1nruLhniqiYJrHu1z9ZnKPBU6pcEVZkCZJNTk1dte26g3KYkaVbZr1mzN8ScsmJ1RnVuIjN0GJlU",
+        "author": "Az Am",
+        "authorURL": "http://lh5.googleusercontent.com/-ZoRwN4QuShw/AAAAAAAAAAI/AAAAAAAAAFc/9cifm8PGD6Y/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ZoRwN4QuShw/AAAAAAAAAAI/AAAAAAAAAFc/9cifm8PGD6Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370551742307",
+        "starRating": "5",
+        "comment": "Brilliantly Simple",
+        "commentId": "gp:AOqpTOHX0k-0fQBEtkvw7xf-yyEeVJwNzpuU3AddW6oHgBm7-a7CHS7WbnjWP6R5w9japJdlwiKzxDdkz1Bmimk",
+        "author": "Simon Burke",
+        "authorURL": "http://lh3.googleusercontent.com/-3Ac4pJnl4U8/AAAAAAAAAAI/AAAAAAAAAJI/AN6egHMDJk4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-3Ac4pJnl4U8/AAAAAAAAAAI/AAAAAAAAAJI/AN6egHMDJk4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1329010801856",
+        "starRating": "5",
+        "title": "Finally a GPS widget that works in Gingerbread!",
+        "comment": "Works great! Doesnt match my other widgets tho. Can u please make matching Wifi, Data, & Silent Mode widgets? Also, accompanying root app remains after uninstall. Please fix. Thanks",
+        "commentId": "lg:AOqpTOH-Fg1sQQiF5MMnlV_xAbmoyevGE2T7iePWK2XdUxxwErgl1-8Fp0YzVvjd5W-bJGtxS5aN4kpto5p9A80",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335980664836",
+        "starRating": "1",
+        "title": "Spyware",
+        "comment": "Spyware scanners report this app will fondle your phones naughty bits, steal your phone number, and compromise your privacy.",
+        "commentId": "lg:AOqpTOGxMU3uIJqPrQC4hz1-3_S26TqhxEg-3golq6bnguzWT1hqE4w_9Nd86dI1E5JKrVJapS8Zu_SvcUn_F3U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343560768079",
+        "starRating": "4",
+        "title": "Steve Samsung galaxy s2",
+        "comment": "Only app I could find that actually displays gps on or off. Would be good if a single click turned it on as I don\\'t want to root phone",
+        "commentId": "lg:AOqpTOHQvPJESxMs8t4Y5EtnQV9LpJfwARW32SKT7RlecxU0YZM6UsYN-eZx-kO5i6TItV08bSxE9NF_wxK3mYQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354083166702",
+        "starRating": "5",
+        "title": "Does what it says",
+        "comment": "Rooted Droid RAZR Maxx running Ice Cream Sandwich 4.0.4, and the 1-click works. Since I was able to get Widgetsoid\\'s one click to work (by moving it to /system/app), I will be uninstalling even though this does the job.",
+        "commentId": "lg:AOqpTOFajjCBevD3hyMHiyKRpM5KxIHM6jzczJ6wfB2OixA1YpvfK9Ca1ThuCc3YSugGOzaOsjU5wn_0Y4GOZl8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362064535965",
+        "starRating": "4",
+        "title": "Good App/widget",
+        "comment": "This is a very well written app/widget. Kudos to the developer. Unfortunately the Motorola DROID4 (v4.0.4) seems to be very uncooperative with 3rd party widgets and toggles.  This one is no exception.",
+        "commentId": "gp:AOqpTOEF9wfinDlyb2aXvdCj6hld1MG_GOwH-yel1CfFzgMDjwUn1lqOZ-G9NDWdo3tWk5BxeZJoFhTkGmkb5nk",
+        "author": "Sam H",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328760319359",
+        "starRating": "5",
+        "title": "Adds \\\"true\\\" toggle",
+        "comment": "Only app that does a true toggle of gps, not send you to settings like most do. I can make a shortcut for that myself, don\\'t need a stupid app for doing the same thing. Waste of an app and my time. This app truly does toggle, also gives other options to use, so pretty much covers all the bases with this app.",
+        "commentId": "lg:AOqpTOGxODcjfIb41cp62OaZX032p14tFuzwstkbsYpMKfV5x6OhlpkgRpeLM-RGIR8y-Kp5nKlEbrdot7g88Ks",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351189316423",
+        "starRating": "5",
+        "title": "Its about time",
+        "comment": "Before I found this which is how was about to have a mental breakdown. I downloaded Smart Actions, smart rules,brought and payed for tasker. All of which are great applications but unable to toggle GPS with exception to Tasker . It\\'s ridiculous that you have to root your phone in order to get a GPS single toggle switch however this application does the job you still have to have your phone rooted but it does what it advertised works perfect",
+        "commentId": "lg:AOqpTOGqIJT_CmhW3msj9r1aVVUeiJJG2h3171_QBxOiWXQl6oWaRkNlYEwimrs8v4E1wQpZTTSu2QseinzG-eY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344222454134",
+        "starRating": "5",
+        "comment": "Works fine like it says. Wish google would allow One click off on",
+        "commentId": "lg:AOqpTOHWp3lNe5av_Fm-FRIhy5YKL05zeMITWKxaHVWeDl9juSwgpyXzHHKa1SfNg79Cxwroc1Eza4CyJyuVNZY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347993246518",
+        "starRating": "4",
+        "title": "2 step works great",
+        "comment": "Only compaint is the popup asking me to upgrade or rate when I am trying to start the gps... kind of a pain when trying to drive. Otherwise it\\'s great!",
+        "commentId": "lg:AOqpTOFwzQI_IYTS8N7_8iMW0yXZXkc02CJTM6b59LaACLlhpUlIlo-fYSRSQKisk1N6b3tJg-q8qLYJfJhJsDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335385955285",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOE_1VigzB46zvcTOuq1CqeYBVjCxIf1zmxJxK_CRtn1h6pvZ6GNFIZcuEMk8m9QUNKpiDfZ644dSEc1vzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365074294571",
+        "starRating": "5",
+        "title": "Great widget",
+        "comment": "Does the job perfectly turn on/off gps as needed. I would recommend to change the Icon.",
+        "commentId": "gp:AOqpTOG0XorYQJsxpg-bFxJBC2w3Ke3GyI8E6BG8U7V6mcVA4qWu5iWvUguBxMtkjue6TrzCHFZoKsb9vs6ZLhE",
+        "author": "Gg Dogg",
+        "authorURL": "http://lh5.googleusercontent.com/-YvJDXGc6Ejc/AAAAAAAAAAI/AAAAAAAAAXU/O7xG0Aav_t0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-YvJDXGc6Ejc/AAAAAAAAAAI/AAAAAAAAAXU/O7xG0Aav_t0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

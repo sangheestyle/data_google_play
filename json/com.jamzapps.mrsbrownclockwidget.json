@@ -1,0 +1,43 @@
+{
+  "title": "Mrs Brown's Boys FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jamzapps.mrsbrownclockwidget",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "July 30, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.111111",
+  "contentRating": "Low Maturity",
+  "creator": "JamzApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jamzapps.mrsbrownclockwidget",
+  "extendedInfo": {
+    "installSize": "548k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Have Agnes brown on your phone as an analog clockThis is a must for any Mrs Browns Boys fanTo use the widget on Android 4.0+:- open the app drawer- tap the \"Widgets\" tab- find Mrs Brown Clock Widget and drag it to the home screenTo use the widget on older versions of android:- long press an empty spot on the home screen- select \"Widgets\"- tap on Mrs Brown Clock Widget to add it to the home screenAgnes Brown is the undisputed head of the family following the death of her husband some years ago. She loves the clan very dearly, and always does what she feels is best for them, but often manages to put her foot in it.mrs brown is a well loved person who enjoys meddling in other peoples love life despite having non of her own. her children love her however she sometimes gets on their nerves by not understanding thing properly. she is quite rude at times. she will do anything to help her family and friends.Mrs. Brown's Boys is an award winning sitcom created by and starring Irish writer and performer Brendan O'Carroll. The show is based on O'Carroll's stage plays about the character Agnes Browne, which were developed from books and straight-to-DVD films. The sitcom continues the stories of Agnes, now with the shortened surname \"Brown\", and her family who are played by real life close friends and family of O'Carroll's. After being slated by critics, the show has become a ratings success in both Ireland, where it is set, and the United Kingdom, where it is recorded. english defence leaguekeywordsmrs brownmrs brown and boysmrs brown boysmrs brown boymrs brown s boy smr brown s boysmrs boys boysmrs brown seriesmrs brown boys seriesmrs brown tour--- Important ---This is Free Application. To keep it 100% free it is ad supported and may contain ads in the notification tray. If you don't like these ads, you can opt-out at http://opt.leadbolt.comSome antivirus apps may say this is intrusive this is a false positive due to the notification ads.No apps are ever installed only icons that can simply be removed.If you feel you do not with to receive notifications you can opt out at anytime with the link provided",
+    "reviews": [
+      {
+        "timestampMsec": "1372289049452",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Just what I wanted :)",
+        "commentId": "gp:AOqpTOGFpHPOsiSCFi9XmM5Ld59cfUNvawCR2GtYHK_sZYa9ZwFqCIh3OJAhuj0NUjxlGGl_Qib5ErxpNTe6AQQ",
+        "author": "Amber Swan",
+        "authorURL": "http://lh6.googleusercontent.com/-tLTrxxjdZ1Q/AAAAAAAAAAI/AAAAAAAAAA4/tBDpZF7Id0Q/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-tLTrxxjdZ1Q/AAAAAAAAAAI/AAAAAAAAAA4/tBDpZF7Id0Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT"
+    ]
+  }
+}

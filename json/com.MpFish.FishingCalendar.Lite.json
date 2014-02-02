@@ -1,0 +1,42 @@
+{
+  "title": "MP Fishing Calendar Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.MpFish.FishingCalendar.Lite",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "2.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "95",
+  "rating": "3.8842106",
+  "contentRating": "Low Maturity",
+  "creator": "MP Fish",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.MpFish.FishingCalendar.Lite",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "MP Fishing Calendar â is a program for the smartphone, which will tell what kind of fish are caught when and when not to.Here are just a few reasons to install on your phone our fishing calendar:Â - The maximum number of fish;Â - Mathematical models of fish based on their own analysis;Â - It does not require an internet connection - and it is convenient for fishing;Â - User-friendly interface;Â - The probability of the catch is presented by comparative diagrams within a day;Â - The probability of catch certain species of fish is a convenient schedule a month in advance;Â - Personal settings list of fish;Â - Regular updates, corrections and additions.Fishing calendar gives long-period forecast of the probability of biting.Examine the scientific evidence about the lifestyle of different species of fish. Then, mathematical models of the likelihood of their catch, depending on: the climate zone and time of year. Then, a mathematical model of the effect of catch relative position of the Sun, Earth and Moon - Phases of the Moon.List of species of fish, which is based on your personal calendar can be customized.Calendar fisherman to determine when in the near future we plan to check out fishing.Chance to catch a fish displays by four levels: an excellent, good bite, bad bite and none. Everything is simple and intuitive.The application is fully installed in your mobile phone and works even when the ban on Internet connection.Â The application can be moved to SD-card - not to hold the phone memory.Lite - version of the app includes ads.Internet is used only to display the map - to select a point.GPS is used to automatically determine the point.",
+    "reviews": [
+      {
+        "timestampMsec": "1373404407105",
+        "starRating": "1",
+        "title": "Limited",
+        "comment": "I only recognize a few fish species: pike, perch, or carp. No bass, crappie, or walleye.",
+        "commentId": "gp:AOqpTOFxDl4B0lZ7HVkrclBinUX4yxFs2BGVeBIZVaidyR5nSpNnASMA0dPeeVnAPaz2q5HknRRt7iPUIA3yvR8",
+        "author": "Marty Barry",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.MpFish.FishingCalendar.Lite.permission.MAPS_RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

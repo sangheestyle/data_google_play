@@ -1,0 +1,35 @@
+{
+  "title": "Dance Cube 3D Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.livewallpaper3d.locker.dance.cubedancelwp",
+  "category": "Libraries & Demo",
+  "price": "Free",
+  "datePublished": "July 24, 2013",
+  "version": "1.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Chirag Mahajan",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.livewallpaper3d.locker.dance.cubedancelwp",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fixed critical FC issue with Android version 13 or below. We are committed towards the quality of our apps, very soon we will update the app further with more enhanced features & better user experience.Dance 3D Live Wallpaper HD Free Android AppThis is top Quality Dance live Wall paper 3D App with high quality Dance HD resources.Enjoy High Quality HD images of Dance on your Android Phone home screen or lock screen for free.Features of this Dance live WallPaper are as below:1: Choose from rotating transparent 3D cube or Sphere for mind blowing 3D effect.2: Set the speed of 3D Cube or Sphere Rotation3: Set the Camera distance to zoom in & zoom out the 3D cube or Sphere.4: Set the rotation Axis to control rotation direction& much more.This is Just a Dance fun app & for entertainment purpose onlySo why wait! Just download & set your favourite Dance wall paper.This Dance 3d themes app has been tested on latest devices such as Samsung Galaxy S3/S4, Nexus 7, HTC Desire S and Sony Xperia z. Please contact us if your device is not supported.Plz provide us your valuable feedback how we can improve this Dance 3d theme app further. We ensure to address all your concern as well as suggestions.Now you can experience the look & feel of highly rated Dance theme right there on our own Android Device home screen & locker screen.Like it? Plz rate our Dance 3d cube live Wall paper App!Whats more this Dance 3d sphere wallpaper HD application comes to you for FREE!Disclaimer:We want to keep this Dance 3d live Wallpaper app completely free & thus contain ads in the notification tray, Banner Add and or home screen. This will help keep it free andhelp us bring you more cool apps like this in the future. You can delete the search shortcuts easily and without any effect for our app (Drag and Drop to the garbage).You can optout notification ads from:Airpush Optout : http://www.airpush.com/optoutStartApp Optout : http://www.startapp.com/opt.aspxAppLovin OptOut : https://www.applovin.com/optout***********************************************************Tags:Dance wallpapers HD, Dance lock screen, Dance live wall paper, Dance lockscreen, Dance locker, Dance LWP, Dance themes, Dance skins, Dance apps, Dance live wallpaperAbout Dance Dance is a type of art that generally involves movement of the body, often rhythmic and to music. It is performed in many cultures as a form of emotional expression, social interaction, or exercise, in a spiritual or performance setting, and is sometimes used to express ideas or tell a story. Dance may also be regarded as a form of nonverbal communication between humans or other animals, as in bee dances and behaviour patterns such as a mating dances.Definitions of what constitutes dance can depend on social and cultural norms and aesthetic, artistic and moral sensibilities. Definitions may range from functional movement (such as folk dance) to virtuoso techniques such as ballet. Martial arts kata are often compared to dances, and sports such as gymnastics, figure skating and synchronized swimming are generally thought to incorporate dance.There are many styles and genres of dance. African dance is interpretative. Ballet, ballroom and tango are classical dance styles. Square dance and electric slide are forms of step dance, and breakdancing is a type of street dance. Dance can be participatory, social, or performed for an audience. It can also be ceremonial, competitive or erotic. Dance movements may be without significance in themselves, as in ballet or European folk dance, or have a gestural vocabulary or symbolic meaning as in some Asian dances.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

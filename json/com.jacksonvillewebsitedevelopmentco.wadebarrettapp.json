@@ -1,0 +1,41 @@
+{
+  "title": "Fun Wade Barrett Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.wadebarrettapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.wadebarrettapp",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Wade Barrett?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Wade Barrett memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Wade.Stuart Alexander \"Stu\" Bennett (born August 10, 1980) is an English professional wrestler and former bare-knuckle boxer. He is currently signed to WWE, where he performs under the ring name Wade Barrett and is the current Intercontinental Champion in his third reign.He won the first season of NXT in 2010 and made his Raw debut in June of that year, rising to prominence as the leader of the Nexus, a villainous stable composed of the NXT contestants. Barrett headlined five WWE pay-per-view events during the remainder of the year, including SummerSlam, and challenged for the WWE Championship in three of those. He later formed the Corre which included former Nexus members. He won his first WWE Intercontinental Championship, in March 2011 with the Corre., he won the Intercontinental Championship a second time in December 2012, and the third and current on the April 8, 2013 edition of Raw.Bennett was born in Penwortham and lived in Preston, Lancashire, until the age of six, when he moved to Wales with his family. Bennett was inspired by his idol Davey Boy Smith to become a professional wrestler, and has named the WWF Intercontinental Championship match in the main event of SummerSlam 1992 â between Smith and another childhood hero, Bret Hart â as his all-time favorite match. Bennett gained a degree in marine biology from University of Liverpool. He worked in a science laboratory and later as a Recruitment Consultant at Venn Group's London Office, whilst training to become a wrestler.Bare-knuckle boxingWhile living in Liverpool in his early twenties, Bennett became a champion bare-knuckle boxer, going on to fight in various locations throughout Europe. He competed in a match dubbed by the bare knuckle underworld as \"The Battle of Buda\", in which he defeated a reputable opponent for a big cash prize. Afterwards, as he walked through an alleyway in search of a taxi to the airport, Bennett was stabbed with an eight-inch blade by someone who attempted to steal the cash. He has refused to elaborate on the incident for legal reasons, but the assailant incurred serious injuries, and Bennett escaped with the cash despite significant blood loss. The attack left him with a 12-inch scar that stretches from his upper back to halfway down his right triceps, and the punches he took during his bare-knuckle career left him with a disfigured nose, but he has expressed no regret over that period of his life. He incorporated his bare-knuckle career into his WWE gimmick at the request of Hall of Famer Dusty Rhodes, being introduced to the WWE crowd as a European bare-knuckle champion who had fought on the streets of England and Europe. His Wasteland move is named after the site of many of his fights in Europe.",
+    "reviews": [
+      {
+        "timestampMsec": "1368495540823",
+        "starRating": "5",
+        "title": "Omg",
+        "comment": "I  am the number one fan  of  wade barrett I  love him  so much even thoughI  also love the miz",
+        "commentId": "gp:AOqpTOGDpSIQhu6RCr20lJaL4qUL0gWxRWpwlXtya3tO5P2MY6_cBe01zBRXurkdcz3nCzU1Amkrs-iON0CtXA",
+        "author": "Dafne Lozoya",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.wadebarrettapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Dziennik Maluszka",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.janmedia.dziennikmaluszka",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 7, 2013",
+  "version": "1.0_v4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "18",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "NIVEA Polska",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.janmedia.dziennikmaluszka",
+  "extendedInfo": {
+    "installSize": "22M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "\"Dziennik Maluszka\" is a mobile application which helps every parent in the daily care of the child and assists in planning and controlling child's daily routine. The application is dedicated to parents of children aged from 0 to 2 years.The application was created under the auspices of  the Institute of Mother and Child (Poland).With this application you are able to:â¢ record the method and time of feedings (in case of breast-feeding - the duration of feeding, in case of bottle-feeding - the amount of milk consumed)â¢ record the time of snooze at day and sleep at nightâ¢ register your baby changeâ¢ record achievements and development in each month of your child's lifeâ¢ observe the height and weight of your child on an interactive percentile gridsâ¢ maintain a calendar of your child (baby's achievements, medical appointments, shopping lists, to-do lists)â¢ geolocalize important points nearby (medical points, playgrounds, parks, shopping)â¢ keep important phone numbers in one place (eg community midwife, pediatrician, 24/7 emergency number, etc.).This application allows you to add and run more than one child profile.Thanks to Facebook's integration you can instantly share your babyâs achievements with your friends.You can also find a lot of tips and advices on child care, from the first days of your babyâs life.You can save all the data from the application to a PDF file and create unique individual diary of your child's development.\"Dziennik Maluszka\" is a must have mobile application for every young parent.Which breast did I feed with last time? When was the last time I changed my baby? How long my baby sleeps during the day? Thanks to the \"Dziennik Maluszka\" you will find all answers to these questions!Note: Some features of the application working in the background and use of geolocation services may result in decreased battery life of your phone.Geolocation services use an internet connection, which may cause additional charges.Keywords: NIVEA, NIVEA baby, baby, niemowle, pielÄgnacja, dziennik, maluszek, dziecko, dzieci, pamiÄtnik.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.alarm.permission.SET_ALARM",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

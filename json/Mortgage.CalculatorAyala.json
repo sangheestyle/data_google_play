@@ -1,0 +1,31 @@
+{
+  "title": "Gary Ayala's Mortgage Calc.",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=Mortgage.CalculatorAyala",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "March 5, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Mortgage Mapp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=Mortgage.CalculatorAyala",
+  "extendedInfo": {
+    "installSize": "69k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Gary A. Ayala's Mortgage Calculator gives you instant access to discover your monthly payment on any house.  This easy-to-use calculator will tell you the exact monthly payment of a home based on: â¢\tLoan Amountâ¢\tInterest Rateâ¢\tTermâ¢\tMortgage Insuranceâ¢\tProperty Taxesâ¢\tHome Ownerâs Insuranceâ¢\tand now includes an optional second mortgage calculationNever again will you have to guess your monthly payment when youâre shopping for homes because you can calculate your payment on the spotâ¦even if youâre in the house you might want to buy!  This calculator gives you the confidence you need to make a decision on the affordability of any house.  Not only that butâ¦This calculator app gives you access to Gary A. Ayala | MLO #390307 via phone, email, or the web.  Youâll never be alone in the home-buying process again because youâll have your own real estate professional in your front pocket at all times!Download this app now to eliminate uncertainty that surrounds buying a home and pin point your monthly payment with laser-like focus.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

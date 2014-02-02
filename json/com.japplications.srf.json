@@ -1,0 +1,51 @@
+{
+  "title": "Sweden Rock 2013",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.japplications.srf",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "March 12, 2013",
+  "version": "2.3.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "62",
+  "rating": "4.596774",
+  "contentRating": "Low Maturity",
+  "creator": "Jimmy Dahlqvist",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.japplications.srf",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Sweden Rock 2013.This is a _UNOFFICIAL_ application!Application to helt and guide you during the festival. Show information about artists, running order and more!Main Featured* See signed artists.* Read information about artists and check out some pictures.* Show the running order with all or just your favourite gigs.* Set reminders for gigs.* Phone number to Taxi.* See a weather frecast* Widgets to show coming gigs. (The stacked widget is only availble on devices with Android 3.0 or above)Hope you will enjoy it!! See you there!OBS!!!Some feedback is about that it is not possible to move the application to SD-Card. If the application would be installed on SD-Card the app widget and alarm would stop working.http://developer.android.com/guide/appendix/install-location.html#ShouldNotWhy is all of these permissions needed?INTERNETTo be able to download dataWRITE_EXTERNAL_STORAGETo be able to save images and info files on the deviceVIBRATETo be able to vibrate for alarmsRECEIVE_BOOT_COMPLETEDTo be able to reset all alarms after rebootACCESS_NETWORK_STATETo be able to check if the device is connected to internetACCESS_FINE_LOCATIONTo be able to show your location on the mapREAD_PHONE_STATETo be able to check if the device is in a call to be able to trigger silent alarmsWAKE_LOCKTo wake the device for an alarm",
+    "reviews": [
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1335161207131",
+        "starRating": "2",
+        "comment": "Unable to move it to the SD card. Taking up a lot of phone storage. Also need better artist information. Maybe links to Facebook/ website profile",
+        "commentId": "lg:AOqpTOHmbVODRvyW7fdwRj2nXEudkjCRwaV0JwanO0UxlVCoOdoCocqeSBqPFB8pwYz67vENFKFMR-aCLIRiV-U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.1",
+        "timestampMsec": "1307340247995",
+        "starRating": "5",
+        "comment": "Riktigt bra app, totalt genomarbetad. Riktigt bra jobbat! Metal to the bone!",
+        "commentId": "lg:AOqpTOE2iS8p0AB9ZWSrp2pe3WSLMVn3l-JeDWEVHC5Xen4H6jrQlvnVakLQ5vG6tBTcuPSymOSNaMNv25sgnFY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

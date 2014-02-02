@@ -1,0 +1,34 @@
+{
+  "title": "Vin Diesel App Games + Social",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.vindesielgame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.vindesielgame",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Vin Diesel?  If so you will want to get this app so you can play games featuring him as the star.  With this app you will also be able to connect with Vin via social media.Vin Diesel (born Mark Sinclair Vincent; July 18, 1967) is an American actor, producer, screenwriter, director. He came to prominence in the late 1990s and became best known for appearing in several successful Hollywood films such as Saving Private Ryan (1999), Pitch Black (2000), The Fast and the Furious (2001), xXx (2002), The Chronicles of Riddick (2004), Fast & Furious (2009), and Fast Five (2011). He is also the founder of the production companies One Race Films, Tigon Studios, and Racetrack Records.Diesel was born in New York City, the son of Delora, an astrologer. Diesel has Italian and African-American ancestry. He has described himself as \"definitely a person of color\" and stated that he is \"of ambiguous ethnicity â Italian and a lot of other stuff.\" Diesel has never met his biological father, and was raised by his African-American stepfather, Irving, an acting instructor and theater manager. He made his stage debut at age seven when he appeared in the children's play Dinosaur Door, written by Barbara Garson. The play was produced at Theater for the New City in New York's Greenwich Village. His involvement in the play came about when he, his brother, and some friends had broken into Theater for the New City's space on Jane Street with the intent to vandalize it. They were confronted by the theater's artistic director, Crystal Field, who, instead of calling the police, handed them scripts and offered them parts in the upcoming show.He remained involved with the theater throughout adolescence, going on to attend the city's Hunter College, where his creative writing studies led him to begin screenwriting. Diesel became an active film-maker in the early 1990s, first earning notice for the short film Multi-Facial, which was selected for screening at the 1995 Cannes Festival. Diesel has identified himself as a \"multi-faceted\" actor as a result of early difficulties finding roles due to his mixed heritage. In an interview on Late Night with Conan O'Brien, he said that he changed his name to \"Vin Diesel\" while working as a bouncer at the New York City nightclub Tunnel, because in that business one's real name is not usually given out. The name \"Vin\" is simply a shortened version of \"Vincent\". He received the nickname \"Diesel\" from his friends who said he ran off diesel fuel, referring to his non-stop energy.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.vindesielgame.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

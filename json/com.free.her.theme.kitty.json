@@ -1,0 +1,70 @@
+{
+  "title": "Hello Kitty Theme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.free.her.theme.kitty",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "1.0.7",
+  "operatingSystems": "3.0 and up",
+  "ratingsCount": "9",
+  "rating": "4.111111",
+  "contentRating": "Everyone",
+  "creator": "iPhone 6",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.free.her.theme.kitty",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hello Kitty Theme is Based on hello kitty* HD hello kitty Wallpaper* Matching Icons from Sense (More Icons will be added via updates)If you like this theme, please give us more stars here! check out our other themes. Click on \"More by The Developer\". We have lots of HD Themes for you!Important tips:Open the app after installation then you can apply this Theme.Make sure that you have android 4.0+ OS in your cellphone.If you need any help with this APP or wish to contact me, send me an email. I try to reply emails daily, if not possible IÂ´ll reply in no more than 48hours. I do not reply emails in weekends, emails are replied from Monday - Friday.Thank you for downloading our theme. Don't hesitate to email us if you have any problems, questions or suggestions. If you like the theme, Please donÂ´t forget to RATE and post Comments. Thanks !tigs: hello kitty theme for android,hello kitty games, hello kitty wallppaper free, hello kitty gams, hello kitty games all free, hello kitty carnival, hellokitty games, hellokitty walpaper, hellokitty free games, hellokitty wallpaper free",
+    "reviews": [
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1378094651724",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOETSpBCx57fY4DtV8-mCnQMtmvz4UyTj9yYIX1452mQprgL78SUUuNxbOcR8p_nCmQjlSQa60EWEe3dYg",
+        "author": "dodi iksan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1377045478176",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Won\\'t apply and made me download another app to try",
+        "commentId": "gp:AOqpTOEG5s0dQlaplIRLC3fLnPzA02_erFT1nkPJFkwpxjD_8Q7MucGQZbN0f_qa3eS3vuV_hiC6Hg4lukcYjQ",
+        "author": "Jenni Rivera",
+        "authorURL": "http://lh6.googleusercontent.com/-rcua3W1FDTg/AAAAAAAAAAI/AAAAAAAAAVg/iXv4J3ln8Ls/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-rcua3W1FDTg/AAAAAAAAAAI/AAAAAAAAAVg/iXv4J3ln8Ls/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1377871900217",
+        "starRating": "5",
+        "title": "I love it!",
+        "comment": "Awesome!",
+        "commentId": "gp:AOqpTOGH5XSrssTSQ-1n8k-IiBo_py0EEIauRhmdE8g8hOIFWzYnfLXZ5Zehjy_w8a63ikQyfC_30fsokWr83Q",
+        "author": "Darlyn Jimena",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1377674617978",
+        "starRating": "5",
+        "comment": "Bagus",
+        "commentId": "gp:AOqpTOENrIkczKcvfKOApUfSsMnzIf-ii-UtWjVWP2CRNDvBCjg2xEZbxEwZUhuyLtscGworcyotthzfp2Nt2Q",
+        "author": "Zyreen Ochee",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

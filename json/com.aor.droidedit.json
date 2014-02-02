@@ -1,0 +1,248 @@
+{
+  "title": "DroidEdit (free code editor)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.aor.droidedit",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.18.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1868",
+  "rating": "4.3527837",
+  "contentRating": "Everyone",
+  "creator": "André Restivo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.aor.droidedit",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "DroidEdit is a text and source code editor (similar to Notepad++ or gedit) for android tablets and phones with the following features:- Syntax Highlighting for several languages (C, C++, C#, Java, HTML, CSS, Javascript, Python, Ruby, Lua, LaTeX, SQL, ...)- Several color themes- Infinite undo & redo- Search & replace- Auto & block indentation- Keep opened files and changes between sessions- Open files directly from dropbox or a file manager- Character encoding support- Keyboard shortcuts (List below)- Share documents with other services (dropbox, email, ...)- Preview HTML files in browser- Bracket matching- Go to line- Run Scripts in SL4A directly- Configurable ShortcutsPro version only features:- SFTP/FTP support- Dropbox support- Custom themes- Run external commands through SSH- Root modeUsing different character encodings:- To open a document with a different character encoding than the default: long press the open file button- To create a new document with a different character encoding than the default: long press the new file button- You can make this behavior the default in the preference screenLong pressing the save document button allows you to save a document with a different filename--------DroidEdit is specially useful for new generation android tablets with external keyboards like the Asus Transformer.Try Hacker's Keyboard for a developer friendly virtual keyboard.You should try the ad supported DroidEdit Free before buying this app. The ad supported version has exactly the same functionality as the paid version except it doesn't have SFTP support, Dropbox support, Custom themes and root mode.Please rate the app in the market. For bug reports, feature requests or any other subject please use the following contacts:Mail: droideditapp (at) gmail.comTwitter: http://twitter.com/DroidEditBlog: http://droidedit.wordpress.com/User Feedback: https://droidedit.uservoice.com/Facebook: http://facebook.com/droidedit",
+    "reviews": [
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1376456543113",
+        "starRating": "4",
+        "title": "Absolutely awesome!",
+        "comment": "Best editor I\\'ve found so far. Coupled with an FTP client and a good keyboard its ready to do a little programming.",
+        "commentId": "gp:AOqpTOFXHXOVOsZ3gq2hqtiHhcWmbM9iY7KvUM5Ks4mP_Hz51uwZzmfzCArxbCvJdWMBr_mVVMqaus8H2Xya",
+        "author": "Don Gunner Hancock",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1378443558759",
+        "starRating": "5",
+        "title": "Good program",
+        "comment": "ry nice program, thank\\'s for author ;)",
+        "commentId": "gp:AOqpTOFw7Yo1ENxo3SPIiUOZEohaes1mVJsuuPIqf_mTNBl4aRHsxfU9oDDFzjBAnyX94bsY-8Cy-EzZC3Bb",
+        "author": "\\320\\224\\320\\274\\320\\270\\321\\202\\321\\200\\320\\270\\320\\271 \\320\\234\\320\\260\\321\\207\\320\\260\\320\\262\\320\\260\\321\\200\\320\\270\\320\\260\\320\\275\\320\\270",
+        "authorURL": "http://lh5.googleusercontent.com/-FA8BtwZAZHs/AAAAAAAAAAI/AAAAAAAAAVg/2DPcBVfPwbQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-FA8BtwZAZHs/AAAAAAAAAAI/AAAAAAAAAVg/2DPcBVfPwbQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1378354981136",
+        "starRating": "4",
+        "title": "Great application",
+        "comment": "Very awesome application - it\\'s quick, useful and has excellent integration. One thing that would make it 5/5 would be full screen mode.",
+        "commentId": "gp:AOqpTOH3ve4rak7N6csmBfDcEp1BG3-xQiM_Mlnnn2dQNgQZoguWGMPj47fzmrvtlE0qpz0aIHVUEwVyZkK8",
+        "author": "Martin Kess",
+        "authorURL": "http://lh5.googleusercontent.com/-EszzQ5sobGA/AAAAAAAAAAI/AAAAAAAAAkc/PdSYFktYyLU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-EszzQ5sobGA/AAAAAAAAAAI/AAAAAAAAAkc/PdSYFktYyLU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1378340015044",
+        "starRating": "1",
+        "title": "Too much distraction so I never found out if this app is good or bad",
+        "comment": "Ad-based software is ok and fair. But not to the point of annoyance. The excessive rolling of ads was quite distracting, I had to shut down the app before going bonkers, so I could not give the app a fair test. It is really necessary to roll an ad every couple of seconds? Does such excess lead to any sales for your sponsors? No, it does not. If you would reduce the annoyance factor, like maybe 1 ad per minute would be fair, then your sponsors would receive some benefit of their ads, and your own customers could try out the app and give it fair assessment.",
+        "commentId": "gp:AOqpTOEFz5qJvo4s6SPGFGWyYWVpegkE27lAwbHvK4JOzOtr4T3E95INUhD2lEZJsw5FYU_t0bo0HFs0cOiH",
+        "author": "FR Keller",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1376569716100",
+        "starRating": "1",
+        "title": "Unusable",
+        "comment": "Gigantic banner ad is incredibly distracting. Can\\'t focus on my code. FFS, don\\'t put the ad right in the goddamn way ALL THE TIME! At least make the app usable; if it is going to have ads, tuck them away in a menu that you may have to visit every so often, or only show ads when saving the file, anything but this. Syntax highlighting is great, but I\\'ll take ES Note Editor over this app any day.",
+        "commentId": "gp:AOqpTOGa8lGHagkh-4HBkSDP3_hl_EPAE5EKZYvGRQMJ9Bd8b0wNdddlaYDkjF1kjndCtKj2R66BqepTINLT",
+        "author": "Robert Graham",
+        "authorURL": "http://lh4.googleusercontent.com/-vCx9Hl84vnQ/AAAAAAAAAAI/AAAAAAAAAFk/SDO4DPP4GBM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vCx9Hl84vnQ/AAAAAAAAAAI/AAAAAAAAAFk/SDO4DPP4GBM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1377371859546",
+        "starRating": "3",
+        "title": "The ad is over the editor",
+        "comment": "I understand that free comes with a price but the ads appear over the text in the editor. I suggest the editor has an area just for the ads.",
+        "commentId": "gp:AOqpTOH7a4cfODaKP38j53-4xcg8wtUh6ldFmkpidgyh1EUEVbTIiNNvW5G1wOhVzwJ4rEqgSmdqz9cnZ0rq",
+        "author": "Michael Glaser",
+        "authorURL": "http://lh5.googleusercontent.com/-Ga4wGPkQM-U/AAAAAAAAAAI/AAAAAAAAAEE/O4qnthNLYwY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Ga4wGPkQM-U/AAAAAAAAAAI/AAAAAAAAAEE/O4qnthNLYwY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1377954179585",
+        "starRating": "5",
+        "title": "Best tool for this.",
+        "comment": "This is the best script editor out there. Try it and you\\'ll love it!",
+        "commentId": "gp:AOqpTOEj5QAEwXi7dERXD3cOS1zf90SyhKvNhml2PTIPQ7MDG1YfRb9KCDDVrCu2zGEMPU6N-nM9MxZC898N",
+        "author": "Dave Blain",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1376452297668",
+        "starRating": "5",
+        "title": "Great App!",
+        "comment": "Just what I needed when editing code on the go.",
+        "commentId": "gp:AOqpTOHZQQDhviZXUgOCOd0d8CsXOhcAHSa8R2AhwjV9zLqxp6jtPEszh7vt6SItBz9o-O1HGp_QqBOSUUeI",
+        "author": "Eric Velasquez",
+        "authorURL": "http://lh3.googleusercontent.com/-7WiphxH3SzU/AAAAAAAAAAI/AAAAAAAAAAo/wzK6euJSvjA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-7WiphxH3SzU/AAAAAAAAAAI/AAAAAAAAAAo/wzK6euJSvjA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1376663556901",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "Doesn\\'t open decently sized files, has issues when you try. Doesn\\'t maintain syntax highlighting over large files. The ad gets in the way.",
+        "commentId": "gp:AOqpTOE7w-FUCJs4yNl4PJDJTJYAni8dVkXT-nJtm8nV_QYp1Osv6oQCquCbCa75Z_Vibr4IV8CGXvLLvu_h",
+        "author": "Mason Howard",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1378370120807",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "Very useful app. Thanks!",
+        "commentId": "gp:AOqpTOHOZ2hHQjnLWOEX9rSY4L6zlOnlVzVcvOZy5iBoTG_929YO2BwI0yl5eM8vSzuyFf9_XIuBKKCtR7wE",
+        "author": "Tut Dalay",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1377076022273",
+        "starRating": "5",
+        "title": "Stunning Appearance!",
+        "comment": "Great for all the nerds like me out there!!",
+        "commentId": "gp:AOqpTOHLMh0jurvVU7nXKkJAG1q39Uc68k1VlWlhpP9M759bOTLYkB-wpEhEgDzKLd_aJaFKUkMopX0i9eRN",
+        "author": "Nathaniel Hukel",
+        "authorURL": "http://lh6.googleusercontent.com/-Apq5D_MPK-k/AAAAAAAAAAI/AAAAAAAAA1o/fzuqIKAkMVU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Apq5D_MPK-k/AAAAAAAAAAI/AAAAAAAAA1o/fzuqIKAkMVU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.3",
+        "timestampMsec": "1378404534311",
+        "starRating": "5",
+        "title": "Thanks",
+        "comment": "Thanks",
+        "commentId": "gp:AOqpTOGicNZCAvO2o5XK9VHH-Gw7GW3nVLKj1Qpe_NK63c0fsIWPvDt78jA7vM22b6xbJ7GWspvbQzHCr2P4",
+        "author": "yusuf omar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1375205159953",
+        "starRating": "4",
+        "title": "Best Mobile IDE yet!",
+        "comment": "Just purchased DroidEdit Pro - worth every cent. I\\'ve used DroidEdit for months now, coding PHP, Ruby, Python, HTML and even some C - quick and accurate syntax highlighting, fast file loading, and comfortable themes.  I would go as far as to say it\\'s even better than most desktop IDE\\'s.",
+        "commentId": "gp:AOqpTOGUQ7TAh0CVk8J0389p1VA2RiKSz3O1m1LKELO3HUPk9FNjPuhP32XpFStC2d2UM0pEnGCmrPgChb4e",
+        "author": "Frumentum Foramen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1375796684940",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "This only problem is that it won\\'t let you view php files in browser, only HTML. There is a way around it but it takes too much time.",
+        "commentId": "gp:AOqpTOFyol2uIXDfJnIy7uFn4yu-MivdDYcsjY3qyiFU8DNTaSM3T6TanaJp9JNabDfSow4k74pqOHzzUvAr",
+        "author": "Daniel Arthur",
+        "authorURL": "http://lh3.googleusercontent.com/-DW84ey5LeyE/AAAAAAAAAAI/AAAAAAAAAII/lKl0z4I53KU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DW84ey5LeyE/AAAAAAAAAAI/AAAAAAAAAII/lKl0z4I53KU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1375860880598",
+        "starRating": "4",
+        "title": "Great editor!",
+        "comment": "This is better also the interface",
+        "commentId": "gp:AOqpTOGkNUAgHqShCbaPHzGixF7HOXc9ZS6C47WxnI1Q8f8BeYoY2U8qSNvU7g8JtTlHk1AHKWBXDJBSmn2I",
+        "author": "Glenn Ross Pascual",
+        "authorURL": "http://lh5.googleusercontent.com/-UF9ZpZ_vafk/AAAAAAAAAAI/AAAAAAAAAEc/-vA61P892U0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-UF9ZpZ_vafk/AAAAAAAAAAI/AAAAAAAAAEc/-vA61P892U0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1376347863235",
+        "starRating": "5",
+        "title": "An awesome IDE",
+        "comment": "Droidedit has to be one of the best IDEs available for mobile devices. I was searching for a while to find one worth downloading and when I found this I knew I\\'d hit gold. I\\'ll definitely buy the pro version once I get a tablet, possibly before. Thanks developers!",
+        "commentId": "gp:AOqpTOFLWsaHCTJXPDsP-FI44CmcbZ19-LKXbG-soRTK1mGm3F_gBikLR3ySBLrnBrfAHQdzHoqag0jec4Eq",
+        "author": "Jacob Nixon",
+        "authorURL": "http://lh6.googleusercontent.com/-fxLKGJjUX54/AAAAAAAAAAI/AAAAAAAAAE4/qeWSq54fEVc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-fxLKGJjUX54/AAAAAAAAAAI/AAAAAAAAAE4/qeWSq54fEVc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1375427879810",
+        "starRating": "5",
+        "title": "As good as it gets with a touch interface.",
+        "comment": "Haven\\'t really used it for editing, but it is an absolutely wonderful code viewer.",
+        "commentId": "gp:AOqpTOEmnYVyIMjyvUIA2D4RTD6UQjk1ZIGtAv08Tz5iyW87ILhUzj6BNprD4_A5khkm3iksAs-vhz84_h5F",
+        "author": "Nicholas Farley",
+        "authorURL": "http://lh6.googleusercontent.com/-enJV_0nOOuY/AAAAAAAAAAI/AAAAAAAAAIs/HPW-6J2hxwM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-enJV_0nOOuY/AAAAAAAAAAI/AAAAAAAAAIs/HPW-6J2hxwM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1376036711204",
+        "starRating": "5",
+        "comment": "cool",
+        "commentId": "gp:AOqpTOE_UthpqVxaeZ7r2mcSYCyhxV51O03l-CVBPUg9fHXhckg0QaZKwzYcN7uxZXdYoM5-M_jGpI9hzJmX",
+        "author": "Alex Nu\\303\\261ez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1375546091997",
+        "starRating": "5",
+        "title": "So far so good",
+        "comment": "Ive been using this along with ksweb for my mobile development environment. With the keyboard on the droid 2 it makes for great mobile set up in stead of carrying around a laptop.",
+        "commentId": "gp:AOqpTOFJl8ohZfR-2IPIjFV7xA_BvuKQ9-I2lo7X9pZoObD5Um4BDdrRtWmgA2jurn4BqgYLd4bil-qA9urI",
+        "author": "Corey Herrera",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.18.1",
+        "timestampMsec": "1375008498330",
+        "starRating": "5",
+        "title": "wow app",
+        "comment": "its a great app to install",
+        "commentId": "gp:AOqpTOH6Fst9oXG89HEGDg4L1wVB2TR9RkTD1gKZbMqfBRSwHKqxAClMnZ8hYcB4RNKU7hsYdHT3IA6JZ5l9",
+        "author": "Pratik Shinde",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

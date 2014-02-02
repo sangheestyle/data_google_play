@@ -1,0 +1,45 @@
+{
+  "title": "Mijas",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shoutem.n933657",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 31, 2012",
+  "version": "3.9.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "ShoutEm, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shoutem.n933657",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "MIJAS - the app - offers you Insights, Informations, and the best addresses of Mijas (Mijas Pueblo, La Cala de Mijas, Mijas Costa).- Places (Attractions & Entertainment, Beaches, Colleges, Culture, Entertainment, Food, Outdoor Fun, Nightlife Spots, Professional Places, Residences, Shops & Services, Local Businesses, Sports & Transport, Hotels)- Gastronomy: Bars, Cafe's & Restaurants- Local Attractions & Sightseeing Tips- Interactive GPS Location Search, Maps and Directions (For the best location experience use the location search when you stay in Mijas or nearby!)- Calendar: Events in and around Mijas: Up-to-date Calendar. What - When - Where.- Local Mijas News- Video Channels: Mijas Pueblo, Mijas & La Cala de Mijas Video's. Sorted by most viewed videos, and newest additions.- Selected Properties for Rent: Short Term Rentals, Long Term Rentals, Commercial Premises.- Selected Properties for Sale: Studios, Apartments, Townhouses, Villas & Businesses for Sale- Become SOCIAL within the Mijas App: Setup your personal user profile, check-in into places in Mijas, comment & recommend (we called it \"Shout\"), \"like\", share to facebook and twitter, send and receive private messages, become friends, post photos, and read what other users are saying/posting/commenting (\"Wall\").ABOUT MIJAS:Mijas is a town and municipality in the province of MÃ¡laga in the autonomous community of Andalusia (Southern Spain.) It is situated in the southwestern coast of Spain. Mijas belongs to the comarca of Costa del Sol Occidental. It is a typically Andalusian white-washed village located at a mountain side about 450 m above mean sea level, in the heart of the Costa del Sol region. There are some local history museums and many souvenir shops, Mijas also has seven golf courses (four more are under construction) including La Cala Resort, the biggest golf resort in Spain.The municipality includes:- Mijas Pueblo (the hillside village)- Mijas Costa (main commercial and residential area adjacent to (but not strictly part of) Fuengirola- La Cala de Mijas (separate village and small resort by the sea to the west)- Las Lagunas (largely suburban and mixed commercial to the north of Fuengirola).The Climate of Mijas, due to the proximity of the sea, conditions mild temperatures, with an average of 18 Â°C without heat in summer and little frost in winter. The rainfall is below 600ml per year. They occur mainly between November and January. The town boasts some 2920 hours of sunshine a yearAscending to the mountains, the climate changes gradually. Temperatures can drop to 10 Â°C. In the peaks may be some ice in winter, over 600 meters, while precipitation increases to almost 800ml.This app is not affiliated with or owned by any government or municipal authority.",
+    "reviews": [
+      {
+        "timestampMsec": "1370416143810",
+        "starRating": "1",
+        "title": "Doesn\\'t Work",
+        "comment": "Installed app,but does absoloutely nothing....",
+        "commentId": "gp:AOqpTOE81w6pDcK59M1BSbKu2oNs2ow52FDnCzokVpmpd9ow2Sum22kaVEaNrsP2XD2dIFVA9QZjuaQd1WHADw",
+        "author": "Jon Hunter",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.shoutem.n933657.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

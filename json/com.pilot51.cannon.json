@@ -1,0 +1,195 @@
+{
+  "title": "Cannon",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.pilot51.cannon",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "January 13, 2011",
+  "version": "2.0.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "56",
+  "rating": "2.1964285",
+  "contentRating": "Low Maturity",
+  "creator": "Pilot_51",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.pilot51.cannon",
+  "extendedInfo": {
+    "installSize": "421k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Cannon is a 2D trajectory simulation/game. The basic objective is to adjust your angle and power in order to hit a target.Version 2 recreates Cannon from the ground up using the AndEngine open source 2D game engine.The touch screen controls use pressure sensitivity that will likely need adjusted for your device. It is in the Scale preferences screen. Move your finger with a soft touch to adjust angle and power, press harder to fire.Too slow/boring? Increase the speed multiplier, also in Scale preferences.Random Targets: Targets are placed randomly on the screen and you try to hit them to gain points. With both Collision and Keep Targets options enabled, as is the default, it becomes a real challenge as old targets become obstacles.Custom: Create your own target via screen coordinates and change a variety of variables to try hitting it.Permissions:Internet & read phone state are required by ads.Prevent phone from sleeping is requested by AndEngine.Full change log and other details at http://cannon.pilot51.com.The issue tracker, which can also be used for suggestions, is at http://tracker.pilot51.com. Though it should be noted that Cannon has been mothballed due to too many negative/unconstructive comments and most of my other apps doing much better and consuming my time.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1300395083993",
+        "starRating": "1",
+        "comment": "Completely stupid theres not even any point system its just tap and hope u hit the target",
+        "commentId": "lg:AOqpTOEE9AwEKTCj3tPtNiRLAx4EL0cu4Lan9ojsBV5obtb3TkegFZ3Y8RmEQYoEm0lkZm7kT1Dn4Gb6q20eAw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1295928263444",
+        "starRating": "4",
+        "comment": "Post the source on the andengine forums. Could be a useful tool to learn",
+        "commentId": "lg:AOqpTOHV3o6zulygvXx9MDQu3B5DjStbMfbtxVbe5ZurgecfLhKisN03azRUkfOKroWW4qgK2X8QuyrD-s9B1Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1306545801585",
+        "starRating": "1",
+        "comment": "Keeps force closing when I try to hit random target on moto cliq xt",
+        "commentId": "lg:AOqpTOHLlWuy0gBihHHVz7vFoibMF7rVQbh0GWyEcvtE0Ka0K60mxSRIGjNbuyT10US_8G-b4OoW3NV46bDVbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1304130941352",
+        "starRating": "1",
+        "comment": "Physics is fun, this app isn\\'t, uninstalling!",
+        "commentId": "lg:AOqpTOEFtFriG0pWTuErTGqO1-RU-QHCSpjqxH14Z9pE8CfDF5ocXWe8ru9HrDUqPItbj2MzJKaA9H4Yc4-0tw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1294960735156",
+        "starRating": "1",
+        "comment": "this game is retarded",
+        "commentId": "lg:AOqpTOFKLm14Uu-t1gxEN-nB4gudVVzHbzVaU2vbdjqfajzuBbs-5mD0wFlRtnuSP--S93Iw9flVuA888bOwAQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1297348084564",
+        "starRating": "2",
+        "comment": "Droid X has no pressure sensor so it doesn\\'t work as designed.",
+        "commentId": "lg:AOqpTOEk3airOMYp8Zy6En-pMjBzWkifaGaXdAVax3MEQfeYqD2o0yoUvcuJZJXPIetPxjqxK4hD5AFTVump-w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.0",
+        "timestampMsec": "1311330729971",
+        "starRating": "1",
+        "comment": "Quite worthless",
+        "commentId": "lg:AOqpTOHB2PQvg7SrU0jb8B_DOOMLgLCzJ1Btn_SZRsMPCsaORHfvn2kn19lDExu7pbo8lvJYGxeBAKtditFqgA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1287445204619",
+        "starRating": "4",
+        "comment": "it works great on my mt3g slide. Definatley helps with my physics. Just not really fun. could use the ability to scale the size",
+        "commentId": "lg:AOqpTOEKf-LAaUQjXB3l-Zd8Q-5nTGkTJo8HBSq65KmuIMI4J-xGka48OPJcTJs3xfdW-gEsOQy46-zzmf5kRw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1280837059658",
+        "starRating": "5",
+        "comment": "Its complicated unless you understand some basic physics. Great teaching tool to add a game to physics",
+        "commentId": "lg:AOqpTOG8rx_aCUxrHjzWB7iMqdpj-yEulYA1SHLD_dVgzEEwL_qU2RwrLXQ1jcCiZ8NzdYR9uXwkJ5_HEb1b6g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1287988199478",
+        "starRating": "5",
+        "comment": "Works smoothly. Could be a good teaching tool. I made a similar program on my calculator. Then tried to adapt it to a \\\"tanks\\\" game.... didn\\'t work....",
+        "commentId": "lg:AOqpTOFb0OQDbuP3QFVdC4Aw0aDRpNll12KELxMXJ6cVqRyovDwxOSZ5WTO5zIiPYWctwCzBeRgBEfUv5jaa-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1279543187451",
+        "starRating": "2",
+        "comment": "Hi dude, this needs work. Too hard to get a feel for the right angle and velocity etc when you are on different screens. It is now uninstalled.",
+        "commentId": "lg:AOqpTOGugSivrL5-vqkAzMRmmOfORoJ7hlrYKHnwc5bjmNC_vd09ckesAieoKtYICtMvqBpFQH6by3MQ7g_vAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1283264730426",
+        "starRating": "5",
+        "comment": "Fun app to waste time. U need to understand the physics im 14. But need more space on phone. :(",
+        "commentId": "lg:AOqpTOFMNFm9ll3FDfnIdcEBjNwq2m1LTR6xZfr_N_mlFp0G9950XFFeGW6ECu9LhhxfKC13Vx6Wgt_TCj3EXA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1282860537294",
+        "starRating": "5",
+        "comment": "Does what it says. But you have to understand physics. I\\'m 17 and I get it. Your pretty dumb if you don\\'t",
+        "commentId": "lg:AOqpTOEX94NKRTbChyUaEiOsTT_UO7NrAwrL3OngqVSmO5Q5Qay0HA-mYnbS3dy8JU253eyQcnBu7R7qkZLotQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1281282875268",
+        "starRating": "1",
+        "comment": "Most retarded thing i have ever put on my phone!!",
+        "commentId": "lg:AOqpTOGk0U2bhh6RN-KjLnOl7yygRi9IBmShMasg7lFmFgr4hZAx6vTeQI8Gro3REOGgzxzuXh5MOHta0pMGvg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1285018154995",
+        "starRating": "1",
+        "comment": "don\\'t work. mytouch 3g",
+        "commentId": "lg:AOqpTOGhFYb1VVgUlhS8nVRAJHVNVKzB6ZM2Mn8lbKFxoxobzijJyCT88lmb_0rNFUMkkcrQQeDSutfFxM4m6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1277789717374",
+        "starRating": "1",
+        "comment": "What the hell? Terrible.",
+        "commentId": "lg:AOqpTOH3dj89WfFIxzg1dnaQHBZsyMUdRO2Mo5nl7KKABFxKfvFS3-2XaW6Uchi5ayfq-5QjLBt_IaMpaSkXug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1290635740838",
+        "starRating": "1",
+        "comment": "BORING",
+        "commentId": "lg:AOqpTOHwMWeC766Z3350cx8mZGz1_6UE0FmItPttmMgu4e2B8uS3fAy9vQCFN6B3BzBIyfsa0KRI-fi0zBJl0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1277669852260",
+        "starRating": "4"
+      },
+      {
+        "commentId": "lg:AOqpTOFw9jv7mLILOOW_zIaq6-StMFGfSRI9TsNDTs7Bmm_xK20UXbyS6HizRA6DGQiajtz-7ZqWariCXczvTQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1290309120563",
+        "starRating": "5",
+        "comment": "So fun",
+        "commentId": "lg:AOqpTOGOqhtiFRzpitAFMlzZ3ONPr7VZGNKxEQVpYDm3P_YHp2sndaca6qwlS9r3kuwW2W5gPxUaYyYixzxwsA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1279148028331",
+        "starRating": "5",
+        "comment": "I like it but i would like it to randomly generate targets",
+        "commentId": "lg:AOqpTOGh2RZZMKXo1er5pvUZEGSkHJ04dtulNF9gU4eAPiY16f8h_RjZsLRl8vEQLcgvbxPuIFvl9fec2blIKA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

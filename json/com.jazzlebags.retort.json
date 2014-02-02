@@ -1,0 +1,46 @@
+{
+  "title": "Gentleman's Retort: Movember",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jazzlebags.retort",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "November 5, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "JAZZLEBAGS GAMES",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jazzlebags.retort",
+  "extendedInfo": {
+    "installSize": "15M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "OK, so you've started growing that moustache for Movember. All looking pretty dang good by now, yeah? You're abiding by the rules of conduct, my mo bro?This app will help you conduct yourself in a gentlemanly manner, even when you need to put down an adversary with a swift verbal delivery.Here's your 30 day quest:(1) Begin the first day of Movember with a clean shaven face - that's pretty easy(2) For the entire month of November you gotta grow and groom that moustache - not so big a deal (3) There is to be no joining of the mo to the sideburns, as thatâs considered a beard - yup, I reckon I can manage that(4) There is to be no joining of the handlebars to the chin - ok, no big deal there either(5) Each mo bro must conduct himself like a true country gentleman....right, it's that number five that can sometimes be tricky. But now there's the Gentleman's Retort to keep you gentlemanly when somebody gives you a truckload of verbal.Just dial up the app, hit the 'Riposte' cufflink and deliver a gentlemanly retort to your antagonist, including: \"Thou have the whiff of a mountain goat\"\"There is no more sense in you than milk in a male tiger\"\"I should chop this hand off and with the other fling it in your face\"\"There's no more spine in thee than in a stewed prune\"Get that sucker reeling. Job done. Now you can go back to growing that darn attractive mo, my bro.Please note that this free app is not affiliated to the Movember Foundation, though I'm growing myself my own bad-ass mo and will be doing my bit by donating to charity.Hang in there and stay gentlemanly, my righteous brothers.",
+    "reviews": [
+      {
+        "timestampMsec": "1352152792186",
+        "starRating": "5",
+        "title": "Great retorts, simple but hilarious app",
+        "comment": "Having some fun using this during movember.",
+        "commentId": "lg:AOqpTOFAZEnHOq5KNYMhPS45fwN2XTJB2asRSSVi0E2S8DuIf0PyEoYe6jZXqOxmjsnX0G0l0DAbYYVICnlLi3o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363231766114",
+        "starRating": "4",
+        "title": "\\342\\230\\205\\342\\230\\205\\342\\230\\205\\342\\230\\205",
+        "comment": "Growing a mustache for Spring Break; this app will be handy",
+        "commentId": "gp:AOqpTOHt-x8-kq0K0To8xEQ6NsqLb_etxFUj2AJ_FPMxlfz72Eq-NxLwIE34RLNyD8Y4hK-VRMjqJJH8NGV9f4w",
+        "author": "Paul Zerkel",
+        "authorURL": "http://lh3.googleusercontent.com/-DHNvcuwUPKM/AAAAAAAAAAI/AAAAAAAAAFI/KSR2Bud3ECQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-DHNvcuwUPKM/AAAAAAAAAAI/AAAAAAAAAFI/KSR2Bud3ECQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

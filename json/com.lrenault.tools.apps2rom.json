@@ -1,0 +1,243 @@
+{
+  "title": "Apps2ROM [ROOT]",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.lrenault.tools.apps2rom",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 2, 2013",
+  "version": "1.4.9",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "597",
+  "rating": "4.5561137",
+  "contentRating": "Everyone",
+  "creator": "Ludovic RENAULT",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.lrenault.tools.apps2rom",
+  "extendedInfo": {
+    "installSize": "273k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Problem with SU access after update? Try resetting permissionsWilling to free up some space or speed-up your applications without uninstalling anything nor tweaking your system?Apps2ROM is the solution!Android system is pre-installed on its own space called ROM which is not accessible by end-user. There is usually some wasted free space there?When you update one of your pre-installed application (say GMail as an example), Android does not really update it but \"deprecates\" the pre-installed version and installs a new instance in your user space, which causes your available free space to decrease because of some duplicate applications.What does Apps2ROM do: - Lists all your applications and indicates their location (System and/or User space). - Allows you to select user applications you want to move/update to system space. - Once enabled, on every device boot it will automatically check for selected applications and move them to your system space if found. - On some devices (mostly stock ROM neo-rooted), the auto-move feature might not work so you can try the \"Move now\" functionality which is compatible with more devices. - Removes System application / bloat-wareInfo/Warning: - You need to have ROOT access on your phone. - Not all application like to be moved to system and will cause them to \"Force Close\". To resolve, remove the app with Apps2ROM and reinstall it from play store. (Adblock Plus is known to create problems). - If you have a \"Not found\" error, try installing busybox, restart and retry. - Some devices are S-ON which means \"Security ON\" and prevents from writing to system memory. Apps2ROM cannot work on such devices until you find a way to S-OFF your device. This problem have been reported on some HTC devices. - Never restore Apps2ROM's data with a backup software as it uses ROM-dependent configuration. - Selected applications are moved during phone boot time (or immediately with the Move Now button) - Applications moved to system cannot be uninstalled by standard Android uninstaller. You can remove them with Apps2ROM. - Please read help menu.FAQ: Q: Does Apps2ROM immediately move my applications when I enable it? A: If you select \"Move now\", yes, and then your device will be restarted. If you Enable Apps2ROM, no, applications are moved during phone boot time in order to prevent instabilities (application disappearing or crashing). Q: Doesn't Apps2ROM slow-down my phone by checking for updated applications to move? A: No, Apps2ROM does not launch background process so it will not slow-down your phone. Once you close the application, it stops running and will do its job on phone reboot only. Q: Why to I need ROOT access? A: Apps2ROM needs ROOT access in order to write in your system ROM. Q: Isn't it dangerous to write in system ROM? A: Just be careful not to fill too much your system ROM. There is a security margin of 10MB that can be lowered in preferences (decrease it at your own risks!). Q: You said it can speed up applications? A: It does it indirectly. If you use some Apps2SD program, by freeing some space with Apps2ROM, you might be able to move some applications back to memory which will make them load faster. People using high-end devices with a lot of user memory will most likely not see any benefits. Q: After restarting my device, applications haven't been moved. A: Be sure Apps2ROM asked for super user permissions. If you have a stock ROM it most likely won't work. Try the \"Move now\" functionality. If it still don't work, try installing busybox if you don't already have it. If it still don't work, enable \"debug\" in advanced preferences and report the exact error to developer. Q: Where are system and user app located on the my device? A: System app are stored in /system/app/ and user app usually are in /data/app/People having problems with Apps2ROM, please consider contacting me before giving a low valuation as you might help me fixing your problem. Thanks",
+    "reviews": [
+      {
+        "documentVersion": "1.4.9",
+        "timestampMsec": "1376753558961",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Helped me to move \\\" phone only apps to ROM\\\" Freed my internal memory.very useful for low inbuilt/internal memory phones.thanks a lot dear  developer. brilliant concept",
+        "commentId": "gp:AOqpTOHLrRQSdfXlBRU_IC21cKApDRjKrT63uu6P5VbsHfVxUhzB2mex-TGglOtPFPm0sa4PX-11rn0s7CpUrA",
+        "author": "Shakeel Ahmad Mir",
+        "authorURL": "http://lh6.googleusercontent.com/-KByLq2o_esY/AAAAAAAAAAI/AAAAAAAAA5w/ObLd04TzTBs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-KByLq2o_esY/AAAAAAAAAAI/AAAAAAAAA5w/ObLd04TzTBs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.9",
+        "timestampMsec": "1375451333777",
+        "starRating": "5",
+        "title": "Working..",
+        "comment": "Thanks !! now it is working...",
+        "commentId": "gp:AOqpTOHZKm1Ir84dRMhIIxsgzz9asfuW0-a-9Xc4hgJ6EQowQMlGnNVogU4cYlkcVqD62UcAqz_tBn9pB-J9HQ",
+        "author": "Prakash Pogra",
+        "authorURL": "http://lh4.googleusercontent.com/-tSIbOzsg4Y0/AAAAAAAAAAI/AAAAAAAAADQ/P9VYOqtNa5g/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-tSIbOzsg4Y0/AAAAAAAAAAI/AAAAAAAAADQ/P9VYOqtNa5g/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.9",
+        "timestampMsec": "1375540197719",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "Works great",
+        "commentId": "gp:AOqpTOHmVddHzXCmhTguPMiP5vEDLKt81ifB_LRcLDnGDeX3i6t3oz304d63WMVxrPNXg86nyjRskgxmY6PbJg",
+        "author": "Rezha Julio",
+        "authorURL": "http://lh6.googleusercontent.com/-BJrl2lXXX2U/AAAAAAAAAAI/AAAAAAAAALs/IEphGVhfhkk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BJrl2lXXX2U/AAAAAAAAAAI/AAAAAAAAALs/IEphGVhfhkk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.9",
+        "timestampMsec": "1376473373121",
+        "starRating": "5",
+        "title": "Wonderful",
+        "comment": "Lifesaver for smaller devices having low interval memory! Really great, must have app!",
+        "commentId": "gp:AOqpTOHcs94kJyGwsLAtxX6ZmrBBjn-3wTMWie0FPO2280WfEstMmf16rD_9qaF7tljcBkjIZPGHiNjX5TXBmQ",
+        "author": "Arsalan Hassan Awan",
+        "authorURL": "http://lh6.googleusercontent.com/-2M05hDdDG9k/AAAAAAAAAAI/AAAAAAAACG8/GnurB85oCig/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2M05hDdDG9k/AAAAAAAAAAI/AAAAAAAACG8/GnurB85oCig/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.7",
+        "timestampMsec": "1375106094121",
+        "starRating": "5",
+        "title": "Unable to grant write  access to your filesystem",
+        "comment": "I\\'m facing this issue in my nexus 4 with android 4.3 rooted while moving apps to rom.  edit: 5 stars",
+        "commentId": "gp:AOqpTOE_F4xKqUg_Rrg0hC3NEwNXy6ZZo7w_xO8d3eoCaCYCLdxv7S5fptBrA48yJ2q7RyAaPttED-8_V7Y7Sg",
+        "author": "imran syed",
+        "authorURL": "http://lh6.googleusercontent.com/-zKAGBRQiiE0/AAAAAAAAAAI/AAAAAAAAAFg/WJ1KJA4OU7Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-zKAGBRQiiE0/AAAAAAAAAAI/AAAAAAAAAFg/WJ1KJA4OU7Y/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.7",
+        "timestampMsec": "1372205347941",
+        "starRating": "5",
+        "title": "AWESOME!!",
+        "comment": "Kill ALL the bloatware!! mwahahaha!!!  With this app and another, my phone has acquired about 40mbs of space. So far no issues, other then some lag, but my phone is old so that\\'s probably why. If this app stops working on you, or never worked, make sure USB debugging is ENABLED, otherwise it WON\\'T work.  OH superuser won\\'t work either if it\\'s not enabled.  (rooted with stock ROM)  Romans 10:13 - For whosoever shall call upon the name of the Lord shall be saved.",
+        "commentId": "gp:AOqpTOHxGB66EEaz8o7_naJGsVshr0T8LzbtdgU4b4kUa2rsrEDofVT0smmjmb9i3tzo_Tf1YgcKO0zHEMuv2Q",
+        "author": "James Cobb",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.7",
+        "timestampMsec": "1372095899699",
+        "starRating": "5",
+        "comment": "useful app thanks :)",
+        "commentId": "gp:AOqpTOFCotPRIhM3DmoP1Ao0Mc560ajEy2Ihh6gsuPDEHxU4bA5ROhh1JCFNai21tFvncaBVk_W1K-YqRM1czw",
+        "author": "kyaw myo Thu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.7",
+        "timestampMsec": "1372341574073",
+        "starRating": "5",
+        "title": "rooted evo 4g",
+        "comment": "my S is on. flashed with digitalkarma v9. gained about 100mb!",
+        "commentId": "gp:AOqpTOE9nRJw0fIujsBCOmHK74mC_Uv_M6HxnFGJ3jWd6tTPoUZChMjY04RHs0g0TJTLoy6Cby6kmbI2dnyUZA",
+        "author": "Frank Ivie",
+        "authorURL": "http://lh6.googleusercontent.com/-cYbRn-9efLg/AAAAAAAAAAI/AAAAAAAAAAA/3vjWc-8hWMM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cYbRn-9efLg/AAAAAAAAAAI/AAAAAAAAAAA/3vjWc-8hWMM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1363836491311",
+        "starRating": "5",
+        "title": "Amazing app!",
+        "comment": "I integraded system app updates I\\'m the user rom,deleted my crappy old keyboard (not with this app)  and replaced it with a new much better one and I replaced the stock launcher with a better one.  Thanks a lot mate!  Amazing app ;)",
+        "commentId": "gp:AOqpTOHDYmhk_2WpL42NfG17YtYxO2qh8xEOrVJxkLNJnq4o2z7AMRZXz_Sl_sgC_ACdm3DNQKN2mUzrfszbbA",
+        "author": "Greek Dandy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1368201230617",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Great app. No problems. Glad to have more user space now!",
+        "commentId": "gp:AOqpTOEb5bCmD7fOBFi9pD0XckSZ28tnQBh9Q0iFa8ii-JAGNHtJXONn680R-sXpAsOnKcdJLjPTpdbiTPuJNg",
+        "author": "Jonny Camilleri",
+        "authorURL": "http://lh4.googleusercontent.com/-21CWRwd0p5Y/AAAAAAAAAAI/AAAAAAAAADY/fwZZhr1N9OA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-21CWRwd0p5Y/AAAAAAAAAAI/AAAAAAAAADY/fwZZhr1N9OA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1357935521498",
+        "starRating": "5",
+        "title": "T-Mobile LG MyTouch rooted Stock ROM",
+        "comment": "I have used this app many times over and each time it worked flawlessly. Thank you Dev for your hard work.",
+        "commentId": "gp:AOqpTOGQNWf-yuDBCeyW-vOVdjnSmfNN5n0ZgtmtqaAnDGTBFt9fDGmtE1HSe0iP8RtqdSpMZ0IF6H4hMaP07A",
+        "author": "Jean Quezada",
+        "authorURL": "http://lh3.googleusercontent.com/-KF-uDKWELlc/AAAAAAAAAAI/AAAAAAAAAc4/oOXVcJ574pQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-KF-uDKWELlc/AAAAAAAAAAI/AAAAAAAAAc4/oOXVcJ574pQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1366375280546",
+        "starRating": "1",
+        "title": "Dont use with galaxy note 2",
+        "comment": "And an advice to you put a restore, point some kind of back feature. Its not misleading if its the truth. Sort yourself out",
+        "commentId": "gp:AOqpTOHWfM3qyjAbvyfn50XIzDkFVJqWGTAmceqaJAngxOpDU2khIgJpR1Tvhm6daKSlOdXdLcAd7e1uc0zMPA",
+        "author": "Josh Stacy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1357996515371",
+        "starRating": "1",
+        "title": "Doent work",
+        "comment": "It doent work on my phone im using custom rom CREEDS V.3.5 when i selected couple of apps and reebooted my phone my phone went into flight .ode permanently i struggled with it more than an hour finally i had done a factory reset and reflashed my custom rom so CUSTOM ROM USERS BEWARE OF THIS APP AND WHEN U FACE THE SAME PROBLEM ONLY THING YOU GOT TO DO IS JUST UNINSTALL THE APP AND REBOOT YOUR PHONE",
+        "commentId": "lg:AOqpTOHhaTJcRlBYp1qMQMFS5-1F9HWMZ_FqUgDsRRExkQ8p0cGEFpV5f9ao4gweCrkKN4qodA28NoTlvjVj-w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1360319735731",
+        "starRating": "4",
+        "title": "Perfect for lo-end/memory devices",
+        "comment": "Gave my daughters pad whole new lease of life, just make sure you press ENABLE before you move apps, otherwise thy won\\'t work on reboot and you\\'ll have to re-install. Also apps you move cannot be moved back to rom from system so so BE CAREFUL.Fairly idiot proof however. Would be 5* rating upon more tutorial for the uninitiated",
+        "commentId": "gp:AOqpTOFjxI-IeV6zCQlbp1yJGy2Uk8QB7G0k4VAIuZnhGoZOxlD894OSVOldmQ5E6DJl5c85iAihjo29L8EfwQ",
+        "author": "Skye Flowers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1371148366501",
+        "starRating": "5",
+        "title": "Love this app.",
+        "comment": "I find this app to be essential for anyone with a low memory phone. It\\'s a real space saver.",
+        "commentId": "gp:AOqpTOGIvymSCREboiU52JK4qPDOSFBx8dIrlzNSd6w7r6JidknvflEEtZqdwgeXM1ZEiasIX82qKKGladt8_Q",
+        "author": "Kenzie Mitchell",
+        "authorURL": "http://lh3.googleusercontent.com/-f8Q6dJ2KFg0/AAAAAAAAAAI/AAAAAAAAAO0/q0VdglIXI2I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-f8Q6dJ2KFg0/AAAAAAAAAAI/AAAAAAAAAO0/q0VdglIXI2I/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1365575150786",
+        "starRating": "3",
+        "title": "Did not work on Arc S 4.0.4",
+        "comment": "keeps telling that \\\"your device might not be compatible with auto-load feature\\\", then \\\"error while enabling apps2rom\\\". please tell me how to fix this coz i really need what this app promises..",
+        "commentId": "gp:AOqpTOHplo4sy0wp9cPMxtUlEfLwMp1DRKA1Gg9jZF0ogOmmseZpFZxAKROy7OVOl0vLi6TBE0T_wKY73mKE2Q",
+        "author": "Rami El-Sayed",
+        "authorURL": "http://lh3.googleusercontent.com/-Y7h8SGIuvNA/AAAAAAAAAAI/AAAAAAAAAOY/XTrPVSTUdiM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Y7h8SGIuvNA/AAAAAAAAAAI/AAAAAAAAAOY/XTrPVSTUdiM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1360952062640",
+        "starRating": "5",
+        "title": "Amazing.",
+        "comment": "I have 400MBs of free space on my system partition. And this in combination with a 1GB secondary SD partition and link2sd more then doubles my app space! Also, titanium Backup can easily back up and restore apps moved to system and apps linked to the SD with link2sd. :-D so it\\'s easy to backup and restore.",
+        "commentId": "gp:AOqpTOHAfrYryh2B_ihTUQSEEooaPPOI258ykVEIopzi97kR-BpskWL8gv89i6bBjFLUBlcSWoij-SfKQaqffw",
+        "author": "Johnathan Krage",
+        "authorURL": "http://lh3.googleusercontent.com/-cQ3woPg6Arw/AAAAAAAAAAI/AAAAAAAADAA/oSkpGB5uIKE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cQ3woPg6Arw/AAAAAAAAAAI/AAAAAAAADAA/oSkpGB5uIKE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1362485928497",
+        "starRating": "5",
+        "title": "Yahoo",
+        "comment": "Where were you all this time? Good work",
+        "commentId": "gp:AOqpTOGwB-YOFQGZxfYk_wKT39pcasc_8ZhJhWHpG2Lm7EpoFnN-gV_D8B1pjmI1rcyEGSDucl0qWD4rkINQbg",
+        "author": "Felix Tembo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1371197064934",
+        "starRating": "5",
+        "title": "Awsome way to save space!!!",
+        "comment": "And also to manage ROM apps",
+        "commentId": "gp:AOqpTOFFp8SKE1HECi8ih-m0PCdLquk7zocPYFSPFsm-nqzu44DBayM5Dc_3cUk0Sf6CwifMqjnSMunnw2mjGQ",
+        "author": "Nuno Inacio",
+        "authorURL": "http://lh4.googleusercontent.com/-hOtYFjuscos/AAAAAAAAAAI/AAAAAAAADpk/WRLuHNO0lZo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-hOtYFjuscos/AAAAAAAAAAI/AAAAAAAADpk/WRLuHNO0lZo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.6",
+        "timestampMsec": "1362606069890",
+        "starRating": "5",
+        "title": "Saved a lot of space",
+        "comment": "An awesome app. Saved a lot of space in the user partition.",
+        "commentId": "gp:AOqpTOFEcdNMPGWldjLMWFOPN-gDsi0EBqRrnzDGvrhirjRPUUPwkDgVNKEmRT9jlXYwCkwrBgxjQwm1PSdgVw",
+        "author": "Ravi S Ghosh",
+        "authorURL": "http://lh4.googleusercontent.com/-eDuliCOjcK4/AAAAAAAAAAI/AAAAAAAAYrw/AyWYpxmTea4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-eDuliCOjcK4/AAAAAAAAAAI/AAAAAAAAYrw/AyWYpxmTea4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_SUPERUSER"
+    ]
+  }
+}

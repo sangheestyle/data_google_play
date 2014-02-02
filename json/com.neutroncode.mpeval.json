@@ -1,0 +1,252 @@
+{
+  "title": "Neutron Music Player",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.neutroncode.mpeval",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 10, 2013",
+  "version": "1.74.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2412",
+  "rating": "4.032753",
+  "contentRating": "Everyone",
+  "creator": "Neutron Code Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.neutroncode.mpeval",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Neutron is a professional music player with high quality 32/64-bit audio rendering engine which helps to deliver to you the best possible sound quality from the Android device.Neutron provides the sophisticated UI with advanced controls for music playback. It is not easy or another 'pop' music player, it is developed for the audiophiles and those who really in love with music. Recommended for use with Hi-Fi/High-End audio hardware.Hope you'll like Neutron and have fun with it!FEATURES:* 32/64-bit audio processing for high quality HD audio.* Audio formats: MP1, MP2, MP3, OGG (Vorbis), FLAC, WMA, WMA Lossless (16-bit only), AC3, AAC, M4A, M4B, M4R, MP4, 3GP, 3G2, MOV, ALAC, APE (Monkey's Audio), WV (WavPack), MPC (MusePack), WAV, AU, AIFF, MPG/MPEG (audio only), AVI (audio only), iTunes/Windows Media inclusive except DRM-protected, OPUS.* Module music formats: MOD, IM, XM, S3M.* Voice audio format: SPEEX.* Streaming audio with metadata: M3U, PLS, ASX, RAM.* CIFS/SMB: make music source NAS, PC on LAN/INET.* Surround sound DSP (Ambiophonic R.A.C.E.Â technology).* Crossfeed DSP (for better stereo music listening experience with headphones).* Rumble Filter DSP (to protect speakers from overloading with frequencies below 20 Hz).* Normalization (post EQ re-mastering of tracks).* HQ 4-band parametric equalizer.* Accurate gapless playback.* Normalization.* Replay Gain.* HQ Resampling with 3 modes: fast, quality, audiophile.* Dithering (to improve audio quality by eliminating quantization in signal).* Crossfading.* Phase Inversion.* Balance.* Pitch.* Shuffle playback.* Looped playback.* Database/Folder modes.* Playlist management.* Queuing.* Lyrics (.LRC files).* CUE Sheet support (including built into metadata).* Media database grouping by: album, artist, genre.* Artist grouping by 'Album Artist' category.* Unicode tags.* Real-time multi-band spectrum analyzer.* Real-time RMS bar.* Master and Preamp digital volume adjustment.* Android widgets and Lock Screen mode.* Movable to external SD Card.* Night UI mode with colorful audio visualization.* Album art (supported: PNG, JPG, BMP, incl. metadata from tags).* Clock mode.* Sleep timer: 15,30,45,60,90 minutes.* Wake timer.* Automatic key-lock with colorful audio visualization.* Highly customizable through Settings.* Smart CPU/Battery consumption.SUPPORT:Neutron is under active development. Tech. support e-mail: neutronmp@gmail.com, or forum: http://neutronmp.com/forumBUGS:Please use the dedicated forum or send e-mail to the developer for bug reporting. Your patience, help and participation is highly appreciated!RECOMMENDED HARDWARE:- 1GHz+ CPU (single, or multi-core).- 480x800 or 480x480 screen resolution, or higher.NOTE:- It is time limited TRIAL version (5 days). If you like Neutron you can buy it from Google Play: http://play.google.com/store/apps/details?id=com.neutroncode.mp- All features of the application are thoroughly tested and working. If you can not make some of the features working for you then it is most probably due to the misuse. Please use forum, or send e-mail to resolve the problem, try not polluting the application rating (be kind to the developer!) - developer can not reply to the Android Market comments.- Lower than minimal specification of the hardware does not guarantee that application will operate fast enough!PERMISSIONS:- WRITE_EXTERNAL_STORAGE: to save the Neutron database in /Android/data/com.neutroncode.mp folder.- READ_PHONE_STATE: to auto-stop music playback when phone starts ringing.- GET_ACCOUNTS: to generate unique hardware/account key for the Licensing and Trial expiration. This information will be auto-deleted from the Licensing server in 1 month time.- INTERNET: for the audio streaming feature of Neutron.- WRITE_SETTINGS: to set ringtone.",
+    "reviews": [
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376435196735",
+        "starRating": "5",
+        "title": "Outstanding",
+        "comment": "The best player out there at google play ...superb equaliser..simply lovin it ...great work team :)",
+        "commentId": "gp:AOqpTOFB5HGzDHDy8gITKWH_ftSmtKp1q0Fq1eYlw72LrbkLCgnognSxuXUlSOZue_6gDFVQgcD9vv2gi0Le0D8",
+        "author": "Hassan Yousaf",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1377693796718",
+        "starRating": "3",
+        "title": "Che rabbia",
+        "comment": "Possibile che i lettori completi e validi esteticamente siano tutti a pagamento.. non si sfugge: veloce rapido intuitivo senza ads e completo? Lo paghi..",
+        "commentId": "gp:AOqpTOGmFvewePsvNP8nPx5lUXyN9Nh0LGV7OJnbS8F8bTGRWBGOlSJAcG5y_A9QJjqkOpo1IYwDOBDPJy2IoJ0",
+        "author": "Joe Egan",
+        "authorURL": "http://lh6.googleusercontent.com/-VASQvJN0jI0/AAAAAAAAAAI/AAAAAAAAABM/k7ni1xAoDy8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VASQvJN0jI0/AAAAAAAAAAI/AAAAAAAAABM/k7ni1xAoDy8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376319633356",
+        "starRating": "5",
+        "title": "Best",
+        "comment": "Whoaa best player.. now I\\'d say my phone is in the best sound reproducing potential.. many thanks developers !!! :)) [Htc one s] Tried other app but this app is the most powerful in the market Honestly =D God bless you...",
+        "commentId": "gp:AOqpTOG7pdwPjOwJBbKLMsUh4xorQIkhAqeC_bwsWP14M23iVepyhyhMbuPQCbCMXJNVFN_MbyaF9uD1ZUrr18M",
+        "author": "Jonathan Reynaldi",
+        "authorURL": "http://lh5.googleusercontent.com/-LulgbhWwYBI/AAAAAAAAAAI/AAAAAAAAAB8/yqPxUqyJDUg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-LulgbhWwYBI/AAAAAAAAAAI/AAAAAAAAAB8/yqPxUqyJDUg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1378311842985",
+        "starRating": "5",
+        "title": "Excellent sound quality",
+        "comment": "Ok",
+        "commentId": "gp:AOqpTOE4YoL6t74NJ5_ITQclIL6Iyz37H8SLPxvtPXGYSS1JIc27YfGsJhrpM3gMUyt1UitN0t-vhrKssph9MJk",
+        "author": "Manjula Thilakarathna",
+        "authorURL": "http://lh5.googleusercontent.com/-MQIXm4ASCdI/AAAAAAAAAAI/AAAAAAAABIY/yGoXbidGyW8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-MQIXm4ASCdI/AAAAAAAAAAI/AAAAAAAABIY/yGoXbidGyW8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376779025352",
+        "starRating": "1",
+        "title": "Trial should at least work",
+        "comment": "My trial can be resumed as starting app, try to connect to server and in less than 10 seconds being told my trial expired. Even by Jupiter day cycle this is a real short time to \\'try\\'. Could not determine if network would work, play any song to check which format works, what the ui looks like. No test = no purchase.",
+        "commentId": "gp:AOqpTOEIqA6xrsj_Hoazq8B5kjyqp7dVMjw7G_xeuRvHNrfLPIMRlwJfYqc0SgNsb-ePwN3YHCepFr_Dpwhp48I",
+        "author": "Stephan Cote",
+        "authorURL": "http://lh4.googleusercontent.com/-1Sq3e2sGO54/AAAAAAAAAAI/AAAAAAAAAIA/KNj1db-qZ8A/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1Sq3e2sGO54/AAAAAAAAAAI/AAAAAAAAAIA/KNj1db-qZ8A/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376359784644",
+        "starRating": "4",
+        "title": "Not bad, but...",
+        "comment": "Scrolling effect sucks, volume button should be on the main screen... otherwise not bad at all... dev, keep it up...",
+        "commentId": "gp:AOqpTOGpUXFJvRxiQp2rVwBFyRo2kipKPmzMdJb9opaZ_3Y2sGgw288Bhi6wB0LVm_g9BOnF4jrNadUH3QVfnqM",
+        "author": "Alex Shell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1377240312846",
+        "starRating": "1",
+        "title": "Pathetic",
+        "comment": "The app was searching for music files for 3 minutes, a \\\"trial expired\\\" message was shown so I couldn\\'t even play a song...",
+        "commentId": "gp:AOqpTOEtC7g15QJLaiJyUOldhtOf7HDDFUmHpIlhW138ZzUlHk6AT0A6rX__oaI2919r_9yv0lBpOc02UoWBKR4",
+        "author": "Robert Farago",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376366192201",
+        "starRating": "5",
+        "title": "Great, great, great...",
+        "comment": "Guys this app is awesome. Please just keep it more stable because it\\'s freezing sometimes. PAY ATTENTION! WHEN THE DATA IS TURNED OFF BEFORE STARTING THE APP IT REMAINS USABLE AS A FULL VERSION.",
+        "commentId": "gp:AOqpTOFH4S9MXaW9T8J79yn1vKu6Cd8wVooM523R_kTK3HD6CB0kj0NwgS6uqh3xWQS_epE8Fptm-BzltLTUliU",
+        "author": "Marcelo Saravia",
+        "authorURL": "http://lh6.googleusercontent.com/-8d4V23NXUlQ/AAAAAAAAAAI/AAAAAAAABy4/6iRDm-_lPEY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8d4V23NXUlQ/AAAAAAAAAAI/AAAAAAAABy4/6iRDm-_lPEY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1378098474792",
+        "starRating": "2",
+        "title": "Best sound. Worst UI I\\'ve ever seen on any app.",
+        "comment": "The UI looks straight from Tron movie.  It\\'s al around in your face ugly.  Where is the holo UI?  Would work wonders.   The lyrics screen,  EQ screen,  navigation.. Everything seems to made for geeks.   There is no way to tell what will happen in Back Press.    Just unintuitive all around and sore  to the point of being unusable.   On the plus side,  it does sound better with Crossfeed option,  so there\\'s that.  After trying it out ,  I can say that  the 5-10 percent increase in sound quality is not worth.",
+        "commentId": "gp:AOqpTOFlkMCYsxRm-RoKGVYIchcBU9Wvd57SqZMXVYVdJfv90cKP3XwH3B8m-OfW9XJdAmWNXBObMtfIkrjY9bw",
+        "author": "Snehasis Ghosh",
+        "authorURL": "http://lh3.googleusercontent.com/--PqaOCSKttM/AAAAAAAAAAI/AAAAAAAACaI/ZffjMGGck58/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--PqaOCSKttM/AAAAAAAAAAI/AAAAAAAACaI/ZffjMGGck58/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1377605098206",
+        "starRating": "5",
+        "title": "Excellent music player",
+        "comment": "This is the one best app on the market if you\\'re using this then you\\'re an audiophile",
+        "commentId": "gp:AOqpTOEtK6MWJq2i6vJm1qHn2-sLYduzo5_0Nx1FDrZGIfnp00GOYIAhHbe1VUTt3GqS5ymrVy7nFb66a_fHni4",
+        "author": "ish joisher",
+        "authorURL": "http://lh3.googleusercontent.com/-rQmILctUDBo/AAAAAAAAAAI/AAAAAAAAADQ/aaIhAeik1tk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-rQmILctUDBo/AAAAAAAAAAI/AAAAAAAAADQ/aaIhAeik1tk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1378129062368",
+        "starRating": "5",
+        "title": "Omg! PERFECT!",
+        "comment": "This is what I am looking for! Better sound than my normal music player!",
+        "commentId": "gp:AOqpTOFGlDxO3FvRLmqFVO4ZMqSXJvUB6PZBNuTUmD4cA7jsDKPSkj4yYdp0U1rDsnBfAe63-7meNvFs7KDdOMA",
+        "author": "Jia Jun",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1377843084293",
+        "starRating": "5",
+        "title": "Superb",
+        "comment": "This player really give user quality\\'s sound instead of just pretty UI like other players did",
+        "commentId": "gp:AOqpTOEtHb1A6uTQ_oMsE9KKpWgViCKBE09NTgkNrTKVww0VYlEnvjcJCDYB7sYuAUNMYbnPMre4HdGV-R-jsNw",
+        "author": "Suim H. Beazly",
+        "authorURL": "http://lh5.googleusercontent.com/-i_MZ0JdDWyQ/AAAAAAAAAAI/AAAAAAAAABc/VK62PHs96Qw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-i_MZ0JdDWyQ/AAAAAAAAAAI/AAAAAAAAABc/VK62PHs96Qw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376910757735",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Working good.",
+        "commentId": "gp:AOqpTOEncddzYxkiUHIMFz-xK_Y_JHOC9frlgIaMt8W9o34Qsmoc0ZxKkT4MOVgLCxACC59kiwEt7qQR1MitSZ0",
+        "author": "glen gravina",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1378234824954",
+        "starRating": "3",
+        "title": "Running in the background",
+        "comment": "Running in the background doing weird things like playing music by itself etc. I was considering buying the full version but I probably won\\'t...",
+        "commentId": "gp:AOqpTOEUJHw4Z6lrbLXdyqPSex8CHzChY1rS26nBiomX2tc-_CzJy8-vvPRSAn_441xeOoZdygVHqlLysuIiHMI",
+        "author": "Marcin Green",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376520339377",
+        "starRating": "4",
+        "title": "It\\'s a good music player",
+        "comment": "I tried several. This ones the best so far",
+        "commentId": "gp:AOqpTOHJzxSWJQQzAIKX07TpXoxCk9jYIZzm3JqzuHwq1s61BU5MZWFhRpehDhvp7me9CEXH7gZsgPF_LLCqnW0",
+        "author": "Rob O",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376778337709",
+        "starRating": "4",
+        "title": "Would be good as an audio driver",
+        "comment": "The sound quality is great. However for the increasing number of people using subscription services such as Spotify, standalone players are being less utilized. This app would be great if it could be used as the audio driver or service where all sound in the Android system gets routed to. Not sure if that\\'s possible... But certainly would be killer.",
+        "commentId": "gp:AOqpTOEQj27TSvhILnKbkPg0dDIZpR6Bg-NBib_dhlelo7AWmuUaiMhyRM216ItPBHP4SGztYUP6Ij3OvR4McMw",
+        "author": "Luis Pablo Coronel",
+        "authorURL": "http://lh3.googleusercontent.com/-JU52EezBd4c/AAAAAAAAAAI/AAAAAAAAAAA/ARzS0nFh7Kg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-JU52EezBd4c/AAAAAAAAAAI/AAAAAAAAAAA/ARzS0nFh7Kg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1377576404707",
+        "starRating": "5",
+        "title": "Pretty good",
+        "comment": "Hmmmmmmmm",
+        "commentId": "gp:AOqpTOGMMPuwmfe-Nm_Qm_FhFmFvgcxPebmpnVVV-wryNcxpZAGm3kBz_A6q0ya2yFk4nHPazzZ3PjI6PqN8JFc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1377831126973",
+        "starRating": "5",
+        "title": "I\\'ve had it for awhile, pretty slick.",
+        "comment": "Get it, you\\'ll dig it.",
+        "commentId": "gp:AOqpTOFV-bkFMwuhxfkOZEq7lFEMXP_mr5-Oqct_0u74R_MPGp4RlWbgPUXpLQ0EF3FSsuMVn9VGsLJv2Bp5BnE",
+        "author": "Chad Kentile",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376479362677",
+        "starRating": "5",
+        "comment": "Love it totaly works my music sounds great good job",
+        "commentId": "gp:AOqpTOEKfyENWDrULcDGlqXHsyHY0iZaGcRDWUXYsnv24v0NAeTKUnN3YJaEkV8sEQgJK3GfThh98tQmOBLcJNY",
+        "author": "Jt Blacker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.74.2",
+        "timestampMsec": "1376455510466",
+        "starRating": "5",
+        "title": "Best sound hd",
+        "comment": "5.1 sound supported woofer and subwoofer",
+        "commentId": "gp:AOqpTOHhJXKclOO_Ocbrj_HlnRp0WNId52tIj0P08HFZ_uTdhloZncTmn2xgpkIJCWcQyKTvrC-ja5S2329AshY",
+        "author": "Riezal Salleh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

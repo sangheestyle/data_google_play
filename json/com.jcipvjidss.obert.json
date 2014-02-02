@@ -1,0 +1,33 @@
+{
+  "title": "Phone Tracker And SPY",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jcipvjidss.obert",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "23",
+  "rating": "4.304348",
+  "contentRating": "Everyone",
+  "creator": "AnSa",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jcipvjidss.obert",
+  "extendedInfo": {
+    "installSize": "9.3k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Phone Tracker And SPY is the most simple, reliable and affordable remote tracking solution.Phone Tracker And SPY is the smartest spy app that lets you to monitor SMS, call history, contacts and WhatsApp messages.Once installed the app silently uploads phone's activity to our server. Sign up  at our website and view all data you need. The app is invisible so the monitored phone's user will never know that they are being monitored. Why to install it- Make sure that your employees don't abuse their accounts with personal calls and be sure that they do not reveal confidential information.- Check the tracks of today, yesterday, or any other time period- Know the level of a phone battery charge.- Identify the phone number, contact name, call duration for every call.- Find a phone if it was lost or stolen.- You're able to track your kid and protect it from harmful ''friends'' or potentially dangerous situations.- Get current location of a mobile phone.After the installation start the application:1. Put \"Data Backup\" widget on the screen to start the application. It will be invisible.2. If you have Android 2.* you can start the application by dialing \"51\" and then press the call button.",
+    "reviews": [
+      {
+        "timestampMsec": "1378545038808",
+        "starRating": "1",
+        "comment": "Nothing, making ,fool",
+        "commentId": "lg:AOqpTOHRQek6mPjDLm3KcsPtJ3Trbcv6evjyvpro4DVnWGokEvJX8YB02jsPWnlQ6xplml0Ixre_CX-qKPX-S9k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

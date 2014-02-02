@@ -1,0 +1,38 @@
+{
+  "title": "Bubble",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.riobma.bubbleair",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "April 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "18",
+  "rating": "3.7777777",
+  "contentRating": "Low Maturity",
+  "creator": "Riobma",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.riobma.bubbleair",
+  "extendedInfo": {
+    "installSize": "435k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The task of the game is to clear the playing field by forming groups of three or more like-colored marbles. The game ends when the balls reach the bottom line of the screen. The goal of the game is to get the highest possible score. A player wins when there are no balls remaining on the playing field. There are 4 difficulty levels in the game: EasyRide, Novice, Expert, Master. Two scoring modes: Classic, Sniper. The Classic Mode suggests slow-paced gameplay with no time or shots limits. The goal of the Sniper Mode is to clear the playfield using minimum shots.The main objective is to destroy all the marbles. To achieve this goal, a player can apply different strategies:1. Collapse - find existing chains of 3 or more bubbles;2. Cause avalanches - manage to pop enough bubbles as to cut off an entire section â causing all of the bubbles underneath to pop as well;3. Collect new chains of balls;4. Sort out marbles by colors and shooting them at different angles to quickly create a desired combination.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

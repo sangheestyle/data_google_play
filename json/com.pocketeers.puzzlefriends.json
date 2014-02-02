@@ -1,0 +1,39 @@
+{
+  "title": "Puzzle Friends FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.pocketeers.puzzlefriends",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 12, 2012",
+  "version": "2.4.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "Pocketeers Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.pocketeers.puzzlefriends",
+  "extendedInfo": {
+    "installSize": "5.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Awesome New Mind Bending Physics Puzzle Game. Have fun building your own puzzles and sharing them with family, friends or harder puzzles with your enemies! No matter what phone or tablet (even if its a Bada, Playbook, iPhone or iPad) you can share your puzzles.Features include:- Mind bending physics based puzzler- Great colourful graphics and music- 2 puzzle zones FREE- 20 custom puzzle slots FREE- Built in game puzzle editor to create your own puzzles- Share your own puzzles with friends across many devices for FREE(even none Android phones and tablets)- Round records and Scoreloop Leaderboards- Share scores on Facebook- Share puzzles on FacebookBack at the lab your latest super science project journal has been invaded by super bugs from another dimension and if not eliminated will soon make short work of your life's work! Your job is to eliminate all dastardly bugs using your secret weapon âcOnnecticOn stringsâ. Use your intellect and cunning to set up simulation experiments that will clear each page of bugs.Your job is not easy however as these cunning little bugs evolve and arrange themselves into different configurations to keep you guessing. Can you think in 4 dimensions?New zones, new physics and new objects coming soon!Created with the IwGame Engine and the Marmalade SDK. The full source to cOnnecticOns is available freely as open source at http://www.drmop.com/index.php/iwgame-engine/Version 2.4-----------Puzzle zones 3 and 4 now available for $0.99 instead of $1.98",
+    "reviews": [
+      {
+        "documentVersion": "2.4.0",
+        "timestampMsec": "1350343935416",
+        "starRating": "1",
+        "comment": "This stinks. When I saw Custom Levels, I thought, oh wow, I can use my own pics. Was I disappointed",
+        "commentId": "lg:AOqpTOGuMtWqa756brtEKCX-wO-swL0gR-w_m7jOizTE902r_a7iRpptgyNKCr7FuDppANhnGN7DjJYHIZu59Xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

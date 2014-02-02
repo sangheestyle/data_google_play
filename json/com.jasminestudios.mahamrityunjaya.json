@@ -1,0 +1,46 @@
+{
+  "title": "Maha Mrityunjaya Mantra",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jasminestudios.mahamrityunjaya",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.714286",
+  "contentRating": "Everyone",
+  "creator": "Jasmine Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jasminestudios.mahamrityunjaya",
+  "extendedInfo": {
+    "installSize": "5.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Maha Mrityunjaya Mantra - \"great death-conquering mantra\" also called the 'Tryambakam Mantra', is a verse of the Rigveda. It is a prayer to Lord Shiva (part of the hindu trinity, the lord of destruction, penance and meditation) for help in overcoming \"death\". The seeker is more concerned with avoiding spiritual \"death\" rather than physical \"death\". The mantra is a request to Lord Shiva to lead us to the mountain of meditation, which is indeed Lord Shiva's abode.Legend has it that Lord Shiva appeared before his devotee Markandeya (who was destined to die at the age of sixteen) and stopped his aging process a few days before he was supposed to turn sixteen. Thus, death would never be able to claim him! Hence, this mantra is also referred to as the Markandeya mantra in classical hindu studies. The mantra should ideally be repeated 108 times, twice daily, at dawn and at dusk.Features:- Mantra text in Hindi and English- Meaning and Interpretation of the Mantra- High quality Audio- Auto-Repeat feature to play Mantra 11, 21, 51 or 108 times- Ability to switch to Slideshow mode- Ability to change Font size as per your requirements- Application can be moved to SD card.",
+    "reviews": [
+      {
+        "timestampMsec": "1361507279787",
+        "starRating": "5",
+        "title": "Om Namah Shivay!",
+        "comment": "Best audio! Clear and Correct recitation of the mantra.",
+        "commentId": "gp:AOqpTOFgz9AxcIBZBIv8Jc9eVCwl1ikOE0Z5HxML8UI-Zbwz8lzXddjl4yMmxT94kDtXgGbA7CBW31m0alao7sY",
+        "author": "Avinash Gupta",
+        "authorURL": "http://lh3.googleusercontent.com/-jq2Ozu3JiNo/AAAAAAAAAAI/AAAAAAAAAHw/oBjtFriXvpE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-jq2Ozu3JiNo/AAAAAAAAAAI/AAAAAAAAAHw/oBjtFriXvpE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369642188268",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Best audio, thanks developer!",
+        "commentId": "gp:AOqpTOEFrpTDonaAuGAV4j_dX1P8_dqRMDp7KzYJdyA0KBvYz-_nKqDrxsyWnMJFNOjvaVeVyGuFWbsbbyWN4d8",
+        "author": "JASHMINE AVI",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

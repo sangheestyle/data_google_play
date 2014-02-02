@@ -1,0 +1,231 @@
+{
+  "title": "Smozzy Beta",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jeffdonahue.smozzy",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "September 18, 2011",
+  "version": "1.0.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "126",
+  "rating": "3.984127",
+  "contentRating": "Everyone",
+  "creator": "Jeff Donahue",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jeffdonahue.smozzy",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Get the web, without the data plan!Smozzy Beta lets you use your T-Mobile* unlimited messaging plan to browse the web.  No data plan required!It works just like your Android phone's built-in browser, but the content is requested and delivered entirely via the text messages (SMS and MMS) included with your unlimited messaging plan.NOTE: This app currently works with U.S. T-MOBILE SERVICE ONLY. This application may send and receive a large number of messages, so use of it without an unlimited messaging plan is NOT recommended.   It is currently in beta, and has been tested only on Nexus S and HTC G2 devices.Please send any feedback to feedback@smozzy.com.*Update (9/18/2011): Smozzy has been updated with EXPERIMENTAL support for AT&T and Sprint customers, and COMPLETELY UNTESTED support for Verizon, Virgin, Cricket, Straight Talk, US Cellular, Viaero.  Support for all of these networks is likely to be buggier than support for T-Mobile, and for many of them will likely not work at all.   Send feedback to feedback@smozzy.com.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316432289910",
+        "starRating": "4",
+        "title": "Creative but..",
+        "comment": "My four stars are for the creativity and thinking outside of the box. Whit that said, it is painfully slow and make sure you have unlimited MMS.......",
+        "commentId": "lg:AOqpTOEXREJlpJiEuCkh9PbflZrheiVfKu-4SWC4l1Yz3vLDZKCkL3ScuCByAPwMCkqqCDGlVY7RCySOQcEjru0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316468969217",
+        "starRating": "1",
+        "title": "Not working for me.",
+        "comment": "Wish it did. SMS/MMS is sent & received but hangs with the message \\\"Received full response. Decoding...\\\". T-mobile myTouch 4G",
+        "commentId": "lg:AOqpTOHCScu2a1ugbf7XB6yoIyWnxcO6LYaSVISEyNBC8WXx3nN4w3sPGkvTR7AmdgABy8M9kG0Hw6cP4mhodKg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1351041182463",
+        "starRating": "5",
+        "title": "I thought of it first :-(",
+        "comment": "I have been trying to do this for longer than I can remember.  Unfortunately...  I don\\'t have the problem solving skills required to make my app work properly.  For example; I would have NEVER thought of using a server to handle all the app requests.  I was trying to make the requests work using P2P tech..  Your creative thinking skills are second to none.  P.S.  That thing with the .PNG Files...  Absolute genius",
+        "commentId": "lg:AOqpTOEoPlGtrzl8fPP5l6L7VIkAEMdjPHuvWaKF0QU0TjJ6FGI944GhSp7-TE_lC8QmsmY5RFAFuHlK-Mp4YVw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1375131424651",
+        "starRating": "2",
+        "title": "Not working",
+        "comment": "Still continues to say \\\"Request sent. Waiting for response...\\\" even after the mms has fully loaded. Can you fix this please?",
+        "commentId": "gp:AOqpTOGTwZUYLwKe16_3WH5KNI2ZB4Eucn_CCyW0kdTWXm2P1Rb5APbFTBKSzPhDxJuRRby-bjXyZp1Gqr_jSh4",
+        "author": "ashley t",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1317224383861",
+        "starRating": "5",
+        "comment": "Tried it on Vodafone Australia... Didn\\'t work, but 5* love the idea, hope for some updates for the rest of the world.",
+        "commentId": "lg:AOqpTOF02Zav6c3cjEa5euZAWNGAOVzpEPAOk6w-oYuDYry1kFrSzzlSRgloP21Qs6-0ude263u_fPUxGfi__y4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316478834104",
+        "starRating": "2",
+        "title": "Did not work on T-mobile comet",
+        "comment": "Did not work. SMS/MMS is sent & received but hangs with the message \\\"Received full response. Decoding...\\\". T-mobile comet",
+        "commentId": "lg:AOqpTOEGkflvdTG25U4QARBh__-SxfLLCr25JOewbHTzJnZGLEPKcg49ZDaRsXe3Ouy05zAa7cFfF4nLHnGzbHY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316584727071",
+        "starRating": "5",
+        "title": "Works perfectly!",
+        "comment": "This is awesome, it is a little slow but it\\'s free data!",
+        "commentId": "lg:AOqpTOGhFIlvbUZX64dzeZSm256wek67ly_yTUa6MmPS5JUBG-Yh-9lJeGAXx6YoFRPxcmkUzrpNEbHaBPSojwA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316636747727",
+        "starRating": "5",
+        "title": "Genius",
+        "comment": "So good and simple, can\\'t believe this isn\\'t banned.",
+        "commentId": "lg:AOqpTOGqEZm-oS82Yv8ybDb66oTwpuV0tha0WTXnS0ExpI1aFO1zmALMhaESceHSSGje4GRrPleQJ0UWkCeAQVs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1363580612007",
+        "starRating": "5",
+        "title": "I LOVE THIS APP",
+        "comment": "My mom wouldnt get me a data plan so i turned to this and it works! OMG i cant even tell you how excited i am...Just wish it would be faster",
+        "commentId": "gp:AOqpTOElhFgOGs86dyolHyG-qfqxSIKA4gHSDLNs4HemJ_lZsLi93xJO2G4mFi8hkD-M6vKavgI4x8V9c-wVqUY",
+        "author": "Tommy Huynh",
+        "authorURL": "http://lh6.googleusercontent.com/-8appitVwp8M/AAAAAAAAAAI/AAAAAAAAEGM/phHCUF7ATlE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8appitVwp8M/AAAAAAAAAAI/AAAAAAAAEGM/phHCUF7ATlE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316483998148",
+        "starRating": "5",
+        "title": "Nice concept, but...",
+        "comment": "Stuck on \\\"Request sent. Waiting for response...\\\" on Droid Charge on Verizon. I like that the dev added untested support for VZW, but it doesn\\'t work.",
+        "commentId": "lg:AOqpTOFsJYXG-e_JhK30C546vP5L9nZ6UyDQ2DH0GoDiLc4HThX1JjEMDMoAsg-VlIZX00bGqfZhNhStDt9pg8Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1329637948545",
+        "starRating": "4",
+        "title": "Greatidea!",
+        "comment": "This app is a wonderful app for those of us w/o data plans. However, I am always getting errors when using this app to browse the web that tell me to log into aim?",
+        "commentId": "lg:AOqpTOEv8ymkgWH7_fPZA6EQ93vpmAukv-LuJo1b5RAYKcj5NgO13HpMFNFbuGNdh1_1JKqqfT0FdAcPwr98luk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1341520788185",
+        "starRating": "5",
+        "title": "Great Concept!",
+        "comment": "I have an unlimited data plan with T-Mobile but I just heard of this app and decided to give it a try. It is a really great concept but it is a little too slow for me. This would be a great app for someone who doesn\\'t have data but needs to get data every once in a while.",
+        "commentId": "lg:AOqpTOFhrZoOsPaGVydU6Gqo0Z3-mkV52OBbr-6k_21h7_A6ppniKLOTdjLTea7rrpd7yBOth8aQZ_X6tEcrp8g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1359181450574",
+        "starRating": "5",
+        "title": "FANTASTIC",
+        "comment": "This is amazing. I thought of this idea myself way back when as well, but the implementation here is just FANTASTIC.  I wonder why this does not have many more downloads.",
+        "commentId": "gp:AOqpTOFl_QwOlZ88kQSikwf0-ciZxjM0ryqyB-lDcf1CZmoXvMJq_Yb-IDtKlo1NIvQ1Yssw-dYpnoWzJCWjTMA",
+        "author": "Joshua Lerman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1318016032443",
+        "starRating": "5",
+        "title": "Great concept",
+        "comment": "Not working on AT&T for me. HTC G2",
+        "commentId": "lg:AOqpTOGkAOOQ39i73lC4wAA6SlZwXwBxFWgzLCs2KmCyoqa8Yw4DasjkDcXy4TUQsuUChJvSFEjhABYp22ryut0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1316455100609",
+        "starRating": "5",
+        "title": "Very creative.",
+        "comment": "Works on HTC Sensation. 4G...",
+        "commentId": "lg:AOqpTOGpBmnDUBp3yttB5XW9J5ZCzMB6ZxasJaHNLgs5C7O8HWIbILLtnciGohMzI94u1YQN_rtJUTiunRVAWE4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1327235055295",
+        "starRating": "1",
+        "title": "No longer works",
+        "comment": "Always says AIM smozzy and then some # is not avail.",
+        "commentId": "lg:AOqpTOGslTroyDPUs514qSpa4C711258b5WEbP2_Ase_wfSeerndnasqJTrfwV9BxdSpkBnBMPtOY5_SkXwwh4o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1363275523808",
+        "starRating": "1",
+        "title": "Doesn\\'t Work",
+        "comment": "It sends the request, then starts receiving, and never fully receives it",
+        "commentId": "gp:AOqpTOFznjYMDeRsoVvCJIYqEvO4qjvJuJFOmyhV5GeXaApkPjBMhNadmBjR1FNxrrXy77MwaM37ofex8WdSJdo",
+        "author": "Vasia Sufuev",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1373605637336",
+        "starRating": "5",
+        "title": "Awesome!!",
+        "comment": "Helped me out big time in South Dakota. Worked Great. Thanks!!",
+        "commentId": "lg:AOqpTOFNjEwdIzlUjvxE0VRLSyp9p0I5diSKGCoHa_9B-1sr-BjtdFhcFin91Ya8xr_hs-CB15BHbdGR4tCSlGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1350333535640",
+        "starRating": "4",
+        "title": "Would love for it to work!",
+        "comment": "I am using an unlocked Samsung galaxy y with a 15 dollar a month t-mobile UL text plan. Unfortunately smozzy never loads webpages, but gets stuck in retrieving the data from the text message. 4 stars because it\\'s an awesome idea, and I would love for it to work. ( hope a fix will be out soon! )",
+        "commentId": "lg:AOqpTOH3xmZeok3Eo9qEfGh6HvPbYd3J_XjkbCvTvH7ShglmyVJhC7nRkeL2nX0WmomAb_7DMIoUqFWwdZBlzpk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.5",
+        "timestampMsec": "1333747095268",
+        "starRating": "2",
+        "comment": "For me, this app does not work: I receive error text messages claiming that either my shortcode texting is disabled or expired... (sprint evo 3d)",
+        "commentId": "lg:AOqpTOF-HAdxxBPCaXjxCAGFd5syFFr0KB2G8HLOMyDc7SwixKBekBF1fTwgBr_M7ywa-w-ry-tSJCUEsUMCkAg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_MMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.WRITE_SMS"
+    ]
+  }
+}

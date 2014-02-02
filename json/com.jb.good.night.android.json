@@ -1,0 +1,86 @@
+{
+  "title": "Good Night, Android! FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.good.night.android",
+  "category": "Productivity",
+  "price": "$2.00",
+  "datePublished": "June 14, 2013",
+  "version": "4.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "22",
+  "rating": "4.2727275",
+  "contentRating": "Everyone",
+  "creator": "Johannes B.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.good.night.android",
+  "extendedInfo": {
+    "installSize": "883k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "100 - 500",
+    "description": "Tired of pressing 7 toggles everytime you go to sleep and again when you wake up??Basic features:-\tWidget to toggle day/night mode, which letâs you set & reset-\ta radio profile (Wi-Fi, Bluetooth, Data, Airplane mode*, GPS**, 2G/3G**)-\tphone settings (Sound & Vibration, Sync, Wallpaper, Brightness**)Advanced features:-\tSet your alarm clock (supports most alarm clock apps)-\tDifferent alarm times for every day in the week-\tPowernap function during the day-\tLock the screen-\tAutomatic schedule for day/night-\tCustomized messages & notification for going to sleep & waking up-\tHaptic feedback-\tSupport for 3rd party apps: Screen Filter, Greenify-\tIncludes an extension for the DashClock widget-\tSwitch between dark & light app theme* requires root on Android 4.2 devices** requires root permissionsThe app offers high functionality, helps you to save battery and time.It does not run in the background during night!You can use either the widget or the launcher shortcut to toggle day/night mode. Please note that ONE OF THEM (WIDGET/SHORTCUT) IS REQUIRED FOR THE APP TO DO ANYTHING before rating bad. Instructions how to install the widget or the shortcut can be found in the app (info-tab).Creative ways to trigger day/night:As a gesture in a launcher (e.g. double tap, possible in nova launcher prime and others)As a shortcut on your lockscreen (Not possible on all phones, depends on model & software)Via DashClock Widget (Extension included in the app)On certain events (certain location, ..... requires tasker or similar app)Please disable lock screen option before uninstalling (to disable device admin)Permissions are required forBluetoothWiFiWrite Settings - Airplane modeWrite Secure Settings - Airplane mode in Android 4.2Device Admin - lock screenSet alarms â schedule day/nightCHANGE_NETWORK_STATE and ACCESS_NETWORK_STATE for mobile data connectionCHANGE_NETWORK_MODE 2G/3G toggleREAD & WRITE_SYNC_SETTINGS - (De)activate Auto-SyncIf you have troubles with the app please contact me before rating low. I don't have all devices to test but I will give my best to solve your problems ASAP!You have Feature suggestions or want to help me translate this app to your language?Please contact me at goodnightandroid@gmail.comxda Developers Thread:http://forum.xda-developers.com/showthread.php?t=1980889Special thanks toMurat Emre KÃSE for providing and updating the Turkish translationThank you!",
+    "reviews": [
+      {
+        "timestampMsec": "1357561065352",
+        "starRating": "5",
+        "title": "Keeps getting better and better!",
+        "comment": "I\\'ve been using Good Night, Android for a while now.  New features keep getting added. The latest version (2.7 at this time) supports disabling Bluetooth and Mobile Data as well as Wifi, Sound, Vibration, and Airplane mode.  When I\\'ve contacted the developer for stupid user issues (me!) he has responded quickly and been more than willing to help.  One of my must have apps.",
+        "commentId": "gp:AOqpTOE1EQl-vgdqb35VhHgUd0AXCL3qecATWGb3nyJIsZgPrNCSxyv6H4JDQJYw0UJs1JSaulG-BU3M2cTp6uI",
+        "author": "Michael H. Martel",
+        "authorURL": "http://lh5.googleusercontent.com/-6ny3coVA5kA/AAAAAAAAAAI/AAAAAAAAZvw/TxspktDBMLA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-6ny3coVA5kA/AAAAAAAAAAI/AAAAAAAAZvw/TxspktDBMLA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354417604914",
+        "starRating": "5",
+        "title": "Works great on SGS3",
+        "comment": "Latest v2.4 is perfect for overnight power savings!",
+        "commentId": "gp:AOqpTOGxjuC_nveUnogh1Jp8X9qj8l9SdS7qM2JpqwdH3SwG9w5Hx7UIUixdQJGQhn71cmELzy902SVULtDmvXA",
+        "author": "Christopher LeBlanc",
+        "authorURL": "http://lh6.googleusercontent.com/-nkQFQHVBKE8/AAAAAAAAAAI/AAAAAAAAAAA/pNrzfL5Aqf0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-nkQFQHVBKE8/AAAAAAAAAAI/AAAAAAAAAAA/pNrzfL5Aqf0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353719636037",
+        "starRating": "5",
+        "title": "Good times",
+        "comment": "App does exactly what it says it should, very simple and usable highly recommend if you like to wake up in the morning and have a charge, and have a phone with a bad battery drain",
+        "commentId": "lg:AOqpTOEnzCu54b_aFBKRJnDAQDXmzq47bCgOGjf9bxrqg_3Gnsom6ONzdyyg8QaS4ifvObL5yrNzjMzjsOahD8M",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353685147387",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "Does exactly what it is suppose to do.  Could have more toggle options like GPS and Mobile Data, but will use it everyday.",
+        "commentId": "lg:AOqpTOFNW4c9GP7QLjtqZEpVt3zcUccwdBDVBAttc2_YsQ5eOxtgRlIvy0cwdJ_rimjCxDdG50AZr1RTQfXxoVo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357349365044",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "I had some problems with this app initially and the support provided was brilliant.  I love the way this is so configurable. Recommended.",
+        "commentId": "gp:AOqpTOEpxobTsDBGypo6jLkFKyexaK36UF9TkfeQRgsbd9yDBJdWO3knjGMeyMrZKxkFnc9AjcvSX6it1g-Xtk0",
+        "author": "Rob Thorley",
+        "authorURL": "http://lh5.googleusercontent.com/-Vz1u3JdK4sk/AAAAAAAAAAI/AAAAAAAAAhM/S4rcZ7_kPjc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Vz1u3JdK4sk/AAAAAAAAAAI/AAAAAAAAAhM/S4rcZ7_kPjc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.android.alarm.permission.SET_ALARM",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.phone.CHANGE_NETWORK_MODE"
+    ]
+  }
+}

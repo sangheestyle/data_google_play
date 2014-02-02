@@ -1,0 +1,34 @@
+{
+  "title": "David Otunga Games For All",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.davidotungaapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.davidotungaapp",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love David Otunga?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play David Otunga memory, jigsaw puzzles, and Tetris.  You will love spending some free time with David.David Daniel Otunga, Sr. (born April 7, 1980) is an American professional wrestler, lawyer, and actor. He is signed to WWE, where he performs under his real name. He is a two-time WWE Tag Team Champion, having one reign each with Michael McGillicutty and John Cena. He was the runner-up on the first season of NXT. Otunga was also the last original member of The Nexus and The New Nexus.Otunga was born in Elgin, Illinois, the son of a Kenyan father, Moses, and a white American mother, Billie, both of whom were educators. He is the youngest of three children. Otunga graduated from Larkin High School in 1998, with mostly A-grades. Otunga holds a Bachelor's degree in psychology from the University of Illinois. Following his graduation, he moved to New York City, where he worked at Columbia University as a lab manager in a cognitive neuroscience center. He later attended Harvard Law School, and passed the bar exam in Illinois. Following his graduation, he worked for the Sidley Austin law firm.In November 2008, Otunga signed a developmental contract with World Wrestling Entertainment and was assigned to its development territory, Florida Championship Wrestling. He made his debut on May 29, 2009, under the ring name Dawson Alexander, in a six-man tag team match. Otunga teamed with Barry Allen and Jon Cutler to defeat Abraham Saddam Washington, Derrick Bateman, and Camacho.On February 16, 2010, after numerous dark matches on both Raw and Smackdown, it was announced that Otunga would wrestle on the first season of WWE NXT under his real name, with R-Truth as his storyline mentor. He made his debut on the inaugural episode of NXT on February 23, quickly defeating Darren Young. Young defeated Otunga in a rematch on the following week's broadcast, thanks to interference from Young's mentor, CM Punk. After the match, R-Truth tried to offer his support, only to be shoved away by a frustrated Otunga, resulting in Otunga turning heel. R-Truth took exception, confronting and brawling with Otunga backstage. On the March 30 episode of NXT, Otunga won an 8-man over the top rope battle royal against the other NXT Rookies to earn the right to guest host Raw the following week. On the April 5 episode of Raw, Otunga put himself in a tag team match with John Cena for the Unified WWE Tag Team Championship against ShoMiz (The Big Show and The Miz). Later in the match, however, he refused to tag in and walked out, allowing ShoMiz to retain. On May 11, in the second Pros Poll, he was moved to second place. During the season finale on June 1, Otunga came in second place overall in the competition, losing out to Wade Barrett.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.davidotungaapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

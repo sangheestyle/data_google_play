@@ -1,0 +1,249 @@
+{
+  "title": "USB OTG Helper [root]",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=net.shajul.usbotg",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 9, 2013",
+  "version": "6.5.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "727",
+  "rating": "4.173315",
+  "contentRating": "Everyone",
+  "creator": "Ray Of Light",
+  "creatorURL": "https://play.google.com/store/apps/details?id=net.shajul.usbotg",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "â IMPORTANT - Please read the entire description before giving feedback.IF IT DOES NOT WORK ON YOUR DEVICE, PLEASE DO NOT RATEIt is not supposed to work on every device. If it does not work, please report (with log) here -> http://goo.gl/h6JTNâ See list of confirmed working devices: http://usbotghelper.wordpress.com/confirmed-devices/â IMPORTANT - ROOTED devices ONLY!!What is rooting? Read here -> http://en.wikipedia.org/wiki/Android_rootingâ \"USB On-The-Go, often abbreviated USB OTG, is a specification that allows USB devices such as digital audio players or mobile phones to act as a host, allowing other USB devices like a USB flash drive, mouse, or keyboard to be attached to them.\" - WikipediaâFeatures [ Open Menu -> Settings to enable or disable. ]:------------------------------------------------------------------------------------- â¢ Automatically start app on device connect [ See FAQ below ] â¢ Automatic mount [ Donate version ] [ See FAQ ] â¢ Mount and Unmount drive with a single click â¢ Full NTFS support! (FAT, Ext2/3/4 also if kernel supports) â¢ exFAT support! [ See FAQ to enable ] â¢ Notification when drives mounted! â¢ Load modules required automatically (from /system/lib/modules) â¢ Option to enable utf-8 mode (if kernel support) â¢ Automatically open the mounted drive [ Donate version ] [ See FAQ ] â¢ Media scanner triggered on mount [Active media scan in Donate version] â¢ One click debugging [ Donate version ] [ See FAQ below ] â¢ No Ads!âWhat phones are supported?---------------------------------------------â Confirmed: http://usbotghelper.wordpress.com/confirmed-devices/Any phone in which kernel supports USB Mass storage (stock OR custom kernels OR with appropriate kernel modules)If it works on your device, or you know of kernels or modules please give the details here -> http://goo.gl/h4xGlâ List of modules and kernels can be found here -> http://goo.gl/NXVELPlease note that this app is an \"Helper\" app.. it will not magically make your kernel support USB Mass storage!âWhat are the requirements?------------------------------------------- â¢ root (su binary) â¢ supporting kernel / kernel modules â¢ USB OTG cable ( or direct card reader, see this kickstarter project and support them -> http://goo.gl/LPPrB )âWARNING-------------------â I will not be held responsible for any damage to your device. Do not use for a long time, u may risk burning the device chip/motherboard due to the voltage supply in host mode.âFAQ ----------See -> http://usbotghelper.wordpress.com/faq/âTrouble-shooting!:---------------------------If still not working, send me debugging data (one-click for donate version) If still something does not work, mail me. I cannot reply to feedback!âContact--------------email    : shardulseth {at} aol .comwebsite : http://usbotghelper.wordpress.comxda Â  Â    : http://tinyurl.com/otg-xdaâTranslation credits-----------------------------[ Translate to your language -> http://tinyurl.com/otg-translate ]Greek - Nianios RomanosRussian - Igor NedoboyUkranian - Alexandr Tobolin (Toz1k)Hungarian (Magyar) - Varga Zsigmond (Sigismund)Italian - walpisGerman - Patrick OberdorfSEO: usbotg, usb , otg, mass storage, mount, drive, NTFS, ntfs-3g,  usb host, stickmount, shardul,",
+    "reviews": [
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1368242934879",
+        "starRating": "5",
+        "title": "Perfect!",
+        "comment": "Someone posted that larger drives are not recognised. He most likely needs to have powered HUB . This has nothing to do with this app. I have connected USB hub for my Android TV HDMI stick and tested whatever I had. USB flash drives from 4GB to 64GB all working. Micro SD cards 16GB and 32GB mounted per microSD to USB adapter - both working. Old laptop HD, some 100+GB per USB enclosure also works. WiFi USB wireless keyboard & mouse mounted as well. No more Microsoft OS pain for me! I am free, free at last :)",
+        "commentId": "gp:AOqpTOHwfQIlaZCdf8T3Zt5io8TIZTSdJJd6kNUBrPeIs8ocCk3XqgzmpwzBThoCzX1Avork5g6a9UL_I3Rm",
+        "author": "Pete Lazic",
+        "authorURL": "http://lh5.googleusercontent.com/-pingdASctHA/AAAAAAAAAAI/AAAAAAAAhFk/P26eNYcyRa8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-pingdASctHA/AAAAAAAAAAI/AAAAAAAAhFk/P26eNYcyRa8/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1371725670840",
+        "starRating": "5",
+        "title": "Excellent.",
+        "comment": "Nexus 10, 4.2.2. Recognises memory sticks and (powered) USB drives that other apps don\\'t.",
+        "commentId": "gp:AOqpTOGu-1UU44oodaTlxikXvTbguXyXVsslPq2P1q-zmx2LdmVA4yL-t2N8IFQsI8vgs1RrTclCwfQNZbWw",
+        "author": "Luk Udav",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1378174500145",
+        "starRating": "5",
+        "title": "Finally!",
+        "comment": "I can finally use my 3TB NTFS HD with my rooted Acer Iconia a500.  Works like a charm - after pressing the Mount button, I was able to access it with File Manager HD without a hitch.",
+        "commentId": "gp:AOqpTOHWw60g6_jsdRbtE2Ohh9sm_DpdUn9RvUD5odRzET-ZZWR1uls44My25glvb6NtwHmaVRYBc8MQ0uRR",
+        "author": "Tom Woods",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1371307970518",
+        "starRating": "5",
+        "title": "galaxy s3..",
+        "comment": "very good app...now i can put my 1tb western digital portable hdd in my phone...",
+        "commentId": "gp:AOqpTOFcWR0NBgwj-u5DmDxuhi461UtHCA8tEvZ3B4SOUnFrIA_MFIKZ0rJyhgJFgpjA-VFvzVANYyJvjlsR",
+        "author": "jed abuyo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1374354010120",
+        "starRating": "4",
+        "title": "32 GB Flash Drives",
+        "comment": "Can you please make this compatible with 32 GB flash drives please. Works on my 4gb but not anything higher nor my 32gb..so for that I\\'ll give a Four Star..Sorry",
+        "commentId": "gp:AOqpTOGu4crDFqxgOLydLwlK-cR88K0vi47NIAFJTCjCKYTctX2XFr-GoGwQZ8f9Ga_Y16lt3GreGCYzb4YH",
+        "author": "Tobi Tobs",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1374105256098",
+        "starRating": "5",
+        "title": "Works a charm!",
+        "comment": "After a minor bit of set up (removed USB memory stick and inserted it back into OTG cable). My Nexus 7 now picks up USB devices in my file browsers.",
+        "commentId": "gp:AOqpTOH4bTkUBsr62lH_Ja9Ihodf84XbSu3QqCB_qdIPLSGqHx349l0vn2jwQfGuPNzsSJSujvjmorpQVIe9",
+        "author": "Andrew Howell",
+        "authorURL": "http://lh4.googleusercontent.com/-8YkbXocYhnc/AAAAAAAAAAI/AAAAAAAAA4c/kjQ7Y3uRpq0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-8YkbXocYhnc/AAAAAAAAAAI/AAAAAAAAA4c/kjQ7Y3uRpq0/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1366852669459",
+        "starRating": "5",
+        "title": "Works with Razr Maxx HD",
+        "comment": "The catch here, as warned in the app, is that some drives may not be supported due to power issues.  All drives that I tested worked with the exceptions of those larger than 8GB.  Most samples used were OCZ drives of varying capacities.",
+        "commentId": "gp:AOqpTOHWnXwDHhyTO2r6LsDuMjvya56d3RPlrKxml0BmBGZjCk03AOWXnKXllEGAIgmuZCwJowisirz4k7TX",
+        "author": "Brendan Kenny",
+        "authorURL": "http://lh6.googleusercontent.com/-FhrEq7oTVSE/AAAAAAAAAAI/AAAAAAAAASQ/GHGBtaB6FPY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-FhrEq7oTVSE/AAAAAAAAAAI/AAAAAAAAASQ/GHGBtaB6FPY/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1371272223804",
+        "starRating": "5",
+        "title": "really?? 1TB portable !!!!",
+        "comment": "hahaaa..does more than what it says... i have connected my 500GB portable with by external powering up and i just amazed and it was totally working and reading and writing speed was same as with the pc. then i connected a 1TB portable in the same way..and guess what!!! it works!!!! it was totally working with the same speed.wow NTFS mounting is totally worth. hi5 developers..keep up good work and keep updating this.  thanks",
+        "commentId": "gp:AOqpTOHei-vFlfBcm3goTV9tdW30Q_koKE3eMLadMgRlaW8kK3fnwc3S8lEUK7yt6VedSxQwOUQ9GxYKy8ap",
+        "author": "Janath Sachinthaka",
+        "authorURL": "http://lh3.googleusercontent.com/-1oVstrUMMis/AAAAAAAAAAI/AAAAAAAAAPc/EHd5Gc7cA9w/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-1oVstrUMMis/AAAAAAAAAAI/AAAAAAAAAPc/EHd5Gc7cA9w/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1360349325655",
+        "starRating": "5",
+        "title": "It works brilliantly",
+        "comment": "Simple app that does exactly what it is supposed to do. It works every time on my rooted Xoom. I would like to donate but think $2.85 is a bit much for such simple functionality.",
+        "commentId": "gp:AOqpTOHzuZ2QEVt92NxM2Ic9rmfNLIhA2uSakzZhscEXQv221h2WAnGVeGsCmWTstm4EgwCXaS-mvoTQueop",
+        "author": "Max Perry",
+        "authorURL": "http://lh4.googleusercontent.com/-jrITHHmQrbM/AAAAAAAAAAI/AAAAAAAABA8/N2nN6_u20pw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-jrITHHmQrbM/AAAAAAAAAAI/AAAAAAAABA8/N2nN6_u20pw/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1368643290071",
+        "starRating": "5",
+        "title": "A must have!",
+        "comment": "Very good app, like it, now I can watch movies and etc from my flash drive (:",
+        "commentId": "gp:AOqpTOFFD7TobHXhcZhQ8yuEHdK1Gi7FIyysRpS3bJWd6sWwDJiDEqXKKLXJFODhF_Mb_8vHOyVlJsv1sY6W",
+        "author": "Dima Simonishvili",
+        "authorURL": "http://lh4.googleusercontent.com/-m8Xx6RxYsAc/AAAAAAAAAAI/AAAAAAAAAT0/fzWj9L9ea_4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-m8Xx6RxYsAc/AAAAAAAAAAI/AAAAAAAAAT0/fzWj9L9ea_4/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1377296137557",
+        "starRating": "2",
+        "title": "Samsung galaxy S4",
+        "comment": "I see people with Samsung Galaxy s2, s3 and s4 saying that it works. But it\\'s not working on my Galaxy s4. I don\\'t know why. Can anybody help me?",
+        "commentId": "gp:AOqpTOGDQiqNqyV1xiSPAVUIDaINdCej3Q3JC8-NPhg3Fmim7MDr6ow4IWWB9zOyLWkNnW_FmBr5Fmqgo5DG",
+        "author": "gmalzo10",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1366160681535",
+        "starRating": "5",
+        "title": "You saved me",
+        "comment": "Bought a cheap HDMI Android TV stick CX1-V1. Had to root it and only your app could mount USB mass storage stick. Tried other apps no luck. Great job. Thanks",
+        "commentId": "gp:AOqpTOFarp0iC-YUkgIyrtu1rH2g3aJNIbMBih790QFakNxDg2AVzGr1SPRnmBXHBjvkoNraBsam6rUCbJay",
+        "author": "Giedrius Sarka",
+        "authorURL": "http://lh3.googleusercontent.com/-pQq438WWmrE/AAAAAAAAAAI/AAAAAAAABgw/25zHsIJDhM8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-pQq438WWmrE/AAAAAAAAAAI/AAAAAAAABgw/25zHsIJDhM8/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1366323037477",
+        "starRating": "5",
+        "comment": "Great app. I decided to give this a go, glad I did reads and writes to my flash drive from my Nexus 7. Thank you",
+        "commentId": "gp:AOqpTOGYRAQMF9nlQ35pX6rqL9x1MQ05J6KtHkXVzjM4qgSmL1BXQn9L06BqOwE4RM7IlTLcXdiMlBeQgzBy",
+        "author": "Jay Ceravolo",
+        "authorURL": "http://lh4.googleusercontent.com/--BxWE1LuE4E/AAAAAAAAAAI/AAAAAAAAAME/3DDvJqdGanc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/--BxWE1LuE4E/AAAAAAAAAAI/AAAAAAAAAME/3DDvJqdGanc/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1373297388539",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "Have just tried on my Galaxy S4 (adam kernel and stock rom) and it works. Great job done ;)) 5 Star rated",
+        "commentId": "gp:AOqpTOEOSgEScoifDaWHK1abYehA58e3KKNSCMZW7pAn5uBtTm7CbIYjYBiCQjit09nVT20y_YY4vooHkc0S",
+        "author": "Metin Yeltin",
+        "authorURL": "http://lh5.googleusercontent.com/-pg5DWNFNJ4E/AAAAAAAAAAI/AAAAAAAAAQo/4Y-DR9s5Z8Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-pg5DWNFNJ4E/AAAAAAAAAAI/AAAAAAAAAQo/4Y-DR9s5Z8Q/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1370428140199",
+        "starRating": "4",
+        "title": "Works alright.",
+        "comment": "This is useful, but it sometimes unmounts my storage for no reason.",
+        "commentId": "gp:AOqpTOGx8Q7OWYcPBFZcqVLYVOkSHhXOA3GMeVsUUFNsbzF-o6k6HL83kOwUF2laSv9d8Wvma2FO4Z8JWkLz",
+        "author": "Joseph Lewis",
+        "authorURL": "http://lh4.googleusercontent.com/-q7a03YsZEMM/AAAAAAAAAAI/AAAAAAAAACw/t5ApzuJA658/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-q7a03YsZEMM/AAAAAAAAAAI/AAAAAAAAACw/t5ApzuJA658/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1372617896179",
+        "starRating": "5",
+        "title": "Exactly what I wanted",
+        "comment": "I have created multiple partitions on my flash drive and one partition was using ext4 to use it with my desktop. Android was only mounting only the first partition. After using this app, I was able to mount other partitions too.",
+        "commentId": "gp:AOqpTOF0wyDMtfHXXDxrb51QrTRby9hFjnkqrjszPDvmehn-mErvQGxlJCoaG9GND5PaZ5T4VI6W2lltbQ9h",
+        "author": "Jignesh Gangani",
+        "authorURL": "http://lh6.googleusercontent.com/-0XvPusFBwds/AAAAAAAAAAI/AAAAAAAAAAA/dprehiHw7JI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0XvPusFBwds/AAAAAAAAAAI/AAAAAAAAAAA/dprehiHw7JI/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1362279232731",
+        "starRating": "5",
+        "title": "Saved my time  and  wallet",
+        "comment": "I ordered an otg cable and a 16gb kingston flash drive and tried mounting it on my kindle fire using stickmount. It recognized the device but didn\\'t mount it both automatically and manually. Dev said 99% of the time its the cable that has the problem so I was set on ordering another one that same day. After I made the order, I digged around for an alternative app and landed on this one. I didn\\'t keep my hopes up, but to my surprise it recognized it and mounted it! I\\'m thinking of getting the pro version when I get extra cash for the automated mounting but hey its not really hassle to manually mount/unmount it. And yes, this post is quite long but I did it to make a point to check out this app before ordering another otg cable if it didn\\'t work with stickmount.",
+        "commentId": "gp:AOqpTOF7XpeKXLv0O5ROyzR5k9c7Es-R67GxI45gyAfNEVb0QOonT91DYS-X7Lnbw1m2l5fPenG-PP36nAc_",
+        "author": "Justin Noel Alesna",
+        "authorURL": "http://lh3.googleusercontent.com/-SBpb8FbGm5E/AAAAAAAAAAI/AAAAAAAAACg/Zel1IWrmBPY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-SBpb8FbGm5E/AAAAAAAAAAI/AAAAAAAAACg/Zel1IWrmBPY/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1375368377419",
+        "starRating": "2",
+        "title": "N0t working in samsung galaxy grand",
+        "comment": "If any1 hav solution pls tell me....its saying no device found when I click on mount after connecting 4gb pen drive",
+        "commentId": "gp:AOqpTOF0An6QN9AaJGeTQ2wR2OLXjcezOtdUWwp_UojbiQIw2iZWrbFImZopa-iv1nNMpwOmZlD2mkObI2Mr",
+        "author": "tushar tripathi",
+        "authorURL": "http://lh5.googleusercontent.com/-HFVhkfw00co/AAAAAAAAAAI/AAAAAAAAAEw/ZNTYfFevfKE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-HFVhkfw00co/AAAAAAAAAAI/AAAAAAAAAEw/ZNTYfFevfKE/photo.jpg"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1363289959049",
+        "starRating": "5",
+        "title": "Better than Stickmount",
+        "comment": "On my Nexus 7, Stickmount won\\'t work with anything but FAT; this works fine with ext* and has other nice features too.",
+        "commentId": "gp:AOqpTOF11SvU-HDOc65A1pEl6jTbn7LM3Uw3dMgZfY0FZvMt6UTVTEuJT4AuDu4-cVxeH57huFtrydYSQD1c",
+        "author": "David Eddyshaw",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.5.1",
+        "timestampMsec": "1377842121206",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Thank you developer I have no word to thank you. Simply awesome.",
+        "commentId": "gp:AOqpTOGjZS8dfJPkLiQGHyRqFUSQkE-xRX6lHWzgfd_8jnGVoxDbTPzkDDN_RHscm5cCSQa8hTBG3bI4EZdO",
+        "author": "Muhammad Zubair ALi",
+        "authorURL": "http://lh4.googleusercontent.com/-Q9ykEcGIxvM/AAAAAAAAAAI/AAAAAAAACaM/Ho-iQ5y9KQ8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Q9ykEcGIxvM/AAAAAAAAAAI/AAAAAAAACaM/Ho-iQ5y9KQ8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

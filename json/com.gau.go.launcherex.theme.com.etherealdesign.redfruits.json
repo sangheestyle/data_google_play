@@ -1,0 +1,57 @@
+{
+  "title": "Red Fruit Theme GO Launcher",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gau.go.launcherex.theme.com.etherealdesign.redfruits",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Ethereal Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gau.go.launcherex.theme.com.etherealdesign.redfruits",
+  "extendedInfo": {
+    "installSize": "3.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Red Fruit Theme needs GO Launcher EX to be installed on your phone. It's a free launcher application available here on Google Play.If the theme does not show up in the theme gallery, please contact us at etherealdesignde@gmail.com.It is recommended to use big icons. You can apply them by selecting Menu>Preferences>Visual settings>Icons>Icon size>Recommended size(big)The theme contains all wallpapers in two resolutions since GO Launcher EX does not resize a high resolution wallpaper to small screens. Therefore one is 960x800 and other one is 1440x1280. The latter is indicated as \"HD\" in the wallpaper selection.[Theme Description]Red Fruit Theme for GO Launcher EX is a vibrant red fruity theme filled with stunning wallpapers of strawberries, raspberries, ribes and melons.[How to apply the theme]1. Either open the app right after the installation2. Or select Menu>Themes>Installed>Red Fruit Theme>Apply[The theme contains the following]-6 stunning red fruity wallpapers-26 delicious red app icons:    adobe reader    alarm clock plus    astro    compass    dolphin hd    dolphin mini    dropbox    es file explorer    evernote    facebook    facebook messenger    gtasks    kakaotalk    kik    last.fm    layar    opera    opera mini    pulse    quickpic    skype    stopwatch & timer    twitter    whatsapp    winamp    zedge-29 delicious red common icons:    browser    calculator    calendar    camera    clock    contacts    dialer    downloads    email    file manager    fm radio    gallery    gmail    google maps    google reader    google search    google translate    google goggles    google drive    gtalk    play store    messaging    music    navigation    places    settings    sound recorder    video player    youtube[Tips]-If you like the theme, make sure to check out the other color variations-The clock widget on the preview image is SiMi Clock Widget.-If you want a soft shadow on the icon labels instead of the default near-opaque box go to Menu>Preferences>Screen settings>App icon labels and select \"Show labels\" instead of \"Show with background\".-You can change the look of any icon (including the app drawer icon) by long-pressing the icon and selecting \"replace\". (this only works on the home screen)Feel free to contact us at etherealdesignde@gmail.com.",
+    "reviews": [
+      {
+        "timestampMsec": "1377654568459",
+        "starRating": "5",
+        "title": "Like",
+        "comment": "There u go 5 stars",
+        "commentId": "gp:AOqpTOGt9tCbA9-KzHyNaFkRA0IOkqU5SSG-c7ICcjCTDF9VH2VscBtsIUC4mhHY7xBzPMCJ737EdGQOTNqt-g",
+        "author": "Melody Coleman",
+        "authorURL": "http://lh5.googleusercontent.com/-_dE2JSMpJLg/AAAAAAAAAAI/AAAAAAAAAaY/bUbVpactxhc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_dE2JSMpJLg/AAAAAAAAAAI/AAAAAAAAAaY/bUbVpactxhc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372699893188",
+        "starRating": "5",
+        "comment": "Excellent",
+        "commentId": "lg:AOqpTOFCEnXDqf4p2FEHZ--AEcxPnnelBXSYOZjrpAQxEDdjgdM_CFlZblmxMWUJ4UPqv0yGhhjZcl4TKt_phg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372381259041",
+        "starRating": "5",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOHbpQdD71Y_TAVAizhflLf14mvMdaKdw2WwVsMmrev5KOh7qg9llyvmwZAkukEkTuOCQNIJrEG5-XNpZg",
+        "author": "patricia sweeden",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

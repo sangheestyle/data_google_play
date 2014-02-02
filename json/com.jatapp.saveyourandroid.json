@@ -1,0 +1,49 @@
+{
+  "title": "ESCAPE FROM BOMB COUNTDOWN",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jatapp.saveyourandroid",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "15",
+  "rating": "3.8666666",
+  "contentRating": "Everyone",
+  "creator": "STARK SOFT, INC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jatapp.saveyourandroid",
+  "extendedInfo": {
+    "installSize": "9.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Some mercenaries have captured Andy the Android robot.You have to arm yourself with courage and help Andy escaping. Your problem here is that there is a bomb you have to defuse, only 3 numbers can do and it is your duty to discover them.Wrong is not an option. Youâll see how time increases its speed and finally a Nuclear Explosion.Save your Android is a game where you have to defuse a bomb that has a countdown clock.You have a keyboard with 10 buttons and you have to find out what are the 3 numbers that will deactivate the bomb.This game is ideal for those who lose control and want to overcome the fear of working under pressure.About the numbers off the bomb:In many cases you will have a sequence may determine after you discover the first number.In other cases your cell will place the next number that disables the bomb in the area more visible to you.You must be very careful and trust your instinct for what is the next number.About the lives:You start with 3 lives.Each number discovered that disables the bomb grant you a number of points.After the first 400 points you receive one life.After every 200 points onwards will continue to receive more lives. \"Believe me that these lives will be very useful for levels 5 and 6 and 7\".About the opportunities:You may be wrong as often as you can only at Level 1.From Level 2 and more, you will need to ensure no mistakes are made.You will have an indicator that will tell you how many times you can go wrong for each level.Err not only can make the bomb explode, you can also get to accelerate clock's time increasing the pressure on you and finally \"nuclear explosion\".",
+    "reviews": [
+      {
+        "timestampMsec": "1369341890665",
+        "starRating": "5",
+        "title": "Excelente",
+        "comment": "Muy buena aplicaci\\303\\263n para aquellos que gustan de la adrenalina",
+        "commentId": "gp:AOqpTOHkkTT9w1rKOgRdgOtiRz7VD6uDDWwov3COPSNfKL_aKGhRHA9Vv-Bweu5l3jW-8YnGJPyJmuYKt38oZw",
+        "author": "Sol Nieves",
+        "authorURL": "http://lh3.googleusercontent.com/-txppbk8eW2c/AAAAAAAAAAI/AAAAAAAAAE4/pmxQOAG4xyY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-txppbk8eW2c/AAAAAAAAAAI/AAAAAAAAAE4/pmxQOAG4xyY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369341494500",
+        "starRating": "5",
+        "title": "El mejor juego.",
+        "comment": "Me gusta la intensidad que pone el juego con el tiempo cuando se acelera. Good.",
+        "commentId": "gp:AOqpTOH3LZP_blESeSzymrKg2qglozPrCViW6NffXv4BUAMMlb8A5wcyKgKhFaFQh74a5InYTNyHcv_EFHj1PA",
+        "author": "Stainley Lebron",
+        "authorURL": "http://lh6.googleusercontent.com/-UOHnm0bNdIc/AAAAAAAAAAI/AAAAAAAAAaw/C_IWFDG7DM4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-UOHnm0bNdIc/AAAAAAAAAAI/AAAAAAAAAaw/C_IWFDG7DM4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

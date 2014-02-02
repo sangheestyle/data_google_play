@@ -1,0 +1,161 @@
+{
+  "title": "Glacier Bank Mobile Banking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.GlacierBank",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "July 1, 2013",
+  "version": "v2.0.4a1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "17",
+  "rating": "3.235294",
+  "contentRating": "Low Maturity",
+  "creator": "Glacier Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.GlacierBank",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "To access mobile banking you must be a Glacier Bank Online Banking customer. To sign up for Online Banking and receive access to mobile banking using your mobile device, customers can enroll by visiting the banks website and using the APPLY NOW drop down.  Sign up for mobile banking through your new Online Banking account.  Click on the Options tab, click the mobile settings tab and activate mobile banking access.  Then, begin browsing on your phone using the app just installed.  Our mobile banking is a solution that enables bank customers to use their Android to initiate routine transactions and conduct research anytime, from anywhere.  Customers can view account balances and transaction history, view account alerts, initiate account transfers and pay bills. Glacier Bank Mobile Banking supports all account types including checking, savings, money market, certificates of deposit, loans and line of credit.Glacier Bank Mobile Banking is a FREE* service that allows you to access your account anytime, from anywhere, using your Android.*There is no fee from Glacier Bank.  Connectivity and usage rates may apply.  Contact your wireless service provider for more details.Glacier Bank - Member FDIC",
+    "reviews": [
+      {
+        "documentVersion": "2.0.4",
+        "timestampMsec": "1372719439724",
+        "starRating": "1",
+        "title": "Doesn\\'t let me log in",
+        "comment": "I have to uninstall, install to sign on once, but now I can\\'t even do that. Needs so serious fixes",
+        "commentId": "gp:AOqpTOF9Pw_xqb1GaYhbCtiHno8z_3q8SQQw53jVOokMLQmKtb-QYBQR49jS1drCXEBq1YMMnYqtBxIknai3Cnk",
+        "author": "Amber Granzow",
+        "authorURL": "http://lh3.googleusercontent.com/-Wxzkr0WBeRw/AAAAAAAAAAI/AAAAAAAAAB8/SAFZAlXDXzU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Wxzkr0WBeRw/AAAAAAAAAAI/AAAAAAAAAB8/SAFZAlXDXzU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.4",
+        "timestampMsec": "1372729327753",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "The latest update no longer allows me to get to the password screen. A question to the app developers- did you even THINK to test this before releasing it?",
+        "commentId": "gp:AOqpTOFtNlIZ_XsQIE_Ss2XimRzkG0SvBORgZSBt8eUHOoz2gbx1qS36tS7McywUEahbsQFb57SMvVQzGXphl8Q",
+        "author": "Michael Tucker",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.4",
+        "timestampMsec": "1372768636019",
+        "starRating": "1",
+        "title": "Update terrible",
+        "comment": "Cannot even access password screen since update.  By the way, what\\'s with the obnoxious \\\"you are now signed out\\\" pop-ups on the browser version of the website?",
+        "commentId": "gp:AOqpTOHN-w8HwUN3DHjZSVe4zJ3FwWaqPpdCIypjtZbwtXiqzmnhSqRTqclUJrnAwFXsTPVqLLJMRqjv2MNPYiw",
+        "author": "Roger Crowell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1345723535478",
+        "starRating": "2",
+        "title": "Can\\'t clearly see difference between transactions and deposits",
+        "comment": "Giving 2 stars, cause you can\\'t tell clearly when there is a deposit or transaction. My account was in the hole and my balance never even had a negative in front if it....the web page is easier! Unless they fix it so its clearer!",
+        "commentId": "lg:AOqpTOFqqTvYLpNhyqzBuux5SMPBuD4pmM4LZv3m3KtbFVmDdL_FrYGeBmBpqWFc1EwW-ctR49X0QQIFOa55GNc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1358373858145",
+        "starRating": "5",
+        "title": "Important",
+        "comment": "It\\'s very important to know you must go to your online banking account and in options click on mobile settings and submit after entering the needed info.",
+        "commentId": "gp:AOqpTOEG17wggUj2VIZd9mwuTSxfsd7iwVBv4cnP6eFaRPFt5w7a2rB7kr70hxvbMtHjzZcdzsmgiEsKWf30s-c",
+        "author": "Kacie Mcclanahan",
+        "authorURL": "http://lh5.googleusercontent.com/-CW7eVei8nc0/AAAAAAAAAAI/AAAAAAAAADw/V3pePmhbFQo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-CW7eVei8nc0/AAAAAAAAAAI/AAAAAAAAADw/V3pePmhbFQo/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1357362292858",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Works as it should as long as u activate mobile banking through online banking.",
+        "commentId": "gp:AOqpTOHXpMgYzVFCl54XwmIeEta7mmQskZ509qfQxfhRJ4d1T3YB0tU5K7lTLtHO0KN32dwzwVRdnP13IG6s_l0",
+        "author": "Brandon Hedge",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1351010901950",
+        "starRating": "1",
+        "title": "Worthless",
+        "comment": "Won\\'t let me log in, but I can use website just fine.",
+        "commentId": "lg:AOqpTOHBhwq1gQDBLp9zFx0xQ2XjRKhX-HWSAsUDbza2wpiNELEzmGPiQgvt1uS1LkkATV98xZ8S0_KaycOWszo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1344534891772",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Very easy to use",
+        "commentId": "lg:AOqpTOGDMkWbadgX3KTMo0BIHdS-wk6UBBEyn5Gqk6tb9cdX5I156XtCScTUY1XhbTofWJ-jYGk4gyRkF3WdjUc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354853463615",
+        "starRating": "4",
+        "comment": "Most users don\\'t know, u must go to online banking first then 2 options mobile banking & enter a phone# in order for use of the app.",
+        "commentId": "lg:AOqpTOEArBsO4LGNQzvlojvpO_X3J3QYC69CxEx8LO8JyLwYe_11b6nbiGpH0n-RwujYFTt9MI8rBHrJyf0nlVs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350780746367",
+        "starRating": "1",
+        "title": "Not the best",
+        "comment": "I am signed up for online banking. And have been for a long time. But when I tried logging in on this app, it told me it was an inactive account. Easier to keep using the browser.",
+        "commentId": "lg:AOqpTOEW2qKa3Nu0U5UbOELv-rSDhbLxUillVKHuyaC0RG-rP4t6S7VSWKds_pFrCXzjryKm0R4zWDBqJlCeIs4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348418757905",
+        "starRating": "5",
+        "title": "Easy in the go!",
+        "comment": "Love it! Its easy and I\\'m always on the go;)",
+        "commentId": "lg:AOqpTOECzeWIJvTKk8cn0HkDJp8ScKJh1X1i2bYYNTajlqVNsY8I7t9JX-4IWEWbRAM-EnHr-0-1mO__untJ0_s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349487816602",
+        "starRating": "5",
+        "title": "It works.",
+        "comment": "Very useful.",
+        "commentId": "lg:AOqpTOEZ5zTBnYLgBwePW7NOHiJI4Rr2fWstlKjBT6dSrXjZlnEdLYoX9jDv2V6SUGAnQIcUb4BeDVDpQ0iZjow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353366103337",
+        "starRating": "1",
+        "title": "Doesn\\'t work!!!",
+        "comment": "Will not allow me to log in and indicates the account is not active???",
+        "commentId": "lg:AOqpTOGjCzLmQoAp9cbdTkus6mjYy9CZ5c1RZZPlvOQHeZ7koL2o6gFz3U_BXpCWV2Sh3TCWU6TMH0MMLKvNZp0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

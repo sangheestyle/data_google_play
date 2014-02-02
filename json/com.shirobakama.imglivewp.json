@@ -1,0 +1,244 @@
+{
+  "title": "Image 2 Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shirobakama.imglivewp",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 10, 2013",
+  "version": "1.1.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "582",
+  "rating": "4.410653",
+  "contentRating": "Everyone",
+  "creator": "shirobakama724",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shirobakama.imglivewp",
+  "extendedInfo": {
+    "installSize": "268k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This application set an image of any size to wallpaper easily, without cropping and borders. The whole image will be displayed with a scrolling. Also supports automatic wallpaper changing feature.* This is a live wallpaper app, so please set as a live wallpaper with following instructions.FEATURES:- Both phone and tablet are supported.- Can set different images for portrait and landscape, and for the lock screen.- Resize an image to fit a screen automatically.- Display whole image horizontally with a scrolling of the home screen. No border, no cropping.- Select scrolling or no-scrolling.- [NEW] Change wallpaper automatically with a double tap, a timer or locking/rotation. An image is selected from images in a specified directory.HOW TO USE:1. The live wallpaper selection screen can be opened from a main screen of this app.  Or, you can open the selection screen from the menu of the home screen. In the menu, select \"Settings\"-\"Wallpaper\"-\"Live wallpapers.\" (Menu items depend on your device. You can also open the menu by long-press a blank area in the home screen.)2. Select \"Image 2 Live Wallpaper\". Preview screen will be opened.3. Select \"Settings...\", a preference screen will be opened. \"Select an image\" can select an image from the gallery.4. Press \"BACK\" button to return to Preview. If the settings are ok, select \"Set wallpaper\". After a while, a wallpaper will be displayed in the home screen.DIFFERENCE FROM A NORMAL WALLPAPER:- A width of the image is not limited to a twice of the screen width. If an image is wider, a scrolling amount is more. In the same way, a narrower image has lesser amount.- This application is Live Wallpaper. Therefore the memory and battery consumptions are larger from a normal wallpaper.TIPS:- In automatic changer, you have to create a images directory. You can create it by connecting with PC or by a file manager app (like ES File Explorer).- If out of memory error is occured, please check \"16 bit color depth\" and/or \"Low-reso work image\" options. Furthermore, check off \"Another image in lock screen\". If not solved, please use a smaller picture.- When \"16 bit color depth\" is off, an image quality is better, but a memory consumption becomes larger (and a scrolling will be laggy in some devices.)- If this app is crashed or an image is corrupted, please check off \"Use OpenGL\" option. For a change to take effect, set another wallpaper once and set this live wallpaper again .- You can specify a range of scrolling in the home screen in preferences. For example, if you have 5 pages in the home, you can limit a scrolling from page 2 to page 4 only.DISCLAIMERS:- This app is provided \"as is\" and I can not be held responsible for any damage caused when or by using this app.- No wallpapers included.- Rotation, cropping and effect features are not included. Please use other applications.Recent Galaxy and HTC (and some other devices) users:In these devices, the default home app (TouchWiz UX, Sense 3.0 and later) does not support wallpaper scrolling feature. You can use another home app for scrolling.Recent Xperia users (Android 4.0/ICS):If you specify a lock screen wallpaper in the device's setting, that wallpaper is displayed. To reset this, open the device's setting, display->theme, and select one of the themes. After that, please set this app to live wallpaper again.Recent Xperia users (Android 4.1/Jelly Bean):A live wallpaper can't be displayed in a lock screen normally. To show a live wallpaper, open the device's setting, Security -> Screen lock, and select other than \"None\" or \"Swipe\".Galaxy S2 users:In this device, a live wallpaper isn't displayed in a lock screen. A static wallpaper is always displayed. So lock screen settings in this app aren't effective.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1376517721733",
+        "starRating": "4",
+        "title": "Absolutely brilliant",
+        "comment": "There\\'s only one feature I\\'m looking for. User should be able to crop the image and set it as a static wall paper (no scrolling). Please please please include this in your update.",
+        "commentId": "gp:AOqpTOF7P6mwGBU97KOvZLXXS34RlJKhFx0cyo7MZ3I6YsCv7rWwCMBNcjiA2lkzNavHTWD-qCS2bj_MUBVmMQ",
+        "author": "Irfan Hussain",
+        "authorURL": "http://lh3.googleusercontent.com/-BMkBfU33MiE/AAAAAAAAAAI/AAAAAAAAAnY/dJhDosz1gkY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-BMkBfU33MiE/AAAAAAAAAAI/AAAAAAAAAnY/dJhDosz1gkY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1371399985512",
+        "starRating": "4",
+        "title": "4.5 stars",
+        "comment": "Wldv givn 5 if u could select multiple folders, I used a file manger to transfer the pics I wanted. Reeeely good app.",
+        "commentId": "gp:AOqpTOHZbgqo1qkSz-0stPNZWUvLK0ldFuiR7LFTBjmADzRb1rFCIbi88ScIBLdA-M6a5TKLlp70Cg5kfaywwA",
+        "author": "Valentine Okpere",
+        "authorURL": "http://lh4.googleusercontent.com/-xx2mEhpoMfU/AAAAAAAAAAI/AAAAAAAAABQ/h5cK0pIpgdk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-xx2mEhpoMfU/AAAAAAAAAAI/AAAAAAAAABQ/h5cK0pIpgdk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1372458927372",
+        "starRating": "5",
+        "title": "In my top five favorite apps",
+        "comment": "I am a photo fanatic and on my windows desktop rotate randomly through thousands of pictures that scale to my screen resolution. This is the only app I have found that can do it on Android on a rotation schedule without lag, pixelating or cropping the original. Its scaling is superb. Awesome from a graphics and mechanical standpoint.  It could use some features to be perfect: share photo by email or whatever, toggle filename info so file can be managed, add more than one folder for monitoring. I would gladly pay for a \\\"pro\\\" version.  Thanks very much. Couldn\\'t live without it.",
+        "commentId": "gp:AOqpTOE9lmSqpsPqV9sAewb3ZWRx7Jj3QgfAZgouTMQj-GKZhUKyNmjubIIH3zXBhd0gnK69BuX-iTjf7HG_jQ",
+        "author": "Ron Ross",
+        "authorURL": "http://lh5.googleusercontent.com/-fxQxeSM4WgU/AAAAAAAAAAI/AAAAAAAAAT8/btLiaGG8pmQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-fxQxeSM4WgU/AAAAAAAAAAI/AAAAAAAAAT8/btLiaGG8pmQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377493494601",
+        "starRating": "5",
+        "title": "Finally found what I was looking for!",
+        "comment": "I wanted a simple slideshow LWP from a directory, something that scrolls the images and shows the entire image. This app does this perfectly. Just a request: can you perhaps add transitions between images? Even a simple fade transition will be great :) EDIT: you can also exclude the status bar from the wallpaper! Not many apps do that :D nice bonus.",
+        "commentId": "gp:AOqpTOEtk-XTqFWqEp7nJoqUUf56sEPk3_04X6YDqUVJ3FYJyvGldMiY_GgVIWGquHA8_GJKDDGfJT9IWDD2zg",
+        "author": "Anna Salvina Fontanilla",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1372427221491",
+        "starRating": "4",
+        "title": "Lockscreen Wallpaper",
+        "comment": "Im using the Samsung Galaxy Ace and when i try and set the lockscreen wallpaper the wallpaper lags. When i press my lockscreen button the wallpaper lags then goes back to the regular wallpaper. Disappointment",
+        "commentId": "gp:AOqpTOHJdBFXs41YlbFDnqaFqOH2kslHnSojQBKaseD0lVAAKSQuu2ug3vgIB5ujKscHPzDqDu0hzzr1QuFA8Q",
+        "author": "Sisekelo Bhengu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1373493418347",
+        "starRating": "5",
+        "title": "Very Nice if added with transition effects",
+        "comment": "I\\'m very satisfied with this app. All I would like to suggest is adding Transition Effects on wallpaper changing so that it won\\'t look that much boring. Other than that, great app! :D",
+        "commentId": "gp:AOqpTOHAz247UzwrfgSZv_vlP57jHwR8sH4DpRKHiQLVKRvZAsPWNyeuSxe4YGVgjT0yFe8oM9qkd0sR-UMOvw",
+        "author": "Johned Ni\\303\\261o Balandra",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377076056800",
+        "starRating": "5",
+        "title": "Fantastic",
+        "comment": "If you want an app that fits images to your screen resolution, and  cycles through the folder full of wallpapers you have. This is the app you\\'re looking for",
+        "commentId": "gp:AOqpTOFV3f4xfXezwFIJdl3JmGKgrPow3u2E-aiOX2B_ahAQd8aakm4ukdOjquEssIRnZeQIizBFaBU1nmontg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1376783863967",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "Love the app! There is only one thing I would love for you to change. If you can make it a separate option for the lock and rotation change. If you can make it JUST rotation, or JUST locking the device to make it change the wallpaper. That would be great! Thanks for this app, it solved my problem quick and easy.",
+        "commentId": "gp:AOqpTOFAWl_dMm9K01FDBmy-FpqcNVpZr5f5d6cQ7Ud1cVEQIl9Fr9yUXB_z0Mdyt4QZWOR-_cISYESopyQ-bQ",
+        "author": "Justin Rivera",
+        "authorURL": "http://lh5.googleusercontent.com/-YH2MyWBTv2Q/AAAAAAAAAAI/AAAAAAAAAAA/7Vb09-JFouI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-YH2MyWBTv2Q/AAAAAAAAAAI/AAAAAAAAAAA/7Vb09-JFouI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377033133168",
+        "starRating": "1",
+        "title": "Confusing",
+        "comment": "I have no idea how to make it work. No instructions within the actual app. Too confusing to do the simple thing I downloaded this for.",
+        "commentId": "gp:AOqpTOFK3WtnafJOBMav5dKrV4oPJ3eQg5Aov3Led-viNlGnpnf1w40UHzVXdurdVDsoCxSZ_XjybePgccvzVA",
+        "author": "Rich Paxton",
+        "authorURL": "http://lh6.googleusercontent.com/-t4w68DPzz1M/AAAAAAAAAAI/AAAAAAAAACo/hUMCoBlAZBk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-t4w68DPzz1M/AAAAAAAAAAI/AAAAAAAAACo/hUMCoBlAZBk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1378114170303",
+        "starRating": "5",
+        "title": "good app",
+        "comment": "Please make a cropping function to make it even better",
+        "commentId": "gp:AOqpTOFHlf6NxrwFKmeWCGR376FudeP2HRTmYu8GJXaFAkvCjAbUgd_I1ZJ-7W0R-sEKmumpVwzGIDv3eFMTpA",
+        "author": "wen xuan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377748669365",
+        "starRating": "5",
+        "title": "Mother of pearls",
+        "comment": "It took me ages to work my way through all the terrible wall paper switching apps. Finally I found you, sweet nectar of the gods. My quest is over. Victory is upon ye. Godspeed.",
+        "commentId": "gp:AOqpTOFs3L_Nb06mfpW3Jef2d89aDK-yVFNw-9l6-NYkNDbrRg9G_MZKKGrhxXko82g6KrXMERf1g7nX9grhZg",
+        "author": "Jarrett Williams",
+        "authorURL": "http://lh3.googleusercontent.com/-oF48Ci1Z_LQ/AAAAAAAAAAI/AAAAAAAAACE/DgNz-P6HNbQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oF48Ci1Z_LQ/AAAAAAAAAAI/AAAAAAAAACE/DgNz-P6HNbQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1375221305794",
+        "starRating": "3",
+        "title": "Camara",
+        "comment": "Cool pictures",
+        "commentId": "gp:AOqpTOHx7Al7jhpmzaJ_SE2GD9G-dB4_ohSy4481GDEQQYGlv_Lvoiw-URfPFJQPI8ka3jH49abq_S6yhUmQnw",
+        "author": "William Bridwell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1371417306022",
+        "starRating": "5",
+        "title": "Nexus 7",
+        "comment": "This is a really great app for the Nexus 7. When you set a wallpaper, it does not show the whole thing and you can\\'t choose a wallpaper for your lock screen. With this app, now I can!! Anyone who has a Nexus 7 tablet should definitely get this app! And the best thing is, this app is FREE!!!! I am a very cheap person. I\\'m glad I found this app!!!! :-)",
+        "commentId": "gp:AOqpTOGBmRG9mS_WZq0C7hMLrnxfSitCAizh5-PqWvuLfs2mk3-Hv6VbwNJBWN6xW-kOjV3O-ril7u27VaZbhg",
+        "author": "Amber Phipps",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1378326551135",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Awesome!!!!!",
+        "commentId": "gp:AOqpTOFNygFOQaHwONQgoWeWkElcVjGNC10kGkJuARP0D5g6u2HenlBxu6Tvcdy5CrRbLx6rh70FgTOIe0ZcWw",
+        "author": "Andre FirstNudes",
+        "authorURL": "http://lh3.googleusercontent.com/-Ri2tOOZfScE/AAAAAAAAAAI/AAAAAAAAAE4/B_pzFPgmBv0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Ri2tOOZfScE/AAAAAAAAAAI/AAAAAAAAAE4/B_pzFPgmBv0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1375081517359",
+        "starRating": "3",
+        "comment": "Good one.\\nBut this stupid app took 35% of battery in 50 min..\\nfix it, & I\\'ll give you your 5*.",
+        "commentId": "lg:AOqpTOFxQRDhShnY0GDtkdw0DPcOinJ7hMG2kUq4KkRpacRIqXPfcXRwaUOSO3XZT4SRiBtNjda9ZAQxal0LIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1376606895189",
+        "starRating": "5",
+        "title": "Does what it says",
+        "comment": "Does precisely what it says. Some people complain about missing a crop feature, but since I make all of my walls myself it\\'s no biggie for me.",
+        "commentId": "gp:AOqpTOH4Gkg0PRY6u25qdiU2XlZmTMFO_fgythQ_DzFc-LGABRzBo0ogDdgw_mcHwlfTIVHwZ3HRyYgzQQwOQA",
+        "author": "Marcus Nylander",
+        "authorURL": "http://lh5.googleusercontent.com/-qhyJnKrch4g/AAAAAAAAAAI/AAAAAAAAACE/bCVDDOrQcWQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-qhyJnKrch4g/AAAAAAAAAAI/AAAAAAAAACE/bCVDDOrQcWQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1376932562258",
+        "starRating": "5",
+        "title": "One of my best   .. .",
+        "comment": "Its really very good. Easy 2 use.",
+        "commentId": "gp:AOqpTOH0UwfErLWRXAJUhTq1g63G4G4hO3IvwHzbo9DiLJBB0GRC6XrsahygAJvDHgajA3JRei3wysLGZ3m80A",
+        "author": "Chetan Tuppad",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1374769434433",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Very good & useful application thank you so much..",
+        "commentId": "gp:AOqpTOE-LgQxhjlFcWsmoK74OLo9bDBmQu8Qc1_LbwILE_BTZQ4FQoDYw75og2OjFsWO-YLGs_b2EOPquvo4QQ",
+        "author": "Anoop Kumar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1376856490063",
+        "starRating": "5",
+        "title": "Perfect....",
+        "comment": "The best....",
+        "commentId": "gp:AOqpTOHkQXk4n5RuhDE0Yh-XevpmGR9zuBJygWTorrjcTnnoDvgIPhDYk0s0iGTftpZTOVo_cuFoZymVlZcpvw",
+        "author": "Soumya Kanta Das",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1377675812576",
+        "starRating": "5",
+        "title": "DROID2",
+        "comment": "GREAT APP...",
+        "commentId": "gp:AOqpTOGaRPwZuNEGq2nV1cw_3JGX-FsPAq9xmFaXqC56P-0MPiF5_UUjRcnb7xJJNYL2FaUdKa0hMGSvAqIB3Q",
+        "author": "Vanessa Jean Sahagon",
+        "authorURL": "http://lh5.googleusercontent.com/-8z8gVlC0sHI/AAAAAAAAAAI/AAAAAAAAAEM/3Y1XuRA9UN8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8z8gVlC0sHI/AAAAAAAAAAI/AAAAAAAAAEM/3Y1XuRA9UN8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

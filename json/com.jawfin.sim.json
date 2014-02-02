@@ -1,0 +1,205 @@
+{
+  "title": "Sim",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jawfin.sim",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "October 5, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "77",
+  "rating": "3.6233766",
+  "contentRating": "Low Maturity",
+  "creator": "Jawfin Developments",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jawfin.sim",
+  "extendedInfo": {
+    "installSize": "330k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "A geometric dazzler!This addictive game is a puzzle in motion.  It has simple rules but with a profound variety of outcomes that can require deep analysis.  There are 6 points placed at each corner of a regular hexagon.  Your goal is to draw a colored line between the points but without forming a triangle of your own color.  The smaller triangles that appear from the overlapping lines are irrelevant - it's only the big triangles that form from point to point that you have to be wary of.  Both players alternate moves until a single colored triangle is formed.  In the single player mode you play against the computer.  You can change the level of difficulty so you can select from pure random to expert!As this game incorporates graph theory mathematics and thus can get quite complex.  All told, there are 1307674368000 possible combinations of the 15 lines you have to draw on; but quick observation will realise that this game is highly symmetrical so the tactics that you develop can be reused and honed as you vie for your wins!The game keeps track of your wins and losses.  There are also several modifiable settings to make the game play interesting and the slick interface has you wanting to keep playing until you have beaten the computer at its own game.  Sim is the perfect go-to game to kill those 5 minutes that we always seem to spend waiting for something.Sim was invented by Doctor Gustavus Simmons, now a retired mathematician, a lifetime Fellow of the Institute of Combinatorics and its Applications and he specializes in cryptography.  The game Sim has been subject to analysis by mathematicians due to its simple rules and yet complex developments.",
+    "reviews": [
+      {
+        "timestampMsec": "1361690266030",
+        "starRating": "4",
+        "title": "Interesting and fun",
+        "comment": "It took me a while to figure out a strategy, but once I did, it became a whole lot more fun.  I haven\\'t yet played it on the higher difficulty level, but once I figure out how to beat that,  I\\'m not sure how much fun will be left in the game.",
+        "commentId": "gp:AOqpTOFhDxUbSF4vOGAWDVEyw9T1PtzR08TEvTi8Dn0toqZQj-HAI2gJV7YRwxbINSpKLxwunfimupdCDCwV_A",
+        "author": "Daniel Coore",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349524929294",
+        "starRating": "5",
+        "title": "Seems easy but hardly so",
+        "comment": "Note that you can change the difficulty level if you think it\\'s too easy",
+        "commentId": "lg:AOqpTOHDXMznmO6oFL6Hk_uMBEAvhQuJuDrr919Lt0ZXgH7r3KreyVTma8jLbxi9mFhUp6q5Hxt5Uv0FmuTivw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351369465226",
+        "starRating": "1",
+        "title": "dosent work",
+        "comment": "the comp never moved",
+        "commentId": "lg:AOqpTOFNeB_cbgaqlrksqPm7f_RWAU_hZKWV47vmFYPwEpVPXN2T43ew3IIH-Ly8gIMd7bC29SkJbVUwToZxlQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1319695354544",
+        "starRating": "1",
+        "title": "Boring",
+        "comment": "I set the game on the highest skill level and set player 1 starts. First move is a vertical line on either side and computer gives up without a move.",
+        "commentId": "lg:AOqpTOHrxZL_0FeIW3F8arlOT3tgwmFa9-9CzErrl04HkNtFjxMEcIDfwzMXLdZhLnM2yC0i2JX_8xUtuuPX4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330584089804",
+        "starRating": "5",
+        "title": "Hmm.",
+        "comment": "In all chagrin it was my mistake in creating a high process level thinking game; I\\'ve missed my key demographic. It\\'s become apparent that it\\'s the phones that are smart, no guarantees are made about the users...",
+        "commentId": "lg:AOqpTOFwf8Jyec_6fKhmEafbp37zJH3nzw-YmFOnmN9E4pJ8E5YudQv3FemtJYY_ts5RzEz7c3jvxnZb1s3kLQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343729727990",
+        "starRating": "5",
+        "title": "Challenge",
+        "comment": "I haven\\'t played much but I want To know if its possible To have a tie? I put It on 2 players and tried to make a tie. The closest I got to a tie I was 2 off. That\\'s why I play, I challenge any person Who download this To try To make a tie. If you post a review.",
+        "commentId": "lg:AOqpTOHR_dU8lZMCqE4LSow4li-FETcMXUkL8emkInxHzX4jcEw4NdrRobqGoSOAhG-ymZvWL5FTJoLgF_3kEQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332571171926",
+        "starRating": "4",
+        "title": "Clever concept, would prefer no ads",
+        "comment": "It\\'s like chess or go: not a casual video game. This one takes some mind work to be enjoyed, let alone won. that said, games aren\\'t very long; it\\'s easy to play a brief game and think over the plays. I\\'d just like to see an ad-free version for a price. I think it\\'s well worth it. Download if you want to be challenged mentally.",
+        "commentId": "lg:AOqpTOGr-b0BlW-EE207sm6g5OWVLLBwZVPsXYsWRooCuBBZAaSOcvfF6SA9ZWRH_x1iZQKfJwaN0Fvfzy4rTA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342413785550",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Nice, simple game. Just note \\\"practice\\\" not \\\"practise\\\"",
+        "commentId": "lg:AOqpTOH9B1vdfZFqIsmUlBxR8vjvDTlzce22fhcV-inBC8iOw22oMZxdkYeG7TQAuk9O-7J0DSAttJqiez-iPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1321850194725",
+        "starRating": "5",
+        "comment": "Hahahah \\'mindless\\' difficulty! I love using the random one ;3",
+        "commentId": "lg:AOqpTOHXcViJCKK_PIV-k6JDuHpNCZ9A9QxiFdW3rixEkAb0FxBInEVxU3ZNPngV5EAFmVO-ootNXs0TMDVosQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330724141808",
+        "starRating": "4",
+        "title": "Stupid people",
+        "comment": "People are clearly not smart enought to handle this. Jonathan, you are a talented artist.",
+        "commentId": "lg:AOqpTOGFkU3Vc2Y95K4H2cjASdEsUYhwIHGECh3QybpG6AzKWrhk069XeG8Pizg_2nZcajltlLYNi4m-9j-sAA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329830531938",
+        "starRating": "1",
+        "title": "Sooooo stupid and pooor",
+        "comment": "Stupid",
+        "commentId": "lg:AOqpTOFNq6UoFtzYAxzXcohNynzPnnVMD8x0LD4IIPPZS-nio3WjuSsFB5DaFdUkgKRP4HelL6Qs8jtp2htvaA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310515789263",
+        "starRating": "3",
+        "comment": "I cnt win even on the easy setting :((",
+        "commentId": "lg:AOqpTOFln4HacouuUB1TZktiAZs2AFnoWYeTrHRa6-4HF0SVszKoWVob2-xMRAaK8n8biO9Asxha-ewZakfD_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333843900975",
+        "starRating": "4",
+        "title": "Very easy.",
+        "comment": "Not much to the game. Easy no matter what difficulty. Assuming it was made for little kids.",
+        "commentId": "lg:AOqpTOEHkzMGQbNn3wr0P90tAzcgz9SOSC0Sox77CKFEjMtGsY4qX1spRM3IgA-ItyaIAw79AxeHzXxF01IthA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330803952143",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "A challenge",
+        "commentId": "lg:AOqpTOG-68m4shR6uAwwfF8V84CbT9J9MRCUDHQKxcQgk2ixmPUKPDCQ-ztm9Cd5Wm88h5Krcrye2Q4CG5xpUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318081354174",
+        "starRating": "5",
+        "title": "(:",
+        "comment": "13 yrs. Old and undefeated (;",
+        "commentId": "lg:AOqpTOF9O_t60IE3t26n7LKg7n735B-HxqQzNmPKELrBA_KmW0yuvUkchklzH3bWRAQA-0eUdmGQ_6Ahrpiu0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317528041211",
+        "starRating": "5",
+        "comment": "I have an IQ of 114 and I cannot win",
+        "commentId": "lg:AOqpTOFJ2wZRWdJ4LWXhzBITIWo2zc6GDUz5FL4P6IMbKL_LFUepNIZFMvn3yW9tuOmpoUEAZrHUHKq4xCEn-A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296070711400",
+        "starRating": "4",
+        "comment": "Decent \\\"thinking\\\" game. Enjoying it so far!",
+        "commentId": "lg:AOqpTOFfTf7wmeoq8w-SO9Xk69Sd41eWkkVFwChncb74lBmGTStAAnmVNh0MDqB5zyWZsyyvK60FoN2fcNMkEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1305076643406",
+        "starRating": "3",
+        "comment": "Ok if you play against another human and you go first. But, whoever goes first will always win if both of you understand the game.",
+        "commentId": "lg:AOqpTOE-3OgGnFZqWWEmsAnJkZLlhTjeYgwMLHSNlJh_mjvyprS-f9rZN-gIMlF8GqaKrNXyTIw4sAeWx80kVw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301386648956",
+        "starRating": "5",
+        "comment": "Cool game, fun concept.",
+        "commentId": "lg:AOqpTOFITZOnzqckKOXvS7qvjSSldnKNmX9KUBV9rX40hmgD4RBnkGFa7MWIIqMVME9kEvyY9uiBEVPxclLM9A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1294446960946",
+        "starRating": "0",
+        "comment": "This game is crap!!! Dont get it!!! This a f***ing stupid game",
+        "commentId": "lg:AOqpTOHtHwvYUJCcZFFKqzCJ2rtM6YsE3ZnXkJ49Je3ttJnqAGFDTpvGqDyTdreW6KwmEYSVXV9kpWCe78WIHw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

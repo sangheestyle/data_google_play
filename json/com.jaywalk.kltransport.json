@@ -1,0 +1,236 @@
+{
+  "title": "KL Transport Planner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaywalk.kltransport",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "2.1.8",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "175",
+  "rating": "4.44",
+  "contentRating": "Low Maturity",
+  "creator": "JWalk",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaywalk.kltransport",
+  "extendedInfo": {
+    "installSize": "630k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "KL Transport Planner helps you to get routing, transit and fare information for public transportation in Kuala Lumpur, Malaysia and surrounding Klang Valley areas. This includes LRT, monorail, RapidKL bus, KTM Komuter, and KLIA Transit train.New features! Get the latest updates on rail and bus service status, train arrivals, and other important announcements directly.Featuring MyRapid Journey Planner formatted to fit perfectly on mobile with detailed routing and fare info for rails and buses. Plus, this version also automatically recommends you the cheapest route first.Rail networks map with high-quality, pinch-to-zoom, and touch-select-enabled interface.Search for nearby LRT, bus, monorail or any other station based on your current location (via Google Maps).Save route for offline viewing and share via email, MMS, bluetooth and social networks (note: this function requires the corresponding social network app installed).Compatible with any phone sizes and tablets. Plus hardware accelerated graphics on compatible device.Routing and fare info are obtained from the official sites for most up to date data.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.8",
+        "timestampMsec": "1376385778328",
+        "starRating": "4",
+        "comment": "If we can also get train schedule realtime forecast that would be great app! You know we sometime arrive at a station too early and waited for45 min for next train! Referring to Subway not intercity",
+        "commentId": "gp:AOqpTOHDk0lnPf7GwJol8Tr4xc-NVk5dDaTMPYNEDkYxhhkIC4_KBjbORIJ_OvKiQOWN9dEcfq7epiHTRmKdxg",
+        "author": "Yee Siang Kway",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.8",
+        "timestampMsec": "1375245572270",
+        "starRating": "4",
+        "title": "Best of the KL Metro Apps",
+        "comment": "This one is without a doubt the best of the mostly useless KL metro apps. However, none of the stations on the KLIA line show up in search.",
+        "commentId": "gp:AOqpTOG5rY1aGSSsGhx5lawDubsv1jFHqf8ZYeJYoWMJlwaBqJR7eNNlSgcj54uW7g2PmCIFrIHJAWpdr_sB4Q",
+        "author": "Warren King",
+        "authorURL": "http://lh6.googleusercontent.com/-Nf2Pxf3P3ic/AAAAAAAAAAI/AAAAAAAAAJA/XwpcXPMYBjU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Nf2Pxf3P3ic/AAAAAAAAAAI/AAAAAAAAAJA/XwpcXPMYBjU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.8",
+        "timestampMsec": "1378812765702",
+        "starRating": "4",
+        "title": "Nice!",
+        "comment": "Could be improved by displaying route on map.",
+        "commentId": "gp:AOqpTOFdA4rDz7TtsLIAed8SokQxsunqHfeIeeGSJSallNjBYziU51hRJuTcOGNZL8RPFcRMRfRx7yWxw50aWQ",
+        "author": "Dennis Lee",
+        "authorURL": "http://lh6.googleusercontent.com/-Gi-BgXuTVvw/AAAAAAAAAAI/AAAAAAAAAAA/kLtW_cL0Nng/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Gi-BgXuTVvw/AAAAAAAAAAI/AAAAAAAAAAA/kLtW_cL0Nng/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1349915831723",
+        "starRating": "4",
+        "title": "Helpful but suggestions could be better",
+        "comment": "Helpful app to have for those who take public transport. However, it doesn\\'t suggest the easiest route which I\\'ve figured out myself.",
+        "commentId": "lg:AOqpTOFUE3Zes1--mI8CcUjXvYBZUqF9Lh_CVEVAEHwSbh0dP1nN6Ho6hkt-lRKBpL5rsQYjyF6QtDbd2ZavkA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1353795534825",
+        "starRating": "5",
+        "title": "LG LTE",
+        "comment": "Excellent !!! But couldn\\'t locate KLIA ... Btw pls help to indicate the time of operations as well pls Fixing it would be a tremendous apps..thnks !!",
+        "commentId": "lg:AOqpTOHMGGiHhBUD8_BkGKKDH0foO6kx-MiXYEYsckkH1m48M_61uvIU480YCHNhIg36KMXyH3itebUcKpI9ug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1352123547045",
+        "starRating": "5",
+        "title": "Excellent!!!!",
+        "comment": "Working well on my Galaxy S2. Very helpful.",
+        "commentId": "lg:AOqpTOEvvGIm6feL1zCnYxJh1btnU9PCFrrLnhyQT_CEo6QJIqTZg-vykJVLngv04M8Cc6tY2bniS30X3ZxlEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1364486597512",
+        "starRating": "3",
+        "title": "Transport Tracker",
+        "comment": "Suggested to hv a upgrade version with GPS tracking on particular transport. Thank you.",
+        "commentId": "gp:AOqpTOGhjVis6RZt9pcmsdNP-FKNFyXALanCT_V-u8nB9o_3e0qGmQBM59WLvAuDBC1WlZ6MRhMiRF4ZFziz9w",
+        "author": "SG Hoe",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1374630003191",
+        "starRating": "5",
+        "title": "Nice!",
+        "comment": "Very helpful for us commuter :)",
+        "commentId": "gp:AOqpTOE_TmRAqJpfpiVmXDVqLzZhAv892WHLQqoGg47PckL4Ojtw-fg4sTqoRpEAyKlQZYOzCoCPrN3yD2xYUQ",
+        "author": "Maryjune Sangil",
+        "authorURL": "http://lh5.googleusercontent.com/-wgH2y6ZFO2Q/AAAAAAAAAAI/AAAAAAAAAFQ/0w3_ZhTRL_A/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-wgH2y6ZFO2Q/AAAAAAAAAAI/AAAAAAAAAFQ/0w3_ZhTRL_A/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1341071782238",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "Would be awesome with schedules. Don\\'t mind paying RM5 for this very useful app! So grateful that it\\'s free!",
+        "commentId": "lg:AOqpTOF36SyxoN9TJHXvb4Quh5eqpUleuWdR0ZUX-XyT3fgfbDa3azN7xWVWqW_WeDX3LOj8MadN1cCMMN0sLQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1357803435699",
+        "starRating": "1",
+        "title": "Bad App",
+        "comment": "Couldnt find anything in S2.. KLIA is unknown",
+        "commentId": "gp:AOqpTOEa-ergnaUfY_8-i4GqDXYS93cB8wZtnrweBxvSv9D2b5BfVSVUyhXckbAJaewJ5z9PrmWzP9lMKkF2pA",
+        "author": "Sivanesan Sivaguru",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1334200953651",
+        "starRating": "5",
+        "title": "Very nicely integrated!",
+        "comment": "Definitely helpful especially for those who needs to travel by public transport in KL.",
+        "commentId": "lg:AOqpTOH41321PXDZdLUAv7zt2WOQ6Nqxy1khp5DqyI9GZJQ2JncpQ9Nb4WLPnQXG-CYad062oNTD0c07HJGwJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1353250656089",
+        "starRating": "5",
+        "title": "Best",
+        "comment": "Lengkap!",
+        "commentId": "lg:AOqpTOHiCzTx3X_SP2SrK0SgSq3diIMuIW6cB5NPhiVqZbgVQdmBvtd_K7nF3l9VuBrqQDjTyDWPV986HeOXIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1365171825598",
+        "starRating": "2",
+        "title": "where\\'s ktm ?",
+        "comment": "The apps didn\\'t include ktm. The route planner just a copy paste from myrapid.",
+        "commentId": "gp:AOqpTOHGlR72xf_9-Y2fzx1zN3oCDOqQYO5HaFbdtQexyxT4NMpWO9ioZU9q3CxhF-JokhD9acsdIH3l7EpiQg",
+        "author": "Simone Chua",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1356518689553",
+        "starRating": "3",
+        "title": "minor interface problem",
+        "comment": "search page is too small tosee and read",
+        "commentId": "gp:AOqpTOEQXf1Pja83LNfA3v9s9_Gv_HhikHcn8BBKy1vj9txROW8esrvDwdPDn7oFkLTxlKC7axn6oGqqKK4ugg",
+        "author": "Cy Lim",
+        "authorURL": "http://lh3.googleusercontent.com/-lcAD0OT-gy8/AAAAAAAAAAI/AAAAAAAAB78/mBcDBmsM_0A/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-lcAD0OT-gy8/AAAAAAAAAAI/AAAAAAAAB78/mBcDBmsM_0A/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1351376816001",
+        "starRating": "4",
+        "title": "Not all places are updated",
+        "comment": "Better improvement soon :-) but love this app",
+        "commentId": "lg:AOqpTOEeVqXUqGljpUjFeyhaOCgvJrQY2JBFX5SAaYl-XQ-Q4zn5ubPt1C3Gi1EHVRhbgleqtDtpumnpcJIhew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1365910013394",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Ktm komuter bangi to ktm sg gadut? How to select? Uninstall now....",
+        "commentId": "gp:AOqpTOHuoGUW5ReRo02Yr4FuXZePXQrjLJU_Utu5E7i-3PQRBC5xb-eZTN6mD00EV_8O6WMU9FugCylVAbOFPg",
+        "author": "Hadie Rahman",
+        "authorURL": "http://lh6.googleusercontent.com/-oHCeCOZZ6AQ/AAAAAAAAAAI/AAAAAAAADgk/fj32pC4ySDg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-oHCeCOZZ6AQ/AAAAAAAAAAI/AAAAAAAADgk/fj32pC4ySDg/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.6",
+        "timestampMsec": "1332061241341",
+        "starRating": "5",
+        "title": "Good Tool for the KL folk/Tourist",
+        "comment": "Accurate and up to date info. So far is 1 of the best available free Public Transport Planner for KL/Selangor.",
+        "commentId": "lg:AOqpTOFuU2oLx6ODqRjSs2ZGha0hzq2hNxC9Aa4iS_DhehpBHEhS_C8kjYad3nwGnKEiICGQKMOCSVo19p0G6A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.3",
+        "timestampMsec": "1327450719386",
+        "starRating": "5",
+        "title": "And it can only get better!",
+        "comment": "Can improve with the addition of timetables and journey durations.",
+        "commentId": "lg:AOqpTOGuE1J_H8nIYvCmGE0USmmUmyLu8DpBOy5OfLtzlnwTSPYzUVBw618S0_n0huo5nETnLAMpu3BOKXqi5g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.3",
+        "timestampMsec": "1326190539356",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "But please update and upgrade standart servise more to profesional",
+        "commentId": "lg:AOqpTOF8SxNqaOc6kkk5dvg9w0V16i57EKmOBKXZNW4f-PUvHK1pGZUDwa5HXOZQY4lJzV08tfqKWXrLo9ioug",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.3",
+        "timestampMsec": "1324189308339",
+        "starRating": "5",
+        "title": "Great job",
+        "comment": "Nice UI. Smooth operation. Routing is very convenient and gives you multiple options. Must have for KL commuters.",
+        "commentId": "lg:AOqpTOG_MSlmgAfGgfQ4gXkShNdMuBsoYZojnDBIrW-52T6mvud2IfGDa80MMoAJXm6ydmKiKutqQUxi1vosDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

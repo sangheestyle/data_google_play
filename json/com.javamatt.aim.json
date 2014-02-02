@@ -1,0 +1,37 @@
+{
+  "title": "AIM Money Machine",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javamatt.aim",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 25, 2013",
+  "version": "3.0.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Maximus Java",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javamatt.aim",
+  "extendedInfo": {
+    "installSize": "682k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app is based on the best selling book by Robert Lichello, wherein he describes his mathematical formula for managing stock portfolios.  His Automatic Investment Management system (AIM) has been used the world over, and is now alive in Android app form!  In addition to computing and storing your trades, this app also connects you with a touch of a button to stock quote information. Plus, every last Friday of the month you will receive a notification in your status bar to remind you to check your stocks.  Enjoy!**Disclaimer**This app in no way constitutes investment advice.  Do not invest with money you cannot afford to lose.**Backtested Results Disclaimer**BY DOWNLOADING THIS APP YOU ACCEPT THE FOLLOWING:HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME OF WHICH ARE DESCRIBED BELOW. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN. IN FACT, THERE ARE FREQUENTLY SHARP DIFFERENCES BETWEEN HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY ACHIEVED BY ANY PARTICULAR TRADING PROGRAM.ONE OF THE LIMITATIONS OF HYPOTHETICAL PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT OF HINDSIGHT. IN ADDITION, HYPOTHETICAL TRADING DOES NOT INVOLVE FINANCIAL RISK, AND NO HYPOTHETICAL TRADING RECORD CAN COMPLETELY ACCOUNT FOR THE IMPACT OF FINANCIAL RISK IN ACTUAL TRADING. FOR EXAMPLE, THE ABILITY TO WITHSTAND LOSSES OR TO ADHERE TO A PARTICULAR TRADING PROGRAM IN SPITE OF TRADING LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY AFFECT ACTUAL TRADING RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC TRADING PROGRAM WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF HYPOTHETICAL PERFORMANCE RESULTS AND ALL OF WHICH CAN ADVERSELY AFFECT ACTUAL TRADING RESULTS.PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RESULTS.",
+    "reviews": [
+      {
+        "timestampMsec": "1319897845051",
+        "starRating": "5",
+        "title": "Worked really well",
+        "comment": "Great app for swing trading.",
+        "commentId": "lg:AOqpTOGD6mgSsJE9byAhFdws0spkek96ck3GE6uXrfwZDuJqNn8LrEQ888FhGfAHap-dl7kZVLrmLYDe1ZQ05Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Freedom VO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=fr.etai.freedom_vo",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 31, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "7",
+  "rating": "2.142857",
+  "contentRating": "High Maturity",
+  "creator": "ETAI",
+  "creatorURL": "https://play.google.com/store/apps/details?id=fr.etai.freedom_vo",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Freedom VO is the first dedicated mobile solution in the market which calculates the precise restoration costs for all used cars. This multi-brand software system allows you to identify the vehicle using its registration number by which you can then calculate the precise costs for any specific vehicle. Thanks to our vast and extremely detailed data bases, including automotive constructor OE parts and specified labor times, the restoration costs are extremely accurate. As a result of our expertise in the automotive database and pricing fields, ETAI is able to integrate the service and maintenance costs based on the mileage of the vehicle as well as taking into account the changing of the timing belt.  The calculation method used, allows us to compare the restoration costs between a Peugeot 206 1.4 HDi and a 206 RC, where neither car has the same bumpers nor the same service and maintenance plans.Intelligent and practical, this new application is designed to optimize the time spent by the salesperson analyzing the physical state of the customerâs car.You can pay each time that you use Freedom VO, at a cost of 2.99â¬ (VAT incl.) directly from your cell phone, by using the integrated buy-in system.In order to do this, you need to:1.Select the elements on the car that need to be repaired on the âBodyworkâ part of the application2.Move onto the next screen by clicking on the arrow âService & Tiresâ3.Select the service and maintenance plan and the tires that need to be replaced4.Click on âFinalize the Costsâ5.Finally click on âBuy the documentâ6.You can now see all the costs for the specific operations that you have chosen to complete on the vehicle including the costs of the operations not selected",
+    "reviews": [
+      {
+        "timestampMsec": "1325875930904",
+        "starRating": "5",
+        "title": "Excellent outil terrain!",
+        "comment": "L\\'avantage d\\'un outil mobile qui permet de rester pro en face de ses clients avant d\\'entamer une nego. On a m\\303\\252me les entretiens constructeur de renseign\\303\\251s, qui aident \\303\\240 avoir un tarif \\\"aux petits oignons\\\".  Le plus : identifier le v\\303\\251hicule avec l\\'immatriculation. Ca rassure le client \\303\\251galement.",
+        "commentId": "lg:AOqpTOHd1N_dz-HRV61mlppJvulp2sPY4on0l01vLxiz9Ud3pYSwRGMmtesLqsNxeFmolEALxaQBxjfIInE2cNc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

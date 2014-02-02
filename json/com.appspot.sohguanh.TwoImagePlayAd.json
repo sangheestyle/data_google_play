@@ -1,0 +1,38 @@
+{
+  "title": "Image Play Ad",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.appspot.sohguanh.TwoImagePlayAd",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "June 27, 2013",
+  "version": "14.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "sgh",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.appspot.sohguanh.TwoImagePlayAd",
+  "extendedInfo": {
+    "installSize": "633k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app does not aim to compete as a full-featured image editing tool. What this app does is to provide some basic image editing that beginning or novice users can pick up easily. Say you want to \"blend\" two images together to see some effects. You select a source and a target image. For Android provided SDK complete-ness, the Operation pick-list has a lot of choices. Try Darken, Lighten, Multiply, Screen for \"blending\" two images together, select Color Filter as \"white\" color and tap Generate button. When you have time you can try to use other Operation pick-list choices and different color from Color Filter. If you like the \"blended\" image you can also tap Menu->Save to save to your SD card.It also allow you to \"write\" words/signature or do simple caption \"on top\" of the image and then save them together as one. Play with grayscape, inverted color, contrast, brightness, transparency of the image and then save them together as one. Simple cropping of \"small portion\" out of the main image and then save the cropped image. Although this app is called Two Image Play, you can operate like \"one image play\" by selecting Source and Target to be the same image for above additional features.The application support English, Simplified Chinese, Traditional Chinese display.",
+    "reviews": [
+      {
+        "timestampMsec": "1344649192534",
+        "starRating": "5",
+        "title": ":))",
+        "comment": "The best.. at first they own had for iPhone. Now android!! Yay :)))",
+        "commentId": "lg:AOqpTOHT0X6aU-RkhD69OOKEBBrYxn-yqbGRLbpnuHX0_zFYvbYzLXNkrp9XpXk697WCtRUZJAJey7IenNN_ow",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

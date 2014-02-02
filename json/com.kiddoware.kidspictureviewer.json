@@ -1,0 +1,31 @@
+{
+  "title": "Kids Picture Viewer - Beta",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.kiddoware.kidspictureviewer",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "June 3, 2013",
+  "version": "1.0.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "kiddoware",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.kiddoware.kidspictureviewer",
+  "extendedInfo": {
+    "installSize": "304k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Picture viewer, with child lock, specifically designed for kids and toddlers to watch images. Parents can select a list of pictures stored on their device that kids can watch.  App will only allow selected picture to be viewed and any other images that parents do not want their kids to see will not be available. Parent can record audio for each image and app will play the recorded sound as images are displayed in a slide show. Itâs also a plugin for Kids Place app to select pictures stored on the device, that kids can watch. The app can run as a standalone or within Kids Place to enforce parental control and child lock security. FEATURES:+ Parents can select a list of approved pictures that kids can watch.+ Child lock setting to lock home button. Requires Kids Place app to be installed and running for this feature.+ Setting to lock slide show player for toddlers and younger kids.+ Scans your device and external storage for available images for parents to select from.+ Record a description to be played to kids when image is viewed.+ Enhanced child lock features based on Kids Place settings.+ Free version only allows to save and view 10 images. Please upgrade to licensed version to save and play unlimited pictures.Permission Explanations:+ Internet Access - For Google Analytic library; very minimal data consumption.+ Read/Write SD Card - To read images on SD card and store audio files on SD Card.KW: Kids Picture Viewer, Toddler Picture Viewer, Kids Place, Picture Viewer, Kids, Infants, Toddlers, Parental Control, Child Lock, Kid Lock, Kids Toys, Toys, Kids Safe Picture Viewer, Kids Media Player, Kids Player with child lock, Kid Safe Picture, Kids Images, Image viewer",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

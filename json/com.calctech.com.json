@@ -1,0 +1,49 @@
+{
+  "title": "SAT Test Calculator Programs",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.calctech.com",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 24, 2013",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "7",
+  "rating": "4.142857",
+  "contentRating": "Everyone",
+  "creator": "Calc-Tech LLC.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.calctech.com",
+  "extendedInfo": {
+    "installSize": "15M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The SAT Operating System is an app for TI-83+, TI-83+ Silver Edition, TI-84+, TI-84+ Silver Edition, TI-89, and TI-89 Titanium graphing calculators that solves SAT math problems for you DURING the SAT test. It allows you to work problems faster and with greater accuracy than you ever could by hand or with a graphing calculator alone. It takes your input based on the SAT problem and gives you an answer or solution. It is powered by almost all of the equations, tools, and approaches you would ever need during the SAT math sections. Students typically improve their score by 60 points on the SAT just by using this software. You are permitted to use it during the test under the College Board's official Calculator Policy.This is the companion app to the SAT Operating System. It allows you to quickly get access to helpful information and support options relevant to the SAT Operating System while studying for the SAT test. You can download the trial or full version of the SAT Operating System, access the instruction manuals, all of the video tutorials, support information, and more using this handy companion app for your Android device without ever interrupting your study session to go use a desktop computer.Navigation:- Use the tabs along the top to access each feature in the app.  - You can also press the \"menu\" button to quickly access key features including: the Learning menu, Video Tutorials, Instruction Manuals, Apps, Calc-Tech Support, and Share.Specific features:Learn Tab- Instruction manuals. Access the manuals for both the TI-83+ and TI-84+ version of the SAT Operating System as well as the TI-89 and TI-89 Titanium version. The app saves your place in each manual so you can quickly get back to where you were last reading.- YouTube tutorials. Access all of the video tutorials on how to use the software to solve real SAT math problems.- Questions and Answers. Access all relevant FAQ information.- Wiki. Visit Calc-Tech's wiki for the SAT Operating System.- Social Media. Visit our social media properties.- Contact Support. Contact Calc-Tech by opening a support ticket, chatting with us live via our Zopim chat client or by Skype, or by calling us directly. You can also access our support information website here.Apps tab. - This tab allows you to download the SAT Operating System app for your graphing calculator. It also allows you to download the instruction manual and screenshots for your specific version of the software.Permissions- This app only uses permissions related to network and storage card access.If you have any questions or would like to provide us with feedback on this app or the SAT Operating System for your TI-83+, TI-83+ Silver Edition, TI-84+, TI-84+ Silver Edition, TI-89, or TI-89 Titanium graphing calculator, please feel free to contact us at any time. We will respond within 1 business day (usually sooner).We wish you the very best of luck on the SAT!Keywords: SAT test, SAT programs, SAT software, SAT Operating System, SAT_OS, calculator program, TI-83+, TI-83+ Silver Edition, TI-84+, TI-84+ Silver Edition, TI-89, TI-89 Titanium, graphing calculator, SAT math, SAT tutor, SAT help, SAT tutoring, SAT prep, SAT math tutor, SAT calculator program, SAT calculator, SAT program, SAT TI, SAT TI calculator, calculator software, math help, math homework, how-to",
+    "reviews": [
+      {
+        "timestampMsec": "1369931205371",
+        "starRating": "5",
+        "title": "Nice app",
+        "comment": "Genius :)",
+        "commentId": "gp:AOqpTOEhFLxYsxcS_uSKPgZCoVOb1nnKwHJ6zAngnkiDx5c_MqtFyOJYJUNLzY-7dwvsA9zLcIhaYg18PrL1heI",
+        "author": "Mana Tora",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367726960495",
+        "starRating": "5",
+        "title": "Very Useful App for SAT OS",
+        "comment": "Very well designed app for SAT OS users.",
+        "commentId": "gp:AOqpTOHX3kU2D0lUCWFlUqa4-FenCpNGZE0ix_mMNsMjhlJ0HILQSn5eTAnQewdLKkjPusfTTgJKIOUNpE9siwU",
+        "author": "Josh Stine",
+        "authorURL": "http://lh6.googleusercontent.com/-BJQI-d02XQE/AAAAAAAAAAI/AAAAAAAADoY/6F6fr6vd7pc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BJQI-d02XQE/AAAAAAAAAAI/AAAAAAAADoY/6F6fr6vd7pc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

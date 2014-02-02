@@ -1,0 +1,39 @@
+{
+  "title": "Audio Note Recorder PRO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.audionote.robertoborrelli",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "April 1, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Roberto Borrelli",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.audionote.robertoborrelli",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Audio Note Recorder PRO is a personal audio recorder that can be used for voice fast notes and also for recording musical instruments. With unlimited recording time the great ONE TOUCH ACTION of this app is good for the managers and all those who need a professional audio recorder.   Also singers and guitar players can use this FAST APP that is  a real help.ONE APPLICATION FOR ALL AUDIO NOTES you need, don't loose your time anymore, avoid to forget what is in your mind. Just CLIC REC and talk.. archive.. then PLAY WHEN YOU NEED to remember.   Digital recording made easy, human voice and musical instruments can be recorded fast from the microphone of your phone.  Good for the singers, good for all digital recording, this audio voice recorder is what you need.  BEST LOOK, one of the best app you can find in audio recording stuff.   Get it now, use with your phone form today, record your notes, songs, record music you want to remember, record what happens around you, record the stuff you want to remember. UNLIMITED TIME recording for all purpose. A real fast using microphone to capture audio and play when you need. Record sounds of life, record sounds of nature, just one touch to record the sound of your voice. Audio Note Recorder PRO give you also a real HELP with the talking assistant. Best price for a professional audio notes recorder.  Try now !",
+    "reviews": [
+      {
+        "timestampMsec": "1360378780293",
+        "starRating": "5",
+        "title": "Auto note recorder Pro",
+        "comment": "Yes yes I think it\\'ll work pretty good professional",
+        "commentId": "gp:AOqpTOGdO5N5s4XSXgvSXp33gaB7o4zQjKuWHqSCxX2TCniBZRsc3We6kKoPPwzuh-6ySvtX11rk0rBDwhm6XQ",
+        "author": "David Standifer",
+        "authorURL": "http://lh6.googleusercontent.com/-VbqP_Wx8yrM/AAAAAAAAAAI/AAAAAAAAC_8/5fQj0BXO95g/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VbqP_Wx8yrM/AAAAAAAAAAI/AAAAAAAAC_8/5fQj0BXO95g/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

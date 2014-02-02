@@ -1,0 +1,34 @@
+{
+  "title": "Fun Black Eyed Peas Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.blackeyedpeasapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.blackeyedpeasapp",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love the Black Eyed Peas?  Do you wish you could play games with them as the star?  Well good news, now you can.  With this great free app you will be able to play Black Eyed Peas memory, jigsaw puzzles, and Tetris.  You will love passing the time with the Black Eyed Peas.The Black Eyed Peas is an American hip hop group. The group mainly comprises rappers will.i.am, apl.de.ap, and Taboo, and singer Fergie. Originally an alternative hip hop group, they have since added R&B, pop, and dance influences. Although the group was founded in Los Angeles in 1995, it was not until the release of their third album Elephunk in 2003 that they found widespread acclaim and achieved high record sales. Since that time, the group has sold an estimated 56 million records worldwide. According to Nielsen SoundScan, the Black Eyed Peas are the second-best-selling artist or group for downloaded tracks, with over 42 million sales as of the end of 2011.Their first major hit was the 2003 single \"Where Is the Love?\" from Elephunk, which topped the charts in 13 countries, including the United Kingdom, where it spent seven weeks at number one and went on to become Britain's biggest selling single of 2003. Another European hit single from the album was \"Shut Up\". Their fourth album, Monkey Business, was an even bigger worldwide success, certified 4Ã Platinum in the U.S., and spawning two singles, \"My Humps\" and \"Don't Phunk with My Heart\". In 2009, the group became one of only 11 artists to have simultaneously held the No. 1 and No. 2 spots on the Billboard Hot 100, with their singles \"Boom Boom Pow\" and \"I Gotta Feeling\", which topped the chart for an unprecedented 26 consecutive weeks. This album The E.N.D. later produced a third Hot 100 number-one placement with \"Imma Be\", making the group one of few to ever place three number one singles on the chart from the same album, before being followed with \"Rock That Body\" and \"Meet Me Halfway\", which peaked in the Top 10 of the Hot 100. \"I Gotta Feeling\" became the first single to sell more than one million downloads in the United Kingdom. The Black Eyed Peas were ranked 12th on Billboard's Decade-End Chart Artist of the Decade, and 7th in the Hot 100 Artists of the Decade. At the 52nd Grammy Awards ceremony, held in January 2010, they won three awards out of six nominations. In November 2010, they released the album The Beginning. In February 2011, the group performed at the Super Bowl XLV halftime show. The album's first two singles, \"The Time (Dirty Bit)\" and \"Just Can't Get Enough\", became international hits and topped the charts in many countries.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.blackeyedpeasapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

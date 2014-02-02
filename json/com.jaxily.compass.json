@@ -1,0 +1,35 @@
+{
+  "title": "Compass & GPS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaxily.compass",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 19, 2013",
+  "version": "20130414",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jaxily",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaxily.compass",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "COMPASS & GPS CAN HELP FIND YOUR WAYCompass view with location display can put you in the right direction.  It is helpful for camping, boating, hiking, or just learning with your kids.  Your location will automatically display your street address, degrees of direction and bearing of North, South, East or West.CAPTURE AND EMAIL FAVORITESSometimes you might want to send yourself or a friend your exact location.  Simply click on the email icon and you can easily send your location with a screenshot by email.I just hope that if you are lost that you still have coverage.CHOOSE FROM MULTIPLE COMPASS TYPESCompass is a free app that includes 4 basic compass types.  Simply click on the middle gear icon to switch the different compass themes.COMPASS ACCURACYNote that this app relies on the mobile deviceâs magnetometer so accuracy may vary.WHAT IS A COMPASSA compass is a navigational instrument that shows directions in a frame of reference that is stationary relative to the surface of the earth. The frame of reference defines the four cardinal directions (or points) â north, south, east, and west. Intermediate directions are also defined. Usually, a diagram called a compass rose, which shows the directions (with their names usually abbreviated to initials), is marked on the compass. When the compass is in use, the rose is aligned with the real directions in the frame of reference, so, for example, the \"N\" mark on the rose really points to the north. Frequently, in addition to the rose or sometimes instead of it, angle markings in degrees are shown on the compass. North corresponds to zero degrees, and the angles increase clockwise, so east is 90 degrees, south is 180, and west is 270. These numbers allow the compass to show azimuths or bearings, which are commonly stated in this notation.WE VALUE YOUR FEEDBACK:We always welcome your feedback, comments and suggestions.  Please take a minute to rate and review this app.  You can also contact us at: info@jaxily.comISSUES:If youâre having problems with downloads, installs, refunds, payments, or Google Play access, please contact Google Play team through the Google Play Help Center at https://market.android.com/support/ and user forum at http://www.google.com/support/forum/p/Android+Market.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

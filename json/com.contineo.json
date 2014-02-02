@@ -1,0 +1,79 @@
+{
+  "title": "ContineoWiFi",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.contineo",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "December 26, 2011",
+  "version": "2.41",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "20",
+  "rating": "4.1",
+  "contentRating": "Low Maturity",
+  "creator": "Contineo Wireless",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.contineo",
+  "extendedInfo": {
+    "installSize": "594k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Contineo WiFi â Free Wi-Fi Finder and Connection ManagerFind Free WiFi Hotspots, Instantly Connect, and get deals from our partners.Use Contineo WiFi to find Free Wi-Fi hotspots and automatically connect â no matter where you are! Contineo WiFi lets you find free and available Wi-Fi hot spots at your current location or wherever you may be travelling so you can connect to faster networks, reduce data charges and save money. Best of all, get deals and discounts from our partners exclusive to Contineo WiFi subscribers.â¢\tFind free Wi-Fi hotspots around you or search by locationâ¢\tReduce carrier data charges and save money!â¢\tGet discounts and coupons from our partnersFeatures:â¢\tFind and connect thousands of hotspots worldwideâ¢\tReduce data plan usage and save money by using free Wi-Fiâ¢\tView Wi-Fi hotspots on a map, get directions and save favorite hotspotsâ¢\tShare hotspot locations via email and your favorite social networksâ¢\tGet deals and free Wi-Fi from our growing list of partnersâ¢\tGive friends and family secure access to your wireless networkâ¢\tExtend battery life by using Wi-Fi instead of power hungry 3G/4G connectionsCompatibility:Compatible with High Resolution Displays Only. May not display on Low or Medium Resolution displays.(Note: does not work on rooted phones)Learn more at www.ContineoWiFi.com",
+    "reviews": [
+      {
+        "timestampMsec": "1330065563133",
+        "starRating": "5",
+        "title": "Sweet!",
+        "comment": "Can\\'t wait for the deals... Thx for an amazing app! I recommend this to those who want an app to search for free wifi!",
+        "commentId": "lg:AOqpTOFpoc7hZqr2STb079Dxmy3nKJR8pM6947ei3J2_TE0Mj5LopG_q6A0QMU1My5Lbj_z4VvpTij0dSjZpO0E",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320502283198",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Like the layout. Map is the best I\\'ve seen. Good app.  How soon for the deals.",
+        "commentId": "lg:AOqpTOEv24v_Ym2wAX-S_dxDgsr_9M1fYIHfkVdg4KyINuCEOMzjYGPIzF6Mlx6oY7UCcl-qAYJJLXgl2Yxa_jQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320500221810",
+        "starRating": "5",
+        "title": "Works as they say",
+        "comment": "Autoconnects at Starbucks and office depot. I like the map, easy to see the hot spots. Can\\'t wait for the deals.",
+        "commentId": "lg:AOqpTOFLD0JIBKrnbRbrLxqlbLPSms3wxDVqKcK2vk4430iY5vw_Q03pYPXuX9WRJFZKfnnCt3yHRPBQMGRYSew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307486966020",
+        "starRating": "1",
+        "comment": "I\\'ve seen lots of apps for rooted phones. This is the first one I\\'ve seen for non rooted phones only.",
+        "commentId": "lg:AOqpTOG4KKpSBncklxqD-1Ux2wUQR-dXd_PEvgbkNT-lYZbidgzOVbdiQkhVo2UCHSOmgpDDIB0xARYnsLI0RWY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358994261042",
+        "starRating": "5",
+        "title": "Som",
+        "comment": "Smsry",
+        "commentId": "gp:AOqpTOGysZDj5Ls1YiKO-XR4OPWhCg3ck7lylEQWy33KcbBpRC0ilVHsys1qJnXHX5qHxhm6kvD0wdC8qVAF_zU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

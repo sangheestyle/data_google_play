@@ -1,0 +1,51 @@
+{
+  "title": "Fun Ashley Tisdale Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.ashleytisdaleapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "4.571429",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.ashleytisdaleapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Ashley Tisdale?  Do you wish you could play a bunch of fun free games with her as the star?  Well now you can with this great app you will be able to play Ashley Tisdale memory, jigsaw puzzles, and Tetris with her as the star.Ashley Michelle Tisdale (born July 2, 1985) is an American actress and singer who rose to prominence portraying the candy-counter girl Maddie Fitzpatrick in Disney Channel's The Suite Life of Zack & Cody and the female antagonist Sharpay Evans in the High School Musical film series. The High School Musical series became a successful franchise which included two television films, a feature movie, a spin-off and numerous soundtrack albums. The popularity earned by Tisdale in High School Musical led her to sign a solo record deal with Warner Bros. Records in 2006 that allowed her to release two studio albums, Headstrong (2007) and Guilty Pleasure (2009).Tisdale has a voice role as Candace Flynn in Disney Channel's cartoon show Phineas & Ferb. She also owns a production company named Blondie Girl Production and has worked as an executive producer in a number of movies and television shows that includes the ABC Family television film Picture This and the Bravo's 2012 unscripted series Miss Advised. During 2009 and 2010, Tisdale had her first major broadcast role in The CW's television series Hellcats as Savannah Monroe, a cheerleader. She also played Jody Sanders, the leading character in Scary Movie 5, the fourth sequel to the 2000 movie which was released in 2013.",
+    "reviews": [
+      {
+        "timestampMsec": "1374127751176",
+        "starRating": "5",
+        "title": "hai",
+        "comment": "kevu keka lanja",
+        "commentId": "gp:AOqpTOHaGimo-O_Cr9arQ0gyNCPfJ2blDcAll0sZoK0y_1lhbzpvKO7fOTn7ps1EFE9k4_3B6S3cYW-RrR0MZA",
+        "author": "ls mahesh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370179287766",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Love it=)=)=)=)=)=)\\342\\212\\231\\342\\212\\231",
+        "commentId": "gp:AOqpTOE7VlJrM3UdCaAKRfiprd7faCu8kihExUE8ce-HyNtC-jZM-bgZWcxeMtEoB6W-ITy65mGyjEJEl_8KNA",
+        "author": "Savannah Buckman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.ashleytisdaleapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

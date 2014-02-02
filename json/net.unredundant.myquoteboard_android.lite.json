@@ -1,0 +1,35 @@
+{
+  "title": "MyQuoteboard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=net.unredundant.myquoteboard_android.lite",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "November 13, 2011",
+  "version": "1.6",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Unredundant, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=net.unredundant.myquoteboard_android.lite",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "I want this app to be awesome just as much as you do!  Please shoot me an email before leaving a bad rating or review!www.myquoteboard.comFind and feature your friends' funny phrases!Ever had a whiteboard where you'd write, e.g.:Travis: \"I round anything between 8 and 12 to 11\"It makes you laugh and your friends all wish they were there to hear it, but were glad that you wrote it down.  And they're dying to know the context of the situation.  What would make him say that?!Enter MyQuoteboard.  It can't be simpler.Record and share the goofy things your friends say!Uses Facebook connect to instantly link into your friends network.Facebook permissions used by this app:\"Basic\" - all Facebook apps require this.  This app only uses it to get your list of friends.  The only thing your list of friends is used for is to know which quotes to show to you and to allow you to post qutoes for them.\"Post to wall\" - this is optional.  You can post quotes to the walls of the friends you quote.\"Access my data anytime\" - This is required due to a bug in Facebook.  Without this permission, you would have to login every 2 hours, which is annoying.keywords: MyQuoteboard quoteboard my quote board MQB MyQB funny",
+    "reviews": [
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1317492404438",
+        "starRating": "5",
+        "comment": "Great for documenting the funny stuff your kids say!",
+        "commentId": "lg:AOqpTOGFu8pNOdAekgGz9gJHDLHHZuMHVNwOlicASU7pC8vUdfz2h2qf1ugrKJF-W0cAYaoB7P9-r0ouwMIZxi8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

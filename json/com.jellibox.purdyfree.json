@@ -1,0 +1,28 @@
+{
+  "title": "Purdy Clock Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jellibox.purdyfree",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 24, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jellibox",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jellibox.purdyfree",
+  "extendedInfo": {
+    "installSize": "15M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Ooooh, such a purdy clock.This is a pretty basic skin showing the time, date, and weather. The background image changes according to the current weather condition, so it may change as often as the weather updates. From the left, it shows the min, max, and current temps. In the middle it tells you tomorrow's min and max, along with tomorrows conditions in a tiny image. Then on the right the date should be fairly self-explanatory.The paid version here http://goo.gl/G8kyk has editable hotspots and 12/24 hour time.Please carefully read through all of the notes and instructions if this is your first UCCW Skin. After it is installed you won't find this skin/widget listed in your app drawer, it will only be visible when adding a new widget to your home screens.Please email me if you have any questions, suggestions, or issues!BEFORE USE===========You will need to install the latest version of Ultimate Custom Clock Widget (UCCW) before you are able to use this skin. It is free, and you can download it from the Play Store here: http://goo.gl/q3PehThanks to VasuDev for UCCW!HOW TO USE===========Add the widget to your home screen.1) Add a new widget in the usual way (ie. press and hold on a blank part of your home screen).2) Select UCCW and the size you would like, this depends on how many rows/columns you have your launcher set to. I use and recommend Apex Launcher.3) From the list of widgets, select \"Square Home\"4) Resize the widget if necessary and touch the pointing finger.EDIT HOTSPOTS=============1)  Load UCCW and make sure hotspots are turned OFF (do this by clicking menu, hotspots mode, off).2) Touch the Square Home widget, UCCW should load and show the 3 hotspots.3) Select each hotspot and make sure they load the app or shortcut you prefer.4) Make sure you turn hotspots back ON in order to utilize them!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

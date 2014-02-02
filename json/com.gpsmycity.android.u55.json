@@ -1,0 +1,40 @@
+{
+  "title": "Buenos Aires Map and Walks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gpsmycity.android.u55",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 25, 2013",
+  "version": "2",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "GPSmyCity.com, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gpsmycity.android.u55",
+  "extendedInfo": {
+    "installSize": "30M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This handy application presents you several self-guided walking tours to see the best of the Buenos Aires, Argentina, and it comes with detailed tour route maps and powerful navigation features to guide you from one sight to the next. No need to hop on a tour bus or join a tour group; now you can explore all of the best attractions on your own, at your own pace, and at a cost that is only a fraction of what you would normally pay for a guided tour.Walking tours included in this application are:* History and Science Museums (5 sights)* Palermo Area (10 sights)* Art and Culture Museums (5 sights)* Modern Architecture (8 sights)* Famous Historical Buildings (10 sights)* Art and Culture (7 sights)* Recoleta Neighborhood (10 sights)* Specialty Shops (8 sights)* Gay Attractions (7 sights)* Best Nightclubs (5 sights)* Wine Bars and Wineries (6 sights)* Tango Clubs (7 sights)* Landmarks in Buenos Aires (9 sights)* Best Known Churches (7 sights)* Famous Squares (7 sights)* Gay Nightlife (7 sights)* Children's Attractions (7 sights)All the data used in this app is built into the software, so you can follow the walking tours or use the city map without internet access or cellular data plan. No need to pay the costly roaming charges when traveling to foreign cities. The app is optimized for Android phone and tablet.The powerful navigation assistance includes:* Touring routes clearly displayed on map.* Precise turn-by-turn walking directions from one sight to the next.* `FindMe` displays your exact location and Auto Tracking displays your movement on the map (this feature is not supported on device without built-in GPS function).* Built-in compass to show you the direction.* A detailed city map which can be used independently for your other traveling needs.Please visit our website at www.GPSmyCity.com to find city walks for over 470 cities worldwide.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

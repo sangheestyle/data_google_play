@@ -1,0 +1,57 @@
+{
+  "title": "Custom Vibrate Pattern SMS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.vibrate.pattern",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "February 20, 2013",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Johannes B.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.vibrate.pattern",
+  "extendedInfo": {
+    "installSize": "648k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Did you always wish you could create custom vibrate patterns for SMS notifications? Now you can! It's really easy to create patterns, just tap it on your screen!Tip: Hold the button pressed to create longer vibration times.PLEASE DISABLE FOLLOWING SETTING FOR THIS APP TO WORK PROPERLY:Messaging-App: settings / \"Vibrate on new message\"This is the free version of the app, full version also supports- settings patterns for calls- setting different patterns for different contacts- different patterns for when the phone is in your pocket or on your desk (using proximity sensor)- auto-answer calls when you pick up the phone (also using proximity sensor)Please consider buying the full version to support my work!For the musicians: you can even quantise the pattern, making it easy to tap your favourite beats without struggles!The app will (intentionally!) not vibrate if your phone is in silent mode!PLEASE CONTACT ME IF YOU HAVE ISSUES BEFORE GIVING A BAD RATING, I WILL TRY TO SOLVE YOUR PROBLEM ASAP!Permissions:-------------------Self explaining:android.permission.VIBRATETo trigger vibrations:android.permission.RECEIVE_SMSandroid.permission.RECEIVE_MMSTo switch off/on your devices vibration if possible:android.permission.WRITE_SETTINGSIf you like the app please consider buying the full version and please rate it.Thanks for supporting my work!Feel free to contact me anytime if you have ideas/question/issuesgoodnightandroid@gmail.comAlso i created a thread in the xda developer's forum:http://forum.xda-developers.com/showthread.php?t=2114900Tags:Custom vibrate pattern vibration vibrate vibrator personalization unique message call notification theme sound contacts",
+    "reviews": [
+      {
+        "timestampMsec": "1377477115697",
+        "starRating": "5",
+        "title": "Very nice and simple",
+        "comment": "While the full version is needed for person by person customization this app is nice.  It is very simple to use and doesn\\'t have ads.",
+        "commentId": "gp:AOqpTOGNkRxM3LHCQi_bcKDd_-XanREEVDVku6q30mEPNxNeqWO6c8KNrzm2voDoUX3EYTYEIRn2cejqtrC6bRc",
+        "author": "Josh Ray",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364005113718",
+        "starRating": "5",
+        "title": "Terrible App",
+        "comment": "This is just the app I need for my phone.",
+        "commentId": "gp:AOqpTOHEI-ObzNqYcZ0jBZ5ym-bKgTjSVjWqHEuX1-_9ko9QMFtqIEVOAST2rsfUqe4piPRaYh256MunA9XxM24",
+        "author": "Javonta Shukur",
+        "authorURL": "http://lh6.googleusercontent.com/-FXk80bJnXhk/AAAAAAAAAAI/AAAAAAAAAp4/zFE9H1JIRgU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-FXk80bJnXhk/AAAAAAAAAAI/AAAAAAAAAp4/zFE9H1JIRgU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368048650864",
+        "starRating": "5",
+        "comment": "Do exactly what it do. Vibrate custumly",
+        "commentId": "gp:AOqpTOGModfoDv_R9cc66f44qFAei_JuUGjmJ4SHqFakg9MQyFjCIKlNpAB1uo3XH_Z-r6Zgscwj9TfC5Y3rypY",
+        "author": "Leon Do",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}

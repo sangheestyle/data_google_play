@@ -1,0 +1,50 @@
+{
+  "title": "Slingshot Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.SlingshotGame_11",
+  "category": "Racing",
+  "price": "Free",
+  "datePublished": "March 5, 2013",
+  "version": "1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Medium Maturity",
+  "creator": "USA CX Video Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.SlingshotGame_11",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "In this game, slingshot is your weapon, and the projectile could be anything, such as stones and apples this according to who your enemy is. There are four levels in this app. Ducks appear in the first two levels. And the hedgehog is your enemy in the third level. Any of them is not easy to hit, be patiently please. It is always hard to pass when you play a new game. The first two levels** Ducks are the enemy in these levels. The projectile here is stones. Duck will be killed by hit twice.** A duck with helmet appears in the second level. It can be killed by hit three times.** You have 60 seconds in the first level and 50 seconds in the second level.** Last 5 seconds will turn in red to remind you. The third level** Your enemy in this level is hedgehogs.** You need to hit hedgehogs three times to kill them.** Hedgehogs are more cunning than ducks. What is the enemy in the fourth level?  You will know it if you have passed the three levels before. Score Secrets  @@ Double kill and triple kill earn more score.@@ Your current score is shown to you on the top of screen. +++++++++Attention Please+++++++++++++++This app is free and ad supported, the icon or notification ads in this app are harmless. ++++++++++++++++++++++++++++++++++++++",
+    "reviews": [
+      {
+        "timestampMsec": "1365122960425",
+        "starRating": "1",
+        "title": "This game makes me sick.",
+        "comment": "Do not like it. I would give it 0 stars, to bad  I cant.. What is up with the idea of shooting ducks? This game makes me sick.",
+        "commentId": "gp:AOqpTOFcrrlwJVrn0tUWoLvQr6LBGHUbksICxUoD9octUnzRqWLDEfPa4gnsZKrQyZBjdTItPSN9YtA2zICPAC8",
+        "author": "Breanna Bieber",
+        "authorURL": "http://lh5.googleusercontent.com/-w_YvFgPdn9A/AAAAAAAAAAI/AAAAAAAABfU/E8mHrmdVriI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-w_YvFgPdn9A/AAAAAAAAAAI/AAAAAAAABfU/E8mHrmdVriI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364610842641",
+        "starRating": "1",
+        "comment": "DONT WASTE YOUR TIME, THIS APP DOESN\\'T WORK !",
+        "commentId": "lg:AOqpTOHmVxqZ6WZYHTO_BSCsn2ZeTbSM0w2LXARcWh3h7_EorwKg-NuhL0-7qfZM8FU3v_FtbhiIegXJy-sqzuk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

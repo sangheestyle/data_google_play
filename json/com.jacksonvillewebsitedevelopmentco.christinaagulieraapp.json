@@ -1,0 +1,34 @@
+{
+  "title": "Christina Aguliera Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.christinaagulieraapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.christinaagulieraapp",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Christina Aguliera?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Christina Aguliera memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Christina.Christina MarÃ­a Aguilera (born December 18, 1980) is an American singer-songwriter and television personality. Born in Staten Island, New York and raised in Wexford, Pennsylvania, she appeared in television shows as a child before signing with RCA Records in 1998. During her first decade in the music industry, she became a prominent figure in mainstream popular music and popular culture. Aguilera's first three studio albums Christina Aguilera (1999), Mi Reflejo (2000), and My Kind of Christmas (2000) achieved international success; the former spawned the number-one US Billboard Hot 100 singles \"Genie in a Bottle\", \"What a Girl Wants\", and \"Come On Over Baby (All I Want Is You)\".Displeased with her lack of input, Aguilera parted ways with her management and assumed creative control for her fourth album Stripped (2002); its second single \"Beautiful\" helped the album's commercial performance amidst controversy over her image. While Aguilera's soul, blues and jazz-inspired fifth album Back to Basics (2006) was met with positive critical and commercial feedback, her sixth album Bionic (2010) had trouble maintaining commercial success. Later that year, she made her feature film debut in the musical Burlesque which was released to mixed reviews. Aguilera served as the soundtrack's executive producer earning positive reviews and substantial sales. Aguilera's seventh album Lotus (2012) garnered mixed reviews and poor sales. She served as a coach and judge for the first three seasons of the American version of The Voice from 2011 through 2012.Aguilera has been noted for her vocals, music videos and constant reinvention of her image. Her music discusses themes of her childhood, public scrutiny, and female empowerment. Her work has earned numerous awards and accolades, including a star on the Hollywood Walk of Fame, a Golden Globe Award nomination, four Grammy Awards, and one Latin Grammy Award. Aguilera has sold over 50 million albums worldwide and has earned five number one singles on the Billboard Hot 100; \"Genie in a Bottle\" and the collaborations \"Lady Marmalade\" and \"Moves like Jagger\" are among the best-selling singles of all time. As one of the top-selling artists of the early 2000s, Billboard named Aguilera as the top female artist of 2000 and 2003. Rolling Stone ranked her number fifty-eight on their list of the 100 Greatest Singers of All Time, ranking as the youngest and only artist on the list under the age of thirty. She was ranked the 20th Artist of the 2000â09 decade by Billboard and is the second top selling single artist of the 2000s, behind Madonna. Aguilera was ranked number eight in VH1's 100 Greatest Women in Music and was one of TIME's 100 Most Influential People in the World in 2013. Outside of her work in the entertainment industry, Aguilera is involved in charitable activities through human rights, world issues, and her work as a UN ambassador for the World Food Programme.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.christinaagulieraapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

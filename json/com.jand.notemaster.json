@@ -1,0 +1,68 @@
+{
+  "title": "Note Master - Notepad - ToDo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jand.notemaster",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 4, 2013",
+  "version": "1.16",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "6",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "m bach software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jand.notemaster",
+  "extendedInfo": {
+    "installSize": "413k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Key Features- One click voice recognized note creation- Password protect (and encrypt) sensible note content- One click \"edit last modified note\" via widget- Organize notes by multiple categories, notes appear under each possible category tree they belong to- One click create new note via widget- Set notification/alarm time for notes- Send notes or entire categories to other application (e.g. email)- Create notes from other application (e.g. browser)Simple and powerful way to create and organize Notes, ToDo Lists, Reminders, Memos.Notes can be- created by voice (if you have a category named \"Shopping\", say: \"Buy Bread ... Categories: Shopping\")- assigned to one or more categories- reminders and have recurrent or one time alarms- assigned different priorities- password protected (and encrypted)- \"shared\"- automatically deleted if they had a non recurring reminder date arrived and the reminder was acknowledged (see Settings menu)Categories can be- \"shared\": all notes in that category will be collected for sharing- hidden from the main view: keeps your top level categories organized (see Settings menu)- searched: find notes inside a specific categoryRoadmap- Import / Export notes to SD Card / Cloud- Sync with Google Drive / Google Tasks- Note attachmentsPermissions- RECEIVE_BOOT_COMPLETED: so that reminders can be reactivated after device reboot- VIBRATE: for notification- INTERNET / ACCESS_NETWORK_STATE: the free version of note master needs this in order to display addsShort User Manual (more help and roadmap can be found in the \"Help\" category of the app):- Create notes by clicking on the (+) button from withing the application or from the widget, or by clicking the microphone button.- Assign notes to categories by clicking the \"Categories\" button when note is in edit mode.- Delete notes or categories by long-clicking on the note or category and selecting \"Delete\". Note: when deleting a category the selected category will be removed from all notes that have the category assigned to them. No notes will be deleted when deleting a category!- Encrypt notes by pressing the \"lock\" button when note is in edit mode. A pass-phrase dialog will ask you for an encryption \"key\". In order to read the encrypted note at a later point you must supply the same key. The pass-phrase is stored in memory for the apps session only and can be cleared by pressing the \"clear password\" button from the context menu.- Find notes by browsing the categories and selecting the \"All\" category at any given time. The \"All\" category will be automatically shown if the notes inside the selected categories are in less than 2 different sub-categories.KeywordsNotepad, Note Pad, Notes, Memo, Todo List, To Do List, Journal, Notebook, Shopping List,Task List, GTD, Getting Things Done",
+    "reviews": [
+      {
+        "timestampMsec": "1373937325684",
+        "starRating": "4",
+        "title": "Great app but lacks features.....",
+        "comment": "Please add sorting (by priority, date, etc.) and font sizes option.  Thanks.",
+        "commentId": "gp:AOqpTOEcSeUh_IvR7dgIxdaTYFvCTgQ6uI7w1FhpsWuVujPKdv1432RLig-MpuReFZ64e01yZZniumFzZXxDawA",
+        "author": "Alfred Y",
+        "authorURL": "http://lh6.googleusercontent.com/-n9_WcZRlymI/AAAAAAAAAAI/AAAAAAAAAEM/atUeyWa2zb8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-n9_WcZRlymI/AAAAAAAAAAI/AAAAAAAAAEM/atUeyWa2zb8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358312398882",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Easy to use, promising app.",
+        "commentId": "gp:AOqpTOE-B2fIiNs1KhiXs7uHtUPw9JI_K7WC1RGAaeJ5mbZ7DkuESoYwRM3zGqdxpd-qjedItHPYuGMzRoE6IQ8",
+        "author": "fabi lita",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358302116413",
+        "starRating": "5",
+        "title": "nice app",
+        "comment": "easy to group your notes.... liked it very much.......  waiting for more features in new release. .......",
+        "commentId": "gp:AOqpTOEtLOxsDKk1H47pTqxht45fhX-2xEnUDLJihjFMsE5EK_-AqJKh-KMHjPimOoUfb1akWM_55cnaeawrRJc",
+        "author": "Chintan Parekh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358796084943",
+        "starRating": "5",
+        "title": "Guay",
+        "comment": "Finalmente un app con carpetas. Mola un huevo. Y adem\\303\\241s es gratis",
+        "commentId": "gp:AOqpTOEfFjPjamnqG1hKVoKXtMGSV1uOmUIAxRH9vOynvmQe1Jgb4d_cnBeSSW7OMFM_gObFIhHmAyQ0aNHtL68",
+        "author": "Heidi Page",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

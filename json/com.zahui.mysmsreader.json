@@ -1,0 +1,217 @@
+{
+  "title": "My SMS Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.zahui.mysmsreader",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "January 28, 2012",
+  "version": "1.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "123",
+  "rating": "4.3252034",
+  "contentRating": "Low Maturity",
+  "creator": "Zahui Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.zahui.mysmsreader",
+  "extendedInfo": {
+    "installSize": "592k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "My SMS Reader is an application that lets you listen to your text messages (SMS) at the time you received them.It is also possible to listen to all messages you have sent and received.Like common SMS apps, messages are grouped in conversations. This allows you to have the experience of listening a text message conversation as if you were listening to a real conversation.Besides, this app allows you to select the gender of your contacts so you can listen to a male or female voice as appropriate.If you prefer, when a new message is received, you can read it automatically or by pressing a play button shown in the âMessage Receivedâ pop up window, it shows the message, the contact who sent it and a button to start playing the message.Requirement: Install \"SpeechSynthesis Data Installer\".Remember to uncheck: Voice input and output -> Text-to-speak Settings -> Always use my config.Main features:3 types of notification* Automatic reading* Pop up window* Off2 languages GUI configuration* English* Spanish5 Reading Languages* English* Spanish* French* German* ItalianAll your comments and suggestions are welcome.In Zahui Software we are continuously looking for the improvement of our apps.*Thanks to Erick Vladimir Guzman Galeazzi for his essential contribution.",
+    "reviews": [
+      {
+        "timestampMsec": "1355488240404",
+        "starRating": "4",
+        "title": "Works good on HTC EVO",
+        "comment": "Love it. Very user friendly. even better if it could read my contact\\'s name instead just phone number, nowadays I don\\'t think many people remember their own number nevertheless their frinds.",
+        "commentId": "gp:AOqpTOHzst9K37dd_XniPfLAG2w4kljsGa9EM2mQ6x0joUBQ3Xa4T9QAYhrSdN_Pp7_dspCnB3gBif15Td8pkw",
+        "author": "Sai Lee",
+        "authorURL": "http://lh4.googleusercontent.com/-yEPG1Lcqkhw/AAAAAAAAAAI/AAAAAAAAAAA/G9VdCqye270/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yEPG1Lcqkhw/AAAAAAAAAAI/AAAAAAAAAAA/G9VdCqye270/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367413945304",
+        "starRating": "4",
+        "title": "Fantastic App but...",
+        "comment": "I realize that nothing is perfect, and there is always room for improvement, but I am really disappointed.  It is a great app all the way around except for it not puling the name out of the contact and either reading it or at least displaying the name.  How many phone numbers do you remember?  In a pinch, I might not even remember mine! Ha Ha.  I think that one change would make this a first rate app.",
+        "commentId": "gp:AOqpTOGaV5vzinbwRQS_U9N_utjKa-kA2WnGtblLyp8PvSh1wMuZ4s3y9jNr-J0hfl8CMUWHlwB082WJFVWOBA",
+        "author": "Ian Goldberg",
+        "authorURL": "http://lh5.googleusercontent.com/-DoR__T5iqFY/AAAAAAAAAAI/AAAAAAAABsE/futNohdNsLM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-DoR__T5iqFY/AAAAAAAAAAI/AAAAAAAABsE/futNohdNsLM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352174534743",
+        "starRating": "5",
+        "title": "BigGlock88",
+        "comment": "Samson galaxy s2 excellent High   recommended",
+        "commentId": "lg:AOqpTOGpIT4wlFHBNdvZjqzhT6xzL_RBp0CtqlATS2S_97H30jtLoocUZmyPWaO5ADbll0tRb5GNQhDr_QnbrQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336499283884",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "Works great with my HTC oneX",
+        "commentId": "lg:AOqpTOFsrcom3UzRDWfNNNEdfbEDeioQwg5N4tvq3lbLIDr9KekvLnANqFeUhanWHol9gZWAyN8s7P34RsIT8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336918082344",
+        "starRating": "5",
+        "title": "Very gud",
+        "comment": "I never ever seen diz kind f application.wow",
+        "commentId": "lg:AOqpTOHnE_Du_JEo-jvjKYz4inWZURMjmRAaBagSptcZCve3ZzUs_vQw2Mxix136Kks9585ZL3tPV0ZMjc6kfA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341218547066",
+        "starRating": "1",
+        "title": "Suck",
+        "comment": "This app doesn\\'t work at all",
+        "commentId": "lg:AOqpTOEI3gCAJPb_v79olRRS2Z0MKcyCvbm8FEkucq2vMkYpTZI7eq2QmtpP0_241DyjhrJRyQGWTASY9EwVWg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329289815411",
+        "starRating": "5",
+        "title": "Sensai",
+        "comment": "I haven\\'t try it yet I\\'m counted on it. Lol",
+        "commentId": "lg:AOqpTOGi6JxnXAZmTR8-t9N2YBMO1C9c253HMPY0dBqXq7jpc80gmVoUU5lxrQXWte7IC095gGg0NmGcZn4kRQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335460881409",
+        "starRating": "5",
+        "title": "Great app!!!",
+        "comment": "Great, works as promised. Prompt before read aloud option is great, that is why I chose it. Great job dev!!!",
+        "commentId": "lg:AOqpTOG9nCeow6_GA3ezbjSg_FLUjdwJ1QIsXn3kIUfS7EP-WH-eTRcMFTHoRSEC-GCIXyd94xAzVYTpBYfeyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342091254758",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "This is not working.waste of time my dear friends",
+        "commentId": "lg:AOqpTOH5inFUNGNjMRNWqxBDWipBexnaIMlt8uNWBbBPbW_v9ul-12oAuTNqwDVYJZVz0RAJjuNtDlKaLZUgjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376206487312",
+        "starRating": "5",
+        "title": "Despoil",
+        "comment": "Despoil",
+        "commentId": "gp:AOqpTOHNg0nC0oOXvSuHkdCRGJnWGX48b2oxS6Sq_Y0GfylyqGlFtDOxZ5Wue_kqNgrlr-C7FOuIRIaKCJE1qw",
+        "author": "swapnil dalimbkar",
+        "authorURL": "http://lh6.googleusercontent.com/-SpmiT-We9wE/AAAAAAAAAAI/AAAAAAAAAQI/Uqa_R50riac/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-SpmiT-We9wE/AAAAAAAAAAI/AAAAAAAAAQI/Uqa_R50riac/photo.jpg"
+      },
+      {
+        "timestampMsec": "1331024411321",
+        "starRating": "5",
+        "title": "SGS2",
+        "comment": "Wow Awesome. App",
+        "commentId": "lg:AOqpTOG-nxHi1HfABsxxnAm58GQoXoqanHVgtZzwZP7eocIFGfFtSAPqQxFR6--STg-wTGRLMHr9hKaHBZurEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366007064082",
+        "starRating": "4",
+        "title": "Works",
+        "comment": "Good app",
+        "commentId": "gp:AOqpTOFjM5l8146R_3P_WB3k0rMn1O0_EhzV7txC5QUm14Ie9McheqNOwGjjH8sxb02CjuPzIbUpj37ncbVpdQ",
+        "author": "Bryan Davis",
+        "authorURL": "http://lh5.googleusercontent.com/-4HxYOonnXd0/AAAAAAAAAAI/AAAAAAAAMe0/OqhqnI6oSy4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-4HxYOonnXd0/AAAAAAAAAAI/AAAAAAAAMe0/OqhqnI6oSy4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367310822283",
+        "starRating": "5",
+        "title": "awesoooome!",
+        "comment": "extremely convenient",
+        "commentId": "gp:AOqpTOHVT4tzCqd2V1VKvrUb99bL1noHk0PNEswSGILc4H1Fbe6oDN9_mHro83uffOXibw_BU56IHRzi_dxG4Q",
+        "author": "Charles Wahome",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374937362109",
+        "starRating": "5",
+        "title": "Ch",
+        "comment": "Gh",
+        "commentId": "lg:AOqpTOHE86rkRFEBOdpyzfvI63vU6FNj9uILE-dqf_OFyLuDLy6x6jyBdJedzrdO-OmRKlRp9yG9Sgbqj_F-1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334987120704",
+        "starRating": "1",
+        "title": "Jigar.iglesias",
+        "comment": "Fucking nothing happen",
+        "commentId": "lg:AOqpTOFkqbmG7u02zUd1v8NjICvLh2lr72JPAKoggUsWiQhZq0D6B7kWSmJPDoVOMyVNEaMEb9AR4RXyubq91A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327687904346",
+        "starRating": "5",
+        "title": "Gr8 software...",
+        "comment": "Awesome job by the developers...",
+        "commentId": "lg:AOqpTOETmkAYsxQz9vV50SGYi1Tf1qDjTqjFHSfwvQu5MbrbzdzboVoA6Bb_9zc1WGaE4TrJfJWtOuTOESJI5g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325949273250",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Great",
+        "commentId": "lg:AOqpTOG5rmC6A39wlLyiYhtttTcNIm9d3cbA7ZosmloOeE6aFRV6H_R2x78xnwLzPs0TSQ2u_GEay0IXpvRSww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346964760339",
+        "starRating": "5",
+        "comment": "Nice app I like it!!",
+        "commentId": "lg:AOqpTOHxIpN-46X_1nlpSzGmhN2uRHBaLEXWJvkwGH8buT2LKmp7WEDRb4VHVz06fzc0c7l6fMQKiFQWnOhmGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335032448508",
+        "starRating": "5",
+        "title": "Y",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOHAbDKuCvaoZzV_lIcYNql7eVx21qeSYSo-ODsdPyROhApkdMDUJih3t9oGqNGkol1ttCixOre--J8OGQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356102833112",
+        "starRating": "2",
+        "title": "Not for me",
+        "comment": "Needs option to delay message readout so phone notification had time to sound without overlapping message. Some issues with language in dialogues.",
+        "commentId": "gp:AOqpTOHtR_4MM5UFra4UWeKCvFSHHUKtiree0JYGBtg2fEwqAmU2UWyzdkn6fYOI4EGOQty3pNtCetSWFZbo_A",
+        "author": "Stuart Waudby",
+        "authorURL": "http://lh4.googleusercontent.com/-ZmwcibGDKjY/AAAAAAAAAAI/AAAAAAAAA8c/omEOXQ_dMIU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ZmwcibGDKjY/AAAAAAAAAAI/AAAAAAAAA8c/omEOXQ_dMIU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

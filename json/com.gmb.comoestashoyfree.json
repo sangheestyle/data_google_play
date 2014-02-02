@@ -1,0 +1,44 @@
+{
+  "title": "How are you today? free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gmb.comoestashoyfree",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "November 25, 2012",
+  "version": "1.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "23",
+  "rating": "4.3913045",
+  "contentRating": "Everyone",
+  "creator": "molbalga",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gmb.comoestashoyfree",
+  "extendedInfo": {
+    "installSize": "2.9M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Would you like to improve your emotional intelligence? This is the perfect application for it. Created by a team of professional Psychologists, How are you today? will help you to feel better day by day, know yourself better and work in your emotions in order to let them help you to achieve your vital objectives. Customize it with your own pictures and remembering phrases and make it yours!With this app, you will be able to valuate better what is really important through the diary lessons and phrases, especially designed and chosen for your personal growing.Take some time for yourself and record each emotion you felt through the day. Fathom into them at any time and you will see how your life quality improvesDo not forget to take note of your anxiety level and your mood to visualize your process.Also available in Spanish!Please note that this is the demo version for How are you? application. You will only able to store data in 5 different days. But all the rest of the functionality is available so you can evaluate it before purchasing.",
+    "reviews": [
+      {
+        "timestampMsec": "1371244559847",
+        "starRating": "1",
+        "title": "Gone.....",
+        "comment": "Only 5 free trials...not for me, not wasting anymore time on it",
+        "commentId": "gp:AOqpTOH2Y6S2-2_hlC5LLrhh9bf9gPTCIMBeCk3GmyhOUHlJpe5EQpzh8q50PbBCqn8QlpmGyxS2mwxIBFwgKpM",
+        "author": "Anita Stunell",
+        "authorURL": "http://lh5.googleusercontent.com/-G2f9j8Qmjyg/AAAAAAAAAAI/AAAAAAAAASU/7UeKjx7FF2A/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-G2f9j8Qmjyg/AAAAAAAAAAI/AAAAAAAAASU/7UeKjx7FF2A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1351935976217",
+        "starRating": "5",
+        "comment": "Great app",
+        "commentId": "lg:AOqpTOFZrz7nLuqjCoivo5mjnyo4FAuX-z-TgozSb3g7uWodhWR_DK7jyHtAB1VGNag01Ysg3RJM43VdqXPyW-4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Biochemic Tissue Salt Resource",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.godiversis.biochemic",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 8, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "7",
+  "rating": "3.857143",
+  "contentRating": "High Maturity",
+  "creator": "goDiversis",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.godiversis.biochemic",
+  "extendedInfo": {
+    "installSize": "486k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "*********************New version here:https://play.google.com/store/apps/details?id=com.godiversis.BiochemicTissueSaltResourceSearch for Biochemic Tissue Salt Resource (New)This version will remain here but wont be updated*********************All complementary medicines, Biochemic Tissue Salts aim to aid healing and well being. Enjoy this free resource which will take you through your ailments and help you arrive at a remedy for your consideration.Biochemic cell salts aka Tissue Salts or Cell Salts are alternative remedies based on inorganic salts elaborated by Wilhelm Heinrich SchÃ¼Ãler (1821â1898). Although moderately diluted (3X-6X), they are not classed as homeopathic, because they are not purported to act according to the \"like cures like\" principle of homeopathy. Nonetheless, they are commonly advocated by people who also advocate similar alternative medicine remedies, including homeopathy. (Wikipedia)!!This is a resource for your reference NOT as proxy to proper medical advice. When in doubt go to a medical professional!!",
+    "reviews": [
+      {
+        "timestampMsec": "1360343209368",
+        "starRating": "1",
+        "title": "Primitive",
+        "comment": "Very limited resource not useful",
+        "commentId": "gp:AOqpTOHu5-dPyV6aDVx05sWvusq-JtrlSZ7JWvmEUTt4yRnyNi3i7sbeYbIB9b0lEt6bMmxk7udZfH2QcTQ8",
+        "author": "Suneel Dhariwal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376327146019",
+        "starRating": "5",
+        "title": "Techno",
+        "comment": "Great",
+        "commentId": "gp:AOqpTOE-oRH6htuvQPhs_H3_p-xBp6OWIKxUGdViPVN5uS38RMlJZmJfvb5iwePP0UN5oo5YpHSw6rwmi2sq",
+        "author": "Arunesh Arora",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365861591328",
+        "starRating": "4",
+        "title": "Cool",
+        "comment": "At last, an app for cell salts. Its nice and cool.",
+        "commentId": "gp:AOqpTOEQYoOgCO051OXReVVR4VU8D49zzK5Lu3Locc2t8gXMEktwP8OHjZzv9WtS1r4T6u8Me1JRFB4WyK-q",
+        "author": "Beclipse Delune",
+        "authorURL": "http://lh6.googleusercontent.com/-9apJqkZLy_Y/AAAAAAAAAAI/AAAAAAAAAAA/IXADk7hWVmg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9apJqkZLy_Y/AAAAAAAAAAI/AAAAAAAAAAA/IXADk7hWVmg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

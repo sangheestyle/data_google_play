@@ -1,0 +1,59 @@
+{
+  "title": "First State Bank Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.FirstStateBankMiddlebury",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "v2.1.7a1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "First State Bank - Middlebury, IN",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.FirstStateBankMiddlebury",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "FSB Mobile Banking from First State Bank â Middlebury, Indiana provides quick, easy and secure access to all of your banking needs â anytime, anywhere.  Download our free Androidâ¢ application to keep you financially connected wherever you go.  You can easily manage your accounts, make deposits, pay bills, find ATMs and more.  Enroll today from your First State Bank online banking account and start enjoying the convenience of mobile banking.MONITOR YOUR ACCOUNTâ¢ See account balances & transaction historyâ¢ Receive Account AlertsPERFORM TRANSACTIONSâ¢ Pay bills â¢ Transfer money between First State Bank Accountsâ¢ Make deposits with First State FastDepositâ FIND LOCATIONS AND CONTACT FIRST STATE BANKâ¢ Find the nearest First State Bank Office & ATMsâ¢ Speak with a service representativeDisclosure:Some features are available for eligible customers and accounts only.Android is a registered trademark of Google, Inc. There is no charge from First State Bank for the Mobile Banking service, but Person-to-Person payment transaction fees may apply based on account type.  Message and data fees from your communications service provider may also apply. Delivery of alerts may be delayed for various reasons, including service outages affecting your phone, wireless or internet provider; technology failures; and system capacity limitations. Any time you review your balance, keep in mind it may not reflect all transactions including recent debit card transactions or checks you have written.First State Bank Member FDICMiddlebury, Indiana",
+    "reviews": [
+      {
+        "timestampMsec": "1376014309285",
+        "starRating": "5",
+        "title": "Very easy to download and use!",
+        "comment": "A great way to access my online banking. Very easy to download and use.",
+        "commentId": "gp:AOqpTOFmv6dwP0PlqtrSTT6bh_PdpEFeyj1A_johLysuC90jMfyKDQ3UI87hlvQPJgAEmWoYtCFp42lUbVT7Fg",
+        "author": "Jon Miller",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346032995756",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Great app...works well and saves time!",
+        "commentId": "lg:AOqpTOFUvPIcv6-8A-ndEeszMCELn5J-lXfUuNkuAb09yDeoddB-N_TxGG9VHmibczbuwaX7lKI-19iG1Y5nJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346787176411",
+        "starRating": "5",
+        "title": "Mobile Banking",
+        "comment": "Easy to use. Works great on the road.",
+        "commentId": "lg:AOqpTOH7EbSkHCjw9AEiNm40MKjuXw3INQUk79o2JhNRkbiNl8EhJJAfgI69HIFaFlkxv9A5jH1f6rYip2B8Bg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.jackhenry.FirstStateBankMiddlebury.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ]
+  }
+}

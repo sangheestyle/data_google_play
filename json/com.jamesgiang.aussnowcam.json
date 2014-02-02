@@ -1,0 +1,147 @@
+{
+  "title": "AusSnowCam (Free)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jamesgiang.aussnowcam",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "July 31, 2011",
+  "version": "3.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "27",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "James Giang",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jamesgiang.aussnowcam",
+  "extendedInfo": {
+    "installSize": "136k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "***FREE VERSION***Craving some snow?See what's happening at snow resorts across Australia from your phone/tablet with ease!AusSnowCam provides you with a simple interface to quickly browse snow cams of various snow resorts in Australia.To show your support for the app and sponsor the developer's coffee fund - please purchase the donate version of the app on the market.Currently supports the following resortsVictoria-Mt Buller-Mt Hotham-Falls Creek-Mt Baw Baw-Lake MountainNew South Wales-Thredbo-Perisher-Selwyn Snowfields-Charlotte PassTasmania-Ben Lomond-Mt MawsonThis app is not affiliated with any of the above mentioned snow resorts. All images are copyright to their respective owners.Weather Data:Copyright Commonwealth of Australia 2011, Bureau of Meteorology.For more information see: http://www.bom.gov.au/other/copyright.shtmlSource code available on GitHub https://github.com/jamesgiang/AusSnowCam==Please Note==If you have issues launching the app after updating to version 3+, please re-install the app to fixCHANGELOG:v3.3-Added Tasmanian snowfields (Ben Lomond and Mt Mawson)-Added donation support on free app-Released donate version of app (no ads)-Added Honeycomb 3.2 support-Readjusted menu layoutv3.2-Added weather supportv3.1-Added all cams for Hotham-Fixed up cam names for Thredbo and Perisherv3.0.1-Fixed issue with Charlotte Pass and Lake Mountain incorrectly loading Selwyn cams on phone (Thanks Jason!)v3.0General-Added menu icons-Major codebase refactoringTablets-Optimized layout for tablet devices-Supports dual-pane viewing for both portrait and landscape-Cam selection now in a list as opposed to a spinner-Resort selection now part of the Action Barv2.2.1-Fixed issue with Charlotte Pass' webcams not loading due to new URLs-Dropped support Android 1.5 in preparation for Honeycomb updatesv2.2-Added support for \"Little Buller Spur\" cam for Mt Buller-Added support for Lake Mountain-Fixed ad & spinner alignmentv2.1-Added support for Selwyn Snowfields and Charlotte Pass-Added Google Analytics tracking-Fixed up ad loading issue-Retweaked codebasev2.0-Added support for Mt Baw Baw, Thredbo and Perisher-AusSnowCam now licensed under Apache License Version 2.0v1.1-Added Small screen supportv1.0-Initial release-Supports Mt Buller, Mt Hotham and Falls Creek",
+    "reviews": [
+      {
+        "timestampMsec": "1339989508780",
+        "starRating": "5",
+        "title": "Nice and simple",
+        "comment": "Nice little app. Just can you please make the images default to the screen width so we can see the whole image at once (currently you can not zoom out enough to achieve this).",
+        "commentId": "lg:AOqpTOEW7inxANG-mk3_1WZ83hjFepsePGg1LB_jNb4POFTG62T3KSKgciWdZ2aXZt06Hw-gUtsBqZc3rjRWs-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368521033476",
+        "starRating": "4",
+        "title": "Nice app",
+        "comment": "A nice, simple app. Very handy. Does what it does well!",
+        "commentId": "gp:AOqpTOEqqa0dD1JChGzcavtPk5NX6o_V5GRdBwR5NdXDHNf5uGNN9MaEjmvrOdf6EjDLN69OLHwlfKnxTEpV9oU",
+        "author": "Leigh Sharp",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335257994417",
+        "starRating": "1",
+        "title": "Hard to navigate",
+        "comment": "Great idea, just the what I want but it is too hard to navigate. I wish the snow report was displayed too.",
+        "commentId": "lg:AOqpTOELDtyD1EVeDn7vUHuogOb5hG341XKWF7qAQ8RFuV3tRk_s7ke8W4hLNaQYELGD4p8MHeUc3bIuv8WuGUY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346720369020",
+        "starRating": "5",
+        "comment": "Great app!",
+        "commentId": "lg:AOqpTOFjJ4lJs_AwA-wnzhlbTdyi70gIKxMz78DsD7zoAhf3LTm0nzrnKs8DklQZZ3oLxLM9DWb0yLNyLl2ClWs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311161630639",
+        "starRating": "5",
+        "comment": "Best snow cam app I have seen.",
+        "commentId": "lg:AOqpTOG4rD47x4J_hye-UE2lHnCecWMmB1Co3fHRcm-u4ny3V7OurI53k2eF7LyA_lP_A7BRaGadX-Tp2yNFKjI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312839874068",
+        "starRating": "5",
+        "comment": "I dream of the ski fields while at work every day....sigh.",
+        "commentId": "lg:AOqpTOHGmoYBS_KUv9lT9V3OI9UDJ8b1ukF60TvVL2NePr3ut70ZyYBD3IGmWqQXnUpqmKdt0cDwo-DWkjdDsSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312237232796",
+        "starRating": "5",
+        "comment": "Thanks for adding weather support!",
+        "commentId": "lg:AOqpTOE9AUOVXRjz1-FC1JV55Kr4rFk7x-bftrt3IkTYCBrHlpevphFqqqkdSsF7-IRJo96hNTQU3CrcnQkjgUI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.1",
+        "timestampMsec": "1310284946269",
+        "starRating": "5",
+        "comment": "excellent and developer is quick to make changes when they are requested.... allowing us to really look forward to our skiing holiday",
+        "commentId": "lg:AOqpTOGD2zN8XA23fGpfIm8LC0Spna-ZVbpvBwvhiL1LqqFHBsLXSoffgmxw56xFqkHvUYVFpWSUbLKK6tK2DcA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309560691133",
+        "starRating": "4",
+        "comment": "Please add ability to copy image/ share image through email, mms, fb, Google+ etc.",
+        "commentId": "lg:AOqpTOFUO1Zj7joxgB-WLADxJdaTDSaRQUY4r_6rzaWE3Uqn1ERpnvy6QpsZZzTAH0p6_1kgP8vx3psLvuRji3A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1310214281011",
+        "starRating": "5",
+        "comment": "Nice little app",
+        "commentId": "lg:AOqpTOEuuh203sa7vIbxN9S85KRk8nagXH2MovarASAwRx9gLN9TscC7glcWfvDsBPIHBQbeIIN0jDgJhadf0Dc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309060872728",
+        "starRating": "5",
+        "comment": "Simple but goood",
+        "commentId": "lg:AOqpTOEOTtHAIVMoiiF9SfHLgpHvBZU8GiT3vmJfqGLFEMBeHAePoBaURZzKA3suaBfqGIHa-ViKoO6gfHwNKyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347682220527",
+        "starRating": "5",
+        "title": "Nice app",
+        "comment": "Easy to navigate",
+        "commentId": "lg:AOqpTOEc8mlphn9TklY0NN2l7b--3oq9AhxgEE5GJYW3Kqym_-y8638FdxLqqqok-S9dRQN7r0jkMnKHwawsbWI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342388956760",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "This is the best in app snowman experience yet!",
+        "commentId": "lg:AOqpTOH5D7Sx65QvwVX6PFdyTIXahQCxb6Fu7iiYi63UANPRgWmLDEBuVm8p3EVr5imr2zhKL0l-9Kp1-SWkaJE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340317506209",
+        "starRating": "1",
+        "title": "could not display snow cams",
+        "comment": "Uninstall.",
+        "commentId": "lg:AOqpTOE3Lv1u8T_COFOIaXLUaI8yEinW0qGUaSKtBEdIZdO_Qv1SFBibkDqtJ5w5HQFPeuWjpnPAy-iHqRa0XmY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

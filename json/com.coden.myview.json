@@ -1,0 +1,222 @@
+{
+  "title": "MyView - player & server",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.coden.myview",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "August 5, 2011",
+  "version": "01.00.28",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "536",
+  "rating": "3.7817163",
+  "contentRating": "Everyone",
+  "creator": "CodeN Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.coden.myview",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "MyView helps to enjoying media that you want to play.You can play contents that you and your friend have.How to enjoy MyView?1. Get MyView HomeServer from MyView Website(http://www.imyview.com)2. Install MyView HomeServer.3. Once the server is running, Set-up share-folder that you want to play.4. Run MyView app5. Add you or friends MyView Server.6. Just Play!* Features- StreamingMyView can stream videos to your Android phone. You can playing videos on 3G or Wifi. Just to play them.- Conversion If the videos in your collection are not in format supported by Android, MyView can streams them on live conversions entire file.- DownloadIf the videos in your collection are not in format supported by Android, MyView can Download that coverted entire files.* Supported formatsVideo - MP4, AVI, WMV, TS, TP, MKV, MTS, MOV, M4V, SKM, FLV, K3G, MPEG, 3GP, Divx, Xcid, AVC, etc.Audio - MP3, WMA, Dolby Digital, etc.Air video* Supported devices- Android OS 2.1 or later supported- Test Equipment: GalaxyS, Take, HTC Desire- Optimizing Resolution: 480 * 800",
+    "reviews": [
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1329497089277",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOE1qVV0CHmERLuRl388YHPN5OwATJYjPsJpwUoBUysgOcsBo8biqhqequmke-ld8rjxqBLbCBVX3ZGsf58",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1318391406330",
+        "starRating": "4",
+        "title": "Amazing ...& easy to use",
+        "comment": "Works good for my Acer iconia & my sony phone. Hopefully will make it support RMVB soon.",
+        "commentId": "lg:AOqpTOGRlLxiCMCFV5TmgqOw9VnDAcBzuwig-awJ5f105QOWw38AjGJbjZxIH7OLU5JZworLwtDx7IaKtQDwvac",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1326319780811",
+        "starRating": "4",
+        "title": "utter Bollocks. get bubble upnp instead",
+        "comment": "it wont play anything! without converting it! get bubble upnp. that plays over3g and WiFi and upnp. works effortlesly",
+        "commentId": "lg:AOqpTOGrz7BP0ZW_BCEBLXQs1NAHHT6x4otOXZqkteoPoInV2wRI7onvJxQ6HMqsad65eiRuwSj1_LZm04vb4no",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1312625094392",
+        "starRating": "1",
+        "comment": "Sucks.. doesnt work. the interface is ugly too.",
+        "commentId": "lg:AOqpTOHbaZJx14_3zq_sB0JcW7QiiqPBdWgZabz7x4wLnhiT_rTJ6AGcu__qHmVIRkPndHFrny2Jq4yWiQ483qE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1331151987182",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOHVTNMq5A_T9gp9Yw3M7NgOhu1rB3Xwk-qIAD3ooRPmHZdhFMccZLqf8FyLPOJPMumcUy2N3z6bMVx9OwA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1317727325481",
+        "starRating": "3",
+        "title": "Good app",
+        "comment": "Does what I need it for, so I like it.",
+        "commentId": "lg:AOqpTOFfgntN7jQrvaO9_d9OdHWpsKxE11nrH2n20sCM16yejTZx8rxaSaN9MExAzxpES9EWT1dbesjAtTGNOzw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1320153852817",
+        "starRating": "5",
+        "title": "My Xview player",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOGbFQwGJ8A9SznWQosVCCOnxZ6D2FszwqkCOQlFhiLr_QEZhguEfzI7Ec4F1tjafrXco7Heh4FVpNbqDXU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1341366704411",
+        "starRating": "1",
+        "title": "Stupid....sucks! !!!!!!",
+        "comment": "Foreign language. No english support. Un installing!",
+        "commentId": "lg:AOqpTOFvDzFOsd9QBTnRd6WJjpAJBrIB-nadsVHDEih0OW5jfLvTB7wFOZzaKLZ9HHpVo-rRIIsOaRvp9K-ECCo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.28",
+        "timestampMsec": "1325155401828",
+        "starRating": "5",
+        "comment": "The best app media server on the market. I am telling you, better than VLC streaming.",
+        "commentId": "lg:AOqpTOHcHhGKM78XWpy5oP58_VseLQ4ffbX9EyRpjlcGbyIkD-XGep6SkmllKXgmhcyQUECNnxQsS89jMiFyd2k",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.27",
+        "timestampMsec": "1312690992897",
+        "starRating": "5",
+        "comment": "Using it via WiFi on my HTC desire HD and it works like a charm.",
+        "commentId": "lg:AOqpTOFV4BPutiNDbIEcQWvqIAazdY-0PliXdTEY5H9TszdFK4aOqDAeKOOYj_pjbDMWlAmR60S5X4PPqH2m99o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.25",
+        "timestampMsec": "1302017156342",
+        "starRating": "2",
+        "title": "Shows Promise on D1 but unreliable V10016",
+        "comment": "Looking forward to this app maturing over the next few months, but not good now. New Feature Suggestions: - Add the ability to change the encoding resolution on the server. The current settings use too much bandwidth for 3G and sometimes make unplayable vids on WIFI. Add the ability do download files pre-encoded by other apps. Update the encoding engine to something faster like DVDFAB. The current process is too slow. Make the error messages display based on the language settings. List as ALPHA",
+        "commentId": "lg:AOqpTOFQLxbwZrBZtV5t3vd9nU7OkooXoDaSD8D1ZEFumBlAyRcMd_vPRm-K9ZmGjVKOMO0MK3JjPmPvBKN3Mr0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.25",
+        "timestampMsec": "1309400756275",
+        "starRating": "4",
+        "comment": "Its ok, good alternative for Apple\\'s Air Video. But this app needs improvement. Crashes a lot. Can\\'t seem to find how to change screen orientation.",
+        "commentId": "lg:AOqpTOHTU2AsZkamgnt1Lo-1lfvbvpx-8M4kmSpX7KXJmOxM_8uEzaMj-ZJXHiZsiE1PusyaWBYdX4Ac_FmOtSk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.24",
+        "timestampMsec": "1308814876491",
+        "starRating": "5",
+        "comment": "so far this app works the best in streaming your videos from a local network pc to phone!",
+        "commentId": "lg:AOqpTOFyK4R0ARPt7rO2HeCMe1vsA1uvkjz34-qGHUcjxA1BZVJnIvPHOlN85CWfH6raxJKyepFFTO-kyHaEgOY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.24",
+        "timestampMsec": "1308113686592",
+        "starRating": "5",
+        "comment": "Keep it up!! This is best choice so far. I hope it will be better than air video.",
+        "commentId": "lg:AOqpTOHqTUluN4eeAtU8ClkbVmG6bJqDZtLlkldrLaTFbChaK5iYBtnXBFXGrVDLMICm4CsYvouwC1ETrxbaJQs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.24",
+        "timestampMsec": "1308556979382",
+        "starRating": "1",
+        "title": "No good for tablet",
+        "comment": "Format forces portrait format, and takes no account of tablet orientation. Asus Transformer & Honeycomb",
+        "commentId": "lg:AOqpTOGAlXosTtn4dXNEGeCBm1gHGUgeO3dJ19cZANKw_kxPadf9KTHwnKtuaiRYtydTqCG98MJN6En91YuIyZU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.23",
+        "timestampMsec": "1307341347011",
+        "starRating": "1",
+        "comment": "B.s. no mpg play.",
+        "commentId": "lg:AOqpTOFGn9bcLphPcB8_9rR7bf0iDR3y3SMomBuquta6_3k02iUEC7lbOW3pbYEKoD_EDHSW44CKSe281Czs12s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.20",
+        "timestampMsec": "1305745865243",
+        "starRating": "1",
+        "comment": "Didn\\'t recognize files on sd card except mp3\\'s. Crap. When is android gonna get a good video player/streaming app?",
+        "commentId": "lg:AOqpTOGy6NPGeSqeMpuiEwjZDicNfrvkgk803kkw7T8FfK7GyWZ14oagulL2CjyDgRCGGVtDDeSnkT5aRA2QZFk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.20",
+        "timestampMsec": "1304437348528",
+        "starRating": "2",
+        "comment": "Brain dead app - creates 1000s of cache PNGs in video folder. Why can\\'t it put them in a sub folder?? Awful!",
+        "commentId": "lg:AOqpTOFOpZh7z6QKKHFckM6taYRISzCCcc1xFO8ei6hDuulaKCeeYzoA_nLWsu5kuGd6BETIz8e11gGjlvTEAY4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.19",
+        "timestampMsec": "1303031721498",
+        "starRating": "1",
+        "comment": "Parts of the user interface are in japanese and this app can not play .m4v even though the description says it can. ~Droid 2.",
+        "commentId": "lg:AOqpTOH_2_QZ2FcxH8Ezm-V8fg1yh6vehaxpZ8Ph3_Oghc5PyKlfNM-DkHsyNn3lakVO8JcywUOH0pJ2BBFdAPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.00.19",
+        "timestampMsec": "1303619758894",
+        "starRating": "5",
+        "comment": "I have tried all. This is the best so far. Waiting for the author to work on supporting substitle. Thnks",
+        "commentId": "lg:AOqpTOGXpzQ254IriNzdzH6Q-vmEyekJJdGQTrqMjrTZxY3swQGIj-0ak5KtltnDAX1DXK9DoF66kHfjfkoIs-w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

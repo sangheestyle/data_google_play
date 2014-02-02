@@ -1,0 +1,57 @@
+{
+  "title": "Contacts Cleaner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=br.com.contacts",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 25, 2012",
+  "version": "1.1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "34",
+  "rating": "4.0588236",
+  "contentRating": "Medium Maturity",
+  "creator": "Alan Martins Silva",
+  "creatorURL": "https://play.google.com/store/apps/details?id=br.com.contacts",
+  "extendedInfo": {
+    "installSize": "376k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "What do you want in the next versions? Answer it: http://goo.gl/L7U5G.\"Secret Contacts\" is a kind of secret agenda where you can store the phone number of people you want anyone other than you know. With the application you can interact with these secret contacts through SMS and calls.Order to maintain your privacy you need to create two passwords: one public and one private.The public password is a password you use to view all contacts on your phone, with the exception of secret contacts. However, the private password is the password that allows you access to the area of ââregistration, viewing, editing and interaction with their contacts secret.PS: If you want, you can also dial to your private password, once it has only numbers, to access your secret contacts. Otherwise, you can access the application by dialing \"99999\". Update your password and enjoy the news!IMPORTANT: IN 2.0 VERSION THE APPLICATION ONLY WILL BE ACCESSED DIALING YOUR PASSWORD AND NO MORE THROUGH THE MENU.Any suggestion or complaint, please send an email to igordevs@gmail.com.Enjoy the \"Secret Contacts\" and do not forget to comment!",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1342377466194",
+        "starRating": "2",
+        "title": "It\\'s ok but",
+        "comment": "I don\\'t like the fact that the phone contacts are available when u hav this app. Also u have to manually input name and numbers, as oppose to being able to select the one you already have.",
+        "commentId": "lg:AOqpTOE4zEKQKpUyfrvHlXq-79eqtdaeupUDhrKJgj80Cj9yV6Vsr9QM9uWahsPrEtjo6oXr57wCUSgtppZb2w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1361493827064",
+        "starRating": "1",
+        "title": "Kelvin hubbert",
+        "comment": "Really really sucks",
+        "commentId": "gp:AOqpTOGgM6hvGRxU7TKChMOmaBGQuzAoRTvHZ6vlzpn4LusDzPKc7Y7HeQkJqq133MjJKhSF6DwyGCFhBWm_lA",
+        "author": "Kelvin Hubbert",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

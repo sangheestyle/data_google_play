@@ -1,0 +1,41 @@
+{
+  "title": "Fun Kim Kardashian Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.kimkardashianapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.kimkardashianapp",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Kim Kardashian?  Do you want to play games with her as the star? Well now you can!  With this app you will be able to play Kim Kardashian memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Kim.Kimberly Noel \"Kim\" Kardashian (born October 21, 1980) is an American socialite, television personality and occasional actress. In 2007, she gained notoriety as the subject of a sex tape that subsequently resulted in a court awarding her $5 million; later in that same year, she and her family rose to prominence with their E! reality television series Keeping Up with the Kardashians, and its subsequent spin-offs, including Kourtney and Kim Take New York and Kourtney and Kim Take Miami. In 2010, Kardashian was the highest-earning reality star, with estimated earnings of $6 million.With sisters Kourtney and KhloÃ©, Kardashian co-owns the fashion boutique chain D-A-S-H. She has been involved in the production of several lines of clothing and fragrances. In August 2011, Kardashian married basketball player Kris Humphries in a widely publicized ceremony. That October, Kardashian filed for divorce following 72 days of marriage. The move garnered significant backlash from the media, who labeled it a \"publicity stunt\". After 536 days, Kardashian and Humphries reached an undisclosed settlement at the Los Angeles Superior Court, finalizing the divorce in April 2013.Kardashian was born in Los Angeles, California, the daughter of attorney Robert Kardashian and his wife Kris Kardashian (nÃ©e Houghton). Her father was a third-generation Armenian American. Her paternal great-great-grandparents, Sam and Harom Kardaschoff, were ethnic Armenian Molokan Jumpers from Karakale, Kars, Russian Empire (now Turkey). Their son Tatos anglicized his name to Tom, started a business in rubbish collection in Los Angeles, and married another Karakale Jumper immigrant, Hamas Shakarian. They migrated to the United States in 1913, just before the Armenian Genocide. Her mother is of Dutch and Scottish descent. Kardashian has two sisters, Kourtney and KhloÃ©, and one brother, Robert. Her step-father is Bruce Jenner, who won the gold medal for the decathlon at the 1976 Summer Olympics. She has stepbrothers Burton Jenner, Brandon Jenner, and reality TV star Brody Jenner; step-sister Casey Jenner; and half-sisters Kendall Jenner and Kylie Jenner. She graduated from Marymount High School in 1998.In 2000, Kardashian married music producer Damon Thomas; their relationship ended in divorce in 2004. Subsequently she dated R&B singer Ray J, NFL star Reggie Bush, Dallas Cowboys wide receiver Miles Austin and TV presenter Nick Cannon. She also dated model Gabriel Aubry. Kardashian was a friend of Paris Hilton, who introduced her to the socialite scene.",
+    "reviews": [
+      {
+        "timestampMsec": "1377411962363",
+        "starRating": "5",
+        "title": "Hottttttt",
+        "comment": "Beauttyyy",
+        "commentId": "gp:AOqpTOH0-0aEJ2kaRlu0Z6l3vjhuemt5TGbm1ajhW6qjvXOJAPtDPuQX6mC8tZT4tyyeb8X2BumCUHC198mI0Q",
+        "author": "akshat sharma",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.kimkardashianapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

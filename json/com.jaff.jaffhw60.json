@@ -1,0 +1,45 @@
+{
+  "title": "JAFF Home Workout",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaff.jaffhw60",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "January 26, 2013",
+  "version": "1.1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "20",
+  "rating": "4.7",
+  "contentRating": "Everyone",
+  "creator": "JAFF",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaff.jaffhw60",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "JAFF HOME WORKOUT!+ Awesome full body home workout program!+ 60 workout days with individual training plans for each day!+ 20+ different exercises for efficient full body training!+ All features included, no in-app purchases necessary!+ Beautifully designed app, just right for your workout success!STAY HOME - WORK OUT!+ Use your own body weight as resistance!+ Gain strength without leaving home! No gym or additional equipment required! All exercises can be performed at home!+ Also perfectly suited for all travelers - efficient workout for every hotel room or the beach!START NOW!+ Get in shape and see results now! JAFF Home Workout gives you a carefully composed workout for every day.+ Improve your balance, flexibility and strength! From arms to chest, abs, core and legs all major muscle groups are covered.+ Stay motivated! Every exercise is supported by an animated countdown timer.+ Control your achievements! Check your stats and see how much you achieved since starting your JAFF Home Workout program.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1374531640709",
+        "starRating": "4",
+        "comment": "Please add feature to track improvements over time",
+        "commentId": "gp:AOqpTOHP-0l_wYL0oyDLXMU3lOVHsfQeB7Q3OKB2WaoGZ1tINBRtF-2StJNXjAIHc6lr7CCfZrUdAmW1mskd3Q",
+        "author": "Shona Harlow",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1371214970068",
+        "starRating": "2",
+        "comment": "Bakar",
+        "commentId": "lg:AOqpTOFYMVy4Hf-hOMxSzRvKqObYgYrHKTJWcmIPGNUl1Y9GrqOkcw5tMP9MvsM-kC0s52Y_MsXPGmzq7UHepw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

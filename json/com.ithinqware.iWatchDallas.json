@@ -1,0 +1,62 @@
+{
+  "title": "iWatch Dallas",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ithinqware.iWatchDallas",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "October 11, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Low Maturity",
+  "creator": "iThinQware, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ithinqware.iWatchDallas",
+  "extendedInfo": {
+    "installSize": "398k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "iWatchDallas puts crime tipping and crime reporting into the palm of your hand, allowing individuals to get crime information and submit crime tips to law enforcement on their cell phones or PDAs. It is provided free of charge by Dallas Police Department and helps citizens support the Department of Homeland Security agenda, See Something, Say Something.Â iWatchDallas was established to raise awareness for crime prevention, generate public support for local crime fighting efforts and deepen the relationship between law enforcement and communities.Â By simply clicking on the iWatchDallas app icon on their smartphone (which is free to download), a citizen or visitor can submit a tip. The mobile app allows individuals to report on crimes they have seen or as they happen. The system allows the user to upload text messages, static images or video for review by law enforcement, including pictures of criminals and criminal activity so that law enforcement can have even greater detail from the tipster.Â Because iWatchDallas uses global positioning technology, the system intelligently forwards information to the Dallas Police Department based on where the handheld device is physically located at any given moment.Â With the click of a button, an individual can submit an anonymous text tip, an email, or a detailed form as they travel from street to street and from neighborhood to neighborhood in real time. If an individual has information, photos or videos relating to a reported crime, they can send it to law enforcement just as easily from their handheld device or from their PC.Â Tipsters can either provide information anonymously or disclose their own identity. \"iWatch puts incredible power back in the hands of the public to help stop crime. Now the Dallas Police Department can enable merchants, schools, groups, neighborhoods and individuals have a way to actually assist in crime solving by providing information directly to law enforcement, whether it's after the fact or even if it's happening right now.\"",
+    "reviews": [
+      {
+        "timestampMsec": "1361540646284",
+        "starRating": "5",
+        "title": "great app",
+        "comment": "now I can tell when I watch something suspicious in my neighborhood and around the city of dallas",
+        "commentId": "gp:AOqpTOECwMhmCKr3hrbAufbovoNHzaoAIERyzFOOSLv6qYgIdzNvOgH8_IvMGwJsXmnlxK6kvgm2Oa7-nRXmCIw",
+        "author": "Rigoberto Gonzalez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367303251369",
+        "starRating": "5",
+        "title": "good",
+        "comment": "Worth your time",
+        "commentId": "gp:AOqpTOFUlPlXETaWkQWBucnDAHXZK5uXl8eNAzNDUB82sIFXychGPm91bKViUmd-QXjRMUWWEmgo0HI3GUJNZJw",
+        "author": "Allison Weiss",
+        "authorURL": "http://lh4.googleusercontent.com/-ma0MNf-pYhs/AAAAAAAAAAI/AAAAAAAAADQ/J8Ind1WK70o/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ma0MNf-pYhs/AAAAAAAAAAI/AAAAAAAAADQ/J8Ind1WK70o/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367337285097",
+        "starRating": "3",
+        "title": "Great job",
+        "comment": "Thank you!",
+        "commentId": "gp:AOqpTOFEGgdH_e9ATL4JUBUZb_fjhv96FY22cuQvMe8qPUR4NNsVDQsNNRVOdTdTKV8OooeC3sKe0Bs0rLdujy0",
+        "author": "Shawndell Bennett",
+        "authorURL": "http://lh3.googleusercontent.com/-AlhP7ZSTP1g/AAAAAAAAAAI/AAAAAAAAAUs/8dxiMXHE48o/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-AlhP7ZSTP1g/AAAAAAAAAAI/AAAAAAAAAUs/8dxiMXHE48o/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

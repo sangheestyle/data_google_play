@@ -1,0 +1,58 @@
+{
+  "title": "One Direction Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jff.onedirectionwallpaper",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "July 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "10",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "justforfunmobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jff.onedirectionwallpaper",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "One Direction Puzzle Game & WallpapersAwesome and great fun sliding puzzle game for all ages. Drag the puzzle to the correct position to re-establish the full pictures. The more you advance the level, the harder the puzzle gets!You can press Hint or back to the pictures list to check the whole images. When you complete it, you can set the pictures as your wallpaper and go to next game.This game has lots of One Direction Wallpapers & Images. This puzzle will give you endless joy. Features:â Free gameâ Friendly user interfaceâ Lots of picturesâ High score on each picturesâ Multiple skill levelsâ 3 difficulty levels: 4x4, 5x5, 6x6â Set solved pictures as Wallpaper (background)â See the solved pictures on Gallery Menu on Gamesâ Share solved pictures with your friendsâ Works on tabletsWe love to hear how much you love One Direction Puzzle Game & Wallpaper by comment and rate this app! Also check out our other fun puzzle & wallpaper games, if you have any question and feedback, please mail us. Thanks & enjoy!-Disclaimer-All pictures and logo are copyrighted to their respective owners and not belongs to JFF Mobile.We create the puzzle game with this images for fun only. All images are from images.google.com. =======Keywords: one direction, one direction puzzle, one direction puzzle game, one direction jigsaw puzzle, one direction wallpaper, one direction wallpaper hd, one direction members, one direction songs, one direction puzzle walmart, one direction puzzle poster, one direction puzzle ball, one direction photos, one direction photoshoot, one direction wallpaper for android.",
+    "reviews": [
+      {
+        "timestampMsec": "1376707036919",
+        "starRating": "5",
+        "title": "Ace",
+        "comment": "Amazing !",
+        "commentId": "gp:AOqpTOFrTsJlpWdZTSSBLpFCbOl0YSfZPeFXBJsCt4-PRKG2bydwHUIeBZE7kKdbcyTneoenxaG3AufEpIAnUg",
+        "author": "Cathy Kinger",
+        "authorURL": "http://lh4.googleusercontent.com/-gG0dHEwtbSI/AAAAAAAAAAI/AAAAAAAAABg/WSGSL92g6gk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gG0dHEwtbSI/AAAAAAAAAAI/AAAAAAAAABg/WSGSL92g6gk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378676478302",
+        "starRating": "5",
+        "title": "I love you one direction",
+        "comment": "I love One Direction more than anythin girl in the whole wide world",
+        "commentId": "gp:AOqpTOEq9XU6wwRddamttkw0TlShcwBJ22NfAFRytrRfD1-98XZbGRiWW76aGYDU6qpsEH65CJ6-PRMe7jChSw",
+        "author": "Moriah Manthey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376592718717",
+        "starRating": "5",
+        "title": "I love 1d so much thank you jesus",
+        "comment": "Love it",
+        "commentId": "gp:AOqpTOFcSUhvdUN37CA61sMkprP9NMY4QpIYC9rmsM3Wbh8zj8jH_qnM--kOm8BkZuvuLtu2Quf0tnKqv7xiVA",
+        "author": "Janay Rose",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

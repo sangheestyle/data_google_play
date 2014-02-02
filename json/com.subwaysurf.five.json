@@ -1,0 +1,39 @@
+{
+  "title": "Subway Trains Surfs 5",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.subwaysurf.five",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 1, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Power MobApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.subwaysurf.five",
+  "extendedInfo": {
+    "installSize": "7.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Subway Trains Surfs 5 is the Best NEW Subway Train Game! It's MUST DOWNLOAD game for you if you enjoy  action-packed fun filled with loads of block puzzle games and more.Come take a ride on board these fantastic trains. Amazing and fantastic photos of fast trains chosen from the most beautiful high-quality photos / subway trains hd wallpapers from thousands of photos meticulously.Game 1: Subway Trains Memory - Think you know these fast trains? Then look properly and pair them up to win the gameGame 2: Subway Trains Puzzle - Piece together 10 outstanding photos of these fast trains. Drag the pieces into the right place to recreate the image.Game 3: Subway Trains Blocks - Move blocks to fit each other. It is a 100 level of block game. Once you complete each levels, you will love this game very much.Tips on Scoring:The more blocks you clear, the higher the score you will get.Other features:â¢ You can pause the game and resume later.â¢ View these pictures of trains and save them to your SD cardâ¢ Set these pictures of fast trains as your hd wallpaper.â¢ We've put together the best collection of funny train videos as well as subway surfers cheats for fans.DISCLAIMER: All names, trademarks and images are copyright of their respective owners. The use of any names, copyrights, trademarks or photos have been used for Descriptive Purpose only and not to show endorsement or permission of use. This is completely unofficial, and created for fans.This app is made by fans for fans, and it is for entertainment and personal use or purpose only.DOWNLOAD NOW and enjoy!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.subwaysurf.five.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

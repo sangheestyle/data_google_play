@@ -1,0 +1,59 @@
+{
+  "title": "MeteoSats",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.productsofportugal.MeteoSats",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.8.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "26",
+  "rating": "3.9615386",
+  "contentRating": "Medium Maturity",
+  "creator": "Pedro V. Coelho",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.productsofportugal.MeteoSats",
+  "extendedInfo": {
+    "installSize": "278k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This app shows real-time meteorological satellite images, from available internet sources, covering virtually all regions of the world.By looking at the animated meteo satellite images its easy to check the weather predictions very intuitively. This app is complementary to other weather programs that don't have satellite images.You can Zoom-in, Zoom-out, or move images around the screen just by sliding your fingers. Rotate the device and the image will adapt to the screen automatically.Share the images with your friends using other apps installed on your Android device (example: Facebook, Google+, WhatsApp, Viber, E-mail, etc). Enjoy!Any suggestions you would like to see implemented in this app? Feel free to e-mail us with your comments. We are continuously trying to improve it.Try also MeteoSatsPRO: -Extra satellite pictures!-North Pole and South Pole regions!-Faster picture animation!-Ads-free!-Multilingual (English, Spanish, Portuguese, French, Italian, German, Polish, Czech, Danish, Slovenian, Slovak)The images and data provided on by this app are provided as a public service and are not intended for operational or mission critical purposes. Every attempt has been made to provide these products in as near to real time as possible. However, there is no expressed or implied guarantee that the information will be either accurate or timely or fit for any particular purpose.",
+    "reviews": [
+      {
+        "documentVersion": "1.8.1",
+        "timestampMsec": "1376617957488",
+        "starRating": "4",
+        "title": "great",
+        "comment": "It\\'ll be 5 stars if you can loop that sat image for me. Instead of flip the screen to restart the loop.",
+        "commentId": "gp:AOqpTOFh3leOAdW1p_NSxktxLhtZ4uYvOBtrfA4EQyjK4FL4K6eoUxIKDITaM2H0Og-4Th9Kzv1AXBNP5-iH3Q",
+        "author": "T3rdPP",
+        "authorURL": "http://lh5.googleusercontent.com/-8pFYFUL490U/AAAAAAAAAAI/AAAAAAAAACk/yX6lJEEeG4U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8pFYFUL490U/AAAAAAAAAAI/AAAAAAAAACk/yX6lJEEeG4U/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1375030008118",
+        "starRating": "3",
+        "title": "No real zoom",
+        "comment": "It\\'s about as clear as a fog",
+        "commentId": "gp:AOqpTOFvnnXNN9h6Fx7SyAKU6p7U8BMOH0fwLrAkxSWaPRD9uZF0jhRQ8Q8N8jwm_ME13FN-fLwjWud3djq1kA",
+        "author": "James Mullins",
+        "authorURL": "http://lh4.googleusercontent.com/-Yo0xPhkpEkw/AAAAAAAAAAI/AAAAAAAAABg/1_d4z5kPZ8c/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Yo0xPhkpEkw/AAAAAAAAAAI/AAAAAAAAABg/1_d4z5kPZ8c/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1374206730286",
+        "starRating": "5",
+        "title": "Exclusiv",
+        "comment": "Remarkable images",
+        "commentId": "gp:AOqpTOH5CQtL3rtaRGbJ5fpc_21dIhLsH0uwNYfe1mjk13MyViCO8QC35ye6CE4vZ3IQJQQGMCvDBbrBYd8cng",
+        "author": "Sivanesan Sadasivam",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

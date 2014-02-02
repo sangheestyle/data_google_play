@@ -1,0 +1,28 @@
+{
+  "title": "My Water",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=cz.codesign.veolia",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "April 2, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Codesign, s.r.o.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=cz.codesign.veolia",
+  "extendedInfo": {
+    "installSize": "230k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "MobilnÃ­ aplikace Moje voda Plus VÃ¡m umoÅ¾nÃ­ okamÅ¾itÃ½ a zabezpeÄenÃ½ pÅÃ­stup k VaÅ¡emu elektronickÃ©mu zÃ¡kaznickÃ©mu ÃºÄtu u VaÅ¡eho dodavatele vody, a zÃ­skÃ¡te tak pÅehled o VaÅ¡Ã­ smlouvÄ, cenÄ vody, fakturÃ¡ch Äi spotÅebÄ vody. V aplikaci najdete zÃ¡loÅ¾ky âMÅ¯j ÃºÄetâ, âFaktury a odeÄtyâ, âPoÅ¾adavkyâ a âZmÄna ÃºdajÅ¯â, kterÃ© VÃ¡m umoÅ¾nÃ­ jednoduÅ¡e a rychle zÃ­skat aktuÃ¡lnÃ­ pÅehled nebo vyÅÃ­dit nÃ¡sledujÃ­cÃ­ zÃ¡leÅ¾itosti: NahlÃ¡sit stav VaÅ¡eho vodomÄru MÃ­t pÅehled o VaÅ¡ich fakturÃ¡ch a platbÃ¡ch a vystavenÃ½ch pÅedpisech Vyhledat si aktuÃ¡lnÃ­ cenu vody ZmÄnit VaÅ¡e kontaktnÃ­ Ãºdaje MÃ­t pravidelnÃ½ pÅehled o havÃ¡riÃ­ch vody a plÃ¡novanÃ½ch pÅeruÅ¡enÃ½ch dodÃ¡vkÃ¡ch vody ve mÄstÄ Äi obci, kterÃ© VÃ¡s zajÃ­majÃ­ Sledovat VaÅ¡i spotÅebu vody Zaregistrovat si zasÃ­lÃ¡nÃ­ elektronickÃ© verze faktury Zarezervovat si schÅ¯zku v zÃ¡kaznickÃ©m centru dle VaÅ¡Ã­ ÄasovÃ© dispozice OdesÃ­lat poÅ¾adavky a sledovat stav jejich vyÅizovÃ¡nÃ­ PÅÃ­stupovÃ© jmÃ©no (ÃÄet) a heslo pro vstup do aplikace Moje Voda Plus obdrÅ¾Ã­te doporuÄenÃ½m dopisem na zÃ¡kladÄ VaÅ¡Ã­ registrace do internetovÃ©ho zÃ¡kaznickÃ©ho ÃºÄtu. PÅi prvnÃ­m pÅihlÃ¡Å¡enÃ­ do aplikace si prosÃ­m zmÄÅte zaslanÃ© pÅÃ­stupovÃ© heslo za novÃ©. UloÅ¾enÃ­m VaÅ¡eho pÅÃ­stupovÃ©ho hesla ve VaÅ¡em mobilnÃ­m telefonu berete na vÄdomÃ­, Å¾e v pÅÃ­padÄ ztrÃ¡ty nebo odcizenÃ­ telefonu mÅ¯Å¾e dojÃ­t ke zmÄnÃ¡m ÃºdajÅ¯ ve VaÅ¡em zÃ¡kaznickÃ©m ÃºÄtu. V pÅÃ­padÄ, Å¾e budete mÃ­t jakÃ©koliv podezÅenÃ­ na zneuÅ¾itÃ­ a/nebo zpÅÃ­stupnÄnÃ­ hesla tÅetÃ­ osobÄ, mÅ¯Å¾ete svÃ© heslo zmÄnit online nebo kontaktujte VaÅ¡e zÃ¡kaznickÃ© centrum. VytvoÅenÃ­ zÃ¡kaznickÃ©ho ÃºÄtu je dostupnÃ© pro vÅ¡echny zÃ¡kaznÃ­ky spoleÄnostÃ­ skupiny Veolia Voda, a.s. na pÅÃ­sluÅ¡nÃ½ch internetovÃ½ch strÃ¡nkÃ¡ch. Skupinu Veolia Voda, a.s. tvoÅÃ­ spoleÄnosti: 1. SÄv, a.s., SeveroÄeskÃ© vodovody a kanalizace, a.s., PraÅ¾skÃ© vodovody a kanalizace, a.s., MORAVSKÃ VODÃRENSKÃ, a.s., VODÃRNA PLZEÅ a.s., StÅedoÄeskÃ© vodÃ¡rny, a.s., KrÃ¡lovÃ©hradeckÃ¡ provoznÃ­, a.s., VodohospodÃ¡ÅskÃ¡ spoleÄnost Sokolov, s.r.o., RAVOS, s.r.o. a VODOSPOL s.r.o.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

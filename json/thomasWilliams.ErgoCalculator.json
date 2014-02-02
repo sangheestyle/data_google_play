@@ -1,0 +1,45 @@
+{
+  "title": "Rowing Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=thomasWilliams.ErgoCalculator",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "March 31, 2013",
+  "version": "1.9",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "ThomasWilliams",
+  "creatorURL": "https://play.google.com/store/apps/details?id=thomasWilliams.ErgoCalculator",
+  "extendedInfo": {
+    "installSize": "241k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Enter in two values from your Distance, Time, or Average Split and you can use this App to calculate the third.  Using this information the App will automatically calculate your weight adjusted scores and your predictions using Paul's Law.  Additionally each time you press one of the calculate buttons a record of it is stored in your history.  This is a great feature as it allows you to keep track of weeks worth of workouts and training plans.  The History will record the Date/Time, your Distance, Time, and AvgSplit.  To access your history go to the Calculate Tab, press the menu button, and select History.You can calculate your Distance, Time, Average Split, Weight Adjusted Scores, and Predictions using Paulâs Law. You can also view World Records and compare yourself against the best. Weight adjustment uses the following formula from Concept 2:Wf = [body weight in lbs / 270] raised to the power .222\t\t\tCorrected time = Wf x actual time (seconds)Corrected distance = actual distance / WfPaul's Law says that for a rowing athlete with balanced speed and endurance capabilities, for every doubling of distance the 500m split should increase by five seconds.",
+    "reviews": [
+      {
+        "timestampMsec": "1334514405236",
+        "starRating": "5",
+        "title": "Works brilliantly",
+        "comment": "Such a useful tool for any rower",
+        "commentId": "lg:AOqpTOE2GeLdceWAUN1RFaFpgHcfGMsfpZqjTapxFjXDTO9nBJKvCuc2LCkHmsRxWUc2RZDLMaSlu8ciswtt4g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330849914277",
+        "starRating": "5",
+        "title": "OMG",
+        "comment": "This is such an useful app. I can now concentrate completely on smashing my erg leaving the tedious calculations to this brill app. And my technique improved too!",
+        "commentId": "lg:AOqpTOH52Z9ogUiNRJ73SLQ7hzIkQbrna-fz4cY27P1nQBx1753F-jkqXsKlaRJPWUlOJ8nf5LqVFbETRkX3TA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

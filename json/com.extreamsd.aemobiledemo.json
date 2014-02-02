@@ -1,0 +1,248 @@
+{
+  "title": "Audio Evolution Mobile DEMO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.extreamsd.aemobiledemo",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.8.9",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "439",
+  "rating": "3.9635534",
+  "contentRating": "Everyone",
+  "creator": "eXtream Software Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.extreamsd.aemobiledemo",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "The most powerful multitrack audio recorder on Android packed with features like non-linear non-destructive editing with unlimited undo/redo, mixing, real-time effects, automation and much more!Note that this is a TRIAL version of the full paid version and of course does not include saving of projects!Now includes support for USB audio interfaces! (Full version requires USB Audio Recorder PRO)Please read the instructions carefully here: http://www.audio-evolution.com/manual/doku.php?id=usbaudiosupportYou need to have purchased and installed USB Audio Recorder PRO 1.2.1 or higher in order to use USB audio interfaces with Audio Evolution Mobile in the full version!Features:â¢ Multitrack audio playbackâ¢ Audio recording (while playing back other tracks)â¢ Loop playbackâ¢ Volume/pan/mute automationâ¢ Latency correctionâ¢ Import of WAV, AIFF, FLAC, Ogg/Vorbis audio filesâ¢ Import of mp3 (requires an optional download due to patents on mp3 if applicable to your country)â¢ Import of m4a, 3gpp, amr and other audio formats that Android supports if you are running Android 4.1 Jelly Bean or higherâ¢ Mastering to stereo WAV, AIFF, FLAC or OGG file (in full version)â¢ Sample rate conversionâ¢ Metronomeâ¢ Zoom down to the sampleâ¢ Each track has controls for volume, panning, mute, solo, arm, 3-band EQ with mid-sweep, 3 insert effects and output bus selectionâ¢ Unlimited number of tracks (*)â¢ Unlimited number of groups (*)â¢ Real-time effects include: chorus, compressor, delay, dual delay, reverse delay, reverb, bandpass, highpass, lowpass, flanger, noisegate and tremolo (*)â¢ Offline effects: fade in/out, normalize, reverse, pitch shift, time stretchingâ¢ Non-linear non-destructive editing with move, trim, split, cut/copy/paste, remove, range editingâ¢ Unlimited undo/redo for editing facilitiesâ¢ Several grid options for aligning your samples (with tempo and time signature settings)â¢ Repeat samples with several options to create loopsâ¢ Load/Save projects including loading projects from our desktop DAW Audio Evolution 5â¢ Can use ES File Explorer to select samples for import(*) Depending on your hardware's capabilitiesRequirements:â¢ 800x480 screen size or higherâ¢ Android 2.2 or higherNote: this app can only run in landscape. Trying to run it with apps like Ultimate Rotation Control can result in crashes. Turn off forced rotation for this app.Demo limitations:â¢ No loading, saving or mastering of projectsâ¢ Recording and playback stops after 2 minutesIf you like it, please buy the full version here on Google Play: http://play.google.com/store/apps/details?id=com.extreamsd.aemobileIf you have any suggestions, questions or want to report a bug, please contact us by email! If you write a negative review, that's fine, but please have the decency to contact us so we can actually solve your problem!For loop packs, see 'More from developer'Twitter: http://twitter.com/#!/AudioEvolution5Facebook: https://www.facebook.com/AudioEvolutionMobileOnline manual: http://www.audio-evolution.com/manual/doku.php?id=startTo prevent your device's mic from picking up what the speaker is playing back, we recommend using either:*  a USB audio interface (USB Audio Recorder PRO required as license) or*  an iRig MIC Cast: http://www.ikmultimedia.com/products/irigmiccast. The iRig is of better quality and playback is done through its headphone output. Note that hardware monitoring is not possible and you won't hear what you are recording through the headphone.Please see our extensive topic on latency in the online manual: http://www.audio-evolution.com/manual/doku.phpTags: audio recording, audio recorder, multitrack, j4t, DAW, iRig, fourtrack, fourtracks, audio editing, audio mixing, audio mixer, mix, cubase, cubasis, audio editor, fl studio, audacity, sound, pro audio, usb audio, multitrack audio, usb audio recorder, zquence",
+    "reviews": [
+      {
+        "documentVersion": "1.8.8",
+        "timestampMsec": "1378032409171",
+        "starRating": "5",
+        "title": "Mix To Mono?",
+        "comment": "ONE SUGGESTION FOR FUTURE RELEASE: could you please add option \\\"MIX TO MONO\\\" in MASTERING section?",
+        "commentId": "gp:AOqpTOEL9xu3g-jRSUyBVHI08jr9KLlAr2aJy2QyytrdiQxo7MzauI2h6CWKN4orApBim7WcoC57jJQDDCVEAQ",
+        "author": "Lilmosh Modranq",
+        "authorURL": "http://lh3.googleusercontent.com/-4dPqCktCbZo/AAAAAAAAAAI/AAAAAAAAFWM/hgPbE4UiQVk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4dPqCktCbZo/AAAAAAAAAAI/AAAAAAAAFWM/hgPbE4UiQVk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.6",
+        "timestampMsec": "1377479040668",
+        "starRating": "1",
+        "title": "Scam",
+        "comment": "Android users DO NOT Buy! It wont work. And there is no refund!!!   You shouldnt have to suggest anything. If you are selling an app it should work on the system you are selling it to.",
+        "commentId": "gp:AOqpTOHycS95dKUW5jNMnmcIsY1MzQvhiHy8cI6_fZZvy9ORh7kHo6XjhL6NSnHu-k-S8tiG3wlPdZ-5ak0CBA",
+        "author": "John S",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.6",
+        "timestampMsec": "1377923803174",
+        "starRating": "1",
+        "title": "Time waste",
+        "comment": "Time waste",
+        "commentId": "gp:AOqpTOHvs_R-3nsElqEF59W2qA2xT5lZmwY-e1c7bsztT_CXZJ4nw-8nJotVCAlzvL9D6cKYDJUIDs5eSVn5AQ",
+        "author": "Pradeep Jash",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1377389898620",
+        "starRating": "5",
+        "title": "TOP quality app & customer service",
+        "comment": "Excellent for editing on the go or applying background music to voice overs etc. Great functionality for the & a demo that introduces features to the cheap (in comparison to competition apps) full version! Developer deserves praise &  support!",
+        "commentId": "gp:AOqpTOGdmqHKcGat74cbrxsTS2D-Vk8JPOjwY8tp9BascpIn_Qos2m8_vnelzN33OS3Aqzg3-8gaEWrBXhnwkQ",
+        "author": "Christopher Alfred-Moses",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1376995656968",
+        "starRating": "5",
+        "title": "Nice but can\\'t save",
+        "comment": ".. the app is great.. there you go 5 stars :)",
+        "commentId": "gp:AOqpTOEokyTaFaaYIJnSZFNMZAj6OlbOxz6bUIRY8vguzLWIcQa91ce4R_veoTzjJL6CNzT0FDv92gsYUBI7_g",
+        "author": "vartik sethi",
+        "authorURL": "http://lh6.googleusercontent.com/-enct7uTquSE/AAAAAAAAAAI/AAAAAAAAAF4/S5F-FfWvyOU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-enct7uTquSE/AAAAAAAAAAI/AAAAAAAAAF4/S5F-FfWvyOU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1376178557856",
+        "starRating": "5",
+        "title": "Is it possible",
+        "comment": "Can we u please let use record one song and save it? Lol I hate re doing them",
+        "commentId": "gp:AOqpTOHXcMoIPWzoRCWPf5NHQJeF5d_U957kSXf9ktfZcZ0AaAck2YK86aBKxaA8pDy0UEVhvkLb6bdsi8p2yQ",
+        "author": "Mariya Abdi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1376337068459",
+        "starRating": "1",
+        "title": "Crap",
+        "comment": "Won\\'t let me import tracks as I only have 40mb free",
+        "commentId": "gp:AOqpTOHKrB7_Zpdl843bp4ijkwDQq998adpXzaZ1ouX0qYezIls0MkO19T6TYnUjDdPDc_-mTc_katx925AS6g",
+        "author": "Cam Garratt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1377222551463",
+        "starRating": "2",
+        "title": "well",
+        "comment": "I was considering buying the full version but apparently anytime I try and copy audio in this demo version, it just closes itself. Please fix this so I can revise my rating.",
+        "commentId": "gp:AOqpTOHDt4pqodH6ujhU5VfAKafTBLoqmU4NYDvl255UjnQbyREpdkyb4e7jBChDf4WYc29vB1C8Hp-b9zXf6Q",
+        "author": "kenzie a",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1376879090028",
+        "starRating": "5",
+        "title": "Ican make my on movie comments by talking",
+        "comment": "Now this is what i am talking about",
+        "commentId": "gp:AOqpTOFWKL38Hl0gC_VA_jDn7qMnNdOH42JtPvpF2iOv5d0xNk4C5wvEl8ZfihWLK5Qdpfe4p5SV6tNU194exw",
+        "author": "Carolyn Kohn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.5",
+        "timestampMsec": "1376599325332",
+        "starRating": "1",
+        "title": "Neva again will I downloaded this app",
+        "comment": "Peace of crap",
+        "commentId": "gp:AOqpTOFx2WaYMco-Fnxy1FeLFGYb7KD94WA3Un3Kg-LtLyzQ_t5BReONvbdygC74KR0tQkdjRR_TmzSPNYDrTw",
+        "author": "David Ivy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1375653589560",
+        "starRating": "1",
+        "title": "If there was a step by step tutorial...",
+        "comment": "I was just wondering if you guys could create a step by step tutorial to show exactly how this app works. If it was good, then I would buy the app. Since I have no idea how this app works, buying is not an option for me. Even if you could leave instructions under my comment. I am new to this whole recording thing and would like to know how it works. Please make this quick. I am very anxious to try this studio thing out. Thanks so much and sorry this comment was so long. lol. I am sure this app is great! :)",
+        "commentId": "gp:AOqpTOHcx5ejhJ3anSs09zrp0-4A5TCk7e7fFCCsX4pkne_P2TZvQoJlHgo_zsmcl2up2hAel3khQ4htowBExg",
+        "author": "Ian Ford",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1375805688332",
+        "starRating": "1",
+        "title": "Stupid",
+        "comment": "This is downloading way to slow, theres no way its gonna act right. Don\\'t want it.",
+        "commentId": "gp:AOqpTOHo9_D-fEo62k5W8TUw-UGDvP9iyzdzzJzMY0a-Y7BMC3x_aImm-_W7i4dcGdqw_uQu-WzW-ltHLrtmeg",
+        "author": "jerran rumbley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1375892329833",
+        "starRating": "5",
+        "title": "Brillliant",
+        "comment": "Hey I am a Pro engineer in Ireland and use Pro-tools and Audacity and Soundforge I tell you this is sweet and its cross platform brilliant stay with it folks good programing. Solid  downloaded first time to my Acrchos 70 which is old and very particular about what it gets to run. I would recommend this and have all ready to a college who was asking about an editor on android. Stay with the good work folks........:)",
+        "commentId": "gp:AOqpTOGNlH7OwqEKueKzSY2OMpnaiFd9xWcvP2JJSNjfg_dR3Xgi6Nk24kE7z2ziYNHPI7xF9m9AOkg07Otnjg",
+        "author": "Mark Duff",
+        "authorURL": "http://lh3.googleusercontent.com/-y5lSXQ6-iQ0/AAAAAAAAAAI/AAAAAAAAACc/1QjoV8kBP4k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-y5lSXQ6-iQ0/AAAAAAAAAAI/AAAAAAAAACc/1QjoV8kBP4k/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1376194816676",
+        "starRating": "2",
+        "title": "Wow",
+        "comment": "Great app, besides for the fact that you CAN\\'T SAVE UNLESS YOU BUY IT",
+        "commentId": "gp:AOqpTOHkCQGQVXaaC1NMPor9pNkfeg6sVBtuF6M3trnsI2TLDQFIlt8U_Ybfoapw868BUDwjNzA6tKirHXtdbg",
+        "author": "Cameron McNamara",
+        "authorURL": "http://lh3.googleusercontent.com/-Du5KKsWedBI/AAAAAAAAAAI/AAAAAAAAAGo/kewlDqSMaoA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Du5KKsWedBI/AAAAAAAAAAI/AAAAAAAAAGo/kewlDqSMaoA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1375949066132",
+        "starRating": "5",
+        "title": "best software so far",
+        "comment": "what i was looking for i recoment this app download it asap",
+        "commentId": "gp:AOqpTOEleXi9WHUVLrir0eRA8zb5v4juglHtwUIHlVjqapM7B4-tvwJVXoQOxKR_Z3eB6-JTAtNc7A868eMdjw",
+        "author": "Howard Gazini",
+        "authorURL": "http://lh4.googleusercontent.com/-ye4B5j-D0Lg/AAAAAAAAAAI/AAAAAAAAAQA/AuJbhqWIaxs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ye4B5j-D0Lg/AAAAAAAAAAI/AAAAAAAAAQA/AuJbhqWIaxs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1376153065790",
+        "starRating": "3",
+        "title": "Please add keyboard",
+        "comment": "Could you add a keyboard with different instruments & ability to record from keyboard?",
+        "commentId": "gp:AOqpTOGumOFu2xEZ6ZEv_Jh85ieLtdPB0wwWK1b0edBH4T1HJxEVZnt_fT9ZxqMoGijMdynfdLs0Zl50FQqpIg",
+        "author": "Jeremy Abramson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.4",
+        "timestampMsec": "1376034154967",
+        "starRating": "5",
+        "title": "Jerry",
+        "comment": "I feel this app...",
+        "commentId": "gp:AOqpTOGe80eSfCNK4Ssx0vgMpyKsBa_KiOqki7eWovp2HOMNog40O8is3eyutZtQBb1zLUM_Za0OMx88TqPG5Q",
+        "author": "Jerry Okai",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1374888117937",
+        "starRating": "5",
+        "title": "Hit maker",
+        "comment": "I love this app I use to record vocals works just fine",
+        "commentId": "gp:AOqpTOHT1dxNCw2xjY-GeepUcyxqHUg7RwL7gStn7LsAUL9udwC0Wbyag8qnk4xRka0SJPguWfeB6rbabj3QXA",
+        "author": "Waxx Amill",
+        "authorURL": "http://lh3.googleusercontent.com/-B-GSTg_EF_E/AAAAAAAAAAI/AAAAAAAAABI/BxIj-3JbyL0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-B-GSTg_EF_E/AAAAAAAAAAI/AAAAAAAAABI/BxIj-3JbyL0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1375039235015",
+        "starRating": "1",
+        "title": "Bad bad bad",
+        "comment": "Could not even get the audio back to start position to play!",
+        "commentId": "gp:AOqpTOFrNd8QsLDCpALdhzyH-nXswUZrp2OKLxctV8YM3KHkZ5A96QDSv9P444vG6_P4fcF26iUTW_b9_jER_g",
+        "author": "Richard Fairchild",
+        "authorURL": "http://lh3.googleusercontent.com/-PLJdybEX9BQ/AAAAAAAAAAI/AAAAAAAAAWc/1EFG7moathw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-PLJdybEX9BQ/AAAAAAAAAAI/AAAAAAAAAWc/1EFG7moathw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.3",
+        "timestampMsec": "1375416108956",
+        "starRating": "5",
+        "title": "Chenso103",
+        "comment": "HTC rezound! Sweet App!",
+        "commentId": "gp:AOqpTOFHEfPGVq1Qf2z_CIAUlb-L8v0tmd9XFiCKgV1GR9QzK_9u706YC43on-0fNjTsH_HOMnbb7PXImvKLvg",
+        "author": "Vincent Hunnefeld",
+        "authorURL": "http://lh6.googleusercontent.com/-aZoPZy6vR3Q/AAAAAAAAAAI/AAAAAAAAABQ/pRkBL3GNg8k/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-aZoPZy6vR3Q/AAAAAAAAAAI/AAAAAAAAABQ/pRkBL3GNg8k/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

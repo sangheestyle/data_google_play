@@ -1,0 +1,32 @@
+{
+  "title": "Cell Phone Notebook",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Cell_Phone_Notebook_3",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "February 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "USA CX Video Group",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Cell_Phone_Notebook_3",
+  "extendedInfo": {
+    "installSize": "649k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Have a notebook on your mobile phone can make the words recording seems more conveniently!When you meet some interesting things or have words that can not tell others, this notebook on android phone can help you record all of them down!It also can play as a Notepad or Memorandum. Record the important things down to phone, when you do not know what need to do, it will notify and tell you the answer!Or use it as a daily diary. The things you meet in daily life or things impressed you can all be record down in this phone book!FEATURES:@ Beautiful enough to get your love:   Blue sky background, blue color buttons seems fresh.@ Simple     software layout. You can know it well easily!@ Used in many aspects and convenient your daily life.@ Functional than former one and many new strong points added.USING ASPECTS:- Use as a diary to record daily things.- Use as a notepad to record things should be down.- Use as a feeling record to write down words impressed you most or truth from life.STRONG POINT:- Search from Wikipedia. Offer you a wiki searching link. No matter what knowledge you what to get during note writing, you can search directly!- More apps providing. Use ABOUT icon to get more apps developed by us. Over 50 kinds of apps offered and any one can be install directly!- Note list seems more ordered and more shortcut be added in list. An advanced search function: search in all notes or in one note type list.- Prolong screen awake time to 1 minutes.Former FUNCTIONS:- Great new note.- Create notebook type.- Search notebook list.- Search from wiki websites.@@@@@@@@@@@@@@@@@@@@@IMPORTANT NOTE @@@@@@@@@@@@@@@@@@@@@@---About Ads: Our profits come from the notification ads and icon ads, and all of them are harmless. If you do not like them, just disregard them.---Uninstall: If you can not UNINSTALL app with former way, you should deactivate them and then uninstall them.Deactivate way: Settings-location&security-device administrators-choose to deactivate.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "ACU Connected",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.acuconnected",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 14, 2011",
+  "version": "4.5.27",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.acuconnected",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "At the 2011 ACU Connected Summit, the world's top minds explore the future of education and mobile technology. Come and be inspired by perspectives from education, technology and public policy; share best practices and ongoing innovation in mobile learning; and receive access to the people and organizations who will build the future of education.The Connected Summit features 77 sessions from leading experts & practitioners in K-20 mobile-learning and emerging pedagogies, with tracks focusing on media & mobility, teaching & learning, the future of books, K-12 education, infrastructure & logistics, research and campus spotlights.You'll be face-to-face with international leaders in education, technology and public policy, including Apple co-founder Steve Wozniak, Pearson eCollege vice president of product Adrian Sannier and U.S. Department of Education director of educational technology Karen Cator.Join these world-changers February 28 - March 1, 2011 as we explore mobile learning and the emerging role of digital books.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_CALENDAR",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

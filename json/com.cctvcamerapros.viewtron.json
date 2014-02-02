@@ -1,0 +1,206 @@
+{
+  "title": "Viewtron CCTV DVR Viewer App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cctvcamerapros.viewtron",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "2.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "84",
+  "rating": "3.8809524",
+  "contentRating": "Everyone",
+  "creator": "CCTV Camera Pros",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cctvcamerapros.viewtron",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "The Android DVR viewer app is designed to work with Viewtron CCTV camera video surveillance recorders.  The Viewtron app allows users to view security cameras live from remotely over the Internet and also supports searching and playing back recorded video footage from the DVR hard drive.  This Android app works on all Android phone and tablet devices in portrait and landscape modes.  Viewtron video surveillance DVR models VT-HD404 and VT-HD408 support both HD security cameras (HD-SDI CCTV) and traditional standard resolution CCTV cameras.  When video is played back that was recorded from HD-SDI cameras (HD surveillance cameras), video resolution up to 1080p is supported.The Viewtron mobile app can control PTZ cameras that are connected to Viewtron DVRs.  Pan tilt zoom controls are enabled in live mode when a PTZ camera is selected.Viewtron DVRs are manufactured and sold by CCTV Camera Pros.  We can ship these DVRs anywhere in the world and we provide \"best in industry\" technical and warranty support to direct to all of our customers.For more information, please visit:www.Viewtron.com",
+    "reviews": [
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1375375144963",
+        "starRating": "1",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOFSKGwbZpgNST1CbZ9VcA89WGTIalOOAap-msXkmgaNIqhwZyB57xkQLlhW7X6GbKYGOeX0-xX9sdpxFYI",
+        "author": "sheenu prasannan",
+        "authorURL": "http://lh3.googleusercontent.com/-VEyNIbg0HTU/AAAAAAAAAAI/AAAAAAAAAAA/NpWyVGgwI6M/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-VEyNIbg0HTU/AAAAAAAAAAI/AAAAAAAAAAA/NpWyVGgwI6M/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1372217513153",
+        "starRating": "1",
+        "title": "Not on Samsung Galaxy II",
+        "comment": "Won\\'t work ... Even though I have no problem with MEye",
+        "commentId": "gp:AOqpTOHNI2zITEgV-DCyq9qS92v4fOXJhgkB4ecUhSol5ymOS3JEAsDOoCs2o9585fMt4od7XsiQ_hlTeX1F0kw",
+        "author": "William Silverthorn",
+        "authorURL": "http://lh3.googleusercontent.com/-257KkYMxpQc/AAAAAAAAAAI/AAAAAAAAAmY/9UPpDatXong/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-257KkYMxpQc/AAAAAAAAAAI/AAAAAAAAAmY/9UPpDatXong/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1373523208166",
+        "starRating": "5",
+        "title": "Bad camara",
+        "comment": "Bad camara",
+        "commentId": "gp:AOqpTOFV5ulcLxvTrQoUTyt1DxR-g9g8eyn_eFsqyy9M_HrbuytyrBv3gQTChwn1Y2iRyw2cU_yEwsbLA1-5vc8",
+        "author": "mumdach izadeen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1378118239628",
+        "starRating": "5",
+        "title": "I like view tron viwer",
+        "comment": "Its very good",
+        "commentId": "gp:AOqpTOF5pvYxnXww2D4yhgVA1rWrISpXp8XoMz2qD1ugoIiJ7pLWzjPIAxO7HHR4kJkaXSxWkea23xCMtZXsAxo",
+        "author": "umair khan drifter",
+        "authorURL": "http://lh3.googleusercontent.com/-cJOIUsZ6wNo/AAAAAAAAAAI/AAAAAAAAAAA/VoLjK0GDxH8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cJOIUsZ6wNo/AAAAAAAAAAI/AAAAAAAAAAA/VoLjK0GDxH8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1378169774138",
+        "starRating": "2",
+        "title": "Unknown",
+        "comment": "I dont know how to use this coz I dont know wwht the port number means",
+        "commentId": "gp:AOqpTOGylJS9uyRdQFKaLPpmuMQaR3VRKhhSgh_JbaPSUCceobZT_XGYMt_tdV2Ol_n37vjJodbjWMOBrYbvJvA",
+        "author": "Yavuz Kocabey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1375713081624",
+        "starRating": "1",
+        "title": "Dosent look real",
+        "comment": "I have no comments",
+        "commentId": "gp:AOqpTOGbmMQ_KF9r7UYkXz_jmjXnXUeY9Sy6khYqkH0ijSLzi7SV_xUyUycDm1HGxMdkcaWqyZ6UXKMvV5NRIx0",
+        "author": "Grace Coleman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1374658896538",
+        "starRating": "5",
+        "title": "Ok",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOHn_7btMTPtu15gcspZT8nozZaG9RC7wQmVkiT02kKYFoqMr1Tuh5gdjiDngRmth-WUHwoRlrhEwVaDVMU",
+        "author": "Adeola Emma",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1368351521330",
+        "starRating": "1",
+        "title": "Tooopid!",
+        "comment": "Why get it when it just force closes all the time? Sad.",
+        "commentId": "gp:AOqpTOFbzSePeDuIVYTTXJ-YeaewWF0qfahi5YW977A4jmuw6W9MaBYiaoJinnhb7vJrS-83_E8Bi7q003rozvw",
+        "author": "Patrick Crawford",
+        "authorURL": "http://lh3.googleusercontent.com/-LimmzWfqR_w/AAAAAAAAAAI/AAAAAAAAAUA/8BRywCEJpkY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LimmzWfqR_w/AAAAAAAAAAI/AAAAAAAAAUA/8BRywCEJpkY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1372096576500",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOGcWkdBmlp09Gm8YOEp5bPvwPwZ6BjBFpyJfs4paj6f6juuMk4wz2JeCGbWuGp1EqCOxzXw0-paOOXFhMM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1376291798884",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Wooooooooooooooooooooooooooooooow",
+        "commentId": "gp:AOqpTOGN6h7_ltdlZGcg-cuggbYzbxy18AR4wRyk2D9kEGrw85JeJzTbbq3dKDz3dWJlfNG_6hAW2dXUl3KG89k",
+        "author": "Joy Tacay",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1366783428877",
+        "starRating": "1",
+        "comment": "Force close..stupid",
+        "commentId": "lg:AOqpTOGoLnbzBNLi6CyMAebieVA7INLnxxQpa18_xqjQxQ1sXDKZqFRniUzM1O74nhnFn8cA-TgTzvKuqWXWKR0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1375667426957",
+        "starRating": "4",
+        "comment": "Test",
+        "commentId": "gp:AOqpTOES8RkAdGpxB4O4oxKqRZGuNJqCkF5ZjSkCpOPtzX39yJRqEcWU7HnZoYjR1KhH4u6TxuU-b3q89FtlVWs",
+        "author": "Badai Sitepu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1365804033020",
+        "starRating": "5",
+        "title": "Cc",
+        "comment": "Ok",
+        "commentId": "gp:AOqpTOHDHwecvnqfAgdYekmWFTZhBV7fg2mfibyJkkz78swD1Wuf6iAw1Tbg_6O745TsB6-Z1oP3NhhOWGaxh1g",
+        "author": "md.sajedul hossain mohosin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372972986325",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "I can\\'t open it",
+        "commentId": "gp:AOqpTOEWJmaBibOpREN-YjZM7dyroPALziDWcn9dQG27tJyYQ6BXTN3ZjkroXEYuOfD6O2DP-f6ZYJIdAO6RIEI",
+        "author": "Liam Simner-hunt",
+        "authorURL": "http://lh4.googleusercontent.com/-O0YXRCFQX-4/AAAAAAAAAAI/AAAAAAAAAek/rgrDIh6BP8Y/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-O0YXRCFQX-4/AAAAAAAAAAI/AAAAAAAAAek/rgrDIh6BP8Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364629081605",
+        "starRating": "1",
+        "comment": "Big failure",
+        "commentId": "gp:AOqpTOEkDP3lQg8C5P0v80S4OEFPRo6UlNDLlvSzHsIMl0a9Fcg-gEyoZSqb2bL_VWfr81OMH1vs6uWG0dCxHJg",
+        "author": "Sotirios Spinos",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367435222959",
+        "starRating": "1",
+        "title": "Not Good",
+        "comment": "Does not work crap",
+        "commentId": "gp:AOqpTOEySK9uuzpEoREaaCPN8k82Z8J8npIDvXR-aX5Hruz0cqU1fIxsKaL66dhqKkjbRNMr1yjutzAWSlvPDgI",
+        "author": "Ryan Marrs",
+        "authorURL": "http://lh6.googleusercontent.com/-950VQ1BgVI8/AAAAAAAAAAI/AAAAAAAAAA4/WTqm08Mk6R0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-950VQ1BgVI8/AAAAAAAAAAI/AAAAAAAAAA4/WTqm08Mk6R0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370320346918",
+        "starRating": "3",
+        "title": "Ok",
+        "comment": "Ok,tapi lembab servicenya",
+        "commentId": "gp:AOqpTOFaXXaaQRyY2BC34BQW2xjVl7gSr59NmhV74RROMPgvExKHnepuis9n0gcz4boB5Hrg7kfJG8jhbxg005U",
+        "author": "Lutfi Alhadi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

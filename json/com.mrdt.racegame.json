@@ -1,0 +1,238 @@
+{
+  "title": "Racing Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mrdt.racegame",
+  "category": "Racing",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "1.2.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1248",
+  "rating": "3.3982372",
+  "contentRating": "Everyone",
+  "creator": "TheInvader360",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mrdt.racegame",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "Car Game is a very simple casual game available for free on Android.Tilt your phone left and right to steer the car.Avoid going off road - the grass slows you down!Finish in the best time possible and beat the level record!Unique level generated every time you play :)You cannot lose this game, you will always reach the finish line, but how quickly you get there depends on your skill! Ideal game for young children, or in my case a 'grownup' who's not all that grown up and likes to kill time playing silly phone games :)If your child loves car games, or you love retro 80s and 90s games, you should definitely try this!---Making this basic car game was a personal learning exercise for me. I kept it simple enough to ensure I could actually get something to a finished enough state that it could be uploaded to Google Play. The lessons I have learnt will allow me to go on and work on a more ambitious project next time - maybe a mario style platform game, maybe a less casual racing game, maybe a doom style first person shooter, or maybe another casual time killing game, I don't know yet...If you are interested in making your own games, and would like to read about the process I went through, I published a worklog here - http://theinvader360.blogspot.co.uk.If you think the graphics/sound/music/whatever needs improving, and you have skills in that area, you are welcome to get in touch and submit improvements that I could include in future updates - that would be so much nicer than just complaining and leaving a one star review :)Play this racing game for free today! I hope you have fun!",
+    "reviews": [
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1376836642488",
+        "starRating": "3",
+        "title": "Brilliant!",
+        "comment": "Sooooooo addictive  i found a glitch so that my best time is 00:00:01 (1 milisecond!)",
+        "commentId": "gp:AOqpTOESeHNtFfuT_6Fh5BKzTPLTsWo1BiFrHctSYmUIVIGaZ7O85NgrGgT_aL5WpSCbR8tR9Jl0XLCZdxm2Wms",
+        "author": "Brian Igoe",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1377408512029",
+        "starRating": "4",
+        "title": "Reviw BY",
+        "comment": "Ajay",
+        "commentId": "gp:AOqpTOEnGiM0D9oeWH6IXPuU7EVY9vZ2mE6-C3DHc1xv2RLMW9lVVndg91BcijT0JXpdAtwOdViDeMJ6hjI6ROQ",
+        "author": "Ajay Mahan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1378081809828",
+        "starRating": "5",
+        "title": "Ayush",
+        "comment": "Sfcagc",
+        "commentId": "gp:AOqpTOHS5tda7kn4wc4BPCPMyS0jnmq7Xl3FnIG0Y3x8fpj95hfSOGvrsTpTgtC3J-FDze9gQ4FoTbtLZ-SRV-A",
+        "author": "Ayush Gupta",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.4",
+        "timestampMsec": "1376906590119",
+        "starRating": "3",
+        "comment": "Middle",
+        "commentId": "gp:AOqpTOHu8Ve7eIE0qVwetZoq4MHcZBy3uefPxAmihccWxRisOalOUlxTvma3hHvZ0ZeuvtZXFHacE8x73pROldk",
+        "author": "Pia Armstrong",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1374419843173",
+        "starRating": "1",
+        "title": "Don\\'t download",
+        "comment": "This game saks who plays this kind of game. Boooooooooooooooooooo I gave it 1star",
+        "commentId": "gp:AOqpTOGk2QotR4cUqzle3_By1Zi1xXviSHSHR7Xy71LKE-i1TasuzVQw3z8LyfqiJR9RI3twKKJ94uMy6vy-8Vo",
+        "author": "Amen Alemayehu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1367263183248",
+        "starRating": "1",
+        "title": "Waste",
+        "comment": "Complete waste of time   Please Don\\'t create such waste game #@@@@@###",
+        "commentId": "gp:AOqpTOE7xwlDdYCZ8Xa158XKcTDUUrh6LD4RITkiNG19olAgXj7naOf29dejXTtyoK4np_wOM9D6EQWx3BbSKzo",
+        "author": "Karthik M",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1373967066188",
+        "starRating": "5",
+        "comment": "excellent",
+        "commentId": "gp:AOqpTOEyc6tlVQGzU_BPKjeGUu1V_CKMI6GhS5vK86YL2FXnRgRTE91UYbs49sN7-11enbkcI6AOQFsoaCS_Eto",
+        "author": "DEEPAK CHAWLA",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1375482313625",
+        "starRating": "1",
+        "title": "Not very good",
+        "comment": "Its too sensitive when u tilt it.",
+        "commentId": "gp:AOqpTOFINyUUMN6UY6h2wcFero-12OX7oBDsUd91nypTA4A7zEgxXD6rb1zOtjoJveqvsOOvPwViF6G7z0AYqA0",
+        "author": "Brenda Cruz",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.2",
+        "timestampMsec": "1374336970244",
+        "starRating": "4",
+        "title": "Deep",
+        "comment": "Excellent",
+        "commentId": "gp:AOqpTOGMBIpkWdVGKnvs2JyZLV8rV05aEzR1kSMJYTZPkNS5SexBg8wBScSTgY2sp_M9mSmUYbhdkWUo_2_OPMg",
+        "author": "sanjay gaur",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1360838585417",
+        "starRating": "1",
+        "title": "Bad game",
+        "comment": "I think this game was very bad my three year old son said it was dirt and who ever mad this game make a better one plz :(",
+        "commentId": "gp:AOqpTOHOWnvrKLeAW0Zqp-eiAyZy4QR1QhNSIcBSmuFg-DQiwVPUDqQkyaJBD2TisShDrKOAw0szqZSD4q1oaiQ",
+        "author": "Mikela Kehoe",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1360767695722",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "It is nice",
+        "commentId": "gp:AOqpTOH-n-JDYwwH7z1MJbyLgBg9Q-w8KPOBxhDB4R_iKvdWzhzIjtmPLdL4Mu02iNM3YRb0KPjb95JGpsI0h2o",
+        "author": "Sarita Yadav",
+        "authorURL": "http://lh5.googleusercontent.com/-DECmhZv7c4g/AAAAAAAAAAI/AAAAAAAAABg/2THL0tDoy38/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-DECmhZv7c4g/AAAAAAAAAAI/AAAAAAAAABg/2THL0tDoy38/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1356556530335",
+        "starRating": "1",
+        "title": "A go",
+        "comment": "Rubish and bad it wasts your time",
+        "commentId": "gp:AOqpTOEwWuOzNUWSQBdn8vK45LZJlk4EWh_FEA0iZjXyzCeN3-xE43rK1dzFS_RSNmmYpXobDGrpAeuMKeHLzeM",
+        "author": "Emily Angus",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1362573103271",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": ":-)",
+        "commentId": "gp:AOqpTOEpTJZaalTlbyvqV2CkHVninRFZKnxxPFkyY1OnLHtJ3J2aN1nUxRFjm_1NJxjmIBblspu3t51Y8Lq0N8k",
+        "author": "Nigel Vivian",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1353751274008",
+        "starRating": "3",
+        "title": "R",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOEukmtFl3sWocs61RhbTQqTX3sLpl69fmy6zBjiz5LCOtJIFIPgHuRybj28OZmh5lnQWvmm-e1aK7AniyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1360764988969",
+        "starRating": "4",
+        "comment": "Ok",
+        "commentId": "lg:AOqpTOF4X8nRh-ODZ1mGTi91gUiYFc4Dkvn2CwAwJkZGqpx-uJj981cysKISAfWqdYbAraFxli32VU3k3GBKJk0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1351903522562",
+        "starRating": "5",
+        "title": "best game ever",
+        "comment": "this game is so awesome that i almost played it straight for 2 hours. love it!!!!!",
+        "commentId": "lg:AOqpTOGCVMMBgegCATqmd9pyv_R3BpJn2eZwpXIccbY5QJugeW6f843I1fIkXXOohZdaFdzyqTGXqZZfhhtshzk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1350625521715",
+        "starRating": "5",
+        "title": "Addictive!",
+        "comment": "Fun retro game, have to get the best time!",
+        "commentId": "lg:AOqpTOHkyFHGCqiR74TzxNxBbDSgpsinCmRp-PEB5vYSgTWsTlCupiG9EO2I7_VIkj-A3bqrynSN_eP2wj4oD0o",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350083645331",
+        "starRating": "5",
+        "title": "Game takes milestone towards realism,ascetic and o",
+        "comment": "Game takes milestone towards realism,ascetic and outstanding graphic, breathtaking grass and awesome gameplay.  Game experience on tablet is ... unforgetable .Must have game for tablets!",
+        "commentId": "lg:AOqpTOEqAnXgWX7q6xJjtgMszqTy77Fg7_1l56u8c_sf9KQxrPrOWc2N0wblnEAPFb6r5mI__TL_c6nsbPqoByg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.1",
+        "timestampMsec": "1350056606100",
+        "starRating": "5",
+        "title": "This simple litttle game rocks... Get it NOW!",
+        "comment": "This game is great. Everything about it makes me smile. So retro, so good, so cheesy. I love it!",
+        "commentId": "lg:AOqpTOFfz_6NrMn8reRG0A_PJsabnr0VL4Lx1LU9uVmGqzS2x50xpnhuI6PlZj03MJQDYjyiVKZN_8HKhNXHNcw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.4.1",
+        "timestampMsec": "1345860074077",
+        "starRating": "1",
+        "title": "It isn\\'t good at all!!!",
+        "comment": "You shouldn\\'t even waste your time with this app. I hate it deserves 0 stars. Uninstalling",
+        "commentId": "lg:AOqpTOHCkKJMuGdzEYZFywomBYysdg2uL7ym0pJtf8GuSlExmJvTB6DBo-QlBfl-n31APXp0XwpEkxLh95mLEpw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

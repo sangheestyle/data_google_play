@@ -1,0 +1,48 @@
+{
+  "title": "TalkToMe Siri Android Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jcarx.talktome",
+  "category": "Entertainment",
+  "price": "$1.00",
+  "datePublished": "June 12, 2012",
+  "version": "1.8",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "1.6666666",
+  "contentRating": "Everyone",
+  "creator": "Netsolvers.Net",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jcarx.talktome",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Please watch Demo Video before purchase.Teach your phone to say whatever you want it to say. Please read section â-Teaching your phone to say stuff:â to learn more.-DescriptionFirst time when you start the app, It will load a default brain into your phone SDCard.Basically this default brain will say something when you say something.--Default brain details.---Basics Examples :    If you say : how are you    The Phone will say back : I am good how are you doing, what are your plans today     Default words it knows before you teach it more words are âhow are       youâ,âhelloâ,ânameâ,âdogâ,âcatâ.-LookUp Examples : You can also lookup stuff by saying the key word âlookupâ before you say anything else.you can say\"look up Italian restaurants\"\"look up movies\"âlook up weatherâlook up local moviesââlook up phone dealsâ-Animation Example :You can say âdanceâ the little guy will start dancing. Just for kickâs. -Opening Stuff : You can open most of the popular web pages, see below what you can open by default.you can sayyahoo (it will open Yahoo in a browser)google (it will open Google in a browser)sms (it will open sms in a browser)phone (it will open phone in a browser)date (it will say todayâs date)time (it will say current time)help (it will say out what it knows)-Teaching your phone to say stuff:I am thinking this is what most people will use this app for, I know that is why i use it, to make my phone say funny stuff around my friends by teaching it stuff.--Click on âTeach Meâ button and updated what you want your phone to say when you say something. Make sure to click âSaveâ before you click âBackâ to update your phoneâs brain.---Example    Type hello in the first textarea, type âhello âyour nameâ you are cool in the second textarea     click âSaveâ then âBackâ. That is it you are set. Now your phone knows about the word âhelloâ.     Try it by saying hello the phone should say back âhello âyour nameâ you are cool-RequirementsAndroid OS 2.2 and aboveRecommended for Newer Android Phones and Tablets-TestingWas Tested on Atrix 4G, Nexus HTC, Samsung Galaxy Tab, Droid. No know issues with Android 2.2 and above.-Known Issues on older phonesOlder Droid phones HTC EVO 4G and few other phones have no sound. Please get refund as soon as you start seeing issues if you have a older phone.-Work In ProgressMaps (this version defaults to San Diego (Beta))map (say anything after map it will open Google maps)direction (say anything after direction it will open Google maps)- Coming Soon   you can say, take picture, email picture, update facebook,update twitter. Any any new request    by people like you reading this :-).-Please email me if you have any issues, I will be more than happy to refund. Please do not put negative comments, This app is coded by me and not a huge team of developers etc.You purchase is much appreciated and will allow me to pay my bills.Got help from Family and Friends with the graphics and ideaâs. Thank YouNetsolvers.netEnjoy!!!!",
+    "reviews": [
+      {
+        "timestampMsec": "1334651613369",
+        "starRating": "1",
+        "comment": "I was lied to.  I never got my refund and this app sucks.  Don\\'t purchase it..\\tI emailed for help and isses and toldorder was cancelled and I cud get my refund..  very nice and I\\'m pleased.  Waitng on upstade so I can get it again. Ty It doesn\\'t work at all..  everyting I sk or say it just repeats and teach me what that means..  gotta get my refund back",
+        "commentId": "lg:AOqpTOEk_wpLxStwCYNs6JQu3zH9zd4Am9wJhWTArMCl6ZvNieD5jAE2cCM8rs9IGO_vxd9iN3JUKysirEYECHU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330411992388",
+        "starRating": "1",
+        "comment": "Um wtf it doesn\\'t open...",
+        "commentId": "lg:AOqpTOGn82ptQoz8fqTrnEvUfH-PaIC62wCe8spzj5ZaZt357K3LAVBcNuSQlGCfJh-PSTLCgSJO6TIfxVu4tOM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

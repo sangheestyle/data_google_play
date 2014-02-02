@@ -1,0 +1,36 @@
+{
+  "title": "American Flag Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.americanflag",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 16, 2013",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacob Jetts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.americanflag",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Show your love for the greatest country in the world with this free American Flag LWP! Featuring a beautiful backdrop of Mount Rushmore, the flag waves gloriously and proudly!  For the patriots who love our Presidents, democracy, capitalism, freedom, equality - for Lincoln, Washington, Roosevelt, Jefferson, and all the others who did great things for this great country! For all the true Americans!****************************************************************************Please show support by posting comments and ratings! Thank you. Remember, you can change the picture size and speed of your live wallpaper by clicking on the settings upon installation.This app contains ads that may appear in the notification tray or homescreen as an Icon. You can optout the ads from the links below:Leadbolt Optout: http://opt.leadbolt.com/To delete the icons just hold your finger on them and drag to the trash can to delete.****************************************************************************Tags: patriotism, Barack Obama, democracyKey Words: LWP, custom, background, SD card, Jets",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

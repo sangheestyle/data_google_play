@@ -1,0 +1,40 @@
+{
+  "title": "Arcade Fire Wallpapers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.dreamtree.arcadefirewallpapers",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 6, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "dreamtree™",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.dreamtree.arcadefirewallpapers",
+  "extendedInfo": {
+    "installSize": "3.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "You can set your favorite images as the home screen background or share them with friends. If you love Arcade Fire's music, you are going to appreciate these wallpapers! Be sure to let me know by rating the application, commenting, and by visiting my website. Lots of love!â  Features:â Optimized for medium DPI and higherâ Works offline for quickly loadingâ Share your favorite images with friends (note: this automatically saves the image to your SD card in the /wallpapers/ folder so you can keep it even after uninstalling the app)â Hand-picked images you won't find anywhere elseâ Contains 32 imagesâ¥ Credits:Application created by dreamtree. Contains images by Man Alive!, marioanima, harshlight, amerainey, Gideon Tsang, risingsong, tammylo, wordswithoutthoughts, reallynothing, used with permission.â£ Tags:theme, dreamtree,  indie, canada, win butler, rÃ©gine chassagne, grammy, Montreal, â¦ Legal:All rights reserved. Â© Copyright 2011 dreamtreeâ¢.Legal notice: We believe our images fall under the fair use doctrine as they are reduced size and excerpted for informational purposes. However, if you would like to request removal of an image from our collection for copyright reasons, feel free to contact us at dreamtreemobile@gmail.com and we'll be happy to oblige.",
+    "reviews": [
+      {
+        "timestampMsec": "1343438065708",
+        "starRating": "3",
+        "title": "Poor",
+        "comment": "Pretty poor choice album art would be great",
+        "commentId": "lg:AOqpTOGY2PiOQD4zkydskakNrCSLuZA2K6mwONl7qBP7QTZiAiMhs1Gwt9jpJ9W_Oacq5RG-RnmriKYZL7eIzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.SET_WALLPAPER_HINTS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

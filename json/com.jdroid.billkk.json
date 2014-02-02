@@ -1,0 +1,38 @@
+{
+  "title": "Bill Kaulitz Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jdroid.billkk",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.8",
+  "contentRating": "Low Maturity",
+  "creator": "TheLiveWallpaper",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jdroid.billkk",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Please note that this is a Live Wallpaper and therefore it could not have an App Icon. Please kindly fellow the steps below to activate the wallpaper. Hope you enjoy the wallpaper and your feed back will be appreciated. Thank You very much.YOU CAN CHOOSE TO EITHER HAVE SLIDESHOW OF IMAGES OR JUST KEEP ONE STATIC IMAGE AS YOUR WALLPAPER. 1. Download live wallpaper and install. (if download from Google, automatically installed)2. Long press home screen3. Select Wallpaper and then select Live Wallpaper4. Select \"Bill Kaulitz Live Wallpaper\"5 Press Set As Wallpaper or tap SETTINGS to see more options.Bill Kaulitz (born 1 September 1989) is a German singer, songwriter, voice actor, designer, and model. He is best known for his work from 2001 to the present as the lead singer of the band Tokio Hotel.The 1000 Hotels Tour began in Brussels, Belgium, on 3 March 2008, and was set to continue through the Netherlands, Luxembourg, France, Spain, Portugal, Italy, and Scandinavia, ending on the 9 April. However eleven days after the start of the tour, on 14 March, Kaulitz began to experience voice problems in the middle of a show in Marseilles, France. He let the audience sing more often and the band cut their set down from twenty-one to sixteen songs.Two days after the incident in France, Tokio Hotel cancelled a show in Lisbon, Portugal moments before it was to commence. The band, with the exception of Kaulitz, came on the stage and apologized for the show being cancelled. They explained that Kaulitz was sick and was being flown back to Germany to see a specialist: he had played forty-three shows without a break and had developed an untreated throat infection. The infection caused a cyst to develop on the singer's vocal cords that had to be removed via larynx surgery on 30 March. Kaulitz was unable to speak for ten days afterwards and had to undergo speech therapy for one month.By May 2008 Kaulitz had sufficiently recovered and Tokio Hotel rescheduled the 1000 Hotels Tour dates, adding several open air concerts. The tour concluded on 13 July 2008 in Werchter, Belgium and, despite the surgery and time taken off, was deemed a success.Over 2008 and 2009, Tokio Hotel returned to the recording studio to record their second English album and third German album. The result was Humanoid, which was a much more techno-oriented release and a new sound. Humanoid was released on October 6, 2009, and just short of a month later Tokio Hotel picked up the \"Best Group\" award at the EMAs in Berlin on November 5. Humanoid has so far spawned two singles, \"Automatic\"/\"Automatisch\", released in September 2009, and \"World Behind My Wall\"/\"Lass uns laufen\" (meaning \"Let Us Run\"), to be released in January 2010.Tokio Hotel is a German rock band, founded in 2001 by singer Bill Kaulitz, guitarist Tom Kaulitz, drummer Gustav SchÃ¤fer, and bassist Georg Listing. The quartet have scored four number one singles and have released three number one albums in their native country, selling nearly 5 million CDs and DVDs there. After recording an unreleased demo-CD under the name \"Devilish\" and having their contract with Sony BMG Germany terminated, the band released their first German-language album, Schrei, as Tokio Hotel on Universal Music Germany in 2005. Schrei sold more than half a million copies worldwide and spawned four top five singles in both Germany and Austria.In 2007, the band released their second German album Zimmer 483 and their first English album Scream which have combined album sales of over one million copies worldwide and helped win the band their first MTV Europe Music Award for Best InterAct.Tag:- Bill Kaulitz Live Wallpaper, Bill Kaulitz Wallpaper, Live Wallpaper, Bill Kaulitz Fan App, Bill Kaulitz Fan, Bill Kaulitz, Tokio Hotel Live Wallpaper, Tokio Hotel Fan, Images, Background, HD.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ]
+  }
+}

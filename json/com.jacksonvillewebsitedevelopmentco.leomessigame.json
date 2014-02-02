@@ -1,0 +1,41 @@
+{
+  "title": "Leo Messi App Games + Social",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.leomessigame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.leomessigame",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Leo Messi?  If so you need to get this app right now so you can play games featuring Leo as the star.  With this app you will also be able to connect with him on social media so you can stay up to date on all things Messi.Lionel AndrÃ©s \"Leo\" Messi (Spanish pronunciation: [ljoËnel anËdÉ¾es Ëmesi], born 24 June 1987) is an Argentine footballer who plays as a forward for La Liga club FC Barcelona and the Argentina national team. He serves as the captain of his country's national football team. By the age of 21, Messi had received Ballon d'Or and FIFA World Player of the Year nominations. The following year, in 2009, he won his first Ballon d'Or and FIFA World Player of the Year awards. He followed this up by winning the inaugural FIFA Ballon d'Or in 2010, and again in 2011 and 2012. He also won the 2010â11 UEFA Best Player in Europe Award. At the age of 24, Messi became Barcelona's all-time top scorer in all official club competitions. At age 25, Messi became the youngest player to score 200 La Liga goals.Consistently rated by commentators, coaches and colleagues as the best footballer in the world and as one of the greatest players in the history of the game, Messi is the first football player in history to win four FIFA/Ballons d'Or, all of which he won consecutively. Messi has won five La Ligas, two Copas del Rey, five Supercopas de EspaÃ±a, three UEFA Champions Leagues, two Super Cups and two Club World Cups. In March 2012, Messi made Champions League history by becoming the first player to score five goals in one match. He also matched JosÃ© Altafini's record of 14 goals in a single Champions League season. Messi became the first player to top-score in four successive Champions League campaigns. He set the European record for most goals scored in a season during the 2011â12 season, with 73 goals. In the same season, he set the current goalscoring record in a single La Liga season, scoring 50 goals. On 16 February 2013, Messi scored his 300th Barcelona goal. On 30 March 2013, Messi scored in 19 consecutive La Liga games, becoming the first footballer in history to net in consecutive matches against every team in the league.Messi was the top scorer of the 2005 FIFA World Youth Championship with six goals. In 2006, he became the youngest Argentine to play in the FIFA World Cup and he won a runners-up medal at the Copa AmÃ©rica tournament the following year, in which he was elected young player of the tournament. In 2008, he won his first international honour, an Olympic gold medal, with the Argentina Olympic football team. Sportspro has rated Lionel Messi as the third most marketable athlete in the world. His playing style and stature have drawn comparisons to compatriot Diego Maradona, who himself declared Messi his \"successor\".",
+    "reviews": [
+      {
+        "timestampMsec": "1366646527352",
+        "starRating": "5",
+        "title": "cool app for cool player",
+        "comment": "the graphics are cool",
+        "commentId": "gp:AOqpTOGDHPRpJPlUFmNvfoWFanC1mpdHc3BsyQz_W4-9ACfqL-VwLUfrQMgDbs6kI_-N-Mu9Onk5uQBgDDgyaK0",
+        "author": "Norman Pelletier",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.leomessigame.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

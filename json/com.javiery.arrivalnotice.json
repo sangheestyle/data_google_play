@@ -1,0 +1,45 @@
+{
+  "title": "Arrival Notice (missed call)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javiery.arrivalnotice",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "January 7, 2012",
+  "version": "1.1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "100",
+  "rating": "4.46",
+  "contentRating": "Medium Maturity",
+  "creator": "Javier Yáñez",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javiery.arrivalnotice",
+  "extendedInfo": {
+    "installSize": "461k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "When you're reaching a location automatically makes a missed call. Make a missed call is dial a number, let it ring a couple of times and hang up.See the MakeUseOf.com review!: http://www.makeuseof.com/dir/arrival-notice-call-phone-numbers-based-destination-android/Defines a destination, a phone number and the warning distance. When you are at the distance of the destination that you have specified it will call automatically. Remember that you can be fined for use a mobile phone while driving!. Using this application does not need to manipulate the phone to warn that you are coming.Possible uses:\t- Tell someone that you are collecting these coming to come out.\t- Letting people know you've arrived somewhere.\t- During a route, to report that you've gone through a place.\t- ...When you have made the missed call, the destination is deactivated, the next time you need it you just have to activate it.The use of GPS is managed intelligently to save battery. When you are away from the target position is queried infrequently. As the destination is closer, the frequency of updating increases. If for some reason do not reach the destination, it will deactivate after a set time to prevent battery drain.The time of the call before hanging up, you can define.As a unit of length can be used meters or feet.If you've discovered a problem then please don't vote negative. Send me a message to jyanez747(at)gmail.com and I will look into it. Thanks.Keywords: drop call, miscall, to beep, to prank, one bell, one ring, missedcall, un bip, tak, squillo, ranah, hÃ¤lÃ¤ri, killeri, hÃ¤rkkÃ¤ys, missed call, gps, arriving, missed, ä¸å¨çä¿¡, ë¶ì¬ì¤ ì í, Anruf in Abwesenheit",
+    "reviews": [
+      {
+        "timestampMsec": "1338781367810",
+        "starRating": "5",
+        "title": "Great.",
+        "comment": "The Best.",
+        "commentId": "lg:AOqpTOGa7qoctGtcJG814WkBs22SO4vDjL-_-_wT16hp_Y-jx9I6alHcNztGNRytjjVt1FznxycN9yE7egXlUw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

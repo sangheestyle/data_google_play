@@ -1,0 +1,36 @@
+{
+  "title": "Jungle Puzzle - fun for kids",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jcbsystems.com",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "31",
+  "rating": "4.064516",
+  "contentRating": "Everyone",
+  "creator": "Weedoo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jcbsystems.com",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Puzzel for all children! this a fun jungle puzzle with lots of great animal and different  puzzle types *4 different puzzle types*20 different animal imageshours of fun for you children playing with this animal puzzleHave fun!Jungle Puzzles - fun for kids, is a great kidâs game app. Your child will be entertained for hours with this virtual puzzles game. It comes with different levels of difficulty and plenty of animal images to surprise your toddler or adolescent. Your child can have plenty of fun with these puzzle pictures of jungle animals. They can see images of monkeys, tree frogs, exotic fish and birds, lions, giraffes and more. There are 20 different ones to choose from, and a variety of puzzle types to keep your child entertained and to heighten the challenge as their skill evolves.The 4 different styles allow your child to choose how many puzzle pieces they want. They can choose from 4, 6, 9 or 12 puzzle pieces, depending on how difficult they want it to be to put together the image. The images themselves are high quality and show each animal in vibrant colors, encouraging your kid to finish the puzzle so that they can see their end work and the completed image. This kidâs game is both an educational tool and great fun. Help develop your childâs motor skills as well as logic skills as they assemble each puzzle. This is a great alternative to paper or wood puzzles that can often get damaged and lose pieces over time. The condition of these virtual puzzle pieces will always be top quality and thereâs no worry about losing pieces. Itâs a lot easier to play with on the go too! The Jungle Puzzles features include:-\tEasy to read and navigate menu-\tSimple controls-\t4 Puzzle Styles-\t20 Animal Images-\tHigh Quality Photos of Real Animals-\tPlenty of Portable Fun! Jungle Puzzles is brought to you by Kids Games. This developer is dedicated to bringing fun educational games of the best quality to your children for free. Their games include Learn to Read, Fun for Toddlers, Puzzle Fun for Kids 2, Puzzle for Toddlers and much more.If you have any comments or feedback on this game, please contact us. Advice from users helps us improve our games!",
+    "reviews": [
+      {
+        "timestampMsec": "1366727796194",
+        "starRating": "5",
+        "title": "So good for kids!",
+        "comment": "Love this app my daughter loves and so does my husband lol!!!",
+        "commentId": "gp:AOqpTOF1E2TC5-QHItU5t0wMfqxv0_dX3Y2cj86B_zqorRj3W8aKdZK-Wj8KQa0tJhzcZ6pCCw8_lDrkPSuziw",
+        "author": "Melissa Dyck",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET"
+    ]
+  }
+}

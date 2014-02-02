@@ -1,0 +1,202 @@
+{
+  "title": "OsciPrime Oscilloscope Legacy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=ch.serverbox.android.osciprime",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 21, 2012",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "148",
+  "rating": "4.081081",
+  "contentRating": "Everyone",
+  "creator": "Nexus-Computing",
+  "creatorURL": "https://play.google.com/store/apps/details?id=ch.serverbox.android.osciprime",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "*Important Note*: Thank you all for your incredible support. We are taking the OsciPrime Oscilloscope one step further. The new application on the market ( http://goo.gl/UhgYf ) will have all the features plus new multi touch support and is also available as Open Source under http://www.osciprime.com .This is the Open Source Oscilloscope based on the Bachelor Thesis \"Using Android in Industrial Automation\" of the University of Applied Sciences of Northwestern Switzerland.Note that this application is written for an embedded system for high speed data acquisition (runs on the Beagleboard) and this is a port to the phone/tablet platform.It will use the microphone as input source, \"USB\" will only work with the hardware board from our project.For more information about the project visithttp://android.serverbox.chFeatures:-> (NEW) Tablet support-> Mic Input, only working mono 44100[Hz] at the moment.-> Cursor, Trigger, Offset-> If you want to use it with our board (schematic at http://android.serverbox.ch) up to dual 6 [Msps], 8 bit A/D, no root needed :).Important Note:Tested on Nexus S, HTC Magic, LG P500 and Acer A500 3.1 TabIf you want to add your own features feel free to download the and compile the source: http://android.serverbox.ch/?p=268",
+    "reviews": [
+      {
+        "timestampMsec": "1348602577481",
+        "starRating": "4",
+        "title": "Nifty",
+        "comment": "Took me a while to figure out how to turn it on.  To display audio waveform via microphone:  Menu, [ S ], Source Selection: Audio",
+        "commentId": "lg:AOqpTOGEtN4mjJDRKcOnSS7bML_zpFoHEXLwgmUtlSYHy0Mr_rKr0xVeVEhH9SD5O2CRx8x8aJeGfZKnDcLG",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356670287388",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "Good, but confusing.",
+        "commentId": "gp:AOqpTOEM4P0IwRdlIAO93ZeiBJYxdGz9l84CfodZMAQaBRq_H4h2Rz9SEd0c3uMRdDlU3JjbU38xHANJbspE",
+        "author": "Justin Zuber",
+        "authorURL": "http://lh4.googleusercontent.com/-0NdaNjfqbAc/AAAAAAAAAAI/AAAAAAAAAC4/DwR_7qIIpx8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-0NdaNjfqbAc/AAAAAAAAAAI/AAAAAAAAAC4/DwR_7qIIpx8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1348182783976",
+        "starRating": "1",
+        "title": "Gfggfg",
+        "comment": "Wtf,didnt even have time to figure how that work if it work.",
+        "commentId": "lg:AOqpTOGSfoQzG34JIPFUrkNSbXAB91YozMdmhVDbolDQ-g2FGTFZC96BAzu3wfcTUFx7C_PDDfLzOKvDgDw-",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368477437644",
+        "starRating": "4",
+        "comment": "Good job",
+        "commentId": "gp:AOqpTOESbQZA1rdlsmcrg2V7E3aGVwobbjtvToWsvcEGeqMiBY1xzQnWVnRQIBfAdAxqmlfp1LSSQIugzVX_",
+        "author": "scott turner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340106349248",
+        "starRating": "4",
+        "title": "great idea",
+        "comment": "It seems amazing to have so much in one place,good luck with the hardware.",
+        "commentId": "lg:AOqpTOFC9QI_iaejvMaHTThQ3KsYQ-uCWbxGdhAfeAt7ibVZVf1t0AfOTHBF-3ohsEq-MpmQ8GdJFIbjWPng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340045855130",
+        "starRating": "3",
+        "title": "Decent oscilloscope!",
+        "comment": "I got this as my school\\'s CRO was damaged and I needed to teach a lesson on sound waves. Needless to say it does its job well but it would be good if you could change background colour for higher contrast.",
+        "commentId": "lg:AOqpTOHqq-QX9ky7o1zM5yXpVvqV2m-SC7fTuaR5K9srTDTy7yUqMyAkLJKmO94SF1ovJqFG_ivgYKqUFkGJ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331999770305",
+        "starRating": "5",
+        "title": "Great teaching aid.",
+        "comment": "I used this to illustrate to my six year old that sounds are waves.  Thank you.",
+        "commentId": "lg:AOqpTOGCAavhWyLlxPO2iYNe-XReXsXFHGBltut_rDPEdDe1KqbdHWqVZjnNsS8v7W7Mp86AYA8aOimpuCim",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339259328974",
+        "starRating": "5",
+        "title": "Great. Thanks",
+        "comment": "Great.",
+        "commentId": "lg:AOqpTOFzP42d8WARQv9W_m5bVfUPwKoX01xkEK8wiajFlCY7wflqMfxaTJibGhZrAYdpaTeUg9L6-KBxLMOC",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339965644616",
+        "starRating": "5",
+        "title": "love it",
+        "comment": "Thanks a lot!!",
+        "commentId": "lg:AOqpTOFsZyEPjUtc2elbqgEO1Qopsxkaalz_XPFIi3rUrhLFb2JTO9qOr9qRZmjsCdA6Jp3hQAKY3bp-uh4j",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334349505170",
+        "starRating": "4",
+        "comment": "Impressed",
+        "commentId": "lg:AOqpTOGHFGm6AjxefHBX1vYk9tDtnSxbl7a_OnFZKkkT8mgn1Imc34vOOIm50CWYKjthLci_KXtpDduSQ0ic",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337723522349",
+        "starRating": "2",
+        "title": "Cool but need improvement",
+        "comment": "Missing the most essential feature of showing the frequency/division. Impossible to know what I am actually measuring. The \\\"t:340\\\" label is not help either. Second: A great idea is to build a frequency down-converter probe so we can measure more than 22 KHz with audio port!",
+        "commentId": "lg:AOqpTOGQEZdcj1vqIMVk8m9CpjuGB42rXY1x1BOgwXohY7ILyREa0euJWJ0Jt_ttT8mHAMytQioIs0hI-N8n",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320377964830",
+        "starRating": "4",
+        "title": "Expert electronics tech thanks u",
+        "comment": "Will investigate your board offering, nice audio input feature. Works well on Samsung Galaxy S II",
+        "commentId": "lg:AOqpTOHZKKvKF5WzPRS0Imca1YFmSgAfo2BG8BgZUfn5lfMhYS0YupjCXvuMazlFUtCdFWEN0aMzy9h9o3Jc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306420312363",
+        "starRating": "4",
+        "comment": "Really nice start to a good app. Needs some improvement, better time division selection, a multimeter mode, a one shot trigger, stereo audio input.",
+        "commentId": "lg:AOqpTOH7b0Ccy1vTkn52wyEaj-orIsDVsariEB0i3INigtvIkPSxPAJl1uIxYj3t86NXSc7DFdctbbIWEKhe",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316766051758",
+        "starRating": "4",
+        "comment": "Works well on wildfire s. Good basic audio oscillo. Some documentation would be nice...",
+        "commentId": "lg:AOqpTOEpicx5uf_jzMW5-nZEKgJyBWn1hXRyyjYsmWXePJVsXDqpp8ixcIZh2Lfl_E7YhTSQ9wf1DZkb2qbC",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322925878490",
+        "starRating": "5",
+        "title": "Awesome first step!",
+        "comment": "I\\'m an EE and have been waiting for an app like this. It showcases what is possible but needs the ability to trigger and change scales.",
+        "commentId": "lg:AOqpTOFFTLC2Y8sXyybESJzue8vD147ScgKcXLuX1lTLQzCrCgaJFFgzqJtqgId_JlrZMenmx4WnXzAXN0pn",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324224611040",
+        "starRating": "1",
+        "title": "Pointless",
+        "comment": "I guess with time this could be a great little app.  As it stands though it is completely pointless.  No units, scale, or clue.",
+        "commentId": "lg:AOqpTOGzbC2y_P_wPWXuB642fVsjpWQ9xEgdTJlSgI3axiyRVKzz-2u8FIlczPDa9g8JbNW5oQ1cKoLh7UsP",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307746727413",
+        "starRating": "5",
+        "comment": "Built an isolated circuit for use with the headphone Jack on my optimus v, works well! Only compliaint is the timebase and inability to record data",
+        "commentId": "lg:AOqpTOE3EuLRzLLBfRAcFKlr5k9gRVpSfrFjP3qS_vdy4IFU7g7MmbYp7FvOA_2FLisla424iuUZm_PqB5kW",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307299300570",
+        "starRating": "4",
+        "comment": "Would be better if you could change the timebase and the gain manually, but otherwise works well. I might make a little circuit so I can probe. HD2",
+        "commentId": "lg:AOqpTOFhfIh_hx-CmKYbX59fs3REA4p1D58lUXfcClexqUP5s7C1JJOIOi-j_TM6zFymCVAtLBiNVex1igvI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311029304378",
+        "starRating": "4",
+        "comment": "Look forward to seeing this develope. BF.",
+        "commentId": "lg:AOqpTOE4uxU3mRZZlipMklziQtvHBiEYocu8-WzBuE3J9-JaylEW4pPtd_6uYNhHD33m90M4Ocjm-MvDNR-c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317825643918",
+        "starRating": "2",
+        "title": "Tried on Galaxy S",
+        "comment": "Samples audio but no obvious controls eg timebase, no instruction list",
+        "commentId": "lg:AOqpTOG--rqkSVVclj6oWDBxwk7jf-AGpMlnj20h0ZxRADSi2QQpEE31MNf390Omj6o7TXuKzRESimb4Nbdl",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

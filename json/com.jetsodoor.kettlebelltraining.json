@@ -1,0 +1,48 @@
+{
+  "title": "Kettlebell Training",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.kettlebelltraining",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Medium Maturity",
+  "creator": "HK Nut",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.kettlebelltraining",
+  "extendedInfo": {
+    "installSize": "9.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "If youâre like most people, youâve tried plenty of diets. And they havenât worked. You might lose a few pounds or even a few inches, but your body is still flabby. And the weight always comes back on.You know what the problem is? Traditional diets just strip your body of muscle. And when lose your muscle, your metabolism crashes and your body gets flabby.But what you want is to look fit. Get lean. And command respect wherever you go.I have the solution. Itâs a centuries-old secret developed in Russia to build strength, improve flexibility and create a strong cardiovascular system. Today you can use this same training program to rip the fat from your body and get into the absolute best shape of your life.What is it? Itâs kettlebell training, and itâs unlike anything youâve ever tried.Think back to what you looked like when you were younger. You looked great no matter what you wore. You liked what you saw in the mirror. You could even turn a few heads.Listen, You can get that body back with the help of the 8 week training program youâll discover inside the Ultimate Kettlebell Training and Fat Loss Book. Plus youâll also get 25 gym videos, nutritional guidelines and kick-ass motivational secrets that are guaranteed to get you lean, get you fit and get your confidence back.  So check out this amazing fat-loss program below now, because you deserve thisâ¦From this app you can find a ebook about kettlebell training and a lot of latest youtube video about kettlebell training (All the video update daily)You can learn from this app about kettlebell trainingkettlebell workoutskettle bell exerciseswhat is kettlebell trainingkettlebells trainingkettlebell workoutkettlebell exerciseskettle bellKettle exercise programkettlebells and much more................",
+    "reviews": [
+      {
+        "timestampMsec": "1373679312169",
+        "starRating": "1",
+        "title": "YouTube videos",
+        "comment": "Just a link to YouTube and crappy diet info with way to many adds..",
+        "commentId": "gp:AOqpTOG6jzce4a9rQw5ze9I321r4tHPaFjuUdjD6nUDtQWbBmGKKFyn7Else3ODkEUlnPMQ9x43wN_lIBUhqJ9s",
+        "author": "Michael Wray",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WAKE_LOCK",
+      "com.jetsodoor.kettlebelltraining.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

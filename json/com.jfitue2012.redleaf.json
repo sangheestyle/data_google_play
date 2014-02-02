@@ -1,0 +1,42 @@
+{
+  "title": "S4 Fly Leaf Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jfitue2012.redleaf",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "May 9, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "27",
+  "rating": "3.7407408",
+  "contentRating": "Low Maturity",
+  "creator": "girljigsaw",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jfitue2012.redleaf",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Galaxy S4 Fly Leaf Live Wallpaper, beautiful Sunshine drop effect with floating Leaf.Three bacground u can choose in seting.U can set If show FlySeed and FlySeed Size.To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3,Galaxy S4,Galaxy S2, Nexus 7, HTC Desire S and Sony Xperia S. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Disclaimer/TrademarksGalaxy S4 is a trademark of Samsung. Galaxy S4 Sunshine Live Wallpaper is not affiliated with or endorsed by Samsung.We love creating apps, and want to keep them free forever. In order to keep our development running we are using some in-app ads.We only use airpus ad for notification ad to increase we income.If you do not wish to support applications with Airpush ad you can visit airpuh optout: http://www.airpush.com/optoutOr u can download the app to remove the airpush ad:https://play.google.com/store/apps/details?id=com.airpush.opt.out.androidapp",
+    "reviews": [
+      {
+        "timestampMsec": "1373271219464",
+        "starRating": "5",
+        "title": "Samsung. S3",
+        "comment": "Sweet sangat",
+        "commentId": "gp:AOqpTOFOkCx64u5HRSmPZPPR90IhZvlC0Qyz__S9dPney3PILIIuK57Br6Jx6xU5oAObqlFW2pEKb3SPp2gIjA",
+        "author": "Nur Iman Amani",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

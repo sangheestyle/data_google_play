@@ -1,0 +1,33 @@
+{
+  "title": "Flatland by Edwin A Abbott",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.aoandroid.jiuboo.edwinabbott",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 12, 2011",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "3.857143",
+  "contentRating": "Everyone",
+  "creator": "Ming Shen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.aoandroid.jiuboo.edwinabbott",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Flatland: A Romance of Many Dimensions is an 1884 satirical novella by the English schoolmaster Edwin A Abbott. Writing pseudonymously as \"A Square\",[1] Abbott used the fictional two-dimensional world of Flatland to offer pointed observations on the social hierarchy of Victorian culture. However, the novella's more enduring contribution is its examination of dimensions; in a foreword to one of the many publications of the novella, noted science writer Isaac Asimov described Flatland as \"\"The best introduction one can find into the manner of perceiving dimensions.\"\"[2] As such, the novella is still popular amongst mathematics, physics, and computer science students.Several films have been made from the story, including a feature film in 2007 called Flatland. Other efforts have been short or experimental films, including one narrated by Dudley Moore and a short film with Martin Sheen titled Flatland: The Movie.---------------------------âFlatland: A Romance of Many Dimensionsâ is an Android Book App built on Jiuboo Book Template. Jiuboo is an Android book app publishing platform developed and maintained by Ming Shen. Book Apps published by Jiuboo may be written by the publisher or may be the public domain books. The app publishers do not need to publish books through publishing companies, Jiuboo allows any books and contents to be published on Mobile devices and multi millions of Smartphone users can read the contents for free. The publishers gets revenue from clicks on Ad banner directly.Jiuboo book is an App Template, the publishersdo not need to be a technical person or Android programmer. An easy to follow 9 steps for any one who is able to access internet and who has contents or books to publish. You may write your own, or you may publish other's as long as you are legally allowed. Jiuboo provides the flexibility of Book setup, such as, skin, text size, color, etc. and App setup such AdMob ID to drive revenue direct from users' clicks and Google Analytics to track the usage of your own Jiuboo apps. The easy 9 steps, no coding, quick publishing!Jiuboo is still under development, and this app is the result of beta test. If you like it and plan to publish your own Book Apps, visit http://www.jiuboo.com to check if it is available for publicFeedback: anadroid@mingsh.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.TELEPHONY_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

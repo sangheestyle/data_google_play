@@ -1,0 +1,64 @@
+{
+  "title": "Protect My Girl!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jensu.EmergencyMapPlus",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "December 5, 2012",
+  "version": "1.2.10",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "19",
+  "rating": "4.1578946",
+  "contentRating": "Low Maturity",
+  "creator": "A+ design, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jensu.EmergencyMapPlus",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "At urgent case you have no time to call help in time when you notice someone is following you? Can not find the right person in your phonebook to contact in time when you are kidnapped?Everyone Must have and will Save your Life app!! Turn GPS on to auto detect your location Map and send for help! Multi-function combined to one app, and can help to quickly call help with your location map sent in emergency case with one button simply pressed!1. Easy to record your track and check-in location on Map.2. The Alert Button will ring alert to scare out bad actor when pressed.3. The Help Button will send email with your track-recorded map or location map view to preset contact for help in urgent case.4. The Call Button will send a charged message to preset contact, and also dial a call to preset contact for help in urgent case.Also your phone will be in slience mode when Help or SOS Button is pressed, and this will protect your safety in some cases, then restore your phone volume setting by pressing Exit of Menu key.5. Key in your urgent contact key person or 112 number on menu key only once, and you can just press Help or Call buttons at emergency case. The number 112 is recommended because it call dial out any where even no network signal!Keywords: Help me, emergency, one button press, urgent call, 112, communication, protection, GPS track send, message, SMS, GPS converter, map send, google map record, contact, hero, superman, kidnap, monitor, anti rape, alert, police, defence, defensiveness, muniment, bless, insure, aegis, safeguard, safekeeping, satety, wardship, assist, support, aid, succor, ministration, weft, appeal, recourse, save, life, deliverance, minister, salvation, extricate, lifesaving, savior",
+    "reviews": [
+      {
+        "timestampMsec": "1336975164658",
+        "starRating": "5",
+        "title": "Lamee",
+        "comment": "It not good",
+        "commentId": "lg:AOqpTOFPzO3j8oHhZbo47oSMd2wPYfaVc3qNDKzwsZsFaL8m3QJUK_yEOWOU1BJ203KpFrmYe5ybMSVKAf43aA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1328568593611",
+        "starRating": "1",
+        "title": "Dangereous App.",
+        "comment": "Never download this application. It is a spyware, and messes up your phone. And also it is battery killer. watch out",
+        "commentId": "lg:AOqpTOHNmtqef2MmwC82O4w3l10VGKtnau8AmftHFMGzBsYTAWWGnDYbOJbiAAIMCn8M9p04J3vtGEoqnewhGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361225191649",
+        "starRating": "1",
+        "title": "Detected Spyware so don\\'t download",
+        "comment": "Protection for your girl as a catch phrase to lure all insecure younger users, which Android is compared to mostly upscale clients on iOS.",
+        "commentId": "gp:AOqpTOG2PnW_fOWwW7gD_WFD4X2rhicDpg7Z4zAcvQTka2uyOE6w8COyciY33e6ZTsoTjyaZubEnYfv-BRKOOg",
+        "author": "James von Veit",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

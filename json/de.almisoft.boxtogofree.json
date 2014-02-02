@@ -1,0 +1,80 @@
+{
+  "title": "BoxToGo Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.almisoft.boxtogofree",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 16, 2013",
+  "version": "1.6.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "503",
+  "rating": "4.4612327",
+  "contentRating": "Everyone",
+  "creator": "almisoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.almisoft.boxtogofree",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Remote control your FRITZ!Box and find out who called at home. Show call list and FRITZ!Box phone book, Switch on/off your answering machine and reconnect/reboot FRITZ!Box.Simple setup:The new wizard lets you easily setup BoxToGo and supports MyFRITZ!, DynDns and  free \"BoxToGo DynDns\".Requirements:AVM FRITZ!Box 3270, 3370, 6320, 6340, 6360, 6840, 7112, 7141, 7170, 7240, 7270, 7320, 7330, 7360, 7390 or 7570 with firmware from xx.04.87.Take a look at BoxToGo Pro:- call monitor displays calls immediately- Free phone calls with Callthrough- Skype calls- Switch on/off diversions- Switch on/off WiFi and WiFi guest access- Multiple FRITZ!Box support- Shows photos and names from contacts in call list- Determine caller name via reverse lookup- WakeOnLan- Play voice messages (wav)- Display fax messages (pdf)- 13 widgets for nearly all featuresCompare all features between free and pro:http://www.boxtogo.de/comparison.phpVisit http://www.boxtogo.de for FAQs, forum and videos or contact me directly: boxtogo@almisoft.de or +49 (0) 30 70206375",
+    "reviews": [
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1375669452654",
+        "starRating": "4",
+        "title": "Cool",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOGIvfe5hRu3lUwZnsrzZIvDXXp3LmeOKUIMuPFrd3BQZkAgnjq1I8qlU9AAo_zInoeCVAV3v7Jhir_pJU8",
+        "author": "brad schmidt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1375976631895",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Nice app to use also when youre not home.",
+        "commentId": "gp:AOqpTOEb7p6vaMHAfTGpMr3-QLRZ7dKC8Z2ri5ce4wPUPglMkjew_wXvMdPxh8tZKGm9wnNMRIQzuzcwJ_DgmYY",
+        "author": "Henk Broekhuizen",
+        "authorURL": "http://lh6.googleusercontent.com/-PntUsiNcZ6c/AAAAAAAAAAI/AAAAAAAAADU/VmyzbMhHPjI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-PntUsiNcZ6c/AAAAAAAAAAI/AAAAAAAAADU/VmyzbMhHPjI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1328554456418",
+        "starRating": "5",
+        "title": "Great compatibility with 7170",
+        "comment": "The best free app to control my FB 7170, easy to setup and to connect. Gut gemacht! A+",
+        "commentId": "lg:AOqpTOFaT0gHiQUHHtXDjYx1ZovozwM70Jwj1zX1VaHWhBLRNOCH_PnzjyjUQzKMS-QiELmtJe44hBVOL65waKM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1327556258243",
+        "starRating": "4",
+        "title": "Usefull",
+        "comment": "But unable to work out how call thtough is meant to be set up via boxtogo",
+        "commentId": "lg:AOqpTOEPpNbIqJdjfJsME5iQF2Cqwth-tUQe86-ElxJc7kzrMR2CVHyIrWsCQBLgC-S3QRAGI-WIJQs1bBPKQDA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344718060408",
+        "starRating": "1",
+        "comment": "Did not know how to work it.",
+        "commentId": "lg:AOqpTOFbEVgvLXlYRQEmDsMuMg5Osm0VIzorXiOUZ2gHAssB65_EfgG-HjFlXhKDwSFrDD1JJv38Px4A_5Xh5qs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

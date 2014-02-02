@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Dr. Dre Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.drdreapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.drdreapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Dr. Dre?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Dr. Dre memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Dr. Dre.Andre Romelle Young (born February 18, 1965), known by his stage name Dr. Dre, is an American record producer, rapper, entrepreneur, and actor. He is the founder and current CEO of Aftermath Entertainment and Beats Electronics. Dre was previously the co-owner and artist of Death Row Records. He has produced albums for and overseen the careers of many rappers, including Snoop Dogg, Eminem, Knoc-turn'al, Xzibit, 50 Cent, The Game and more recently Kendrick Lamar. He is credited as a key figure in the popularization of West Coast G-funk, a style of rap music characterized as synthesizer-based with slow, heavy beats. In 2011, Dr. Dre was ranked as the third richest figure in the American hip hop scene by Forbes with a net worth of $250 million.Dre began his career as a member of the World Class Wreckin' Cru and later found fame with the influential gangsta rap group N.W.A with Eazy-E, Ice Cube, MC Ren, and DJ Yella, which popularized the use of explicit lyrics in rap to detail the violence of street life. His 1992 solo debut The Chronic, released under Death Row Records, led him to become one of the best-selling American performing artists of 1993 and to win a Grammy Award for the single \"Let Me Ride\". That same year he produced Death Row labelmate Snoop Dogg's quadruple platinum debut Doggystyle.In 1996, he left Death Row to establish his own label, Aftermath Entertainment. He produced a compilation album titled Dr. Dre Presents the Aftermath in 1996, and released a solo album titled 2001 in 1999, for which he won the Grammy producer's award. During the 2000s, he focused on production for other artists, while occasionally contributing vocals to songs. Dr. Dre signed Eminem and 50 Cent to his record label in 1998 and 2003 respectively, while contributing production on their albums. Dr. Dre has also had acting roles in movies such as Set It Off, The Wash and Training Day.AndrÃ© Romelle Young was born in Compton, California on February 18, 1965. He was the first child of Theodore and Verna Young. AndrÃ©'s middle name, Romelle, is derived from his father's amateur R&B singing group, The Romells. Married in 1964, AndrÃ©'s parents separated in 1968 and divorced in 1972. Verna later married Curtis Crayon. They had three children together, two sons named Jerome and Tyree (both deceased) and daughter Shameka.In 1976, Young began attending Vanguard Junior High School in Compton, but due to gang violence, he transferred to the safer suburban Roosevelt Junior High School. Verna later married Warren Griffin, whom she met at her new job in Long Beach, which added three stepsisters and one stepbrother to the family. His stepbrother Warren Griffin III, would eventually become rapper Warren G. Young attended Centennial High School in Compton during his freshman year in 1979, but transferred to Fremont High School due to poor grades. Young attempted to enroll in an apprenticeship program at Northrop Aviation Company, but poor grades at school made him ineligible. Thereafter, he focused on his social life and entertainment for the remainder of his high school years. Young fathered a son, Curtis, born December 15, 1981, with Lisa Johnson. Curtis Young was brought up by his mother and first met his father 20 years later, when Curtis became rapper Hood Surgeon.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.drdreapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Jessica Alba Photo Gallery",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.japggallery",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 17, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "12",
+  "rating": "4.8333335",
+  "contentRating": "Medium Maturity",
+  "creator": "FP Galleries",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.japggallery",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "This is a Jessica Alba photo gallery fan app with lots of photos. The photos can be saved to your SD card or set as wallpaper.Features:1. 100 High quality photos.2. Photos can be saved to SD Card.3. Photos can be set as wallpaper.4. App is SD transferable.Usage:Swipe left and right to browse the photos. Long press on a photo to bring up the photo menu.We appreciate your feedback. If you have any problems with this app please contact us and we will get to work on fixing it.Mini bio:Jessica Marie Alba was born on April 25, 1981 in Pomona, California. In love with the idea of becoming an actress from the age of five, she was 12 before she took her first acting class. After nine months later, she was signed by an agent. She began her television and movie appearances at age 13 in Camp Nowhereand the Secret World of Alex Mack (1994). Alba raised to prominence as the lead actress in the television series Dark Angel (2000-2002). Alba later appeared in various films including Honey (2003), Sin City (2005), Fantastic Four (2005), Into the Blue (2005), Fantastic Four: Rise of the Silver Surfer and Good Luck Chuck in (2007).",
+    "reviews": [
+      {
+        "timestampMsec": "1348179253633",
+        "starRating": "5",
+        "title": "5 star",
+        "comment": "Excellent app for jessica alba fans",
+        "commentId": "lg:AOqpTOE8wyVpABqTH-daaXdrqILboRsYcMCJJ0wyzkX_-mvIC-Gqj9N1Ry-Cyat0WZ8ITwIDS9vIxA29T9NAA4s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

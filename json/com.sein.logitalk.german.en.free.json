@@ -1,0 +1,57 @@
+{
+  "title": "Say German Free (Listen&Speak)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.sein.logitalk.german.en.free",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "June 16, 2013",
+  "version": "1.5",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "26",
+  "rating": "3.9615386",
+  "contentRating": "Everyone",
+  "creator": "Sein Education",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.sein.logitalk.german.en.free",
+  "extendedInfo": {
+    "installSize": "9.3M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Say German FreeLearn to Speak German!The best German Speaking appSay German is the German conversation application consists of most frequently used German sentences with the native speaker pronunciations.Say German is for the English user who wants to speak German in short period with full efficiency.Some of the features are: â¢The Easiest and the Fastest Way to Talk in German at any Circumstancesâ¢You donât need to waste your time to find one sentence that you need in thousands of unneeded sentences. There are only 300+ sentences you will most likely need. â¢Speaking mode and Listen mode available!! You can learn both Speaking and Listeningâ¢There is vocabulary part so that you can see how these sentences are made, and also you can create similar sentence by changing one particular word. â¢Native speaker recording. Clear and Perfect pronunciation &intonation. â¢Voice repeat count option.â¢Say German consists of twelve categories such as emergency, shopping, negotiation, and so on.â¢No need of additional download or internet connectionâ¢One Categories available(daily) for free version!!Speak German, Talk German, Learn to speak German, Listen German.",
+    "reviews": [
+      {
+        "timestampMsec": "1329843630591",
+        "starRating": "1",
+        "comment": "This app sucks cocks",
+        "commentId": "lg:AOqpTOF4XOf_j9KoJ_Qk_r3QRJhfVBnxWChmpGdfaxu18dtcUz-9OaZCMuCtPPTDIZqreQmlM37t52r-3rqp",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360784932078",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "All hale Hitler",
+        "commentId": "gp:AOqpTOEdM78SIwe7M1hm-BJPN06vVwsr89dD4xdCwmIGqJegidi_zApPOoVK6Jn0HhWDDMuwrPML2P1ULYUx",
+        "author": "Elsie Cole",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357067904898",
+        "starRating": "1",
+        "comment": "NOT usefull. ITS not free. DONT waist your time to dawonlade it.",
+        "commentId": "gp:AOqpTOGmVpO2jFyDDGz95rIKCxOrZm2ltEsISfwsOJmtKIVjy5Lgsup0YHbTe-J9trl4b-9xbX_A877auNBw",
+        "author": "nisreen taha",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

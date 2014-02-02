@@ -1,0 +1,29 @@
+{
+  "title": "Italian Salary Calculator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jerryco.calcola_stipendio",
+  "category": "Business",
+  "price": "$1.70",
+  "datePublished": "May 8, 2013",
+  "version": "1.0.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "17",
+  "rating": "4.2941175",
+  "contentRating": "Low Maturity",
+  "creator": "JerryCo Soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jerryco.calcola_stipendio",
+  "extendedInfo": {
+    "installSize": "867k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Are you tired of hearing everytime talk about Gross Annual Salary.Do you want to understand what you'll find monthly on your paycheck?Are you curious to know how much tax you pay annually?Do you wish you could know how much you should ask for a salary of 2000 â¬ per month??Italian Salary Calculator is the application that calculates for you!Italian Salary Calculator is the first application for Android that allows you to calculate your italian net salary and taxes using most current tax rates andconsidering all the tax deductions. Moreover Italian Salary Calculator also allows you to easily and immediately find out whichGross Annual Salary you should ask to get a specific Net Monthly Salary.Why should I buy Italian Salary Calculator?* To calculate the net monthly salary in respect of the Gross Annual* To be able to easily calculate how much tax you pay annually* To understand how much you should ask in an interview for a particular Net Monthly Salaryif you need support feel free to contact the JerryCo Soft staff:jerryco.soft@gmail.comIf you want to have a Salary Calculator also for your own country or if you have any ideas to improve it, just tell us!jerryco.soft@gmail.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

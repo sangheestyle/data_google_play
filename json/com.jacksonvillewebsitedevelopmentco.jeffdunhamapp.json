@@ -1,0 +1,51 @@
+{
+  "title": "Awesome Jeff Dunham Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.jeffdunhamapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.jeffdunhamapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love the comedian Jeff Dunham?  Do you wish you could play games with him as the star?  Well now you can!  With this great app you will be able to play Jeff Dunham memory, jigsaw puzzles, and Tetris.  You will love passing the time with Jeff.Jeff Dunham (born April 18, 1962) is an American ventriloquist and stand-up comedian who has also appeared on numerous television shows, including Late Show with David Letterman, Comedy Central Presents, The Tonight Show and Sonny With a Chance. He has five specials that run on Comedy Central: Jeff Dunham: Arguing with Myself, Jeff Dunham: Spark of Insanity, Jeff Dunham's Very Special Christmas Special, Jeff Dunham: Controlled Chaos and Jeff Dunham: Minding the Monsters. Dunham also starred in The Jeff Dunham Show, a series on the network in 2009. His style has been described as \"a dressed-down, more digestible version of Don Rickles with multiple personality disorder\". Describing his characters, Time observes, \"All of them are politically incorrect, gratuitously insulting and ill tempered.\" Dunham has been credited with reviving ventriloquism, and doing more to promote the art form than anyone since Edgar Bergen.Dunham has been called \"America's favorite comedian\" by Slate.com, and according to the concert industry publication Pollstar, he is the top-grossing standup act in North America, and is among the most successful acts in Europe as well. As of November 2009, he has sold over four million DVDs, an additional $7 million in merchandise sales, and received more than 350 million hits on YouTube as of October 2009 (his introduction of Achmed the Dead Terrorist in Spark of Insanity was ranked as the ninth most watched YouTube video at the time). A Very Special Christmas Special was the most-watched telecast in Comedy Central history, with its DVD going quadruple platinum (selling over 400,000) in its first two weeks. Forbes.com ranked Dunham as the third highest-paid comedian in the United States behind Jerry Seinfeld and Chris Rock, and reported that he was one of the highest-earning comics from June 2008 to June 2009, earning approximately $30 million during that period. Dunham also does occasional acting roles.",
+    "reviews": [
+      {
+        "timestampMsec": "1373592342207",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "Besst game ever i love it",
+        "commentId": "gp:AOqpTOGlPLVG6tV6S5klywtjwBM6YJwj9t0IVT4MSzps5R0_WegGWunn-h2BB5lxQ9UzTVhJ37cZvmgptLPDMg",
+        "author": "Shelby Dixon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369919056375",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Awesome",
+        "commentId": "gp:AOqpTOFT2llTXYLXLIfzOvTjiqiAHSOzIUnu-gWKy1W_NBya00IqdWK0sYr-zZuzZiv0h88frPmqQ0hsMAZFqg",
+        "author": "frankie pailette",
+        "authorURL": "http://lh3.googleusercontent.com/-gUCogqtKJHg/AAAAAAAAAAI/AAAAAAAAAFc/jx2dItuutN4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gUCogqtKJHg/AAAAAAAAAAI/AAAAAAAAAFc/jx2dItuutN4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.jeffdunhamapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

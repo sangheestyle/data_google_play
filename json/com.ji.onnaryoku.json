@@ -1,0 +1,33 @@
+{
+  "title": "Diagnosis of Girlish",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.onnaryoku",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "May 2, 2013",
+  "version": "2.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "39",
+  "rating": "2.7435896",
+  "contentRating": "Low Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.onnaryoku",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ââOver than 10,000 downloads!!ââHow girlish you areï¼ï¼There are always reasons for girl being popularï¼Diagnose your girlish level by 30 questions âI wanna be popular to both boys and girlsï¼â About GirlishIt is motivation to girls' cosmetics, fashion, sense.Girls who are customers of JJ or CanCan magazine use the word.â  4 tips to become a popular girlish girl1. Bring a mobile phone producted 2 or 3 years ago to the feast.Girl says that \" This phone makes me sulkyï½ï¼\", boy answers that\"How comeï¼\"Boys like girls who are bad at machineryï¼2. Using ï¼ï¼ in commeent of Twitter become popular, boys may think you are lovely and want to help her.3. Anyway, say to boys \" What is that !?ãI want to know I want to knowã¼âª\"Even it is a boring topic, atmosphere will be okay.Face to active girls, boys are unable to resist.4. Do not eat Omelet in restaurantTrembling and say \"â¦â¦becauseï¼â¦â¦becauseï¼peep will die if break the eggï¼Pure babyï¼It has not been born. I can not hear there pipâ¦â¦\"Boy falls in love with you and swears \" She is so lovely just like an angel. I want her becomes mine.\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.onnaryoku.permission.C2D_MESSAGE"
+    ]
+  }
+}

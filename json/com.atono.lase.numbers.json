@@ -1,0 +1,39 @@
+{
+  "title": "Numbers LaSettimanaEnigmistica",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.atono.lase.numbers",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "August 28, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "27",
+  "rating": "3.7037036",
+  "contentRating": "Low Maturity",
+  "creator": "A-Tono",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.atono.lase.numbers",
+  "extendedInfo": {
+    "installSize": "39M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "3-2-1... Via! Mettiti alla prova con Numbers, il gioco di abilitÃ  e intuito de La Settimana Enigmistica. In una griglia di cifre da 1 a 9 hai due minuti di tempo per trovare determinate sequenze di numeri o gruppi di numeri uguali tra loro. Quando componi una sequenza, guadagni punti e le cifre usate vengono via via sostituite da altre. Puoi sbizzarrirti con scale crescenti, decrescenti o in ordine casuale oppure puoi selezionare serie di numeri uguali. Sfida i tuoi amici, anche quelli di Facebook: rapiditÃ  e colpo dâocchio faranno la differenza! Numbers Ã¨ gratuito. Se registri il tuo profilo avrai subito in regalo 300 Nigmi, la moneta virtuale con cui puoi scommettere nelle sfide con gli amici o che puoi spendere per sbloccare contenuti extra. Inoltre potrai utilizzare i Nigmi in tutte le app de La Settimana Enigmistica, ad esempio per le tue scommesse su Layers o per fare acquisti nellâedicola virtuale o allâinterno della rivista Aenigmatica. Su internet ci trovi allâindirizzo www.lasettimanaenigmistica.com.*** Per contattarci: *** email: app@aenigmatica.it - Call center: 02.320.69.464 (risponde tutti i giorni dalle 9:00 alle 21:00)Parole chiave: giochi di intelligenza, giochi per la mente, giochi numerici, puzzle, rompicapo, allenamento, gratis, sfide, logica, sequenze, memoria, sudoku",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.atono.lase.numbers.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

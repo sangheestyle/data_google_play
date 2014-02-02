@@ -1,0 +1,72 @@
+{
+  "title": "Mind Fire (Free version)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.e_gadget.MindFireF",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "March 9, 2012",
+  "version": "2.1.18.4",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "50",
+  "rating": "2.52",
+  "contentRating": "Everyone",
+  "creator": "xgadget",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.e_gadget.MindFireF",
+  "extendedInfo": {
+    "installSize": "345k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Poker Points is a intellect killer poker game.The goal is to add, subtract, multiply and divide the face value of each card to reach player preset points which could be 24 or 21, or 18 or any other preset point number.The player has to do a serial calculation so as to achieve the required point from four cards in each deal, 13 deal a round. The player can play Poker Points with fingers on touch screen or the Keypad. Player can easily select a card, drag and drop the selected card to the calculation area, select a calculation operation by touching the calculator button then make a calculation and the result is generated as a temporary card that can be used for next calculations. If player make all calculations with no cards left in the deal, then current deal is completed and a new deal will start. If the final result of the deal is fit to the game point then the player win this deal and a flame indicating the score will show on the desktop of main game window. In the game, the deal has 4 basic cards, and initially these four basic cards are automatically placed in the top of game window. The player can easily either tap or press arrow key to drag and drop the basic card to the calculation area. Once there are two cards are in the calculation area, then player can make calculation by hitting a calculation operator button. The calculation result is a temporary card. Once the player satisfy with the calculation result, tap the result temporary card, then the calculation is finished and the temporary will move to a empty space on the top of game window, or move to a operand space in calculation area by player dragging and dropping. During each deal play, if player wants to roll back the calculation already done, the player can just click the Undo button on the screen, then the deal will discard all done calculations, restore the deal cards to original status.If player want to abandon current deal and go to next deal, just click the Next button on the screen, then current deal is ended and game goes to next deal.If player want to discard current round game, just click the âNewâ menu item, then current round game is ended and a new round game with 13 deals starts.When player finish one deal, if the final calculation result is match the point current game setup, then the player win this deal, and during the deal switch animation, a wining greeting will display and a new flame animation graphic will be added in the bottom of game window, and the deal number indication spades animation graphic in the bottom of game window will be reduced one.Once player complete a round of game, the game window will go to the game result window to display each player wining deal calculation step. Player can iterate different wining deal calculation result by clicking the Next button on the screen. If player want to start a new game, then click the \"New\" menu or clink the Next button till the end of result display, a new round of game starts.Player can view the score in the Score window by clicking the \"Score\" menu item.Player can configure the game point (game play difficulty level) in points setup window by clicking the \"Point\" menu.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.5",
+        "timestampMsec": "1287612957141",
+        "starRating": "1",
+        "comment": "Would love it work, pity it\\'s epic failure. Uninstalled",
+        "commentId": "lg:AOqpTOG-8c55IKfxQApvSpWmraRH4kQJPgpgv3AaMNBjRyAjX4oOZW02QhMYK5w9x-HOV2P2YfhfdsD7q-QpVg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.0",
+        "timestampMsec": "1277945153728",
+        "starRating": "1",
+        "comment": "Stupid game 10 plus 10 doesn\\'t equal 24",
+        "commentId": "lg:AOqpTOFsCPbVlAekRB0xoMsTIQSwl3AIXNAfWgJ8Etqh291qLk9pcxf88LQQD3WN2sXQ7CFyAzkPCBBdSk4Zwg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1270564241590",
+        "starRating": "1",
+        "comment": "Forces close every time on my hero. Reinstalled twice, still didnt work.",
+        "commentId": "lg:AOqpTOHeVYp3xFqQ9z7UqTNzrPYA-_iufi-xFhxLPh3ROIDQuEMzJqVIIkbDXDQWMvu3azQ2817Owqiwt69fBA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1267314461644",
+        "starRating": "2",
+        "comment": "Interesting idea, but even when my cards added up to the required number 24, I still lost.",
+        "commentId": "lg:AOqpTOG70IijAaCPIsqnbVc8pSybjipdDpUHTUdgAt-ro9M6LUhy3IEwonqDzAsTioTPf855i1-ZKWv8CqPD7g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1267398401629",
+        "starRating": "1",
+        "comment": "It wont open..",
+        "commentId": "lg:AOqpTOGQwiESPaagmDvd68n4WMwUDEvIHvQz6eMkFQNlEFwIbCxNPvoDaY4uBpuGdlF7FiZoOZvGyJMCz9lpQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

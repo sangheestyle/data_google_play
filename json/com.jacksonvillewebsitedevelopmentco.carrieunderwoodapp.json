@@ -1,0 +1,51 @@
+{
+  "title": "Fun Carrie Underwood Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.carrieunderwoodapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.carrieunderwoodapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A fun app featuring Carrie Underwood memory, jigsaw puzzles, and Tetris.  This app will help you pass the time with one of your favorite musicians.Carrie Marie Underwood (born March 10, 1983) is an American country music singer, songwriter, and actress. She rose to fame as the winner of the fourth season of American Idol in 2005. Underwood has since become a multi-platinum selling recording artist, a winner of six Grammy Awards, sixteen Billboard Music Awards, seven American Music Awards and ten Academy of Country Music Awards, among several others. As a songwriter, she has been nominated for a Golden Globe Award for Best Original Song. Underwood is also a two-time winner of the Academy of Country Music Entertainer of the Year award and the first woman to win such an award twice (2009/10). Underwood was inducted into and became a member of the Grand Ole Opry in 2008. She was also inducted into the Oklahoma Music Hall of Fame in 2009.Her debut album, Some Hearts, was released in 2005. Buoyed by the huge crossover success of the singles \"Before He Cheats\" and \"Jesus, Take the Wheel\", it went on to become the fastest selling debut country album in Nielsen SoundScan history, the best-selling solo female debut album in country music history and the best-selling country album of the last 10 years. Underwood won three Grammy Awards for the album, including Best New Artist. Her second album, Carnival Ride, was released in 2007, with one of the biggest opening weeks by a female artist in history, and later earned Underwood two Grammy Awards, for the singles \"Last Name\" and \"I Told You So\". Released in 2009, her third album, Play On, was led by the success of its first single, \"Cowboy Casanova\", and was ranked the second top-selling release of that year by a female artist. 2012's Blown Away, her fourth album, quickly became the second best-selling release by a female artist in the year. She won a Grammy Award for the album's song \"Blown Away\". With her strong album and single sales, and $100 million in tour revenues, Underwood is the biggest American Idol earner and the fourth biggest album seller of the past ten years. She has sold a combined 45 million records worldwide.Described by music critics, such as Billboard 's, as Country Music's reigning Queen, Underwood is the only solo country artist to have a number one hit on Billboard Hot 100 Songs in the 2000 decade, as \"Inside Your Heaven\" reached the top of the chart in 2005. She is also the female country artist with the most number one hits on the Billboard Hot Country Songs chart, from 1991 to present, having 12 No. 1s and breaking her own Guinness Book record of ten, which was co-held with Reba McEntire. Some Hearts was named the Best Country Album of the 2000 Decade by Billboard and she was the top-ranked female artist on Billboard's Best Country Artists of the 2000 Decade list.",
+    "reviews": [
+      {
+        "timestampMsec": "1378436706248",
+        "starRating": "1",
+        "title": "Horrible!",
+        "comment": "This app is so bad how do you even do the puzzles?",
+        "commentId": "gp:AOqpTOHO8YEErk56x37ZZJ5hlVyZHZ6bK1qfvRZgxg50OxD1hknSv7UUT4Vjp7V5Pwmm3LvjzGGXyq8sTfnweaI",
+        "author": "brook jackson",
+        "authorURL": "http://lh6.googleusercontent.com/-A3VUy_cn2tg/AAAAAAAAAAI/AAAAAAAAAHs/t6FHREXJfAU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-A3VUy_cn2tg/AAAAAAAAAAI/AAAAAAAAAHs/t6FHREXJfAU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370282104447",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "As above terrible",
+        "commentId": "gp:AOqpTOHcjtYzWQvREm4YNshhUQE37Kp9qIk1CPnCCAF-lJHINp1gGjXj6VxV_GXZFbK31FApgOyAyx4ggLrd0QA",
+        "author": "James Elliott",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.carrieunderwoodapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

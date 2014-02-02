@@ -1,0 +1,64 @@
+{
+  "title": "Blue Butterfly | GO SMS Theme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.starrlite.butterfly.c7xzua2TJeI2osxblYDh",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 9, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "24",
+  "rating": "4.75",
+  "contentRating": "Low Maturity",
+  "creator": "StarrLite Designs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.starrlite.butterfly.c7xzua2TJeI2osxblYDh",
+  "extendedInfo": {
+    "installSize": "4.2M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Blue Butterfly | GO SMS Pro ThemeStarrLite Designs presents another original GO SMS Pro theme! Please read about the requirementsand installation instructions below. As a bonus, we've included 101 beautiful fonts with this theme.Requires:\t- Latest version of GO SMS ProInstructions:    Once you have installed this theme, please open GO SMS Pro.    1.) Press Menu -> Themes    2.) Go to installed themes    3.) Scroll down to the bottom of the list and you should see your newly installed theme    If you experience any difficulty applying the theme, please email support:    \t- starrlitemedia@gmail.comCredits:\t- Obsidian Dawn (http://www.obsidiandawn.com)\t\t- created many of the amazing brushes and detail elements seen in our themes\t- Font Squirrel (http://www.fontsquirrel.com)\t\t- the fonts included in this theme were obtained from hereThanks:\tWe would like to thank our loyal userbase for your continued support. Look for more themes everyday!Future Development Plans:\tWe look forward to enhancing our products with better graphics.",
+    "reviews": [
+      {
+        "timestampMsec": "1368388245005",
+        "starRating": "5",
+        "title": "I love d color",
+        "comment": "Wow",
+        "commentId": "gp:AOqpTOFrzO7X-QE4bKpxireBENLUKBp8QJlDwYrfAycpf3EZ96kJDfFc5dd_rdQzU-egSYZLbsMlPxOAd_LI3g",
+        "author": "luckygrace adizas",
+        "authorURL": "http://lh6.googleusercontent.com/-BlPYWiaG8uM/AAAAAAAAAAI/AAAAAAAABeo/ONUO1UU8tIA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-BlPYWiaG8uM/AAAAAAAAAAI/AAAAAAAABeo/ONUO1UU8tIA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376761576251",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEJ5rTl55LvFJw1e5uj59zkcRm11jBXC1jDXdDXoWU-9gvjcgf9U83UysPMmu2T9puUWm9HLV_WQvMnvA",
+        "author": "Priya R",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369389741223",
+        "starRating": "5",
+        "title": "Hi",
+        "comment": "Outstanding",
+        "commentId": "gp:AOqpTOGr0HlwP48RWx4nrtoJS9rfKjsDuS-V772GEkadDV_doV2bM7z2sBCJzoaC0u8-ZjC46dFevkw7mVQuBA",
+        "author": "basheer ahmad",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

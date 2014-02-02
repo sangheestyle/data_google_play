@@ -1,0 +1,41 @@
+{
+  "title": "Dots Fighter - Sexy Summer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jiangyou.dots.summer",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "July 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "High Maturity",
+  "creator": "Asian Girls Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jiangyou.dots.summer",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Fight with the Wicked Dots and rescue the jailed sexy girls! Try to challenge different levels and collect more different hot girls ! Never miss this game!You gonna love it! See the reviews from our thousands of customers:âAwesomeness!!!!!!!!!!!, I like the feeling of exploring and collecting more and more hot girls!ââGreat game, I hope more girls will be available in the next versionâ âUnbelievable!! It really surprised me when I broke up all the DOTS, OMG, it is really a unique experience!âIT'S SEXYWe choose the most beautiful high-quality(HD) photos of Asian sexy girls(often Japanese, Korean or Chinese) from thousands of photos meticulously. Now you can have these hot girls on your phone anytime.ITâS FREEThe app won't cost anything. Free to download, Free to use, Free to save all the pictures!IT'S HEALTHYIt is a game only for entertainment. This app does not contain anything of: porn, xxx, nude, erotic, nudity bare tits or sex pictures. Healthy and Safe!If you have any question or any suggestion for our app, Please do not hesitate to CONTACT US:Email:jiangyouartist@gmail.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_LOGS",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

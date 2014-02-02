@@ -1,0 +1,45 @@
+{
+  "title": "Infolicious light UCCW Skin",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.androidscreen.infoliciouslight",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "Android Screen",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.androidscreen.infoliciouslight",
+  "extendedInfo": {
+    "installSize": "1,021k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the light version of Infolicious proThe pro version contains 6 different colors. So a total of 12 skins.In addition, the pro version contains 4 hotspots.With the Infolicious skin you get all important information you need on your homescreen.Infolicious consists of two UCCW skins (Infosphere & Notibar).You can use this UCCW skin on your Homescreen as well as on your lockscreen, using e.g WidgetLocker.=== FEATURES ===This UCCW skin pack contains 12 skins.InfosDay of weekTimeDateNext Alarm TimeLocationTodays ConditionTemperatureMin. / Max. TemperatureNotificationsPhoneMailMessageBatteryBattery LevelBattery BarHotspots (only in  Infolicious pro Version)ClockPhoneMailMessage=== IN THE LIGHT VERSION YOU CAN ONLY EDIT THE TIME FORMAT ====== INSTRUCTIONS ===Add the widgetsBefore you can use this UCCW Skin you have to install the current Version of the Ultimate Custom Clock Widget (UCCW) AppI use the Apex Launcher, but you can also take Nova Launcher or the stock one.My Apex settings are: Portrait Grid 10x6 | Horizontal margin: none | Vertical margin: noneAdd a UCCW Widget on your Homescreen (recommended size 4x4 for Infosphere and 4x3 for Notibar)Select Infosphere or Infobar skin from the skin listTouch the hand when it appears on your screen and wait a second. The skin should be placed on your Homescreen.You can resize the widget if you want.ModifyIf you want to modify the time format you have to do the following steps:Launch the UCCW App and tap the \"Menu\" button, tap \"Hotspot mode\" -> \"off\". Now UCCW will exitTouch the UCCW widget you want to modify. UCCW will open with the edit window.Here you can change the time format.When done, tap the \"Menu\" button,  tap \"Hotspot mode\" -> \"on\". UCCW will exit and your changes are applied.=== IF YOU HAVE PROBLEMS OR QUESTIONS, SEND ME AN E-MAIL ====== CREDITS ===Credits for the Climacons weather icons goes to http://adamwhitcroft.com\">Adam Whitcroft",
+    "reviews": [
+      {
+        "timestampMsec": "1375478117781",
+        "starRating": "1",
+        "title": "Can\\'t change date!",
+        "comment": "When I understand that you are trying to make money, and it\\'s a nice skin, even a basic skin will let you change the format of the date!  Uninstalled.",
+        "commentId": "gp:AOqpTOFrbR1SM9xff8bp3Ju_8Whqwoe9XZObsxzfWhsfI5lF_RnqIEMOWJD9pgEwN_1dt8-XKCYFzMSbwIjMFg",
+        "author": "Trina B.",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371753063434",
+        "starRating": "5",
+        "title": "Very Nice Looking",
+        "comment": "I was quite impressed with this. It was well worth downloading.",
+        "commentId": "gp:AOqpTOGL8HPU3s43Dl9hNVIsf_Yf5bbUtVXet10ZvFw1Tlz3aXYuGJMlZjctJDCoota5m5pcUHdyHcQ6O9wiqg",
+        "author": "Gene Liverman",
+        "authorURL": "http://lh4.googleusercontent.com/-xO4pCgwB--o/AAAAAAAAAAI/AAAAAAAAGt8/SQgNm84xRTw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-xO4pCgwB--o/AAAAAAAAAAI/AAAAAAAAGt8/SQgNm84xRTw/photo.jpg"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

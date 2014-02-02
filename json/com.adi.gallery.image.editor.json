@@ -1,0 +1,60 @@
+{
+  "title": "Image Editor- New",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.adi.gallery.image.editor",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "5",
+  "rating": "4.4",
+  "contentRating": "Low Maturity",
+  "creator": "King App Makers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.adi.gallery.image.editor",
+  "extendedInfo": {
+    "installSize": "822k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Image Editor âNew is one of best photo editing/image editing app in android market.With this application users can turn their devices into a fantastic photo editing studio.This magical photo tool Picture editor app is a powerful image editor designed for android platform .It supports various projects/tabs, multiple layers and even actions. This app can edit photo & then for photo wallpaper set it quickly set photo as wallpaper, and it can be used just as an image viewer, photo editor or icon editor.You can do all the usual canvas or layer manipulation such as resize, crop, brush drawing, erase, draw shapes, bucket fill, select, copy, paste, delete, move, align, rotate, flip and more functions which are added in this Image editor android application.Adjust brightness, contrast and saturation with filters or apply effects such as sharpen, blur or bump, just to name a few & then you can save photo as wallpaper as your choice image effect.Includes support for Samsung & other mobile devices multi-window.Please give us your feedback by mail or comments on the market to help us improve this photo editor app.This is one-stop shop for any photo editing requirement & photo manipulations & giving them amazing photo effects.Comprehensive photo editor Simple & effective camera editing appImage editor- New app is a powerful photo editor tool which we developed because we wanted a quick and easy way to edit our photos on the go with no worry.included all the photo editing tools you need, in a super intuitive interface so you can get right to editing.Features:>One-click auto enhance >Beautiful photo effects and frames & Image photo mania>Fun stickers>Color balance/ Color choice/background effects>Crop, rotate, and straighten your photo, sharing options >Adjust brightness, contrast, color temperature, and saturation>You can sharpen & blur the images with this app tools > Color effect/ color splash effect in your device for photo editing effect>Draw and text on photo- improvement going on>Create your own memes, create your own frames, create your own album, create your album gallery with different image effects>Drag & drop photo editing effect>Customize your own photo in image editor shopFeedback & Suggestions are most welcome & do write a mail or comments on the market to help us improve this photo editor app.",
+    "reviews": [
+      {
+        "timestampMsec": "1376298759286",
+        "starRating": "5",
+        "title": "Great, Nice work..",
+        "comment": "Good job, excellent",
+        "commentId": "gp:AOqpTOFnP_SK46BwiOrAIAkw7LWVS2wpsHlbbNg7gtKULD4x9EKqbhjxcnIQrV7spKx9y0YPDSNmtONOOeCieQ",
+        "author": "Amitesh Srivastava",
+        "authorURL": "http://lh5.googleusercontent.com/-vZuoekibJLU/AAAAAAAAAAI/AAAAAAAAAAA/4p6eVVVEiz8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-vZuoekibJLU/AAAAAAAAAAI/AAAAAAAAAAA/4p6eVVVEiz8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376298618289",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOHeZ5aDqwUa5oNRqXNJn6sQcCDm-3kOXsGCN4FAXF3hZs8WC3TPNxT9AqewzqcVvzi7SxBQXUZvAAtjpw",
+        "author": "satish singh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

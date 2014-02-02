@@ -1,0 +1,51 @@
+{
+  "title": "NestEgg Estimator",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jennitron.nestegg",
+  "category": "Finance",
+  "price": "$1.99",
+  "datePublished": "August 9, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "MakeThisApp, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jennitron.nestegg",
+  "extendedInfo": {
+    "installSize": "270k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This app projects your finances into future years showing income, taxes, assets and debt.  You can supply as little or as much information as you want -- more data means more accurate results.  It allows you to try different scenarios such as purchases, expenses, job changes and more.  Great for financial planning, retirement planning or just to see:  can I afford it.You can do all of this and more:- View year by year financial simulation of your income, expenses, assets, taxes, and debt- View financial lifetime chart of your income, expenses, assets, taxes, and debt- View year by year breakdown of expenses- Organize/itemize your daily living and entertainment expenses- Calculate savings at retirement- Determine if you will outlive your savings- Try different scenarios: retire early, keep working, major purchases, etc.- Maximize your 401k, IRA, or Roth contributions- See if you'll need to take an early distribution from a retirement plan- Taxes, penalities, before-tax contributions, mandatory distributions are applied- Ability to customize income, expenses, assets by time horizon, change rate, and taxable status- Modify tax rates for other jurisdictions/countries- Answer the question:  Can I afford it? for any life eventThe app stores all information locally on your device.  No information is transmitted across the web, sent to a website, or sent to another app.A setup wizard allows quick data entry of common items.  An Options menu allows you to alter age, retirement age, state/provincial tax rates, local tax rates inflation rate, tax deductions and 401k contributions.In these turbulent economic times, it is critical to have the confidence and plan to achieve your goals and reach financial independence.  Eliminate worry and uncertainty about national debt, personal debt and stock market crashes with a projection of your future financial state.The NestEgg Estimator is a retirement planner, retirement calculator, and a generic cash flow simulator -- a personal financial planner in your pocket.  In a few minutes, you will get a clear picture of your savings, expenses, and debt for every year of your life.  Turn to this app any time you consider a change to your finanical life.",
+    "reviews": [
+      {
+        "timestampMsec": "1308089110119",
+        "starRating": "5",
+        "comment": "Incredible application. It really help us see and project our financial posture over time. Highly recommend this applications!!! Great job",
+        "commentId": "lg:AOqpTOEAvuPUCDdJmEpj2BQkHga_H4oTNRr-im7CfbyKW6z7-qrGABTDnEe-3wPtGduQRG6yl2bQrwyzyHCvxKA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1301087139460",
+        "starRating": "5",
+        "comment": "Simple to use and very helpful.",
+        "commentId": "lg:AOqpTOF5GYw7oZVjeswDSp4N35QOKOfexDgrzPn0vIgsjXjtLms7O_aSOQxKNLr2XCX_4KPn5cLEMQ3DhRN4oyw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1300308453415",
+        "starRating": "5",
+        "comment": "Great app. Does exactly what it says.",
+        "commentId": "lg:AOqpTOHApJQh2GmulS9C6DOWDs_eEkGUKGokKeZSbPjxiDg4kAvOKZSoOlQWzZec2CjYq0m3ZxteLZGGT9MgTAY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

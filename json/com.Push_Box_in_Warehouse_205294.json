@@ -1,0 +1,34 @@
+{
+  "title": "Push Box in Warehouse",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Push_Box_in_Warehouse_205294",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "June 16, 2013",
+  "version": "1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Account Software Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Push_Box_in_Warehouse_205294",
+  "extendedInfo": {
+    "installSize": "383k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "This is a Sokoban game for Android devices. This simple-to-use Push Box in Warehouse supports to move to go to the green destination.MAIN FEATURES:Simple to use and easy to controlTotally free for Android devicesWorks with Android mobiles and tabletsA funny game for kidsOver 500 levelsINSTRUCTIONS:1.    UIThis free game supplies us with a simple and beautiful UI.We can get a person, boxes and storage locations here.With colorful maze, the aim is to push boxes into the warehouse.2.   RULES:-The game could be played on a board of squares, where each square is a floor or a wall. Some floor squares can be marked as storage locations, and some of them have boxes.-The player could be confined to the board, and may move horizontally or vertically onto empty squares (never through walls or boxes).-The player may also move into a box, which pushes it into the square beyond.-Boxes may not be pushed into other boxes or walls, and they cannot be pulled.-The puzzle can be solved when all boxes are at storage locations.OPERATIONS:1.    If we press MENU key and we can get access to change level, more preferences.2.   In preferences, we can check to show navigation buttons on screen and show undo button on screen.3.   There may be over 500 levels for us to challenge.This simple Sokoban game Push Box in Warehouse can bring us a lot of fun! Come to download it now for free.####Disclaimer####1.     WE MAY ALLOWS OUR ADS PARTNER TO ADD ICON ADS OR NOTIFICATION ADS IN THIS APP TO KEEP THIS TOTALLY FREE.2.    Please donÂ¡Â¯t forget to provide us your valuable reviews and suggestions. It helps us to improve. Rate it on the Android Market.################Sokoban might be a type of transport puzzle, in which the player pushes boxes or crates around in a warehouse, trying to get them to storage locations. The puzzle can be usually implemented as a video game.Implementations of Sokoban might have been written for numerous computer platforms, including almost all home computer and personal computer systems. Versions may also exist for several hand held and video game consoles, mobile phones, graphic calculators, and digital cameras.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

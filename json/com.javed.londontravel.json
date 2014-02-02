@@ -1,0 +1,231 @@
+{
+  "title": "London Travel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javed.londontravel",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "5.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "863",
+  "rating": "4.358053",
+  "contentRating": "Low Maturity",
+  "creator": "Javed Rahman",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javed.londontravel",
+  "extendedInfo": {
+    "installSize": "17M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Features of this app:> Fetch Live Departure timings from TFL(Tube, DLR, Bus, River Services), National Rail & Overground and BAA> Fetch scheduled TramLink Departures from TFL> Bookmark frequent stations> Use very little memory> Service updates> TFL Journey Planner> Live Roadside Message Signs> Live Traffic Disruptions> Live Traffic Camera Images> Live Barclay's Cycle Hire Availability> Source London Charge Points> Nearest Oyster Shop Locations> Nearest Transport Stops and Departures> London Travel Network Maps> National Rail Journey PlannerCurrently Tube, DLR, Bus, River, Overground, National Rail, BAA & Gatwick Flight and London Tramlink services are supported. More services will be added to this app in future versions.Please send feature requests and bug reports via in-app menu options. Comments are not monitored.Permissions:> INTERNET - To fetch data over the Internet from Tfl, National Rail, BAA etc.> ACCESS_NETWORK_STATE - To check if device is connected to the Internet before fetching data> ACCESS_COARSE_LOCATION - To get location of device from network provider if GPS is unavailable> ACCESS_FINE_LOCATION - To get location of device of device from GPS> BILLING - To allow in-app purchase of ad remover> WRITE_EXTERNAL_STORAGE - To save maps to USB/SD Card storageUpcoming features:> check/save last bus/tube> 'search' by flight no and terminal no> oyster card login and topup balance checker> Weather at destination station/stop/coords> Save scheduled departures> Themes?!? (too invasive to implement at this point)> Find-a-ride ? (low priority)> ETA widgets (target v4.0)> BMarks to JSON format (required for online sync)> Help section (v3.1 initial implementation)> (In-App)Online Backup/Restore of Preferences and Bookmarks (Google accounts permission required ? maybe)This is NOT an official TFL / National Rail / BAA app and the developer is NOT associated to TFL or National Rail or BAA in any way.",
+    "reviews": [
+      {
+        "timestampMsec": "1375315632266",
+        "starRating": "4",
+        "title": "Best travel app.",
+        "comment": "Awesome app, one of my favourite apps on my phone as I use it more or less every day and week. I even pages \\302\\2434 to rem ove ads and to support the app developer. To improve the app even more in the next update you could update the underground logo, tram logo etc to make it more high res and nicer.",
+        "commentId": "lg:AOqpTOGi5gI_caJQuqPhUo-7oPQsuyhLV6zabTZQYMsQ3R2yv6F89lL8_-o7WzKaqusAs_40Rx4wPcSG_6whbo8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376585325975",
+        "starRating": "5",
+        "comment": "Love this app use it everyday and it does not dissappoint",
+        "commentId": "gp:AOqpTOF4kHcnUMLyj6T25lgB81gqRswPjpQyoDFnoiAhGauluXx6F102HtKcPS-gNgOrYFi0Dn5dkWegL0MqCko",
+        "author": "Becky Merry",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375507750052",
+        "starRating": "4",
+        "title": "No any more",
+        "comment": "This used to be a good app always on time but happiness doesn\\'t last for long",
+        "commentId": "gp:AOqpTOEdwrGUKl0xW8t8O4_FdzKOy-y_-pe1iJ-UDO10Kt6-Jw9ctcat8dil2aXUUOhz3w9WO--AUuMQJ5JR_Z4",
+        "author": "Eugenio Cervantes",
+        "authorURL": "http://lh6.googleusercontent.com/-8mnkNktJztA/AAAAAAAAAAI/AAAAAAAAAP8/XtaLdSZViz4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8mnkNktJztA/AAAAAAAAAAI/AAAAAAAAAP8/XtaLdSZViz4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375317594246",
+        "starRating": "5",
+        "title": "Great app!!",
+        "comment": "This is a great app, helpful wherever you are in London",
+        "commentId": "gp:AOqpTOH8Aghp7qz59M5pxWXS34N1DIK4jm5ZSgZwlm7vqBcA7Gslb3G6_H9_9jBP9U247hgSHeEkkAsKh7BbrII",
+        "author": "Mouhamadou Ndiaye",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377156322645",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Very good app",
+        "commentId": "gp:AOqpTOG3_ArldKa7lbQeC9_JP9Us_GgWVRTwHzzBC0ngRZRDyjr5n9fysxJm0ldrel00QHzHtuLnDbFUGugsTHI",
+        "author": "Asif Brohi",
+        "authorURL": "http://lh5.googleusercontent.com/-Wu8-b-6fibI/AAAAAAAAAAI/AAAAAAAAACo/E5gl7H8uLt0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Wu8-b-6fibI/AAAAAAAAAAI/AAAAAAAAACo/E5gl7H8uLt0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377561893821",
+        "starRating": "4",
+        "title": "Used to be a great app",
+        "comment": "This app has was the best, but since the update it says data unavailable!!  And it won\\'t open up! Fix it please.",
+        "commentId": "gp:AOqpTOGkE6zW2Y2QXz94lKirVnptf8lsbtTNTBPxHUs6EUWX7umYacwxyoEOI6_rJ_6NMuK6wVkRVd2oiKs5eQ4",
+        "author": "Hodan Iman",
+        "authorURL": "http://lh5.googleusercontent.com/-AW2RLl4Nu0U/AAAAAAAAAAI/AAAAAAAAAkU/mnGsI4pDpgs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-AW2RLl4Nu0U/AAAAAAAAAAI/AAAAAAAAAkU/mnGsI4pDpgs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375847827304",
+        "starRating": "3",
+        "title": "Update it",
+        "comment": "Today i download it again but this time its not showing map sevices correctly and also not nearest stop function is not showing seperatly it is good app but before when i download it was helpfull and working properly plz update it its very helpfull thanks",
+        "commentId": "gp:AOqpTOFijT16TgMHYOnqCvTkxOy1JbeI_AVOPo80A74_aDH2Jai4jPVRtxV9QNUpzJInSOQXiIA38xymHaVrdxQ",
+        "author": "Saqib Malik",
+        "authorURL": "http://lh6.googleusercontent.com/-pxBAJxlxTw0/AAAAAAAAAAI/AAAAAAAAABE/kvpVD8faefA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-pxBAJxlxTw0/AAAAAAAAAAI/AAAAAAAAABE/kvpVD8faefA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375302178436",
+        "starRating": "5",
+        "title": "Most useful",
+        "comment": "Love this app.",
+        "commentId": "gp:AOqpTOEgEvC_abm0tA6F7u7D8mG7BPZlmWf2O2ItIzB6gJWvref9hIPouUBb9l0qxTaPAcVo4lqo-NA9qJgU1PM",
+        "author": "Rob Allen",
+        "authorURL": "http://lh3.googleusercontent.com/-koSwdkk78N0/AAAAAAAAAAI/AAAAAAAAADw/MLk6ZIzxv4I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-koSwdkk78N0/AAAAAAAAAAI/AAAAAAAAADw/MLk6ZIzxv4I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377705736062",
+        "starRating": "4",
+        "title": "It\\'s was good",
+        "comment": "It\\'s a really good app, it always precise but it sometimes goes black when I open the app and I have to re-install it again",
+        "commentId": "gp:AOqpTOGarKQvL-nvmVXKquL8ee7KJcUVruQ4tgPIixjIdlRInQasFVK56rOi1bvmEf_WNAf4eRyANdO7Kz9Iesw",
+        "author": "celeztina Amondi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375354057095",
+        "starRating": "5",
+        "title": "Dawn",
+        "comment": "Very good, easy to use, my son uses it every morning so his not late for school",
+        "commentId": "lg:AOqpTOHuNhL4xFalcTSI5cxYM5FSiI67cGc_rrBZuj2xa-PBorEkbdtI5jk0jMfq3dtC9ctVBqnlzH6JVEUIWpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376738806787",
+        "starRating": "4",
+        "title": "Great",
+        "comment": "Great app",
+        "commentId": "gp:AOqpTOGgE4DGKuU-CySZMoRatG3ze_Ci_75RxSQeBrExBq0vsxpBNJUvYMSYjOMHKS59Nstz2Hx9FKnGFp6mcNA",
+        "author": "Mandisa Khabo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372789095282",
+        "starRating": "4",
+        "title": "Is it just me?..",
+        "comment": "I love this app....use it everyday..  But recently after opening the app a few times....it doesn\\'t open. So I have to uninstall it and then re install it. Is it just me ?  Can this be fixed....or should I just get another app..",
+        "commentId": "gp:AOqpTOFAxgrnGB4_XYn-m7AYJUzD-6Er7dZTU157EaPgivRsiy7T8z_xECki4jTnWUF5fFZABCuMuRSilkZqQNM",
+        "author": "Zak Su",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373928173580",
+        "starRating": "4",
+        "title": "Would give it 5 stars",
+        "comment": "I would give it 5 stars as it is an excellent app, but it does not show Stratford bus station stop (A) when I search for it,  it use to",
+        "commentId": "gp:AOqpTOHAfsuzaCmcMbPlyxNQktA9hFl9VSO_iUcdLRyXJopOdKGl9Jm_-C9DdYnl99A0omZG7tv4mv8neNp9MKw",
+        "author": "Jor El",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374132187504",
+        "starRating": "4",
+        "title": "A good app. Very useful",
+        "comment": "After last update will not open. Will try uninstalling  & then reinstall but will have the inconvenience of losing all my bookmarks. Very annoying.",
+        "commentId": "gp:AOqpTOHsfC5JZdEUBNAXaB5WPxnf8KfHpo9Yj8XOyqj4s_cVd9Fz0StTI2zQjPPWs0eGmzdYl4q-G0kCO3dn0OM",
+        "author": "Adrian Cowie",
+        "authorURL": "http://lh5.googleusercontent.com/-y6bZEGlhmJg/AAAAAAAAAAI/AAAAAAAAAW8/nl542fLGTxU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-y6bZEGlhmJg/AAAAAAAAAAI/AAAAAAAAAW8/nl542fLGTxU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374409628248",
+        "starRating": "4",
+        "title": "Good app needs to enhance ui",
+        "comment": "I actually liked how previously it showed bus no. Along with stops after the recent update it doesn\\'t. So in terms of how i used to use it, got less flexible.",
+        "commentId": "gp:AOqpTOHU85EgzuTxUwpm5Oje5MZHrISpq4oe8MyEw9Q7V-XKqizxIW1K7cEqKjWpPH_E8SlRSDhrq-6l149BRc0",
+        "author": "Khwaja Anas Nasarullah",
+        "authorURL": "http://lh5.googleusercontent.com/-WsaxC7frNYE/AAAAAAAAAAI/AAAAAAAAAAA/7ic3B0HAAHw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-WsaxC7frNYE/AAAAAAAAAAI/AAAAAAAAAAA/7ic3B0HAAHw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373437026232",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Use everyday! Please introduce option to order bookmarks in custom order, not just alphabetical order.",
+        "commentId": "gp:AOqpTOF03d9oR8237RIke72l2BDdopplqnkUXvh3zY6R0XOsg3AYfFFjyNh4RmiEqSewI94ykjKvr_fANbSn2ak",
+        "author": "Nargis Islam",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375121695500",
+        "starRating": "3",
+        "title": "Great but..",
+        "comment": "It was really good until the update, it\\'s still good, but for some reason whenever I run the application I get an ongoing notification about not being able to download. Otherwise it\\'s the best out there.",
+        "commentId": "gp:AOqpTOE_oXPPOeXHES6JRV8AXMwyvwPY5BNeMvjoiG-rwwLIly2vOfkl_Eq8Esu08d-slPKfRIAnvyIK-pjDFs4",
+        "author": "Mohammed Mangerah",
+        "authorURL": "http://lh5.googleusercontent.com/-T4gP4tElIaM/AAAAAAAAAAI/AAAAAAAAAe0/vGrDK-KuV-U/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-T4gP4tElIaM/AAAAAAAAAAI/AAAAAAAAAe0/vGrDK-KuV-U/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371984937819",
+        "starRating": "5",
+        "title": "A service to humanity",
+        "comment": "or just Londoners, this is seriously the all in one travel app, it is the best",
+        "commentId": "gp:AOqpTOHlaepUIAII4yRIGuweJC7EbLboooNj2TL_-Y8OJjcUeO4aQ2DHHfHWxB5IwzEXZdTw1AI0Bv3g6dmb1Wg",
+        "author": "Muhammad Oliullah",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372021384474",
+        "starRating": "3",
+        "title": "5.2 update",
+        "comment": "Jam Cam still not working,bad links. Calling up preferences from Map Services exits back to main screen. Please fix. Thanks.",
+        "commentId": "lg:AOqpTOEOqAfVTqK9ncuhsXMOgghdURkxAgSpdepSgaxyVUg5E0ws44QHG4TlMFyD5vz0whUETHvYCnUd5UYUo4U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372057394763",
+        "starRating": "5",
+        "comment": "Amazing app.I can\\'t give it less then five stars.",
+        "commentId": "gp:AOqpTOEqUD5aao5WsdKhdzkYbi-cznk2xwBLskdPordRWwwENbxSrQ913zQRmEQCqp_bZdyAtVFpzJFPzWVB3uc",
+        "author": "Vladimir Nikiforov",
+        "authorURL": "http://lh3.googleusercontent.com/-r2caJ5NTnYo/AAAAAAAAAAI/AAAAAAAAAEo/xNQKjTJFdf4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-r2caJ5NTnYo/AAAAAAAAAAI/AAAAAAAAAEo/xNQKjTJFdf4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.javed.londontravel.permission.MAPS_RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

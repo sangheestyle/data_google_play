@@ -1,0 +1,165 @@
+{
+  "title": "Electronics Toolkit Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jar8183.toolkitpro",
+  "category": "Tools",
+  "price": "$1.09",
+  "datePublished": "October 31, 2012",
+  "version": "1.4",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "36",
+  "rating": "4.611111",
+  "contentRating": "Everyone",
+  "creator": "James Rockliff",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jar8183.toolkitpro",
+  "extendedInfo": {
+    "installSize": "190k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Provides a useful interface for calculating unknown quantities in the fields of electronics and electrical engineering. Current features include:Resistor colour codes - tells you the resistance, tolerance, upper and lower values, and E-series information for any colour-coded resistor.Ohm's Law and Power Calculator - Finds any unknown quantity in terms of voltage, current, resistance and power dissipation for any omhic component.Series/Parallel Value Calculator. Finds the total value for any series or parallel combination of resistors, capacitors,  or inductors. The calculator can also find an individual value given the value for the whole combination.Reactance Finder - Calculates the reactance of any capacitor   or inductor from the circuit frequency.Power Triangle - Calculates real, apparent, and reactive power dissipation as well as impedance phase angle in any electrical system.Resistivity - Finds the resistance of any wire or prism from its dimensions and resistivity, or vice versa.Magnetic Fields - Finds the force that acts on a conductor in a magnetic field.Capacitors - Finds the charge and energy stored in a capacitor.ALL OF THE FEAURES OF THE FREE VERSION, PLUS:Amplifiers - Finds the voltage gain of an inverting or non-inverting operational amplifier circuit, as a ratio and in decibels.555 Astable/Monostable Circuits - Finds the output frequency, period, and duty cycle of the popular NE555 timer IC, for given component values. Resistivity Table - Lists the resistivity and temperature coefficient for 35 common materials.Capacitance - Finds the capacitance of two parallel plates separated by a dielectric.Permittivity Table - Lists the average dielectric constant for 35 common materials.Waveforms - Finds the peak, RMS, and mean voltages of some common AC waveforms.Resonance - Calculates the resonant frequency of a series RLC circuit, and the impedance at this frequency. Plots a graph of impedance against frequency.LED Resistors - Finds the minimum resistance needed to prevent damage to a number of LEDs in series. Also finds suitable E6, E12, and E24 series resistors.Star/Delta Resistors - Converts a star (Y) resistor configuration into the equivalent delta (Î) configuration, or vice versa.Capacitor Charging - Finds the voltage across a charging or discharging capacitor after a given time period.List of 4000 Series ICs - Details of common integrated circuits.Many more electrical utilities coming soon, with regular updates. Plus, NO ADS.Please rate or give feedback. Feel free to give suggestions or comments.",
+    "reviews": [
+      {
+        "timestampMsec": "1372966173752",
+        "starRating": "3",
+        "title": "Not a \\'Pro\\' app",
+        "comment": "Although quite good for the hobbyist or student proving his formulae, this doesn\\'t have the features that any professional might expect (and I am a professional designer). The trouble is that it returns the results from given values, whereas if you\\'re designing you would want to quickly establish required values for a desired outcome. Pulling  out the calculator therefore assumes you\\'re aware of the applicable formula, rendering this app largely irrelevant as a \\'pro\\' (ergo... \\'professional) tool.",
+        "commentId": "gp:AOqpTOFiice9cOF__bx-zMgQk1I4aYyIUZ_okf9T8WV6MwEoylRwOiXfCymbyobomXTo-JLJSCweR2giGn-9PA",
+        "author": "Brendan Townsend",
+        "authorURL": "http://lh3.googleusercontent.com/-IHn1Foz7K6g/AAAAAAAAAAI/AAAAAAAAAD0/ZiXG3UIFeZc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-IHn1Foz7K6g/AAAAAAAAAAI/AAAAAAAAAD0/ZiXG3UIFeZc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353134148686",
+        "starRating": "5",
+        "title": "bygonerelics",
+        "comment": "I had been a hobbyist since I was a young lad in the late 50\\'s and early 60\\'s but left it for the last 20 odd years. This is a great help as I had forgotten much with the passing years! (Old age!) Brilliant! Thank you.",
+        "commentId": "lg:AOqpTOH-ofBwYWG5lnJF1TG2XcayfL35NWsCjYQTyUikmvttZSpPop3e0zbULPnwnzA-MneZAYAz1sfms7W-gA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358518001272",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "Very handy guys",
+        "commentId": "gp:AOqpTOEtn09OQE0Q2owB-ls8tVwaxpwJ5iSz7fQtbiQ1pyVG08815IAlHozkfIvaOvd0zn0nNc5AG2tsG3Dbfw",
+        "author": "shaun miles gallagher-willmer",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357227577383",
+        "starRating": "4",
+        "title": "Good App",
+        "comment": "Over all an OK app but could have been very usefully to see the formula being used for any specific calculation.",
+        "commentId": "gp:AOqpTOGDcVwkii63_I0xav4Dy3rJlcv7NXKbWoY2dEriRQ-oep8RCFyx3ywu0-BeVkBsXEgvZjmyIy_ZOiNgmA",
+        "author": "Julita Florczykowska",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361493953965",
+        "starRating": "4",
+        "title": "Great app.",
+        "comment": "Very handy.",
+        "commentId": "gp:AOqpTOFG_-24gsO5Hkx7vdtcQLdG4ukzmwYfAjre-8XEk8o_K-YVo9oT6goULADGG67brra6khw2wQvwBq6NzA",
+        "author": "John S",
+        "authorURL": "http://lh4.googleusercontent.com/-tdTX3g8Cwy0/AAAAAAAAAAI/AAAAAAAABP0/p547XR43-5A/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-tdTX3g8Cwy0/AAAAAAAAAAI/AAAAAAAABP0/p547XR43-5A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352154243772",
+        "starRating": "4",
+        "title": "Maddog",
+        "comment": "Good app. Helped me out",
+        "commentId": "lg:AOqpTOEZXXvCSmm3kBmOfSqwVo7CNyCJDck_sWPjFqCsbrhSnr6UzDDqdq939HAhskC1AiEpsIfW40e-bfV75w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372612097698",
+        "starRating": "5",
+        "comment": "Good so far!!",
+        "commentId": "gp:AOqpTOGRUQabQZzgHbr8O6jmeKsVXCO82i7jA4qo_6WQmP1AySbrvXRuV3KgVXiz_wIYj5SD0X1-YCRZMIQLvA",
+        "author": "Todd Champagne",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365946560076",
+        "starRating": "5",
+        "title": "Need help",
+        "comment": "I cant get the led resistance to work what do I do?  Other than that awesome app",
+        "commentId": "gp:AOqpTOELVbI8Sgtl-pz5CgSFbmndiKdRyc5BBGWBAa3j0vgdRMcVRuKXBLCnBwsFnMt9E3-oOtBMmThwJU4plw",
+        "author": "William Velazquez Jr",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355607884358",
+        "starRating": "5",
+        "title": "Electronics toolbox pro",
+        "comment": "Very good and useful. Personally would like to see a link to datasheets for the 4000 series ic\\'s.",
+        "commentId": "gp:AOqpTOG1i2JImzLd4REJKsN0ITENpebUGUvIlPI-NNsHgL8gRvUhJjIPDHg3VKzgM-dQ1Kyk9I64B4DsuXesXA",
+        "author": "Norman Beattie",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357998038148",
+        "starRating": "5",
+        "comment": "Very handy",
+        "commentId": "lg:AOqpTOHwPHkoDhXe4Ni8rXpTOEo8unM5oBvXLtknGes74l3ZC_Af22ybym15gJLnvzdP_s8Yv_NULH9usihh0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331170410197",
+        "starRating": "5",
+        "title": "Great app  (Transformer Prime TF201 Android 4)",
+        "comment": "Great app, very useful tools but when there is no wifi connections and try to select the waveform option the app and tablet freezes up.  Had to shutdown and restart the tablet.  Don\\'t know if its due to the Android 4 update or not but developer should look into it.  Otherwise the app was great.  Update: as I said above my rating would change once the developer fixed the problem discussed above.  He was very prompt with answering my email, fixed the bug and released a update.  The app works great with no problems.  Thanks for a great app.",
+        "commentId": "lg:AOqpTOHGB2_YZ7Uurm8urxeRkaqHIURrgc1FPPYZYo5b2Z4e3SA9OcV_tImecFJQ8eH_VFYmLM4r-8fw85bM9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339024699585",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "I just installed this and have had a chance to check out all of the conversion calculators that most interest me and it looks fantastic. I particularly like the 555 timer chip utils. I\\'m a beginner in electronics so I am building all sorts of circuits with that IC. Works great on Motorola Triumph",
+        "commentId": "lg:AOqpTOEYoRqQxaq05rR7OLf6W4RsoQDxYNGneDv4XF0bs73E7_Se-gkXxFp5mm1y1SBuB9BDRAR8jO5SBa8sEg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352283758351",
+        "starRating": "5",
+        "title": "Electronics Toolkit",
+        "comment": "Excellent tool!",
+        "commentId": "lg:AOqpTOFt-hzyXFpi_Qo8iGDaoAJhE_sUAOyQnwqZEW9HPBZG2ccgp7j0492RjQ6AHZT0djjKqy2Wb6mS506lbg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341427062908",
+        "starRating": "5",
+        "title": "Love this app",
+        "comment": "Awsome work my friend well done",
+        "commentId": "lg:AOqpTOEtYz5LIZR9WwJbqmBxO4aWboCsJm-WRgBzVNqN7W0lb22eqGulrUUAw-mPgX8klV1rwvp-GbvJvj9nQg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371344524873",
+        "starRating": "5",
+        "comment": "Exelente !",
+        "commentId": "gp:AOqpTOETnsNgtYEfQ_lthlzyVqoWsXIfJj2Fqd8h4HtQVt5CIdbbtYbQ1zTYFLwqCy4miWiRRwNNGCorISVHCw",
+        "author": "Cl\\303\\241udio Del Bianco",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Snake Escape Demo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.gdvGames.SnakeEscapeDemo",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "April 6, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Everyone",
+  "creator": "GDV Games and Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.gdvGames.SnakeEscapeDemo",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Help Snake to escape from the labyrinth!!!Snake has been trapped into a labyrinth and is surrounded by the fog... He must locate the green button, press it, and be long enough to keep it pressed until he reaches the red door.Snake can be controlled by touching the screen or by using the directional Pad. Press in the direction in which you want the snake to move, or swipe your finger to define the new direction.This is the demo for the game, featuring:- 2 types of control movement, you can choose if you want absolute positioned sensible zones, or if they must move relativey to the snake head;- You can turn on or off the visibility of touch zones;- Swipe movement;- 4 or 8 directions for the snake to move;- Offline local score system;- 7 levels at low difficulty;- 4 different difficulty levels, affecting snake's speed, quantity of fruit available in the labyrinth, amount of fog cleared by snake when moving, and points made for each eaten fruit;- Absolutely NO ADS!!!If you like it, please consider buying the full game, featuring much more levels and online scoring system to compete against the rest of the world :)",
+    "reviews": [
+      {
+        "timestampMsec": "1329113316766",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "The only good thing about it is you are able to but ad free version. That\\'s why one star. Hard to control. Boring. Other versions of this game are better",
+        "commentId": "lg:AOqpTOE1gYqvUSWtQiDhRgB301weZ1K9VeyYHDEJ7ZfsiFhO5j4gmEQ_sHVuda3gAX7hapDzrEZR1-YT-_GtnD8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

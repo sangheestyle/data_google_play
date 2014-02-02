@@ -1,0 +1,42 @@
+{
+  "title": "GO SMS Neon Technology Theme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.pctheme.neon_technology",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "July 29, 2013",
+  "version": "1.0.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Low Maturity",
+  "creator": "Ploomsoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.pctheme.neon_technology",
+  "extendedInfo": {
+    "installSize": "695k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "PLEASE READ before you download and rateImportant:This is a premium theme but free to download. You may:1. Get it for free with Tapjoy coins,2. Pay with Google Checkout (IAP - in app purhcase).How to purchase and apply this theme:1. After downloading and installing this theme, select the Menu button on your phone -> Theme -> Installed -> choose your theme -> Apply2. Choose \"Get free with TapJoy coins\" or \"Buy with Google Checkout\" option.3. If you choose TapJoy in displayed popup you can see how many coins do you have and how many coins do you need to unlock theme4. If you click \"OK\" button, there will be several apps listed. Just download whatever apps you want until you have enough coins to purchase the theme.5. After purchase, you can back to screen with popup or select Installed -> choose the theme -> Apply** This Theme is FREE from ads ***Tags:GO SMS PRO, GOSMS Pro, love, hearts, sweet, Bunny, Crazy, Pink, girl, fruit, summer, winter, spring, vintage, retro, blue, heart, cat, style, cartoon, Japan",
+    "reviews": [
+      {
+        "documentVersion": "1.0.0",
+        "timestampMsec": "1375534516853",
+        "starRating": "1",
+        "title": "\\342\\200\\246\\342\\200\\246",
+        "comment": "\\345\\201\\232\\344\\271\\210\\350\\246\\201\\345\\276\\227\\345\\210\\260gc\\351\\202\\243\\344\\271\\210\\351\\232\\276\\347\\232\\204\\357\\274\\237\\346\\210\\221\\344\\270\\213\\350\\275\\275\\344\\272\\206\\357\\274\\214\\345\\256\\203\\351\\203\\275\\346\\262\\241\\346\\234\\211\\347\\273\\231\\346\\210\\221gc\\345\\210\\206",
+        "commentId": "gp:AOqpTOFPmf1mOa7lHxlIsiAXDrbmVBbVwcq7uBGBRDP4VZsKVGns8Ijk3Bv7gS8eXUWg1u2ud-uOPPNQlguEzA",
+        "author": "HELEN CHAN",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

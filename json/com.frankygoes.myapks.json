@@ -1,0 +1,236 @@
+{
+  "title": "My APKs - backup & share apps",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.frankygoes.myapks",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.9.3",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "176",
+  "rating": "4.7329545",
+  "contentRating": "Everyone",
+  "creator": "Francesco Pellone",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.frankygoes.myapks",
+  "extendedInfo": {
+    "installSize": "310k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ENJOY 40% DISCOUNT ON MY APKS PRO ONLY FOR THE NEXT 30 DAYS !!!REVIEWED BY TOP MAGAZINE PCPROFESSIONALE IN THE BEST 100 APPShttp://www.pcprofessionale.it/2012/07/26/100-apps-imperdibili/My APKs Pro is available on Google Play and has many powerful new features and options:https://play.google.com/store/apps/details?id=com.frankygoes.myapkspro--------------------------------Main innovations in Pro version:â individual selection of appsâ massive share and cloud backupâ detailed reportâ incremental restoreâ autobackup serviceâ many customization settingsâ still light and not intrusive****************************************************** My APKs DOES NOT REQUIRE ROOTED PHONE/TABLET TO WORK******************************************************(apk = Android application)My APKs will make a backup of installed applications on your phone/tablet, allowing you to restore them without an internet connection and avoiding market long search and download times.In addition, My APKs will give you the power of easily sharing an application with peoples or other devices by email, bluetooth, wifi, skype, google drive and more.Another important aspect of My APKs is the capability to generate a report, in various formats, of installed applications with market links.Main features:â Backup: does the backup of installed applications on the phone/tabletâ Restore: restores the apk previously backupped by user selectionâ Report: creates a list of the applications in TXT, HTML and PDF formatâ Search: searches an application on Google Playâ Help: detailed instructions about My APKs usageâ Details: gives information about an applicationâ Backup (contextual menu): does the backup of a single applicationâ Copy to: saves the application into a selectable folderâ Share (apk): shares an application as attachment via email, bluetooth, wifi, skype and moreâ Share (url): shares the market link of an applicationâ Open market: goes to the market page of an applicationâ Launch: runs the applicationâ Uninstall: removes the application from the device and keep in sync the backupâ Manage: Android management of the applicationTotally free and ad free. Please LIKE on Facebook, +1 on Google Plus and share My APKs. Thank you for support.Permissions required are for:android.permission.WRITE_EXTERNAL_STORAGE : storing backup and creating reportandroid.permission.WAKE_LOCK : avoid device to turn off during backup progressandroid.permission.VIBRATE : system notificationsFollow us on:â Blogger http://droidiani.blogspot.com/â Facebook http://www.facebook.com/droidianiâ Google+ https://plus.google.com/105649647672204556971Known issue: PDF report generation crashes on some devices (for example Galaxy S2), solved by disabling images generation into settings.Android PDF Writer library is used, the author is Javier Santho Domingo.DISCLAIMER: The author is not responsible for illegal or wrong usage of My APKs.",
+    "reviews": [
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1368498542352",
+        "starRating": "5",
+        "title": "Fast-Reliable-FREE",
+        "comment": "Super fast, like it keep different versions of apps backup in case any update mess up, use different app to backup data so there\\'s no problem to me, but would be nice to have it integrated + batch share , thanks for the great app.",
+        "commentId": "gp:AOqpTOFvNvDS2nRPspjrXUVbAhB3kJR93e1LtOIi74KssdsY1rkdEXsPIn5CXHPCTuy47xG9i6c-vnUASFS_hA"
+      },
+      {
+        "author": "VICKY K",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1376403737168",
+        "starRating": "5",
+        "title": "HOPE4JOY",
+        "comment": "Being looking something to backup downloaded applications from Google Play and I must say this is the solution to all my worries and problems. Now I can download with no fear and backup my application. Best application ever which doeant even require internet to Backup. Thank You. I rate this 101 out of 100",
+        "commentId": "gp:AOqpTOF9Ns3YPcmhwgBdVcZ8hkI9xzw1o3EzJOiQlVE6vpbLBFHeiY5Dfd1ybYpivLRdaKoZPyuRqECmX8ykYg",
+        "author": "Hope Joy",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1369454742602",
+        "starRating": "5",
+        "title": "Question",
+        "comment": "u pls tell me that can this app restore all my apps and other data after factory reset? Thanks!",
+        "commentId": "gp:AOqpTOHitzk0svdvlA5l4OSC4lg_cJoXL4rKV9iGcF3Jj_cLVKCs2OTPFy6yVb7C2yN8LzHN0vrz-PNF8EhKTA"
+      },
+      {
+        "author": "siddhant dixit",
+        "authorURL": "http://lh5.googleusercontent.com/-m4WOKokhxZQ/AAAAAAAAAAI/AAAAAAAAAGk/yTAeEPzI-GI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-m4WOKokhxZQ/AAAAAAAAAAI/AAAAAAAAAGk/yTAeEPzI-GI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1368210171613",
+        "starRating": "5",
+        "title": "Maaaan",
+        "comment": "Best APP o have ever seen man thanks and may God bless you soooo soooo much",
+        "commentId": "gp:AOqpTOFT2uYdZogap-btLblnPCspg74o9YKhucgyvfMB5S-JAWiEahSeO0P6XyoPH-cTmXdlywwjUN7E54OlkQ"
+      },
+      {
+        "author": "Aviral Singh Chauhan",
+        "authorURL": "http://lh3.googleusercontent.com/-D6hP0gZb_y4/AAAAAAAAAAI/AAAAAAAAAjE/Yayq0Im-rMw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-D6hP0gZb_y4/AAAAAAAAAAI/AAAAAAAAAjE/Yayq0Im-rMw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1367767970694",
+        "starRating": "5",
+        "title": "Excellent APK Manager.",
+        "comment": "Functional, Logical, Fast, Free.",
+        "commentId": "gp:AOqpTOEuFpU3wfeqaInlf2Vp23ndyYIM-h22QngH-23qxAKftENanuYzfYqZRGbbwlGpB7zU8jjE4QKkLJmorA",
+        "author": "Chris Limnios",
+        "authorURL": "http://lh6.googleusercontent.com/-72klXamum1o/AAAAAAAAAAI/AAAAAAAAACc/KMLjkBJTurk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-72klXamum1o/AAAAAAAAAAI/AAAAAAAAACc/KMLjkBJTurk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1367418224150",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "5*  :)",
+        "commentId": "gp:AOqpTOES3e0bTLJZW65Y-lTWfAj8BpSDVKmxg55aCS3Ol-NiaOsedpD_EbvwFF0zaj28S4PBgXUIiFR1rDc3CQ",
+        "author": "Hardik Pandya",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.9.2",
+        "timestampMsec": "1364833558259",
+        "starRating": "4",
+        "title": "Works Perfect",
+        "comment": "Good looks is all that is required.",
+        "commentId": "gp:AOqpTOEKMPZdO55fdeobdZ3rz5fK5dz4ZS-BIE85HYzlXcXKrds7i94tgugG0Jyv3fSyO_Z4aiBTs_s_jUd8ew",
+        "author": "NARESH PAWAR",
+        "authorURL": "http://lh6.googleusercontent.com/-Kf9PzJnJP1I/AAAAAAAAAAI/AAAAAAAAADc/SDmSVZpklo8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Kf9PzJnJP1I/AAAAAAAAAAI/AAAAAAAAADc/SDmSVZpklo8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.9.1",
+        "timestampMsec": "1364053572653",
+        "starRating": "5",
+        "title": "Almost perfect app",
+        "comment": "Only need default filter to include updated system apps. Or all apps located at /data/app. Then it will be perfect.",
+        "commentId": "gp:AOqpTOF_9bC-JljZxPEHZwTa5CHIPJYlShRL4mJdyOwbKr1_LaptObo3RiRXRUgIi65988jG07bVz2dUnGF6PQ",
+        "author": "Yogi Renditya",
+        "authorURL": "http://lh3.googleusercontent.com/-6HXSn9_jxk0/AAAAAAAAAAI/AAAAAAAAAL8/bvu4IbT4yn8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6HXSn9_jxk0/AAAAAAAAAAI/AAAAAAAAAL8/bvu4IbT4yn8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361290754373",
+        "starRating": "5",
+        "title": "Must have app ...",
+        "comment": "I have .apk`s all over my phone. It collected all .apk`s and backed it up nicely and cleanly .... Thankyou team for such a wounderful app",
+        "commentId": "gp:AOqpTOEFu0W41ZswJAqiM3tbxiZDLstTeM58Z7CXq0zTLC5rkwSbxYdKjvf5gIsP83CpJyfA9H5G_-eYnm-BVQ",
+        "author": "sukhvinder bubber",
+        "authorURL": "http://lh6.googleusercontent.com/-_7LjfMcvM0w/AAAAAAAAAAI/AAAAAAAAACE/LGJJX91YImk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-_7LjfMcvM0w/AAAAAAAAAAI/AAAAAAAAACE/LGJJX91YImk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358448273613",
+        "starRating": "5",
+        "title": "Great backup tool",
+        "comment": "My APKs is a unique backup tool that saves the actual program files from your phone to your external SD card. Don\\'t leave your phone without it.",
+        "commentId": "gp:AOqpTOFt-aWyKVrFtiP6cXHMkTXNGFTqVh7SF68jUGmD23w4GITtmp-__NWrJ3pkVfZo2i1lsxkf4yo-V-y3-w",
+        "author": "Claire Pieterek",
+        "authorURL": "http://lh6.googleusercontent.com/-AsccDL29paY/AAAAAAAAAAI/AAAAAAAAAAA/QziTEXW3OaM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-AsccDL29paY/AAAAAAAAAAI/AAAAAAAAAAA/QziTEXW3OaM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368604280249",
+        "starRating": "5",
+        "title": "Wonderful app",
+        "comment": "Superb... This is one of the most useful application.",
+        "commentId": "gp:AOqpTOEA13SmpbNlDDL0RzvIuZ-a-I2KfdRKpp7eXpuy0DSxHZz6cHSqg7v413gB6AJ9nFPmB3YDdAeehpFBBw",
+        "author": "Sudip Chakraborty",
+        "authorURL": "http://lh3.googleusercontent.com/-81Hcj8mZbQQ/AAAAAAAAAAI/AAAAAAAAAG0/lIVatLA1Hhs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-81Hcj8mZbQQ/AAAAAAAAAAI/AAAAAAAAAG0/lIVatLA1Hhs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1352979637746",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Works perfectly and it\\'s realy free...",
+        "commentId": "lg:AOqpTOGdnCD5AzP9_jjPY9YakShkIPM34CsGBgY6JFO1qFwhRMbWFfNKT7f3e5jDGTCeEJFgKvvDnw6ID5rINA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351906961569",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Works perfectly to back up apps. Even different versions. Disable notification icon in settings should be default to avoid confusion.",
+        "commentId": "lg:AOqpTOH1PdeW961zs6usD52UoW0z4SE4TMMj2eUxsLCwNomTs1EsfRhcW9A5Tn0H8faypR0kRbXBscerk2XYwg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355077467093",
+        "starRating": "5",
+        "title": "The best , The fastest",
+        "comment": "Its a superb app what does everything it says and so lite !",
+        "commentId": "gp:AOqpTOE_LGxuvN1PVC30E2aPn0wPkiwAuvMe2gvMdbCcdRdaC_iC5FrvvZl6Sey5O-eDBmExQHkbyfHM3i5iDA",
+        "author": "Dhruva Gupta",
+        "authorURL": "http://lh3.googleusercontent.com/-aMfVhpOV89E/AAAAAAAAAAI/AAAAAAAAAC0/-Cp39wh_MJU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-aMfVhpOV89E/AAAAAAAAAAI/AAAAAAAAAC0/-Cp39wh_MJU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359144894028",
+        "starRating": "5",
+        "comment": "Wow. Excellent for my low memory phone",
+        "commentId": "gp:AOqpTOHZONeY7MQsbk7nhrbNcvix3F3-MyF2-Dyb-J7QuASnuQUpq3oYLKkGClNzMv5bfDU2XFLbO1E0JjqPqg",
+        "author": "Wesley Andrew",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349751756130",
+        "starRating": "1",
+        "title": "This is stupid",
+        "comment": "It only saves the apk, THAT\\'S IT. It won\\'t backup the data related to your apk.",
+        "commentId": "lg:AOqpTOGz35VqVmX67SDM9Dorswmw5aDbFByghcLKh4hPU523DANxbB4dhKgPTa43OIM2mGIhyy-frePPZxBIIw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351898244585",
+        "starRating": "5",
+        "title": "Very good app. Only problem is: after exit the ico",
+        "comment": "Very good app. Two problems are: after exit the icon stays on the notification area an I can\\'t get rid of it on Samsung Europa, can not backup the app with name \\\"c:geo\\\"",
+        "commentId": "lg:AOqpTOEfrWG7fNw9cNWrVeY5mqS-IL7UN6p2rX1TiC59w088dnimR9GW4FKXoUqAlRxU-L6azxYcgpaCm2aGVQ"
+      },
+      {
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351889727248",
+        "starRating": "4",
+        "title": "Great!",
+        "comment": "Would be nice to backup just a single app though.",
+        "commentId": "lg:AOqpTOFGZRSgcgYY7LFYYW_lKFf1bxPOErbkBckkA2Rw5TU9YKNUcVFd51dCrzQ-OQ1YYgk0N1sdaB9KlmnOEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345691069530",
+        "starRating": "4",
+        "title": "Ahhhh...",
+        "comment": "This works, it does a hyperlink to the play store!, If you use OI Notepad with create auto links enabled it works!",
+        "commentId": "lg:AOqpTOEcedKtGK42Ay2G_La4XNxuQ46pR37TbknkU09xG4rkrycbs0-aZPi4tFyAHHZnmAu4ndMKD_4UJnnQxA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349173907715",
+        "starRating": "5",
+        "title": "Nehal",
+        "comment": "Very good app to back up app. I love it. No ads.Fast A++++++++++",
+        "commentId": "lg:AOqpTOGtkQRQ-FBtl5OGiMzNH4gVkON5njbN2XBeRQqk0AI1Vcz_EurR27CkxAAJBIwGkZ9EjyWOGmmGLIdzvQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

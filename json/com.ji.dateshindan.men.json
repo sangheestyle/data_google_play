@@ -1,0 +1,33 @@
+{
+  "title": "Dating diagnosis to Boy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.dateshindan.men",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "2.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "42",
+  "rating": "4.3095236",
+  "contentRating": "Medium Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.dateshindan.men",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Is girl happy when dating with youï¼ï¼ãDating diagnosis to Boyãcheck your dating capability by 15 questions.How do you invite girl, behavior when dating, before dating.Above all can be considered to spirit and opinion to love.It is must not a joking for only girls.A boy who is popular in crowd is also interestd in love.He sets a good balance between friends and becomes popular.Of course, he is also be popular between girls.Try to think about a guy who treat you well,Are there many girls around himï¼What is your evaluation in girls' opinionï¼Let's diagnose the embarrassing vexation âªBeing popular and catch girls' hearts.â ï¼ tips make girl wants to date with youãï¼ã\"I do not go â¯â¯ recentlyâ¦\"tell that you are availableã»\"I do not go outside recntlyâ¦ how about going outside with meï¼ï¼\"invite her straightlyãï¼ã\"Do you date these daysï¼\"ask herã»\"'I want to dateï¼\"say in high tension.ãï¼ã\"What will you do on next holidayï¼\"ask her planã» Tell her you are available in that day, and ask \" how about you ? \"ãï¼ãsigh to pretend you are not really happy in lifeã»\"Do you have any ideas to be happy?\"ãï¼ã\"I am free these days ï½\"say joyfullyã»\"Let's dateï¼\"invite her in a high tensionãï¼ãmake her be involved in youã»\"Is my face weirdï¼\"pretend to ignore her.ãï¼ãinvite her to book store, to the guide books cornerã»\"It seems interestingï¼\"show that you are interested in the spots.ãï¼ãIf girl says \" I am interested in that too ï½\"ã»\"Let's go there togetherï¼\" express yourselfãï¼ãstand in front of the poster of trip spots and say \"hey, look!\" in high tensionã»\"Will you go with meï¼\" try to say that.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.dateshindan.men.permission.C2D_MESSAGE"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Buying List II",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.flagsibh.buyinglist2",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "2.0.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "187",
+  "rating": "3.9144385",
+  "contentRating": "Low Maturity",
+  "creator": "Idael Banderas",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.flagsibh.buyinglist2",
+  "extendedInfo": {
+    "installSize": "2.5M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "This application allows you to manage your shopping (buying) lists.Â» Simple and easy to use, so you get up and running quicklyÂ» Multi-language: currently supports English, Spanish, Japanese, French, Portuguese, Chinese (Simplified & Traditional), German, Italian, Russian, Dutch, Ukrainian, KoreanÂ» Products are organized by categoriesÂ» Fresh installers will get more than 100 products in databaseÂ» Export/Import databaseÂ» Now you can \"synchronize\" the database with your spouse, children, friends... whoever you want! There's no reason they can't have your list!Â» You can create as many categories, lists & products as you wantÂ» You have the possibility to indicate a default price to products, which can be used if you do not want to indicate it later when adding to the listÂ» It's possible to add notes, besides quantity, price and unit to the productÂ» The application will auto-complete products names as you typeÂ» An HTML formatted email can be sent to a contact, allowing you to pick up the correct email when the contact has variousÂ» Lists can be exported to SD so you can save to PC or do whatever you want with itÂ» Categories can be sorted out, so you can sort your list as you wishÂ» Automatic list cost calculatorÂ» Add products directly from its list to the buying list of you choice",
+    "reviews": [
+      {
+        "documentVersion": "1.4.9",
+        "timestampMsec": "1325277749326",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "On Ice Cream Sandwich all I get is a black screen with no functionality at all.",
+        "commentId": "lg:AOqpTOGpcV0msC_HTWJG7UOrd6Mrc0rsleThZ_3ssjn5mbTbyWPwHCrbjwOvx0NiJHw4BYxuW8EMs4NOr9dTMQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.9",
+        "timestampMsec": "1329835506863",
+        "starRating": "4",
+        "title": "Great app!",
+        "comment": "Love this app! But I can\\'t figure out how to sort categories and products. Would move to Pro if I could.",
+        "commentId": "lg:AOqpTOEbLSDUdbgE_btXcPM8o6Ep122J9HJjDW9EfwPsQqd4zNJjRjWMTityUq0TaUIFuvuhubplDr7WGW2ung",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343001243602",
+        "starRating": "1",
+        "title": "Full of ads",
+        "comment": "Ads suck!",
+        "commentId": "lg:AOqpTOHDzuhXmcieAVcvxPqXXl9dOIlfzsPiH8pmxEvDi-ryAmYeJjqQD2rRK_VrWaDCZnRyoZl85yMIpiUB_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

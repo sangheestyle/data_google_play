@@ -1,0 +1,57 @@
+{
+  "title": "Task Planner",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jeemsolutions.android",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "August 23, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Apps Magiciain Business",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jeemsolutions.android",
+  "extendedInfo": {
+    "installSize": "424k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Now the power of writing, managing and looking after your task is in your hands with Task Planner Application .To match up with the pace of the others you need to be motivated towards your work. You need to pre define and schedule your everyday tasks. Your pre planning leads to better results. Not writing down your task causes tones of trouble and slows down your working and process of completing tasks.Task Planner is available for android users to enjoy and have fun while they manage their daily tasks in a defined way. You can easily interpret things you want to do and keep a check that you get those tasks done.Task Planner is pre loaded with a set of different functions. Itâs easy to add your tasks and then keep a check on them. By tapping on each of the following, the screen would display you those task according to the priority. They would show you the tasks according to the dates.You may choose any date to schedule your task with Task Planner. Some tasks are much important and some carry less importance. So priority levels are available in Task Planner to set the priority of your task. It may be Low, Medium or High. This would remind you how important a task is for you because a priority always comes first. Task Planner also lets you edit and remove your tasks which have been once entered. This thing keeps on increasing your managing strength. As your goals are achieved you can remove those tasks. Task Planner is indeed helpful in many fields of live from younger to elders, students to businessmen. A pre planned day of many tasks with Task Planner lets you complete the day efficiently and keep a check on your achieved goals.So be the first to get Task Planner application on your android phones and start managing your tasks in a more appropriate and planned way as Task Planner is the best way to pull of your daily tasks.",
+    "reviews": [
+      {
+        "timestampMsec": "1358666556565",
+        "starRating": "4",
+        "title": "Good App",
+        "comment": "It\\'s a great task planning app but it does not provide a function to add one task to more than one day. I would have to paste the same task 145 times! Won\\'t do that! :(",
+        "commentId": "gp:AOqpTOG53uaHxtBsbnDeYtNsR_pp3n_9Uskm2Nm_IhHQGqjnHp3ELnnNvi_VVRWYIJlOo5XeN_EnuuO4U43j6rY",
+        "author": "Antonia Roehl",
+        "authorURL": "http://lh5.googleusercontent.com/-WCnod7Tesd4/AAAAAAAAAAI/AAAAAAAAANI/4F_BmnqLY3Y/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-WCnod7Tesd4/AAAAAAAAAAI/AAAAAAAAANI/4F_BmnqLY3Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372813935676",
+        "starRating": "3",
+        "title": "Average",
+        "comment": "Pretty good not the best",
+        "commentId": "gp:AOqpTOHrLPXUHIwLfsYnGDYS4anGL89YMrdnUYC8SP0NOV39p98utBjKH2LlkuRIn-ypj91ChxvuQ6qPj0P_EPw",
+        "author": "Tammy De Leeuw",
+        "authorURL": "http://lh4.googleusercontent.com/-ytHfBAJVXaw/AAAAAAAAAAI/AAAAAAAAAAA/PwFUfvQCTN0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ytHfBAJVXaw/AAAAAAAAAAI/AAAAAAAAAAA/PwFUfvQCTN0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365734599613",
+        "starRating": "5",
+        "comment": "Amazing",
+        "commentId": "gp:AOqpTOE74vZRkCygQYoxIA9KHT9SJm4xXoZWg7Equ8azkSqk8qHK9N1zAvRT1nAsOSm2y24FUhvQqEYzliizN2E",
+        "author": "Rudy Cerna",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.SET_DEBUG_APP"
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "title": "Call Meter 3G: THE monitor app",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.ub0r.android.callmeter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "3.9.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4763",
+  "rating": "4.43376",
+  "contentRating": "Low Maturity",
+  "creator": "Felix Bechstein",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.ub0r.android.callmeter",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "Call Meter 3G is the most complete monitor app for your Android device: It monitors your calls, text messages and data usage.It shows statistics of your usage and shows alerts if you reach your limit.There are all kinds of widgets to show the most valuable statistics directly on the home screen.Call Meter 3G has a complex rule engine to let you set up the app exactly the way your provider writes your bills.Known problems:* Viber calls are detected as standard calls. Please tell Viber to fix this.* Doesn't count properly data usage on some Samsung devices. This problem is based on Samsung's Android version and got fixed on most devices with some Android update.This app is open source software build in spare time. Adding bad comments in Play Store won't help much to make it better.Please add your issues with this app on the app's website.This is a complete rebuild of Call Meter NG. It has a huge amount of new features like widgets and alerts.It's new architecure allows more complex plans.Feel free to test it and help me make it more userfriendly as it is currently. ;)Permissions of this app:* READ SMS OR MMS: count your messages* RECEIVE SMS: update logs before a recently received message got deleted* FULL INTERNET ACCESS: importing rules* READ CONTACT DATA: convert numbers to names (e.g. in number groups)* MODIFY/DELETE SD CARD CONTENTS: write/export rules to sd card* READ PHONE STATE AND IDENTITY: update logs in background* PREVENT DEVICE FROM SLEEPING: update logs in backgroundFeel free to help translating this app to your language here: http://ub0r.de/translate/cm3/Please see https://code.google.com/p/callmeter/issues/list for issues and enhancement requests.Keywords: minutes calls sms txt text data traffic counter log phone usage watchdog alert widget statistics at&t verizon three o2 t-mobile vodafone orange",
+    "reviews": [
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1378099912666",
+        "starRating": "4",
+        "title": "How to count Local free minutes and Chargeable STD minutes",
+        "comment": "I have a plan in that I get 600 local free minutes.  But STD and International are on charge basis.  Please advise how to check this on app.   Please advise if this feature is added in your app or going to add soon. Will wait for your reply..",
+        "commentId": "gp:AOqpTOHTeF1fM2fuPB4JQ-m5wky1G1YFv2w75Ni7a0v5uId8UvgTqU5Kt8-mETapJEA24JzjQc2eFau3GA_rGQ",
+        "author": "kuldip verma",
+        "authorURL": "http://lh6.googleusercontent.com/-DFDWaoAPMKg/AAAAAAAAAAI/AAAAAAAAASM/hvjXT_tpp28/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DFDWaoAPMKg/AAAAAAAAAAI/AAAAAAAAASM/hvjXT_tpp28/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1374779714645",
+        "starRating": "5",
+        "title": "Great application!",
+        "comment": "This app is a must have! It provides the user with extensive configuration, plus.. the meters are very accurate (checked with my phone bill). For all of you who rate with 3 stars because of your lack of intelligence, do yourselves a favour and read the help file ;-)",
+        "commentId": "gp:AOqpTOHcoqUKz3S-hQU_p7gpz7xd2Nl6KGtKXmJ1dotVNEBJXULNExR1VfMt1v0peWg6HA02lqu_gsAFwmuD6Q",
+        "author": "Theodore Kirkiris",
+        "authorURL": "http://lh6.googleusercontent.com/-xGbcSpCx4qo/AAAAAAAAAAI/AAAAAAAABII/arj99Qf7gUA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xGbcSpCx4qo/AAAAAAAAAAI/AAAAAAAABII/arj99Qf7gUA/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1377681103425",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Every thing is perfect but there is an issue to adding number in number grup  i.e. if I 111 then it shows name xyz that number contain 111 like 9811198***** Plz debug",
+        "commentId": "gp:AOqpTOGQfDikpnNUXBcJ-WXfTmtOVXmWC-M7PoV3F9c6mEYPhyHKTpuscVyrzQIhhSCBb79zWam9VjjKMe961w",
+        "author": "Srikant Tiwari",
+        "authorURL": "http://lh3.googleusercontent.com/-_oa4QGvK7dQ/AAAAAAAAAAI/AAAAAAAAAAA/nz8K7dEt-0Q/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-_oa4QGvK7dQ/AAAAAAAAAAI/AAAAAAAAAAA/nz8K7dEt-0Q/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1375183029880",
+        "starRating": "4",
+        "title": "Data Units",
+        "comment": "Can we have more options for data units billing? My carrier charges per GB, not per MB.",
+        "commentId": "lg:AOqpTOFWIE8oaafnWHA87GE3EYAZN4cC1zOzOc_3pQGVee8A1EaFv-IQDcVksKQ7GIeFgups_iG1dhTpf_vn4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1377406693934",
+        "starRating": "5",
+        "title": "Best Phone Usage Monitoring App",
+        "comment": "This is the best monitoring app in phone usage on bills, calls and data. It\\'s highly customizable to your plan and calculate the bill accordingly, and it\\'s accurate. Also, the developer is friendly and responsive to bugs-fix and feature requests, very good support.",
+        "commentId": "gp:AOqpTOGn8SueW5I13vBk5o2WBTjm3evusFHHCN_IoBYMtbgMoQxRck72wI9RLA1_8Nr4PdHszBHZMYB3r7UjDA",
+        "author": "Raychi Pat",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1378252251260",
+        "starRating": "5",
+        "title": "Amazing App",
+        "comment": "This is a Must Have application for controlling your Service Provider plan.",
+        "commentId": "gp:AOqpTOF2U1R2jElZLehy1UktJrCGiTlz9qTQ-mmWYXQxdM1Sf8FkikHRZkE7vAhBsXEzN-wJmSpK3xbwBmv3QQ",
+        "author": "Hossam Galal",
+        "authorURL": "http://lh5.googleusercontent.com/-g9T8tpndesU/AAAAAAAAAAI/AAAAAAAAAKU/Z_xbV97g7lo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-g9T8tpndesU/AAAAAAAAAAI/AAAAAAAAAKU/Z_xbV97g7lo/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1374852393612",
+        "starRating": "5",
+        "comment": "Best application for monitoring my plan",
+        "commentId": "gp:AOqpTOGnIiSJuzUksBX0-TBFWm1CfTY78w5VlgKOj8mWS7oyQ1UcBAVbVC9tdY5wLAG57o9I1z0c1k_yJlyBeg",
+        "author": "rahul jaiswal",
+        "authorURL": "http://lh5.googleusercontent.com/-XzWKLcuxrgE/AAAAAAAAAAI/AAAAAAAAAGM/D8sgRj38sQY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-XzWKLcuxrgE/AAAAAAAAAAI/AAAAAAAAAGM/D8sgRj38sQY/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1378401460597",
+        "starRating": "3",
+        "title": "Cant reset",
+        "comment": "I tried the data to reset for a new sim but I cudnt reset. I had to reinstall  Please add an option for reset",
+        "commentId": "gp:AOqpTOHEXWZ33NJwaLFxZIgYhZ_UkL0WKkDF1AEjOJb2MgAgwgZVFa2EFmXhjVPzrWbMEMiVKMqkZLO-aFKAnw",
+        "author": "Vignesh Ravi",
+        "authorURL": "http://lh6.googleusercontent.com/-a_ceKyC5eKQ/AAAAAAAAAAI/AAAAAAAAA6Q/siYr7Dn71M8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-a_ceKyC5eKQ/AAAAAAAAAAI/AAAAAAAAA6Q/siYr7Dn71M8/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1375466647045",
+        "starRating": "2",
+        "title": "Nice app",
+        "comment": "But too complicate to use correctly. The texts explaining the functions are difficult to understand",
+        "commentId": "gp:AOqpTOF_QzSY2DZTHamhucp2y24ZsUhUxa9BZ1Dt-OzMIFKQrVqOpGhHXgj08E7hd68h6mLnB2WmRYA2JeQQaQ",
+        "author": "Byron Iniotakis",
+        "authorURL": "http://lh4.googleusercontent.com/-I6LamLF3QxA/AAAAAAAAAAI/AAAAAAAAAwM/O0UmU0XCiNU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-I6LamLF3QxA/AAAAAAAAAAI/AAAAAAAAAwM/O0UmU0XCiNU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.9.1",
+        "timestampMsec": "1377251647814",
+        "starRating": "3",
+        "title": "warning notice ??",
+        "comment": "Is there a possibility to set a warning notification for a set number (or percentage) of limits ??",
+        "commentId": "gp:AOqpTOErGfuVGTiC6BUBXnq-7gAGxv-XwwRI5w9al_-UKvGYMEmwQAnDaUuaxTp9V3KQEpyn5PWVgX_IbO1ZwA",
+        "author": "Polat Erol",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371721802196",
+        "starRating": "5",
+        "title": "The best of its kind",
+        "comment": "Excellent app!Does everything I needed and provides me with what my carrier could not. Works flawlessly on my device. I would love however to be able to have remaining times instead of used ones. Thank you dev.",
+        "commentId": "gp:AOqpTOFf4yjmW8ae63eE8eFJ4gQD2qOliE8XTBCdxrpw-0Mm1xzmivf8QEYdVD5waT8BtMvS-sG577Lo7jiAfA",
+        "author": "Antonis Kassamanolis",
+        "authorURL": "http://lh4.googleusercontent.com/-Knun45vEkjQ/AAAAAAAAAAI/AAAAAAAAA3g/oXsgZTzabe0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Knun45vEkjQ/AAAAAAAAAAI/AAAAAAAAA3g/oXsgZTzabe0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373199162126",
+        "starRating": "5",
+        "title": "Excellent App",
+        "comment": "A must have app. Highly configurable to adhere to your providers\\' rules. Dev is very quick to respond too....!! Thanks & Regards.",
+        "commentId": "gp:AOqpTOEFcfYzoIF36HukPBChgEclB2AEHfcRE2w5hd2Kbb9ugaM9NMMWa5C6TIyEeJw4YDrbACqjcdnlCDfkHQ",
+        "author": "Rajesh Deshpande",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370921742233",
+        "starRating": "3",
+        "title": "Issue with Nexus 4",
+        "comment": "This app is very great. But after I change my phone to LG Nexus 4. It can\\'t read or count the call out logs. It\\'s always show call out is 0s. I\\'m not sure any setting has lock the call out details.",
+        "commentId": "gp:AOqpTOHsj9E5yfBMD7PhkMe-n7Ba4JX9slnKG0WTlbJ6pSgwTkEzE_lzzW26VGh9f_gIQbhkPEQnmPvNKp1Fig",
+        "author": "KiwiKawee Yospaiboon",
+        "authorURL": "http://lh3.googleusercontent.com/-X5zRGup-bvY/AAAAAAAAAAI/AAAAAAAAAD8/isiQoUToINg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-X5zRGup-bvY/AAAAAAAAAAI/AAAAAAAAAD8/isiQoUToINg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374383682981",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "\\341\\200\\261\\341\\200\\200\\341\\200\\254\\341\\200\\204\\341\\200\\271\\341\\200\\270\\341\\200\\225\\341\\200\\253\\341\\200\\220\\341\\200\\232\\341\\200\\271\\341\\200\\200\\341\\200\\274\\341\\200\\232\\341\\200\\271",
+        "commentId": "gp:AOqpTOHVPG36m0ibVbv5uyKdlcUj2vPdebR1BLixArHXf-MMdSEav6x-nRFySheySOnTisNNYoptiS9RV1fQWA",
+        "author": "nandar ko",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373657497726",
+        "starRating": "2",
+        "title": "cool",
+        "comment": "best",
+        "commentId": "gp:AOqpTOET4J28Dfq1XuQszUj93f0UJpvWHtkYZiNC_YYoCFjVKCC6qXhs-vbIqp1eBDyvxA9DUdfcO6T8PhKe1A",
+        "author": "Sai Min Khant",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371826385613",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Best app of its kind with regular updates. You can see you bill anytime you want and handle you phone usage according. That is make this app necessary for every smartphone user!",
+        "commentId": "gp:AOqpTOFThTVWdtSZyILZp5lFR2_gz-SLjYPIoYetkeU1DELGnu4vqC3G8oxb9X7uaes63VMVTzPncZfrqk_nzg",
+        "author": "Rodney Savage",
+        "authorURL": "http://lh6.googleusercontent.com/-gz1BaH_fmX0/AAAAAAAAAAI/AAAAAAAAAoA/io6tIrH3vvg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gz1BaH_fmX0/AAAAAAAAAAI/AAAAAAAAAoA/io6tIrH3vvg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371682352974",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Great app for monitoring your phone\\'s plans!",
+        "commentId": "gp:AOqpTOEd5MEA3N1-G7PAVpBzOYcT04a06ST6kokHmznYF2VvziztaafIhCUWhA7QAMm_DI1N1HcGzefVrZmMxg",
+        "author": "Shivan Singh",
+        "authorURL": "http://lh4.googleusercontent.com/-EigyNg5mw1k/AAAAAAAAAAI/AAAAAAAAQQQ/MIW5vCR7FeQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-EigyNg5mw1k/AAAAAAAAAAI/AAAAAAAAQQQ/MIW5vCR7FeQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373351398375",
+        "starRating": "5",
+        "title": "Works perfect",
+        "comment": "Works perfect on both: HTC hd2 and HTC one s.",
+        "commentId": "gp:AOqpTOF18UnqTRngjLQgQNCm1p-JdiU6ximct5uKzehshBbvuaEEuggBkYXyASAMiWPGiFQkkB9EcRNdiXaXLQ",
+        "author": "Markus Nachname",
+        "authorURL": "http://lh5.googleusercontent.com/-jpp2EiRz2C0/AAAAAAAAAAI/AAAAAAAAAWk/7gydyGDN2Ag/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-jpp2EiRz2C0/AAAAAAAAAAI/AAAAAAAAAWk/7gydyGDN2Ag/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372877716193",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I love that it shows your call log ! My carrier wouldn\\'t ever give away that data !",
+        "commentId": "gp:AOqpTOEtp6KfNQ7et5FuuMhaJfh_LnCsgSwD-9dtz6UHYLdakzFLiSu_kapJtxABont64zoyi0c0MneA8zQCwg",
+        "author": "Daniel Sod",
+        "authorURL": "http://lh4.googleusercontent.com/-sFewad5_ZvM/AAAAAAAAAAI/AAAAAAAAADM/vU61r1xRWNY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-sFewad5_ZvM/AAAAAAAAAAI/AAAAAAAAADM/vU61r1xRWNY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376378285028",
+        "starRating": "5",
+        "title": "thank you :)",
+        "comment": "this is exactly what I was looking for!",
+        "commentId": "gp:AOqpTOGf-gv2OVCmFtUAktqLKQzA6IU2B6vTwRNGGxcySxlmi7C6NOrXODN_VIiNEk5BS_oREw-JHNt7P-e02Q",
+        "author": "Dianaras Torres",
+        "authorURL": "http://lh4.googleusercontent.com/-w5QgDKHzsjQ/AAAAAAAAAAI/AAAAAAAAACE/bxQ88sqrdLM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-w5QgDKHzsjQ/AAAAAAAAAAI/AAAAAAAAACE/bxQ88sqrdLM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_PHONE",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG",
+      "com.sec.android.provider.logsprovider.permission.READ_LOGS",
+      "com.sec.android.provider.logsprovider.permission.WRITE_LOGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "title": "Beautiful Widgets Pro",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=de.devmil.minimaltext",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "3.0.10.6.4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "21785",
+  "rating": "4.424237",
+  "contentRating": "Low Maturity",
+  "creator": "LevelUp Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=de.devmil.minimaltext",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Minimalistic Text is a widget app that displays information in a minimalistic way.It can be configured to display time, date, battery and weather information. The layout of the widget is highly customizable through the layout editor.YouTube videos: Barcode Battery Bar: https://www.youtube.com/watch?v=yPsug6jQ3o4Use custom fonts: https://www.youtube.com/watch?v=1Ou_kaXfyiUSupported languages:* English* Danish* German* Greek* Dutch* Polish* Norwegian* French* Croatian* Serbian* Czech* Spanish* Estonian* Italian* Portuguese* Hungarian* Russian* Swedish* Simplified Chinese* Traditional Chinese* Slovak* Afrikaans* Slovenian* Hebrew* Bulgarian* Catalan* Korean* Turkish* Finnish* UkrainianExplanations for the permission requests:** android.permission.VIBRATE **used in the layout editor to give feedback that an item has been dragged** android.permission.ACCESS_COARSE_LOCATION **used by the weather service to get your coarse location and retrieve the weather for it** android.permission.ACCESS_NETWORK_STATE **needed to determine if the weather data can be fetched** android.permission.INTERNET **needed to actually retrieve the weather data and to get the name of the location you are** android.permission.RECEIVE_BOOT_COMPLETED **needed to be able to wait until the phone booted before initializing** android.permission.WRITE_EXTERNAL_STORAGE **to gain access to your SD card and save the preferences to it** android.permission.GET_TASKS **used to determine if the home screen is currently active. This is used by the automatic rendering option** android.permission.CHANGE_COMPONENT_ENABLED_STATE **To enable / disable widget sizes** android.permission.ACCESS_WIFI_STATE **To support WiFi variables** android.permission.READ_CALENDAR **To support calendar events** com.android.vending.BILLING **To support In-App donation** de.devmil.minimaltext.permission.USE_DIRECT_CALL_ADDON **allows Minimalisitc Text to use the Minimalistic Text direct call addon (if it is installed)If you have any problems, write me an email!Now with Buzz Launcher support! Minimalistic Text can be restored exactly the way it has been packed using the Buzz Launcher. This way you can share your complete Homescreen easy with other Buzz Launcher users!Download Buzz Launcher here: https://play.google.com/store/apps/details?id=com.buzzpia.aqua.launcherPlease don't use the comments for feature requests or bugs. You can write me an email (develmil@googlemail.com). (Of course you still can rate lower due to bugs or missing features)Tasker integration:1) add a Locale variable to your layout and set the variable name (click it)2) in Tasker select Plugins -> Minimalistic Text for an action3) Click \"Edit\", a new activity starts4) enter the name of the variable and the text that should be displayed for this variable (you can use Tasker variables)doneWiki: wiki.devmil.de",
+    "reviews": [
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1378314245284",
+        "starRating": "4",
+        "title": "Faulty updating",
+        "comment": "I decorated phone with ur rely awesm app n then I saw a update on this app so I did it. After update, it showed on my screen where I had my current widgets as \\\"unknown widget\\\" i tried clicking on it n it opened new wodget list. I went through ur app n saw thrre were the widgets i opened then and saved but still no effect. so I had to delete them and once again design it. Plz fix this updating thanks",
+        "commentId": "gp:AOqpTOEltESuEKs0VYvxsKGdD7y9DoPDLd7ZnmKAeTiH0xTDFrOgRyjG5T9Wr2XY_Me3x35x_14GUgk8wk5q4s8",
+        "author": "awsm\\305\\202 hackr",
+        "authorURL": "http://lh6.googleusercontent.com/-SjXsVgxaPcQ/AAAAAAAAAAI/AAAAAAAAAEs/ThQ5Z8p4aoI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-SjXsVgxaPcQ/AAAAAAAAAAI/AAAAAAAAAEs/ThQ5Z8p4aoI/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1378305877138",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Get it. You won\\'t be disappointed.",
+        "commentId": "gp:AOqpTOGC_HNtEoqi9LVkxQ9NxWIaSO1APq7m95YptQGFBpb9EJVP__gC2f59DQheSagjqhRSb_2Afcejkqtt64Y",
+        "author": "Jabber Wookie",
+        "authorURL": "http://lh4.googleusercontent.com/-pkOFUo_c1Zg/AAAAAAAAAAI/AAAAAAAAHDc/CUgWba731N0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-pkOFUo_c1Zg/AAAAAAAAAAI/AAAAAAAAHDc/CUgWba731N0/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1378289299867",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOEya571N36RDdzSNTRYZY0KorfM_T42OLGNsJ6YHoRyf4UM4xe4XfELE8jsAwx-gvZsf207g-fwo0t_urs",
+        "author": "Sri Krishna",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1378358367799",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "nice customisation",
+        "commentId": "lg:AOqpTOFvzLvJpm2ZUexWkvASzUcgfur9OfRrCJBDQnnHCgpraRDmRniYk089t-5DLzUDeUHYY8HwmAo7Xi-HgXQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1378284248093",
+        "starRating": "4",
+        "title": "Very useful app!!",
+        "comment": "I\\'ve enjoyed this app on my Samsung Galaxy Nexus very much!!  Will keep on using it, too.",
+        "commentId": "gp:AOqpTOHItnEqpTcmq5y6M8PeicQwCZUU0w6QDC86q7DdZEU81_BybYyagnPVyY9GTQqYx25DLGQ5loDR28oTysY",
+        "author": "Robyn Phillips",
+        "authorURL": "http://lh4.googleusercontent.com/-r0CXWl6hhTA/AAAAAAAAAAI/AAAAAAAAADM/29iU326G9Xw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-r0CXWl6hhTA/AAAAAAAAAAI/AAAAAAAAADM/29iU326G9Xw/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.3",
+        "timestampMsec": "1378301635764",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOGEzISEX7148xNFu7gRKAjLF63Qaw6zvQg3n-nb1ZnqQk2rJoDkicdi0MEPXwWYgvxWA-gUfLplaZVMWdc",
+        "author": "Hanini Anas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378253228665",
+        "starRating": "3",
+        "title": "\\\"Couldn\\'t add widget\\\" bug?",
+        "comment": "I have about 25 over different minimalistic widgets decorated under my home screen (lighting launcher) but every now and then some of the widgets acting strangely. It\\'s displaying \\\"Couldn\\'t add widget\\\" error. Cannot see widget. I have to go to setting to save again in order to view the widget again. This happens quite often. I hope you can fix this bug. Galaxy Note 2 International.",
+        "commentId": "gp:AOqpTOHPyCDPwRfnBp7PznA7HcxzPBuUYv2E0utpXUqsD08iQQgTPyHLqnW78f_3Rlw3Ys52O8B97_jjVhmMdY4",
+        "author": "ashraf ali",
+        "authorURL": "http://lh4.googleusercontent.com/-2N8M-e7ClXs/AAAAAAAAAAI/AAAAAAAAAKU/0h3QS4R6cPU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-2N8M-e7ClXs/AAAAAAAAAAI/AAAAAAAAAKU/0h3QS4R6cPU/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378038630555",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Even better with weather icons! Could you please add a night-time clear weather icon? So that we have the moon instead of the sun during the night :-)",
+        "commentId": "lg:AOqpTOHyWk9Q9-JB6bbj6hdbpezeM7yi1a_oN3omuC7VA-rXdGReypsIgfi4IU_oGK5o12d8zFW2B3dwH9HGafw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378217288520",
+        "starRating": "3",
+        "title": "Rendering issue",
+        "comment": "It\\'s suddenly too small as of the last update. All the widget sizes decreased and no longer for properly in the grid",
+        "commentId": "gp:AOqpTOF50ksj014scLm_-rcU9hOUMNV-YXTrnsxEOo2gXxReMZwHNQmSIqs0u07AJE4C1SoxfIi3VONUO6i8VDQ",
+        "author": "James Marshall",
+        "authorURL": "http://lh3.googleusercontent.com/-QaIIu43D6vs/AAAAAAAAAAI/AAAAAAAAACU/q2l4BwFOJ1U/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-QaIIu43D6vs/AAAAAAAAAAI/AAAAAAAAACU/q2l4BwFOJ1U/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378327467716",
+        "starRating": "5",
+        "title": "Just what I was looking for.",
+        "comment": "Easy to use.  Exactly the top I needed.",
+        "commentId": "gp:AOqpTOGQUpCzeKSPnLPoFXJyLXFwa7lyajztwy7YPdx0CqUf29_glSS8XOVuNpJuY8k-h1jptzkGRnpe5PE92ec",
+        "author": "Brad Wilson",
+        "authorURL": "http://lh6.googleusercontent.com/--_vWF4f8P5c/AAAAAAAAAAI/AAAAAAAACZA/l0FTrCwctl4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--_vWF4f8P5c/AAAAAAAAAAI/AAAAAAAACZA/l0FTrCwctl4/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378195878712",
+        "starRating": "3",
+        "title": "Let\\'s find it",
+        "comment": "This is the first time im going to try it if it don\\'t work ill just deleted",
+        "commentId": "gp:AOqpTOHQkpNMKaZuQNwGCEd95lU42Uor3vUma4VKooqzTCnljgK2Ohjt-ZpVK3kUPFWMaJG3eSfB3Q3Ui9lfMJ4",
+        "author": "Samira Furtado",
+        "authorURL": "http://lh4.googleusercontent.com/-5_YiXrS9gNo/AAAAAAAAAAI/AAAAAAAADUE/GvQX8K3qAxw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-5_YiXrS9gNo/AAAAAAAAAAI/AAAAAAAADUE/GvQX8K3qAxw/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378037668133",
+        "starRating": "4",
+        "title": "Works very well",
+        "comment": "Excellent widget",
+        "commentId": "gp:AOqpTOEj40choAOXyI6Koe8UpvXhrMtVtkFzNu0giAAQdEDhEiPr1uCWYu5fzw3JMI1qx8dc0MJlI6uEPHa47GM",
+        "author": "Samir Fernandes",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378110612190",
+        "starRating": "3",
+        "title": "Great when it works",
+        "comment": "Too many errors when running widgets on multiple pages.",
+        "commentId": "gp:AOqpTOGaT-10oyCYY48SK9FodxsIg8wPZxweC0tsha6Jct4dWbCL-BeW_4lzO23i_I3rXBmU56ppBRQQv46BVQk",
+        "author": "Mark Freeman",
+        "authorURL": "http://lh5.googleusercontent.com/-61oBs5RNaPI/AAAAAAAAAAI/AAAAAAAAAag/Xqh6KR8idkI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-61oBs5RNaPI/AAAAAAAAAAI/AAAAAAAAAag/Xqh6KR8idkI/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378047027247",
+        "starRating": "5",
+        "title": "Poor",
+        "comment": "Hangs and doesn\\'t refresh after last update even after mobile restart.",
+        "commentId": "gp:AOqpTOGcxcFIiKprETzQW7EpdyBbwlC4vIaeYpKfEo2HSTQEgt3scKiERgQNlKleDcbEBbWu6BvhY9zvrqAdK0s",
+        "author": "Piyush Saxena",
+        "authorURL": "http://lh3.googleusercontent.com/-JjYgMaSAh7Q/AAAAAAAAAAI/AAAAAAAACVU/ufOtnsLEMpU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-JjYgMaSAh7Q/AAAAAAAAAAI/AAAAAAAACVU/ufOtnsLEMpU/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378153092286",
+        "starRating": "5",
+        "title": "Amazing!",
+        "comment": "My friends at my school love it!",
+        "commentId": "gp:AOqpTOGIwouJlkaQ_MIf_TiFL9CH9nbR84Y9iV-CvrxACe1KEwP7Jt7FfBckbpzQ0bl02jJhyMHsN_nvv3vkAVU",
+        "author": "Mimi Khaled",
+        "authorURL": "http://lh5.googleusercontent.com/-Flu9nTbOTI0/AAAAAAAAAAI/AAAAAAAAAhI/HN2fXEutIuE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Flu9nTbOTI0/AAAAAAAAAAI/AAAAAAAAAhI/HN2fXEutIuE/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378050257140",
+        "starRating": "5",
+        "title": "Comentario",
+        "comment": "Muy buena aplicaci\\303\\263n para personalizar el tel\\303\\251fono",
+        "commentId": "gp:AOqpTOE2y5vIIb_Wn72meCp1fBQs_rUaCCB2lRod-cJ15IyiF2BYi8FDo2tCY80Ll-DxAB4AOoMWwQ8aqefi1Wc",
+        "author": "Emiliano PM",
+        "authorURL": "http://lh3.googleusercontent.com/-ie7HxvfXEv0/AAAAAAAAAAI/AAAAAAAAAZA/Igj2mfctSFc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ie7HxvfXEv0/AAAAAAAAAAI/AAAAAAAAAZA/Igj2mfctSFc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378221753716",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "This is my favorite widget app by alot. Love the style and so much customization. 5star",
+        "commentId": "gp:AOqpTOET23MwHflmFC40wnrnRXUI9uPkdzoTAW3iFRrSagM_UMKE1GlsR30i0tYr5Mpv7hdtxnHZNRVLg0ydua4",
+        "author": "Dane Moeckel",
+        "authorURL": "http://lh4.googleusercontent.com/-zm20-4GbgH0/AAAAAAAAAAI/AAAAAAAAAAA/kAY9Bdj49gQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zm20-4GbgH0/AAAAAAAAAAI/AAAAAAAAAAA/kAY9Bdj49gQ/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378107746297",
+        "starRating": "5",
+        "title": "KaBoom.",
+        "comment": "Data and functionality in a glance and a tap.",
+        "commentId": "gp:AOqpTOGxRp-h3zccuAvnO0ilcc1YoKDdbaC9aGknc46Y7fLuHxBPS7M9PZvLBGaPt10_DRWqTKg1I8O9W3HNok4",
+        "author": "Ken Sandoval",
+        "authorURL": "http://lh3.googleusercontent.com/-aqvOIk8hm6g/AAAAAAAAAAI/AAAAAAAABI8/-KNb_tcdPN8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-aqvOIk8hm6g/AAAAAAAAAAI/AAAAAAAABI8/-KNb_tcdPN8/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378310722654",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Good aap",
+        "commentId": "gp:AOqpTOGNFldSOMw-XGY9GG8ZrsTJwsOJV3ZlV35tH3u6JCHL36BqJKNntSmLmbTB2_b8UL8cpjtY8_I4X1En8o0",
+        "author": "Nitin Kulshrestha",
+        "authorURL": "http://lh5.googleusercontent.com/-zz5OsHKMvRI/AAAAAAAAAAI/AAAAAAAAAJ8/FnL5q_Lwk7g/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-zz5OsHKMvRI/AAAAAAAAAAI/AAAAAAAAAJ8/FnL5q_Lwk7g/photo.jpg"
+      },
+      {
+        "documentVersion": "0.6.2",
+        "timestampMsec": "1378148890178",
+        "starRating": "5",
+        "comment": "Fantastic !!!",
+        "commentId": "gp:AOqpTOFOl0f1XpuwVaTH33SO9894ay6-dcm1tsg4g1yz06FWvbMcEJjSGZf9rMOaUHg36S8S0FwoWj2lIiJ_H8o",
+        "author": "Vignesh AVN",
+        "authorURL": "http://lh6.googleusercontent.com/-V5kOeHmtIfo/AAAAAAAAAAI/AAAAAAAAAMs/hRfBNltZmCc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-V5kOeHmtIfo/AAAAAAAAAAI/AAAAAAAAAMs/hRfBNltZmCc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "de.devmil.minimaltext.permission.USE_DIRECT_CALL_ADDON",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CALENDAR",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

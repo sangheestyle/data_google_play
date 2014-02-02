@@ -1,0 +1,217 @@
+{
+  "title": "Jokespedia",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.anjokes.apps.jokes.en",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 29, 2013",
+  "version": "4.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "181",
+  "rating": "3.80663",
+  "contentRating": "Everyone",
+  "creator": "anjokes",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.anjokes.apps.jokes.en",
+  "extendedInfo": {
+    "installSize": "7.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Looking for Funny Jokes. Jokespedia has more than 13000 categorized Jokes and is growing every day.Become a community member, rate jokes and publish your own jokes. Your jokes will be rated by other community members and you can climb up the leaderboard.This version is a complete re-implementation based on the great user feedback that I get in the last 2 years.Here is a short list of the new Features:- Complete  new UI based on the Look-and-Feel of ICS. - Cleaned Jokes collection- Internet is only needed for the first start to load the jokes. - Every following start only loads new jokes that where published in the meantime if Internet available. The traffic consumption is limited to a minimum.- The application is community driven. You can publish your own jokes and vote jokes.- Inappropriate jokes can be reported- Add jokes to a favorites category- Get Point and and climb up on the leaderboard. 1 Point â Rate Joke, 2 Points â Rate Community Joke, 15 Points â Publish Joke, 30 Points- Your joke gets over 30 ratings and has a score better than 3.0- Jokes are sorted based on rating- Share jokes with Twitter, Mail, SMSâ¦Ads:This application is brought to you totally free with the help of search and ads monetization. I have opted to use this to be able to keep creating more free apps for you. Please note that with this app you will receive a few search points on your device, all are easily deleted or replaced. Thank you for your understanding.Categories: Animal, Bar Room, Blonde, Celebrity, College, Computer, Daily Life, Dirty, Dirty One Liners, Doctor, Knock Knock, Lawyer, Light Bulb, Little Johnny, One Liners, Political, Professionals, Relationships, Sports, Workplace",
+    "reviews": [
+      {
+        "timestampMsec": "1355726842527",
+        "starRating": "4",
+        "title": "Funny app!",
+        "comment": "Everything\\'s good but I wish it would let me get back on the joke I was on. I hate scrolling up to 75 to get to where I left off, other than that LOVE IT! best joke app out there",
+        "commentId": "gp:AOqpTOHZ9qSp3DloudE1XP-ta3Tmu5MaWUeB8Qi8ZNtJTwdmFr0owwWFVJ6j3Zh-mdjiTLKoFCyWIHLW636Avw",
+        "author": "Xena Winters",
+        "authorURL": "http://lh3.googleusercontent.com/-qt6gx-vU_r8/AAAAAAAAAAI/AAAAAAAAAD4/Yq7LwxD5fds/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-qt6gx-vU_r8/AAAAAAAAAAI/AAAAAAAAAD4/Yq7LwxD5fds/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350836958971",
+        "starRating": "4",
+        "title": "Samsung Y",
+        "comment": "app seems to work great. Would be better if people posted original jokes instead of repeats from another app. Needs more joke categories and commenting. Maybe even a picture profile where people can also give a description about themselves and have a following option to follow others to view only peoples jokes you find hilarious. And show the date the joke was posted.I\\'ll give it 5 stars if all this is done. I post original jokes.",
+        "commentId": "lg:AOqpTOFChuwpeAWZ0hP92ms9QsvjPkOXq5n78U877qYGXkr2AaV2G5neNnj_Kv_nixpDvB6wsysRjRHAYNSy8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357260624075",
+        "starRating": "5",
+        "title": "Jokespedia",
+        "comment": "I love this game",
+        "commentId": "gp:AOqpTOEbpt7rxJs91dHcbPiPQXLgvChznZrrdhUx6sQXorf3kXPuj2VMaM4Ib-o_W6ssmMdhHoDeXrZK5J2MlA",
+        "author": "Uri Bridges",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353942093983",
+        "starRating": "3",
+        "comment": "Pretty cool app",
+        "commentId": "lg:AOqpTOF5Oy7lvG3r1Hq1yG_rGdKKBcsy5AilCXuxNCxrvkJNhnWGTtcOeHmuJ8Y-cLTFNRIhKVOcIubOsKMung",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350448206746",
+        "starRating": "5",
+        "title": "Funny",
+        "comment": "Funny Jokes <3",
+        "commentId": "lg:AOqpTOFIkS7sFe13wH3XWkNhngofap1b2TmAxb_P4hg_r-1mlJLVgWDbY333zxY7eQC9CN1OgTfDWS_kOXB7Rg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302894048540",
+        "starRating": "4",
+        "comment": "Grow up! They\\'re better than most of the joke apps in the market. N if it was completely kid-friendly, it would SAY SO. Geez!",
+        "commentId": "lg:AOqpTOGAxEkFSbl8d6WEDDA1KpAbdT5AHBXVTTzB_XkPCSTiw1MAGV21GGTlHHrUWxrZF7kBTe7OyPt_E6D2IA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304231283325",
+        "starRating": "3",
+        "comment": "Ok....one issue is when we exit the app ,we have to start to read all the jokes from starting...",
+        "commentId": "lg:AOqpTOE6suKl2P0MYkoYCo2PnDYEi9j_35FIzAfNBwDSDQ6Ysi2UltfLtSoahQf8wzdsMnnB4zU-MwIXUY3LQA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304864401953",
+        "starRating": "1",
+        "comment": "Why insist on registration, pest app, why tag kids jokes? Inappropriate",
+        "commentId": "lg:AOqpTOGLjE4VPjNh78fpOc1--7Hz3O-Abz-6FSfoU73GFpUS8pf9f6Z_DmlShGeou1oh4MCCmeCruNdQBWTDLg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304459660218",
+        "starRating": "1",
+        "comment": "I couldn\\'t even read it. It was in like cyphers ATRIX",
+        "commentId": "lg:AOqpTOHecKhG51NR_S0d_aUJ8Nh_T7pg7l2AUGWlxagvcBSrayaIibpJvZdzO6rLbwE5fyJ8N_hu3n-bYJVvjA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302540404215",
+        "starRating": "1",
+        "comment": "rubish",
+        "commentId": "lg:AOqpTOEUllR5U1hVsz_BjIv81PAq1R88ZgVMXR-8RhwcPq3aowE9tNGDriVr2XGmZI2w0aadxa6Ov3DugsQwKg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304390415313",
+        "starRating": "5",
+        "comment": "Aweeeeeeessssooome l luv it",
+        "commentId": "lg:AOqpTOHcou-LfSKK7GQjPE1jM-creLohp72Mgro-uPEmywvaM24EOn1m-0__QcujUyUV0hv5S0I8nmEPGYRuWA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304712132430",
+        "starRating": "2",
+        "comment": "Wtf is Santa banta",
+        "commentId": "lg:AOqpTOEm5v2X_SNT2hsNCEx48Ccb_w7upPrmoGIvo3bW_y7NDZT5b8XGtClkaYuwkrnkbeuuFst5qPCzVrURgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301518057307",
+        "starRating": "5",
+        "comment": "it has some bad words like secx qnd comdom my little girl shes 5 and she went on this we said that it was funny jokes not 4,5 yr olds maby me im 23..",
+        "commentId": "lg:AOqpTOFVlPQdXZYNgI-J6UEdA5Wrlsf6audZpMGRQ5Tuer9jCRlbCI3NwbTey0SgpJozIkxSx7GnB0fusiqudw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299172314326",
+        "starRating": "1",
+        "comment": "Everything neg about this app...NOT even worth 1 star, uninstalled...HTC Inspire",
+        "commentId": "lg:AOqpTOG96_B8MVaPhf8o6q8OWdqXczQOEZT-8uhJyrho2q36wjgOdbdTDu1VW1kyCmQ41MYt5koo4z8aN78bNw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300630071747",
+        "starRating": "5",
+        "comment": "Best jokes app everv",
+        "commentId": "lg:AOqpTOHPGgV4KVPmNJ7T-62XM66NBJs8XnNRPFqGKS3ed8VGisdAWcWzzjhk1P-8Kq1_SZJHrp8EHdo6KHBoaQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300674911658",
+        "starRating": "5",
+        "comment": "Hilarious! Best joke app",
+        "commentId": "lg:AOqpTOHQh2VI53YqTXkwZ9uKDA07lgc5ivbOuMo8K9AR9ZAGTFEt2pMkpcngpi6U5YqRzciCUVzFf4xBbieQBw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297836597429",
+        "starRating": "5",
+        "comment": "I have dwnloaded a lot of joke apps. This is by far the best",
+        "commentId": "lg:AOqpTOFldmUNEcsDHUBjXE9C542DLm35CEp7xJPN_UfBUpfYkA5IGr-2N0oD0_0nehSoblCXJ4JcO79OJCNBhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299568292735",
+        "starRating": "4",
+        "comment": "They have some real funny dirty jokes.I like this app.lol",
+        "commentId": "lg:AOqpTOEMYKn91zSoJ8g4m9CLMciJQPheW7T1pHpjwzX3mVugd_AtYWUEyumr1nEFFrWmliIAzKxLV2Ffl86w6A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1297530000315",
+        "starRating": "5",
+        "comment": "Some jokes r funny, not so funny, & hilarious",
+        "commentId": "lg:AOqpTOHjxZmmoaq54gE1sckxXcTtF7TYpJukAvHtBprsGDyxlexIR_GNjxfIBYJChQiWw79lvQVqLJYHk1r8eQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1299944873825",
+        "starRating": "1",
+        "comment": "Cant be used on moto charm",
+        "commentId": "lg:AOqpTOGvmLorUy4XZIABJivY3HgAGdsVV1JRd6tSa5TtIh26T6LCjo6NDGO6_iaewjPbwlL83zEGQ3IiypdPLQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.teslacoilsw.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.WRITE_SETTINGS",
+      "com.motorola.launcher.permission.WRITE_SETTINGS",
+      "com.motorola.dlauncher.permission.WRITE_SETTINGS",
+      "com.lge.launcher.permission.WRITE_SETTINGS",
+      "com.fede.launcher.permission.WRITE_SETTINGS",
+      "org.adw.launcher.permission.WRITE_SETTINGS",
+      "com.teslacoilsw.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.WRITE_SETTINGS"
+    ]
+  }
+}

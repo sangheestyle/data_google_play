@@ -1,0 +1,53 @@
+{
+  "title": "ICC T20 WC 2012 Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.iccwct202012.iccworldt202012",
+  "category": "Sports Games",
+  "price": "Free",
+  "datePublished": "May 23, 2013",
+  "version": "0.0.18",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "Reliance Big Entertainment (UK) Private Limited",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.iccwct202012.iccworldt202012",
+  "extendedInfo": {
+    "installSize": "6.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "THE OFFICIAL WORLD CUP T20 GAME FOR YOUR MOBILEExperience the game in different modes!T20 WORLD CUP 2012 MODEBe a part of a world class series with the all enthralling Tournament Mode - Experience the passion, walk down the pitch to a billion cheers and play the larger than life ICC World Twenty20 2012.  All the official ICC World Twenty20 2012 Sri Lanka 12 teams available and all matches are scheduled according to the ICC schedule for World Cup 2012 Sri Lanka.CHALLENGE MODETake on new tests in Challenge Mode - Play and guide your team to victory while batting or bowling through 20 grueling rounds of intense cricketing action. Unlock each challenge by testing your skills in batting or bowling. QUICK MATCH MODEPlay it fast in Quick Match Mode - Select your favorite team and play against opponents who are fighting for the title.HIGHLIGHTS-\tChoose from 12 official teams-\tPlay in Auto and manual batting modes-\tWatch Cheerleaders dance to your shots and wickets-\tSimple touch controls to bat and bowl-\tTutorial section included teaching step by step batting and bowling controls of the gameBe the one for whom a nation cheers!Download now to live the experience!This game will work on screen sizes 240x320, 320x480, 480x800, 480x854, 540x960, 800x1280",
+    "reviews": [
+      {
+        "documentVersion": "0.0.18",
+        "timestampMsec": "1361457825385",
+        "starRating": "1",
+        "comment": "Pkav ! Does not download on my Ericsson .",
+        "commentId": "lg:AOqpTOEjTEUDHTsWlCyUSkNgMFI94csBvV8EHZlrzUpDRAsLlugCPdnnqg-7LUFvcLEr7lgZIqx11q2Cd0ULVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.0.18",
+        "timestampMsec": "1367284929314",
+        "starRating": "5",
+        "comment": "Very nic",
+        "commentId": "lg:AOqpTOGFDIKOqzxZ73aJ78o8HXIScjm9XIGpX24Um9oRMq2rkZwa_Zfc4Mdj-JINm3Fy8kl5ZDxKIHuGAE-9_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SEND_SMS",
+      "android.permission.RESTART_PACKAGES",
+      "com.android.vending.BILLING",
+      ".FlexionActivity$GooglePlayBillingService",
+      ".FlexionActivity$GooglePlayBillingReceiver",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

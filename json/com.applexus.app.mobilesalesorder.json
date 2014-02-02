@@ -1,0 +1,29 @@
+{
+  "title": "SalesOnGo",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.applexus.app.mobilesalesorder",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "2.1",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "AppLexus Technologies",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.applexus.app.mobilesalesorder",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "With so much of business done on-the-go and salespeople living and working across the globe, itâs only natural that the future of sales management technology lies in sales personsâ pockets. Management of sales order is critical to the successful, profitable handling of the customers of any organisation.Designed to accelerate the simplification and usability of SAP Mobile Sales Order Management, Applexus has devised SalesOnGo with features that include the best practices, versatile usability and utmost flexibility. SalesOnGo processes the downloading pre-requisites of sales orders from SAP server into Mobile database for both online & offline Sales Order processing. Sales orders created by a sales person can be searched with multiple parameters. SalesOnGo also helps send delivery confirmation to Sold-to-Parties with multiple delivery dates. SalesOnGo helps the sales person verify the availability of stock for any given date while on the move.As the SalesOnGo works in thick and thin client, material and customer information can be accessed both online and offline. SalesOnGo is built-in with instant communication mechanism with the Sold-to Party through both SMS and Email.YOUR BENEFITS:1. The only solution that supports smartphone and tablets (iPad, iPhone and Android devices)2. Extending the reach of your ERP system beyond the office premises3. Increases sales, customer satisfaction and sales force efficiency5. Sales team can enter orders from anywhere and at any time, with multiple authentication processes6. Ability to interface with any ERP systemNow avail of this all-in-one product on your mobile phone and make your organisation agile.REQUIREMENTS:-1. SAP R/3 Server2. SalesOnGo Service Package installed in R/3 ServerContact our Applexus Support Team for more details regarding SalesOnGo Service Package",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

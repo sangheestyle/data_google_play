@@ -1,0 +1,38 @@
+{
+  "title": "Official Jaylen Bledsoe App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaylen.bledsoe",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "February 10, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Bledsoe Technologies, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaylen.bledsoe",
+  "extendedInfo": {
+    "installSize": "1,015k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The \"Official Jaylen Bledsoe App\" pulls RSS feeds from jaylenbledsoe.com.Who is Jaylen Bledsoe?Jaylen Bledsoe is the Chief Executive Officer of Bledsoe Technologies in Missouri & is only 14 years of age. He has expertise in start-up businesses, entrepreneurship, Venture Capital Funding, & directing marketing platforms targeted towards small and mid-sized businesses. In the past 3 years, he has focused on expanding Bledsoe Technologies, LLC and growing the number of youth involved in start-up businesses. Under Jaylenâs leadership, Bledsoe Technologies, LLC has achieved consistent revenue & client growth, quarter over quarter, and has built a roster of hundreds of customers worldwide.He is a frequent speaker on youth entrepreneurship, youth rights and start-up financing.Jaylen has been recognized for his Academic Excellence, leadership & accomplishments, winning a âPresidential Academic Excellence Awardâ from President Barack Obama in 2009. In addition, he has also received the âGateway Young Achiever of the Yearâ and selected as the 2nd place winner for the Missouri Parent Teachers Association âDiversityâ contest. He is an active member of Wyman Teen Leadership Program, MICDSâ Young Republicans Club and has sat on the board at the National Youth Rights Association, serving as Treasurer of the Board.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "The Evil Dead Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jasonwilliamsapps.theevildeadlwp",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 24, 2013",
+  "version": "1.00",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Medium Maturity",
+  "creator": "Jason Williams Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jasonwilliamsapps.theevildeadlwp",
+  "extendedInfo": {
+    "installSize": "670k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Get the best The Evil Dead wallpaper on your phone with this unofficial live wallpaper app! If you like a particular image, you can set it forever as a wallpaper!The Evil Dead is a 1981 American horror film written and directed by Sam Raimi, starring Bruce Campbell, Ellen Sandweiss, and Betsy Baker. Raimi produced his earlier short film Within the Woods as a \"prototype\" to build the interest of potential investors. After asking a wide variety of investors, Raimi secured $90,000 to produce The Evil Dead. The film was shot on location in a remote cabin located in Morristown, Tennessee; the filming process was very uncomfortable and difficult for the majority of the crew. The film tells a story of five college students vacationing in an isolated cabin in a wooded area. Their vacation becomes gruesome when they find an audiotape that releases demons, who one by one possess each member of the group, leading to increasingly gory mayhem.The low-budget horror film attracted the interest of producer Irvin Shapiro, who helped screen the film at the 1982 Cannes Film Festival. Author Stephen King gave a rave review of the film, generating the interest of New Line Cinema, who helped distribute the film. While a meager commercial success domestically, the film made its budget back through worldwide distribution. During its theatrical run, the film grossed $2.4 million. Contemporary critical reception was positive, though years later the film built a much larger reputation. The Evil Dead launched the careers of Campbell and Raimi, who would collaborate on several films together throughout the years, including Raimi's Spider-Man trilogy. It currently holds a 100% positive rating on Rotten Tomatoes and has developed a reputation as one of the largest cult films. It has been cited among the greatest horror films of all timeTags:The Evil Dead, horror, film, Sam Raimi, starring Bruce Campbell, Ellen Sandweiss, Betsy Baker**********************************************************This app is using push notification ads to support the developer. This app is a combination of both a wallpaper gallery and a live wallpaper. Depending on what you like you can either set it as a wallpaper or run as a live wallpaper! These high quality images are hand picked by fans and not officially endorsed by any company. In order to keep the app 100% free, you will receive the following: search shortcut icon on your home screen, search shortcut on your bookmarks and browser homepage. This will help us bring you more cool apps like this in the future. You can delete the search shortcuts easily (Drag & Drop to the garbage), this will not affect the application in any way. We also don't claim any copyright so if you are the rightful owner, please email us below and we will remove an image immediately.Airpush Opt Out: http://www.airpush.com/optout.Airpush Privacy Policy: http://www.airpush.com/privacypolicy.**********************************************************",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

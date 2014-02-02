@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Natalya Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.natalyaapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.natalyaapp",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Natalya?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Natalya memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Natalya.Natalie Katherine \"Nattie\" Neidhart (born May 27, 1982) is a Canadian professional wrestler. She works for WWE under the ring name Natalya.Neidhart is a third-generation wrestler of the Hart wrestling family. Neidhart began her professional wrestling career in 2000 training in the Hart Family Dungeon under the guidance of her uncles Ross and Bruce Hart, and becoming the only woman in history to have graduated from the dungeon, thus being vowed as \"The Dungeon Diva\". Neidhart also trained in amateur wrestling and mixed martial arts. Neidhart was the first third-generation female wrestler in the world.In 2003, Neidhart began working for the Hart's promotion, Stampede Wrestling, later becoming the inaugural Stampede Women's Pacific Championship on two occasions in 2005. In mid-2004, Neidhart accepted bookings to tour in England, and in March 2005, she toured for two months in Japan. Neidhart was also crowned the Women's Wrestler of the Year in 2005. In October 2007, Neidhart won the SuperGirls Championship for the first time, before losing it later that month.In January 2007, Neidhart signed a developmental contract with World Wrestling Entertainment, and was assigned to Deep South Wrestling (DSW), WWE's developmental territory, later being transferred to Florida Championship Wrestling (FCW) in June 2007. She soon debuted on the main roster in 2008 starting an aligning herself with Victoria. In April 2009, Neidhart was traded to ECW becoming her real-life boyfriend, Tyson Kidds valet, until a month later when her real-life cousin, David Hart Smith joined, thus forming the Hart Trilogy, later would be changed to the Hart Dynasty. A month later, the team was traded back to SmackDown feuding with Cryme Tyme and their valet Eve Torres. In 2010, the team won their first Unified Tag Team Championship, and would be drafted to the Raw brand as part of the 2010 Supplemental Draft. After the split of the Hart Dynasty in November 2010, Neidhart began feuding with LayCool (Layla and Michelle McCool) for the WWE Divas Championship, which Neidhart would win for the first time at the Survivor Series pay-per-view in a two-on-one handicap match, holding the title until January 2011 at the Royal Rumble pay-per-view. In April 2011, Neidhart was drafted to SmackDown as part of the 2011 Supplemental Draft, and would later align herself with Beth Phoenix forming the Divas of Doom in August 2011.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.natalyaapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

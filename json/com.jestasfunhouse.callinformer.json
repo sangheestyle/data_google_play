@@ -1,0 +1,237 @@
+{
+  "title": "Call Informer (caller ID)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jestasfunhouse.callinformer",
+  "category": "Business",
+  "price": "$0.99",
+  "datePublished": "August 15, 2013",
+  "version": "1.7.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "345",
+  "rating": "3.9942029",
+  "contentRating": "Everyone",
+  "creator": "Jesta's Funhouse",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jestasfunhouse.callinformer",
+  "extendedInfo": {
+    "installSize": "308k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Call Informer is a caller ID enhancement that shows an overlay with additional contact details on the Android incoming and (optionally) outgoing call screens.!!! HTC Sensation owners!!!Please see notice at the end of this description.NEW: Try the new *free* demo version first to see if the app works with your phone!!!Call Informer can show:â Name (with Prefix on Android 2.0+)â Nickname (Android 2.0+)â Number and Number Type (Home, Mobile...)â Companyâ Job Titleâ Email address/Domain (NEW)â City, Stateâ â Countryâ â Group association (NEW)â Notes fieldâ Note: Android versions below 2.0 don't separate the address fields, so the entire Address field is displayed on older Android versions.Call Informer differs from apps like Caller ID by Whitepages and Mr. Number Caller ID. These apps look for the information on the Internet, while Call Informer shows you the information you have already saved in your contacts. This means Call Informer will work on CDMA phones when the other apps can't. It also means Call Informer is more limited than these types of apps. Call Informer should work *with* these apps, so you can continue to use them.No Internet connection is needed for Call Informer! The extra information is read from your address book. Call Informer does not try to find this information--you need to manually update your contacts for the details to show on your call screens.FEATURES:â Show in a solid or transparent boxâ Change the background color (COMING SOON)â Set the font color and sizeâ Optionally tap caller details to open Contact entry (new)â Optionally tap to hide/show caller detailsâ Reposition the display to suit your phone (with preview)â Optionally show on outgoing callsâ Show during conversation, or hide when answeredâ Designed to be small and efficientâ Call Informer Preferences app in app drawer will allow you to report any Force Closes you have had; also allows you to send me a Debug Log in the event of a problemREQUIREMENTS:â Must subscribe to your cellular carrier's Caller ID service. Without this, Call Informer will be unable to determine who is calling you! Most US carriers include this automatically, users in other countries should check your cellular plan. BOTTOM LINE: If your calls come in as \"UNKNOWN\" instead of a phone number, Call Informer WILL NOT work for you (Thanks @joey)â HTC SENSE: Call Informer may overlap your existing Incoming Call screen info; I am working on some workarounds for this. For now I recommend turning on the solid background option, and use the Vertical Position preference screen to adjust the display for the best fit. If you disable tapping, you can still interact with whatever is behind Call Informer--it is just a visual overlap.TIPS:â NO DISPLAY: If you don't see Call Informer at all after installing it, please power your phone down and back up. There have been some issues regarding certain devices (most often HTC) which don't want to allow the Call Informer service to start. Rebooting has been reported to fix this for some users. Also, try using the Screen Position preference to readjust the details box to fit in the screen boundaries.â HTC Sensation owners: Call Informer has been reported not to work when your screen is locked. I am trying to find the solution for this problem. For now, if you own this phone I recommend waiting to purchase Call Informer. Note that this my affect other HTC phones with newer versions of Sense as well. Thanks for your patience!",
+    "reviews": [
+      {
+        "documentVersion": "1.7.0",
+        "timestampMsec": "1377091077334",
+        "starRating": "1",
+        "title": "Call Informer",
+        "comment": "I have installed this app after purchasing the same but not showing the organisation name either while receiving or making any calls. Though I have selected all the required options in the preferences, and even after restarting my phone, reinstalling the app - it is still not functioning. Please can someone help me make this work or how do I apply for refund? Thanks",
+        "commentId": "gp:AOqpTOGZZ-qeh6CRnlUW12e7Md3xptRoNv0oH8TVvTGgZCUS17WGomev-DVFlkLWpVguQ4zhL3Avv6ZU-f4UVg",
+        "author": "Karthikeyan S",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.0",
+        "timestampMsec": "1369375662969",
+        "starRating": "5",
+        "title": "I totally dig this app",
+        "comment": "It just works. Very cool.",
+        "commentId": "gp:AOqpTOEYr-aVC4JDVjEZ6b1_ml59X0E2DHnII2BnB7Iv3KjQrWQISiudi4bJnIoBWG96N2sCSTvFrpPYVjyqlw",
+        "author": "Clyde Clark",
+        "authorURL": "http://lh4.googleusercontent.com/-rbXc3-q2YEc/AAAAAAAAAAI/AAAAAAAAAAA/_nHCBLqQ9rc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-rbXc3-q2YEc/AAAAAAAAAAI/AAAAAAAAAAA/_nHCBLqQ9rc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.0",
+        "timestampMsec": "1368078147728",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Great app",
+        "commentId": "gp:AOqpTOFyOrG5lAQCYp7_EVVpYWXE_FtBlgWXcHvAamUsDGdQr8s-E1kGzx6jxrK0ZY6HodCQI_tNNezAQSy0gQ",
+        "author": "\\320\\220\\320\\273\\320\\265\\320\\272\\321\\201\\320\\265\\320\\271 \\320\\237\\320\\260\\321\\201\\321\\202\\321\\203\\321\\205\\320\\276\\320\\262",
+        "authorURL": "http://lh5.googleusercontent.com/-jcbeQRQ2B0I/AAAAAAAAAAI/AAAAAAAAGWY/sN0EotDn0-Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-jcbeQRQ2B0I/AAAAAAAAAAI/AAAAAAAAGWY/sN0EotDn0-Q/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1364629347446",
+        "starRating": "4",
+        "title": "fix request",
+        "comment": "very nice app I was looking for so long. 4 stars because of one bug - it doesn\\'t show info of another caller while talking already. It just remains the same. Sure, I can set click-to-hide option and see native android info, but in this case i\\'m loosing click-to-open-contact feature. Could it be fixed? thanks",
+        "commentId": "gp:AOqpTOEBiTQiJrWqxQHygq5nITqBFt8eGQKQtafLRoE10B50Bg2AfxkDZNioAWVrB-_ts_FVuiPkYgYUgoeB6w",
+        "author": "Doran Usher",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1348007238440",
+        "starRating": "1",
+        "title": "Samsung Galaxy S2",
+        "comment": "Just installed this App thought it would give me details of incoming calls but it only shows the details which we already have in our phone book so it is not caller ID apps but simple app to help you see more details on the screen which default android in-built software does not show.",
+        "commentId": "lg:AOqpTOG2WCI9HCxh-IFPH2q5CoTKe5LvonkK80REKRnSrvkVE7d1vtgyv3PcMAI8_jpt3R5uVFO0h4hfZXHJyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1348337691781",
+        "starRating": "4",
+        "title": "Gives me legible caller ID",
+        "comment": "I got this so I can read the caller ID on incoming calls mainly when driving. (The phone is in a holder). All the other \\\"large caller ID\\\" apps only show large pictures, but I don\\'t have pics of all my clients (how weird would it be to take photos of them?). Call informer has resizable fonts.   My request is for the app to show the raw incoming caller ID info if the caller is not in the contact list. I\\'m guessing the app has this info as that is what it uses to lookup in the contact list.   Good work!",
+        "commentId": "lg:AOqpTOFxYikLQgV_zQkVJZGlGuymPfV7p41RiD16XgwoZef7kGU17B-qo8VsOBvcU7ZlPx3mZb2OI5X8F-B_5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1356911322372",
+        "starRating": "4",
+        "title": "Worked on Xperia Arc S, does not on Xperia P",
+        "comment": "I really enjoyed the app on my Xperia Arc S - really helpful. But now, it does not work on my Xperia P (running on 4.0.4).  It would really be great if this app was updated...",
+        "commentId": "gp:AOqpTOGgZx9IX3Vs5dz5ZmWqgSF1mrKgKnVkogjOJIFuAj36XhPo6--kTNeIEakjfByslSMxW0KFB7UIEyhOmg",
+        "author": "Miguel Costa",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1358448982465",
+        "starRating": "5",
+        "title": "Perfect for business",
+        "comment": "In my line of work, it\\'s often more important to know the address than the caller\\'s name. This app allows me to see who\\'s calling, where they live, and any notes I have about them. I can also keep that information on the screen for the duration of the call in case I need to refer to it later in the call. PERFECT for my needs. I think most people in a service industry would find this potentially very useful.",
+        "commentId": "gp:AOqpTOFZ_OSLwE_G_iC-xDoy0Oov6ybfcK6vBWGD2KbFPMmUY2-cihPDDdMkkzc4OOQbIbxxD3C4HFdjDe_OHA",
+        "author": "David Muir",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1358654207934",
+        "starRating": "1",
+        "title": "Epic 4g touch",
+        "comment": "Useless!!!! The app does not display city or state. It only displays the name and phone number.",
+        "commentId": "gp:AOqpTOHz0Ti-MfInVXXx2GyxdWkLnowgWlS6n41uKl834-gC120Qx6zuNNoX6ox2yxSXBX3IHobVyNwz3TvAYw",
+        "author": "Angie Buck",
+        "authorURL": "http://lh4.googleusercontent.com/-1h6xEVFhyTY/AAAAAAAAAAI/AAAAAAAACJk/zktUdfZKIUs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1h6xEVFhyTY/AAAAAAAAAAI/AAAAAAAACJk/zktUdfZKIUs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1341166965253",
+        "starRating": "2",
+        "title": "Does not make unknown caller font larger.",
+        "comment": "Works great for current contacts.  Make the app work for incoming calls from unknown callers... I still have to get my glasses for incoming calls.  The font is too small.",
+        "commentId": "lg:AOqpTOEQ9BchpvQ3Q9Q3SYFHk3nx1BNpEdMZa_sZOwtWDqNrVnq4WRILZLhQOlQz4yyCBXfjucFZmT079J1WtA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1351912826827",
+        "starRating": "5",
+        "title": "Worked perfectly well for my simple needs.",
+        "comment": "I recently decided to join my phone contacts with google contacts to have one unified list. The problem is that I needed the phone to show me what phone type was calling (this should be an Android option). This app allowed me to do that. Deserves my 5 stars for that.",
+        "commentId": "lg:AOqpTOHQ4bX43DvU_-MApHx-16RXyWXR9y3Jn6n9aRtU062GmTE3RdIngJo_w1XxFMmAGm6oGVRt8A5PG20XIA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1340893877610",
+        "starRating": "1",
+        "title": "Crap",
+        "comment": "Dosent work unless i already have caller id from rogers activated",
+        "commentId": "lg:AOqpTOEuHkkC2bJ3He5O-hCh_ZFTdcvq3cuVI_60eHvWDBsy8gFGQj5VVuKMXYM3WieCg31fuMG8qjHGajN_kw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1345105669680",
+        "starRating": "1",
+        "title": "LG thrill",
+        "comment": "This app doesn\\'t work on the LG",
+        "commentId": "lg:AOqpTOENbtgHTqrxzkadiKPD8C6sS4ZPZGX74DNq3GQn-9WixWwzwcavm8eDsECCAn4LLUIpZVO9EGRm1-PIdw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1344821688628",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "Fixes androids deficient caller id display by providing additional contact info. Have been looking for this for months.",
+        "commentId": "lg:AOqpTOE3ZsI_UFHdRSM5DSjL3YyEfq6vgRVjdF5p5P9-XhtI_oags_EB2xv3RyCh7pfZGUkUjYtk0ah6SVk1vw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1338820829205",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "It is exactly what i need for long time. Thanx.",
+        "commentId": "lg:AOqpTOF6jXouvGZ0APDEfddA0gdzcdGMoF_Per6NzcUedJmmtHDc87LQXeRbsd2o6Yld66D-pUPlJrZURqjRUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1358229482097",
+        "starRating": "4",
+        "title": "Cool One",
+        "comment": "Really a good application.",
+        "commentId": "gp:AOqpTOHfl-FA144lU_MTNguBYEV20qCiRcBKH0VkU-gnsiVhgBukIoeC469GLWizIdDxMowhX7gkAhRI8ZA6SA",
+        "author": "Mohamed Refaat Abo Elfotouh",
+        "authorURL": "http://lh6.googleusercontent.com/-16TExwX12mg/AAAAAAAAAAI/AAAAAAAAAk8/VfF2u186kO0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-16TExwX12mg/AAAAAAAAAAI/AAAAAAAAAk8/VfF2u186kO0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1340982461981",
+        "starRating": "1",
+        "title": "Trash",
+        "comment": "Does not work",
+        "commentId": "lg:AOqpTOE88GVmjvCBFPJWbHi0R565VYNOKdyYPggMsKWBtvu752bVMloHZCIOcOwT_wMhnQGibq-6w6ne_FIyLA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.3",
+        "timestampMsec": "1346835864329",
+        "starRating": "5",
+        "comment": "Brilliant",
+        "commentId": "lg:AOqpTOFwikOXiU9q9JJQsJMQOVzXhYM4TiJRLfhRX5X1_Mh3FybBt0AzG5DmFNmpNdUmugyS1Pt4M2-QGIw9ZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1335860729962",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Not about who phone allready does that but about from which company when you have 3 paul smiths in your contact list",
+        "commentId": "lg:AOqpTOFaXGXUo1W0dI5BUqanVfzGAvf0RcWDeEkRMGIhs2Ue6fugryxBpBLT-V1mM-nDq43IlFilk1A4YqtIgg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1337009881752",
+        "starRating": "4",
+        "title": "Nice app",
+        "comment": "What happened to latest update? Wasn\\'t uploaded to market",
+        "commentId": "lg:AOqpTOGUSZVApYyr7-NUNvmAdCovCXEsZIMf7R9W3Unh9tOUIR0j9if4HL-_QdkCREMPS9ZSJH7-UNpbPv40eQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

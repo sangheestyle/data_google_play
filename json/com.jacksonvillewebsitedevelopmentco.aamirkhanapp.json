@@ -1,0 +1,41 @@
+{
+  "title": "Fun Aamir Khan Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.aamirkhanapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.aamirkhanapp",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Aamir Khan?  If so download this app to play fun games that will help you pass the time with Aamir as the star of all of them.  Aamir Khan (pronounced ['a?m?r 'xa?n]) (born:Aamir Hussain Khan on 14 March 1965)[citation needed] is an Indian film actor, director, and producer who has established himself as one of the leading actors of Hindi cinema (commonly referred to as \"Bollywood\").Starting his career as a child actor in his uncle Nasir Hussain's film Yaadon Ki Baaraat (1973), Khan began his professional career eleven years later with Holi (1984) and had his first commercial success with Qayamat Se Qayamat Tak (1988). He received his first National Film Award as a Special Jury Award for his roles in the films Qayamat Se Qayamat Tak (1988) and Raakh (1989). After eight previous nominations during the 1980s and 1990s, Khan received his first Filmfare Award for Best Actor for his performance in the major grosser Raja Hindustani (1996) and later earned his second Best Actor award for his performance in the Academy Award-nominated Lagaan, which also marked the debut of his own production company.Following a four-year break from acting, Khan made his comeback playing the title role in the historical drama Mangal Pandey: The Rising (2005), and later won a Filmfare Critics Award for Best Actor for his role in Rang De Basanti (2006). The following year, he made his directorial debut with Taare Zameen Par, for which he received the Filmfare Award for Best Director. This was followed by the thriller Ghajini (2008), which became the highest grossing film of that year, and the comedy 3 Idiots (2009), which became the highest-grossing Bollywood film of all-time.On 30 November 2011, Khan was appointed as national brand ambassador of UNICEF to promote child nutrition. He is part of the government organised IEC campaign to raise awareness about malnutrition.The Government of India honoured him with the Padma Shri in 2003 and the Padma Bhushan in 2010 for his contributions towards the arts. In April 2013, he was among TIME magazine's 100 Most Influential People in the World List.",
+    "reviews": [
+      {
+        "timestampMsec": "1377683580706",
+        "starRating": "1",
+        "title": "Very bed games",
+        "comment": "This game is can not be work in my phone galaxy ace",
+        "commentId": "gp:AOqpTOE3CEnkNU-dRq--pjGNDpcIrnltLI1RLHX-2GGuACOVG8RxxPfBBIX6beDb_r0FHxvGz6Dp82mkz_e4N_I",
+        "author": "Dinesh Patel",
+        "authorURL": "http://lh3.googleusercontent.com/-wQWCAGsTPMY/AAAAAAAAAAI/AAAAAAAAADY/siXhum6drCY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wQWCAGsTPMY/AAAAAAAAAAI/AAAAAAAAADY/siXhum6drCY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.aamirkhanapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

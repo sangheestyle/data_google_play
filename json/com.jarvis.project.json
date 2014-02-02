@@ -1,0 +1,73 @@
+{
+  "title": "Jarvis Project (like Siri)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jarvis.project",
+  "category": "Tools",
+  "price": "$0.99",
+  "datePublished": "June 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 - 4.2",
+  "ratingsCount": "5",
+  "rating": "3.2",
+  "contentRating": "Low Maturity",
+  "creator": "ITGeek25",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jarvis.project",
+  "extendedInfo": {
+    "installSize": "685k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "AD FREE!Android Virtual Personal AssistantAndroid Siri AlternativeRecognizes a variety of useful commands as well as some for just messing around.Now he can read and notify you of new SMS messages. Who sent it and the contents.View list of some of the commands by saying \"show commands\"Here are a few:Say \"get my iTunes\" and you will be able to get music from your computer (Window 7 users as of now) to JarvisSay \"navigate to ...\" and it will pull up the navigation with and start routing your tripUpdated the \"where is ...\"Now when you say \"where is ...\", the map will pull up and go to the address of the location and will tell you a little bit about it if it finds it in the database.Ex. \"where is the white house\"Create a shopping listSay \"create shopping list\"Can do math calcluationSay \"start calculator\"Can search for something on the internetSay \"open browser\", then he will ask you what you are looking forcan open apps installed on your phoneSay \"open application\", then he will ask you which onecan show you your location on a mapSay \"where am i\"Tell you the timeSay \"what time is it\"Tell you the dateSay \"what is todays date\"change wallpaper on your phone from a picture on your sdcardSay \"change wallpaper\"change ringtone on your phoneSay \"change ringtone\"translatorSay \"translate ... into ...\"Playing songs from SDCARD.say \"play song ...(song title)\"orsay \"play song by ...(artist name)\"And many more.--Testing--Jarvis will find if you are at work or at home.Say \"set work location\" or \"set home location\"If you are at work, Jarvis will turn the phone to silentIf you are home, Jarvis will turn the volume back to normalTell me how this works out for you. I can update and tweak.If you would like him to do something for you, please email me and ask. Please enter Jarvis Project in your subject.Sources from Wikipedia, Google, Bing, and Wolfram Alpha.Enjoy",
+    "reviews": [
+      {
+        "timestampMsec": "1366471019903",
+        "starRating": "4",
+        "title": "Pretty cool app",
+        "comment": "I like it, i thinks its really cool",
+        "commentId": "gp:AOqpTOEEPKAFadmXqCKzZFgPrdH5Kfh8zy0_hyo8Ny9OxK22WtcA5qP2qwja8u-5JgoYQvU3vaL1XurSZjWYqA",
+        "author": "Rio Naud",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378870278266",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "This app didnt work very well and often times when i gave a command jarvis would respond \\\"still thinking\\\"",
+        "commentId": "gp:AOqpTOGcJ-tiF6iBxaixBw-fgG-NZP6oaMFJtYFF4KNiDq0WUn58pgK-isHeLErrckPPCzUW-oKZsn6N6DI44A",
+        "author": "Ginger Man",
+        "authorURL": "http://lh4.googleusercontent.com/-ZclO0rh54x8/AAAAAAAAAAI/AAAAAAAAABQ/0LwBmFffZUY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ZclO0rh54x8/AAAAAAAAAAI/AAAAAAAAABQ/0LwBmFffZUY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369887129085",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "I think it is a very nice app, except it should be able to do more. As of right now it b basically does the exact same thing as using a speak to text for web searching. Would love it if it was a little more like seri",
+        "commentId": "gp:AOqpTOG2oE8O_P0FYDXqNlUNp96y6gMvZzKB4gURq4jpfgLU9CJkqP4mOTiAvZlqvUDg-s4cYNwCIQBRbEIYOQ",
+        "author": "Brandon Leflore",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PROFILE",
+      "android.permission.SEND_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

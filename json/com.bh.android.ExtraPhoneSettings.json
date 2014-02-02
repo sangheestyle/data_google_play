@@ -1,0 +1,223 @@
+{
+  "title": "Extra Phone Settings",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bh.android.ExtraPhoneSettings",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 9, 2013",
+  "version": "1.30",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "341",
+  "rating": "4.0234604",
+  "contentRating": "Low Maturity",
+  "creator": "BH_Lin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bh.android.ExtraPhoneSettings",
+  "extendedInfo": {
+    "installSize": "652k",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Provide Extra Phone Settings to end-users. Featuring:* Vibrate when outgoing call is connected.* Notify when system is ready* Notify when system is shutting down.* Notify when plug in the USB* Notify when battery is full.* Extra Phone Info.* reply phone call by using sms when the user is busy.ps: if there is any problem about this application, please send me the mail directly. And capture the bug report to me , Thanks.how to capture the bug report:download sub app to capture - https://docs.google.com/open?id=0B8pB4tPYL_eCUmw5Mjd0ZnQtYkEorhttp://goo.gl/KilJP     the app has been verified by sub devices.* Google Nexus One 2.3.XSupport Sub Devices:Google Nexus One with Android 2.3 - OKGoogle Nexus S with Android 2.3 - OKv1.26* Add feature - notify user if an application is installed.--* add new feature for dialing phone number when user copy a number string in browser app or others.   How to use:         selecte a string , then press the item \"share\" and select item \"Phone\" dial a phone call.v1.21* fix bugs for function \"VIbrate when outgoing call is connected\"* support Android 4.0 for function \"VIbrate when outgoing call is connected\"",
+    "reviews": [
+      {
+        "timestampMsec": "1377766393728",
+        "starRating": "1",
+        "title": "It does not vibrate when outgoing call is connected.",
+        "comment": "I\\'ve installed the app for that feature only but it does not have this capability nor there is a setting for that, although it is listed in the description. Fake.",
+        "commentId": "gp:AOqpTOHfDy1WczrjOmCqD2eVPgQjvCqMTBcJvfpsdnUuvsvpwWh6gRGVx63D9X97oQwyB4ib6U5F-fYp-aCE4w",
+        "author": "Atanas Dyulgerov",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368346294337",
+        "starRating": "1",
+        "title": "Not working!",
+        "comment": "It is not working on my andriod phone or is there something I am expected to do? ICE-Nig",
+        "commentId": "gp:AOqpTOEptEZpw8lMaPqsXkUG0FXnvRJ2xO4mlxe98hvK4n1fK9vL1qUsziTlDskJlOnIDvUDm0yu96JGAmjvjw",
+        "author": "Inntek Projects",
+        "authorURL": "http://lh4.googleusercontent.com/-KUHFOv236PA/AAAAAAAAAAI/AAAAAAAAAGA/p6nXaVO0Was/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KUHFOv236PA/AAAAAAAAAAI/AAAAAAAAAGA/p6nXaVO0Was/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369590500475",
+        "starRating": "2",
+        "title": "Vibrate on call connect option is not shown",
+        "comment": "Android 4.1",
+        "commentId": "gp:AOqpTOHVtjBN1ih_00uEzM6aTKbm4w-SVZ1WVMOpxhI3s17Kx0-ILkVOfhD4fEiog1EsK3hNcuGzUEwy7F6ITQ",
+        "author": "Rajesh A",
+        "authorURL": "http://lh3.googleusercontent.com/-G7v5j93ZuBM/AAAAAAAAAAI/AAAAAAAAAAA/uaZ5Gv2ieww/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-G7v5j93ZuBM/AAAAAAAAAAI/AAAAAAAAAAA/uaZ5Gv2ieww/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370725827922",
+        "starRating": "1",
+        "title": "Fake",
+        "comment": "In the description you say vibrate when outgoing call is connected and that\\'s fake even there is no options for that",
+        "commentId": "gp:AOqpTOFNFGtCCrgmlsHDa5ze9sqMMApQTpnVq42SlNpK32j78I-nm28Ri6Njz4VoyVdrj8MJfzC2auyk8oTOBA",
+        "author": "Ahmed Abdou",
+        "authorURL": "http://lh3.googleusercontent.com/-5rAl5jwMGik/AAAAAAAAAAI/AAAAAAAAACo/RHeIdCFvF_E/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-5rAl5jwMGik/AAAAAAAAAAI/AAAAAAAAACo/RHeIdCFvF_E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370183633847",
+        "starRating": "3",
+        "title": "do not work for jelly bean",
+        "comment": "pls check",
+        "commentId": "gp:AOqpTOHoDAUtdGEr75U5dVE4NL4XWB2uBZ6r4jHOuX_52nM5uR7f3xOKrFFnIl2EVVabkAEnaDoW4YiorrbvAQ",
+        "author": "Natthapakorn Chaiwannah",
+        "authorURL": "http://lh3.googleusercontent.com/-y8FR1Ft83ew/AAAAAAAAAAI/AAAAAAAABRU/KeAb-_M0HDE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-y8FR1Ft83ew/AAAAAAAAAAI/AAAAAAAABRU/KeAb-_M0HDE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366274724283",
+        "starRating": "4",
+        "title": "So  good",
+        "comment": "I like it  so much",
+        "commentId": "gp:AOqpTOFjghVxkqSkBCwexkDNLDFyfzYLzlbKif-O8D7Ow-Kdb0qvw59ZKCSNVwE35_313ll5h5lbyOvRrE1AHw",
+        "author": "Zayarlin Htun",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365008801143",
+        "starRating": "4",
+        "title": "Hi",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOF9IDeQD0na09JtHA_wl8aEYTRljHFrs-q6jqtJzJ2VFnNpzitifv-oOOkqaYtsk4a3LB6pkCvfr8hzDQ",
+        "author": "newarrs rabin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351364650660",
+        "starRating": "5",
+        "title": "A few issues",
+        "comment": "Ive been using this app since htc legend was released, i love it, makes the phone mire enjoyable, i only wish you can fix the battery full sound and usb sound, i dont seem to here them anymore on my onex, wont stop me from using the app though.please make sure app is compatable with jellybean and sense 4+,  i really want to keep this app.",
+        "commentId": "lg:AOqpTOERRzZ13s-4BJXsH5ac6oFTwvO-xrYz4WGB6yDTkpJGXCzGQuHoMr2wTAA3yRCjl-Mp50iMdU3McGGcfw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362853989586",
+        "starRating": "5",
+        "comment": "Needs Serious Update !! Sometime Vibrating on out going call, doesn\\'t perform",
+        "commentId": "lg:AOqpTOFyKsvOHXClniwLaeHD6oGhp4xPUuMinLUFj2LMLqmCge0fEgptsPzNpEwQ4kj9nGTnuO66AVSCJHB1DA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353826975574",
+        "starRating": "1",
+        "title": "Toooo many ads",
+        "comment": "Gud app bt tooooooooooooo many many ads!!!!",
+        "commentId": "lg:AOqpTOFAAtCCwWcfq0HudV8v3UtA--nE8wDAiSXraBRKE1bRny-cR_0eQSmQVQAz0Gwzko5ufWMQcr-Le-tmhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357374389476",
+        "starRating": "2",
+        "title": "Vibrate on call not working",
+        "comment": "I downloaded for the vibrate on call but it is not working",
+        "commentId": "gp:AOqpTOGl0EPynusWa9cj8uowR_OONYhEnwjsKnrqMwCsGgT71LN1f9TSqm79J0hLtE8DA31gU82n92d-sA_LvA",
+        "author": "Shivanksha Marupuru",
+        "authorURL": "http://lh5.googleusercontent.com/-jy03ZKRBCeU/AAAAAAAAAAI/AAAAAAAAKks/h0BhpabJ8s4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-jy03ZKRBCeU/AAAAAAAAAAI/AAAAAAAAKks/h0BhpabJ8s4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356743955739",
+        "starRating": "2",
+        "comment": "Ghodchar",
+        "commentId": "gp:AOqpTOExLI1M_4rMIUXCtD7G70ZMoDnMMIZH5jUyfcAnktiVfRGdXNIFu7yfitZdQq0IocrOfAqh5tJL6aYeTA",
+        "author": "Ramesh Ghodchar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364673409118",
+        "starRating": "4",
+        "title": "XPERIA z please",
+        "comment": "support vibrate at call connect on XPERIA Z please",
+        "commentId": "gp:AOqpTOHIqoXb9bPNn9H5Gb1GHubuBV-o_eSA5_B2HUOt8v_2VZjxEZm0UI5fuVsLsGHfgfsFKfeI-CKGXrccFg",
+        "author": "thanatouch chanket",
+        "authorURL": "http://lh3.googleusercontent.com/-oIj3elnbwYE/AAAAAAAAAAI/AAAAAAAABSA/AhbgiOqldFM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oIj3elnbwYE/AAAAAAAAAAI/AAAAAAAABSA/AhbgiOqldFM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350313427052",
+        "starRating": "1",
+        "title": "not work",
+        "comment": "not work on ss note2 JB 4.1.1",
+        "commentId": "lg:AOqpTOEzrTNmp_7Whr4x318hoN2a7WhAMlRgMdrmYn2T02geHWSBHbUCBRgZEiYtaDD1BJKMpbTFUTNETsiFTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350861444940",
+        "starRating": "4",
+        "title": "Evo4g lte!",
+        "comment": "Luv it!!!",
+        "commentId": "lg:AOqpTOGUQ5BcOnWPt3RBbau89dqkkY7CtPSCl0AGVpAdD_do4u_9w3BhMGxzVfoNL_gS45aiz-u0ada_lCPShQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346656371328",
+        "starRating": "2",
+        "title": "S3 vibrate after connect not working",
+        "comment": "Please fix.  Thanks",
+        "commentId": "lg:AOqpTOEQj2IQO7kCU-FmYjcE8RioqfOzjrqmvZnl4PJtevD7N-in366iwsmMBaxahJkncjcxrZ5pitWoFDduaw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345085792220",
+        "starRating": "5",
+        "title": "Sad for function remove",
+        "comment": "Why remove the function when phone connected? That is the major function for this app",
+        "commentId": "lg:AOqpTOEJsK5CoFsFXf_3rtIbq7st_6o3Ua8hEdeJAw_MqN9lMztvHGgN1eDsP1uOg6x5uIUqWElmLbueIkGXFw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345047426201",
+        "starRating": "4",
+        "title": "strange update 1.25",
+        "comment": "It was not good idea to remove the main feature \\\"* Vibrate when outgoing call is connected.\\\" I use this app only because of it. Bring it back, please!",
+        "commentId": "lg:AOqpTOFUSOMjaBgiAshYh6yr0F8Ky33ViCgJrQJMVLbpAfKPQ4TMAq0cNdgs1AF-nC7GOxc3VvobKMkISdWSlA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345268893482",
+        "starRating": "4",
+        "title": "Why Main function remove",
+        "comment": "Remove the main feature \\\"* Vibrate when outgoing call is connected.\\\"  Very Very sad News  I.m using this Apps Only for this function. ...  Pl dont remove the this feature \\\"* Vibrate when outgoing call is connected.\\\" ....  Waitng for new update...............(then I\\'ll give u 5 star)",
+        "commentId": "lg:AOqpTOEp-Sd7swiBNiBWEuC2yGdbnl86Wllvw2Of4WLAybuGcqqgR9500Q26jFD6D-5LOogPQH8rvHy21UqxFQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338360120814",
+        "starRating": "1",
+        "title": "Too many adds :(",
+        "comment": "Within 2 days several adds start popping which is a huge turn off. Moreover it doesnt support portability.",
+        "commentId": "lg:AOqpTOHK-vVCkg-a8qYCQNWvdY_CFUtVjkA97h3sDkEBDLKNeY1xFu1y4zwVYE7K8dMeHcfGeFIUtA5LTKFzkQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.SEND_SMS",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

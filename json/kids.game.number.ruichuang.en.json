@@ -1,0 +1,41 @@
+{
+  "title": "kids numbers",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=kids.game.number.ruichuang.en",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "July 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "lambp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=kids.game.number.ruichuang.en",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "kids numbers game preschool learning games with this single math app.Hello Children! Check this elementary game for children and schools by Classteacher Learning Systems.HOW DOES THIS ANDROID EDUCATION APP HELP THE PARENTS AND TODDLERS ?1.This app contains a collection of two number games for preschoolers that will teach them everything about 1-10 numbers: counting, writing numbers, the greater/smaller concept, find the missing number, and connect the dots.2. This maths education app is designed for preschoolers with beautiful graphics and amusing sounds.They can play with this elementary edu game without any help. Not only this, Kids will also learn basis skills in a fun way.3. The child will love playing Kids Count Numbers Game (Math) , and you will be able to relax, knowing your child is learning while having great fun. If you want your child to learn math â and enjoy it â you can't find a better choice thanKids Count Numbers Game (Math).WHAT SKILLS THE KIDS WOULD LEARN FROM THIS ELEMENTARY GAME? Learn Counting For learning the mathematical number concepts, it is important to learn counting and be able to relate to your environment. When the kid clicks on any number, the same number of characters appears for best possible understanding.Keywords: Educational, Child, Children, Games, Preschool, School, Kindergarten, Greater, Smaller, Missing, Numbers, Counting, Count 1-10, Kids, Math, Mathematical, Free, Android, Elementary,kids maths,baby mathssongs,kids,Bubble,Shooter, Bubble shooter,pop star",
+    "reviews": [
+      {
+        "timestampMsec": "1377382050483",
+        "starRating": "1",
+        "title": "Remove adds",
+        "comment": "Baby keeps pressing adds",
+        "commentId": "gp:AOqpTOFO9HWhrcPv4taW-yGAz37FPUCtv24WwQQMVN4d6cLO26pPNnEc5Qqd8D6au7tem8UaqjFPF7udaIZb",
+        "author": "Louise Dailey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

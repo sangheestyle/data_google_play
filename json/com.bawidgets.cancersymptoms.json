@@ -1,0 +1,54 @@
+{
+  "title": "Cancer symptoms",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bawidgets.cancersymptoms",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 19, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Everyone",
+  "creator": "BAWidgets.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bawidgets.cancersymptoms",
+  "extendedInfo": {
+    "installSize": "9.8k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Cancer symptoms can be divided into three groups:Local symptoms: are restricted to the site of the primary cancer. They can include lumps or swelling (tumor), hemorrhage (bleeding from the skin, mouth or anus), ulceration and pain. Although local pain commonly occurs in advanced cancer, the initial swelling is often painless.Metastatic symptoms: are due to the spread of cancer to other locations in the body. They can include enlarged lymph nodes (which can be felt or sometimes seen under the skin), hepatomegaly (enlarged liver) or splenomegaly (enlarged spleen) which can be felt in the abdomen, pain or fracture of affected bones, and neurological symptoms.Systemic symptoms: occur due to distant effects of the cancer that are not related to direct or metastatic spread. Some of these effects can include weight loss (poor appetite and cachexia), fatigue, excessive sweating (especially night sweats), anemia (low blood count) and other specific conditions termed paraneoplastic phenomena. These may be mediated by immunological or hormonal signals from the cancer cells.None of these are diagnostic, as many of these symptoms commonly occur in patients who do not have cancer.",
+    "reviews": [
+      {
+        "timestampMsec": "1318109087953",
+        "starRating": "3",
+        "comment": "Works fine on Ascend. Iteresting topics tho little in the way of substance. Worth a peek at least.",
+        "commentId": "lg:AOqpTOEybNkWnjj-OO8RNJkT9Xfx9NgW3awYaw6l__N3oBsKdNJo0I08vDit_N2RNRKY-54NyHkL_Ny9noajYHk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307917162549",
+        "starRating": "1",
+        "comment": "Foce close ddl.",
+        "commentId": "lg:AOqpTOHjVnxKUOEN3f1g6l8vj9Dl26j9mWLTonys0iwtLMTxtsyfFV9mvX4HFonleUvrxJ2VrsxE5k6DP8vjXmk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345440789907",
+        "starRating": "1",
+        "title": "Shittyyyyy shitt",
+        "comment": "Doesnt work",
+        "commentId": "lg:AOqpTOGHQpJtJVYomP6K1oBTKQs-jpsIfK9jdzaJ7FXYGAalTddv-frvYIu1BPBABlnZr-cwr0aMrUsQnB7d094",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Weer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.blumedialab.weer",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "February 3, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "38",
+  "rating": "3.5789473",
+  "contentRating": "Low Maturity",
+  "creator": "BluMedialab.com BV",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.blumedialab.weer",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Detailed weather from Dutch weather stations. Content is in Dutch so...Het weer, nu!Weer App biedt ieder moment van de dag alle mogelijke informatie over onder meer wind, temperatuur, neerslag, zicht en buien voor elke locatie in Nederland. De gratis app maakt gebruik van de officiÃ«le KNMI-meetgegevens afkomstig van ruim 50 weerstations in & om Nederland. De data is ieder uur actueel, 24 uur per dag, 7 dagen per week.Hoe gebruik je deze app?Dankzij de ingebouwde GPS krijg je de actuele informatie van het dichtstbijzijnde weerstation. Je kunt ook een ander weerstation selecteren om te zien hoe het weer elders in het land is. In een oogopslag kan je zien hoeveel Ã©n hoelang het op een bepaalde plek geregend heeft. Bekijk bovendien de weerkaarten en verwachting voor de komende dagen. Handig om in de ochtend te bepalen welke outfit geschikt is, of je files kunt verwachten door mist of regen, of om vÃ³Ã³r vertrek te checken of het buiten glad kan zijn.@WeerAppDe app is op Twitter te volgen via @WeerApp. Zo krijg je het laatste nieuws over de app en een snelle reactie op vragen en opmerkingen. Zelfs bekende weermannen blijven zo op de hoogte!",
+    "reviews": [
+      {
+        "timestampMsec": "1372460105251",
+        "starRating": "1",
+        "title": "Sloom, loopt vast, useless.",
+        "comment": "Zelf heb ik nog geen weerapp gevonden die echt goed werkt. Deze is echter nog een tandje slechter in mijn beleving.  Galaxy SIII",
+        "commentId": "gp:AOqpTOH1EKHsGzmcGCVy8U96pNM2dCagLcTEIm8stKwuNJ4M3jpyAge-oUrOHhhDCgnpKGlrwqsQZ50S10KAZFE",
+        "author": "T.K. Kepa",
+        "authorURL": "http://lh3.googleusercontent.com/-ipq5o2OlESA/AAAAAAAAAAI/AAAAAAAAABc/VL1HsizUonY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ipq5o2OlESA/AAAAAAAAAAI/AAAAAAAAABc/VL1HsizUonY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1334767041194",
+        "starRating": "3",
+        "comment": "Potential, needs graphic work",
+        "commentId": "lg:AOqpTOFI9ZXAbpVtaaLhAcRtIP_UrUBM6OlaUcSbJpKGVpg3NNvYC0pr7h8V_EEXLk2muQEbmOLuBZVKU7QEE6w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371590014040",
+        "starRating": "2",
+        "title": "The ui needs work",
+        "comment": "Graphics are overstretched and the ui is shocky.",
+        "commentId": "gp:AOqpTOHTI8W3QPKzE5v01l2jUYXY5ejboJ-sYodvOQ4eTExUBT5Ob6XTmujDX_VqcFGqoLKJiaHkpWyXY3Oh4dY",
+        "author": "Ante de Baas",
+        "authorURL": "http://lh5.googleusercontent.com/-VUcxcZgKq_0/AAAAAAAAAAI/AAAAAAAABUc/ZNXF6agHht4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-VUcxcZgKq_0/AAAAAAAAAAI/AAAAAAAABUc/ZNXF6agHht4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

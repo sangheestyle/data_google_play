@@ -1,0 +1,237 @@
+{
+  "title": "FlipClock NiceAll Pink Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=factory.widgets.FlipClockNiceAllPink",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "August 17, 2012",
+  "version": "3.6.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "929",
+  "rating": "3.8998923",
+  "contentRating": "Everyone",
+  "creator": "Factory Widgets",
+  "creatorURL": "https://play.google.com/store/apps/details?id=factory.widgets.FlipClockNiceAllPink",
+  "extendedInfo": {
+    "installSize": "877k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "A Digital Clock widget with size 4x2It features:212 skins12/24 hr+Color on all info displayedSystem Stats Info + pop-upWeather & Forecast2 Weather layouts on clock(user choice)2 Forecast layouts(user choice)+tap bottom right->preferences+tap bottom left->system information dialog+tap weather icon->forecast+tap Hour->launch anything!(more coming)+tap Minutes->launch anything!Widgets on Android work a bit differently than a normal application. Unlike regular programs they don't just install themselves in the application tray so you have to add them manually. They will not open or launch.Here's how to add a widget on your Android home screen.STEPS HOW TO ADD A WIDGET==========================1.On your Android home screen, tap any blank or âemptyâ area with size 4x2 and hold down your finger.2.An âAdd to Home screenâ window will pop up. From that window, tap âWidgetsâ.3.Youâll be presented with a list of all the installed Widgets on your Android device.4.Select the clock to add to your home screen by tapping it.Notes=====\"Time frozen/not updating\"-> taskiller killed the clock(exclude it from taskillers)When phone starts, clock starts in less than a min too.ROM users-> make sure the clock is NOT moved on SD card.Widgets are not supposed to be on SD card. Move it back to the phone storage.Weather hint: For world destinations with two words in the name, type in the box the words with a plus sign.For example \"Buenos Aires\" type \"Buenos+Aires\",remember the \"+\" sign -no spaces, don't include the quotes.Skins: Check our website for help, and send to us your creations.Email problems/suggestionsCheck our website for more help.EXCLUDE IT FROM TASKILLERS!!!Be polite, this is a free app :-)VIDEO HOW TO ADD WIDGETShttp://www.youtube.com/watch?v=DpMLF9b2aTQ",
+    "reviews": [
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1369902298159",
+        "starRating": "4",
+        "title": "Did it\\'s job",
+        "comment": "Lately is been shrinking in size on its own. But I\\'ve used this widget for a very long time with no problems. It\\'s just TIME for a change!   ;-)",
+        "commentId": "gp:AOqpTOGEGi27gh-Y8PQ_yHV9W8vNFXMzAhpjhI_kCthsvSY1yOWv3OuXiQtdQKAIhJ7G1jACiEecy8nNsSHTTQ",
+        "author": "Moonie Dapas",
+        "authorURL": "http://lh5.googleusercontent.com/-GFIDOMR-yzM/AAAAAAAAAAI/AAAAAAAAAKA/ZmB-BnrPSL4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GFIDOMR-yzM/AAAAAAAAAAI/AAAAAAAAAKA/ZmB-BnrPSL4/photo.jpg"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1370451226781",
+        "starRating": "5",
+        "title": "Very Beautiful.",
+        "comment": "Everything that I could want in a clock.  Perfect, Thanks for this app, it\\'s the best out there.",
+        "commentId": "gp:AOqpTOHda4Ip8kyx8rOd039ZtQfYAqTdVW9gq76vOsq4Ttmz5Es_kDBTDCprocTCFIDnmkJKQub5onwZ2w6R9A",
+        "author": "Vickie Hollis",
+        "authorURL": "http://lh6.googleusercontent.com/-njjaQxglS7A/AAAAAAAAAAI/AAAAAAAAACs/9Cs1tyx_8Ys/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-njjaQxglS7A/AAAAAAAAAAI/AAAAAAAAACs/9Cs1tyx_8Ys/photo.jpg"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1365455924338",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "I\\'ll put the widget on my home screen, and it will work great for like two minutes, and then it will just freeze for no reason and the time won\\'t change anymore. Please fix, it\\'s a beautiful clock adn I love making my own skins for it.",
+        "commentId": "gp:AOqpTOHxRQ_hOSHTlj0K2XYNT4XhMIyKyAU0zpKtd8Km02TCXjDQ-net1gHihydY9ucPP302Q913U0gntqNrAw",
+        "author": "Emily Lentz",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1357466707279",
+        "starRating": "1",
+        "title": "Disappointed: (",
+        "comment": "Up until the last latest update this application worked perfectly... it was everything I wanted but after the update it keeps freezing and shutting down. Very disappointed and now I must uninstall and find a new clock!",
+        "commentId": "gp:AOqpTOFQY8m7X681EeRbGCDJgNmbrgoC7VvtbJWMzKT_5W7CB8N9H-sOP2dCNt34yMmw-JbVPz_fXtmMxMSPbQ",
+        "author": "Scarlet Frost",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1365607613810",
+        "starRating": "5",
+        "title": "Absolutely awesome",
+        "comment": "I have had this clock for two years now I love it",
+        "commentId": "gp:AOqpTOFZ2z7aQmyD_7M6nfMs4S1BLU5NPH40sPcp0K7bwffdKwbFVMFaSSQuTbvQ74XIt1Vr18CK_dV6ECzhCA",
+        "author": "Jennifer Jackson",
+        "authorURL": "http://lh4.googleusercontent.com/-CnlwbwajJQU/AAAAAAAAAAI/AAAAAAAAACs/Vtx3027EIU0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-CnlwbwajJQU/AAAAAAAAAAI/AAAAAAAAACs/Vtx3027EIU0/photo.jpg"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1361968802888",
+        "starRating": "1",
+        "title": "Doesn\\'t work right anymore",
+        "comment": "Used to work perfectly. Now it resets all my settings back to the defaults daily. Very annoying. Please fix!",
+        "commentId": "lg:AOqpTOFP_bZs6qj40c2Q5UXjKvLXSTJ3Annh94KVfg-1zJUtPIUQcQzOsanSEcL1n-Vw59n5dTZv4eR3uojQNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1363688602897",
+        "starRating": "5",
+        "title": "I love it",
+        "comment": "A great add on clock. Very easy to customize with many different options.  Works as described.",
+        "commentId": "gp:AOqpTOHSVcW7KGZ01FV42q1MIM2zPYNc3ZSh-KrBJTyjr93i2pbiPsEj8Rr5jHgwBVktmN8oCfaEZNOshRDSCw",
+        "author": "Darla Markle",
+        "authorURL": "http://lh3.googleusercontent.com/-UovYiyhADow/AAAAAAAAAAI/AAAAAAAAAEs/WxPQBOGG3cA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UovYiyhADow/AAAAAAAAAAI/AAAAAAAAAEs/WxPQBOGG3cA/photo.jpg"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1352470027712",
+        "starRating": "5",
+        "title": "Super like",
+        "comment": "Flexible application and adjustable colors",
+        "commentId": "lg:AOqpTOH5hLR8VpjROkU31lJKx7i2FDNfvZ3FOfjvbuK9UQ2Ufe39c1tQ7is-Rw_nQh4SJbRQmGnvUZWs2yykyQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1370975069224",
+        "starRating": "2",
+        "title": "Its a nice widget but....",
+        "comment": "The time doesn\\'t display properly the last number will disappear after a few minutes! And it randomly shrinks?!",
+        "commentId": "gp:AOqpTOEb8_FsG5iV0bjc-hc72EZ8fui-LeKe_Z9d8EyhRvzddJmK5Qc5h5zntBrMorTZoFua4oDsdsHL1x9-pQ",
+        "author": "Tracy Jenkinson",
+        "authorURL": "http://lh5.googleusercontent.com/-rP0FZqeMhQI/AAAAAAAAAAI/AAAAAAAAAww/Ko1bW835nSc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rP0FZqeMhQI/AAAAAAAAAAI/AAAAAAAAAww/Ko1bW835nSc/photo.jpg"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1349571386451",
+        "starRating": "5",
+        "title": ":)",
+        "comment": "Love granny!!!",
+        "commentId": "lg:AOqpTOHnoBZ7c0wXN_sh3o-_OpPs8osDFy93a9OgcEkSgi7dykxb7fHh2g2TcITD7wpNr3zZnAUbVeJINI3Yfw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1363577388572",
+        "starRating": "5",
+        "title": "excellent !!!!",
+        "comment": "iiiiiiii loveeeee itttttt <3",
+        "commentId": "gp:AOqpTOFwQKeb08i_EWPj3VNtycLtna-9hKIj-kzx_2fXUHdZB7MZkvEi07aS9WZveyHC3_s95iau0oKtpT8KhA",
+        "author": "Karla Carmona",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1361282429019",
+        "starRating": "1",
+        "title": "Don\\'t like",
+        "comment": "Keeps stopping, won\\'t keep time.",
+        "commentId": "gp:AOqpTOGC8WONUiL7dwsY3DLawzQ4dPyop8_LGtgiIuguawellyohAiz-gumAkNxf9QlhQazj3HXHjcSSsYFYIA",
+        "author": "Amber Wright",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1359701602535",
+        "starRating": "1",
+        "title": "Sam galaxy s3",
+        "comment": "Does not work",
+        "commentId": "gp:AOqpTOGXgHG9Ztq-Wfu2F4Am8BC_-ytKbU-s_lha4cBKeWuu0YMujx7SfFpM_ZD8NKnO1WO2NAKLkYnYUZrgGQ",
+        "author": "Britney B",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1353363005538",
+        "starRating": "3",
+        "title": "It ok",
+        "comment": "I guess it does what it says",
+        "commentId": "lg:AOqpTOGbo1hVdrwISBy76QE5BcvjYQHfPaKJQqpp9z7pwCBunV3qZ9yyX7U9VjksCWM7ePuC3239GFverewBcg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.6.1",
+        "timestampMsec": "1365280088444",
+        "starRating": "5",
+        "title": "Love",
+        "comment": "Love it!",
+        "commentId": "gp:AOqpTOFq4zLDfGWYBzfglk0yGtU8n8gWf2l2zHiLOHYtK-DqN7DUVvJOnCTacVV-VNn6I7ktknKtUZe7qNjcLg",
+        "author": "Leslie Nones",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.5",
+        "timestampMsec": "1325734224136",
+        "starRating": "5",
+        "title": "Best Clock App!",
+        "comment": "I\\'ve tried tons of clock apps and this is by far the best. It\\'s easy to read and customizable.",
+        "commentId": "lg:AOqpTOExweGYDSVZjE-o21pa2JXsthWBc2jQSMIF64irV-2wahJhxqmcXBl2jjp079d_I8G89ktOooZwHfHOrg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.5",
+        "timestampMsec": "1325602614374",
+        "starRating": "4",
+        "title": "Pretty ap",
+        "comment": "Its a nice looking ap with good skins but can you please change the weather icon to realtime colour instead of pink. Its spoils the the look  Thanks",
+        "commentId": "lg:AOqpTOFM-LwtMb2R7rO1ZhWh4HtBbHaVqo7fpi1Lo9PwBVMVJmkSfYWq9RW5Np3qSNzWc9MfCzFMktqAbB1jIg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.5",
+        "timestampMsec": "1297928129669",
+        "starRating": "0",
+        "comment": "@Haley No duh. You have to go through widgets for any clock. I like it. Works wonderful on my Samsung Fascinate.",
+        "commentId": "lg:AOqpTOHiEKZsi4_dXHWch48KlWnE_SVJcnM6UePT0BHE9tOWbzDBbDR5cYbkP3Lhs4nx-FAOpeETpoSGE1w1mQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.5",
+        "timestampMsec": "1310538355115",
+        "starRating": "3",
+        "comment": "Great concept; beautiful Widgets, only time never updates & it keeps force closing when I enter in to edit. HTC EVO",
+        "commentId": "lg:AOqpTOE-Mq720kfr6Im2Kt7FBMZGAOESmusfPq7WXK41sr6WgvxR0OK-A_NZXv_Po2dybkkF8fXh6h189fvxnA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.5",
+        "timestampMsec": "1315494769765",
+        "starRating": "1",
+        "title": "Junk!",
+        "comment": "Wont keep weather info for my city, can\\'t get rid of weather to just use the clock. Uninstall!",
+        "commentId": "lg:AOqpTOHLMni3T64sKXBYHTJKWq4zrfo--5ET35WO_dTSz0Wha-eNI3WxWoheRgR43phdkdFB41nK8XeTCu_DUw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

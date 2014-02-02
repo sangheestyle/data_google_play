@@ -1,0 +1,237 @@
+{
+  "title": "Airplane Mode Wi-Fi Tool",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=net.geekherd.airplanemode",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "December 19, 2011",
+  "version": "1.5.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "996",
+  "rating": "4.3855424",
+  "contentRating": "Everyone",
+  "creator": "Daniel Velazco",
+  "creatorURL": "https://play.google.com/store/apps/details?id=net.geekherd.airplanemode",
+  "extendedInfo": {
+    "installSize": "82k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This tool will help you manage your android phone to connect to Wifi networks (Wireless Internet, or Wi-fi) while on Airplane Mode.Very easy to use, simply press the buttons as they get active.1) Before take off, turn on airplane mode by pressing the \"Airplane Mode\" button. This will also enable the Wi-fi On button for later use (Your Wi-fi and Bluetooth will also be disabled, for now)2) When Wi-fi is allowd to be used, use the \"Wi-fi On\" button to turn on wi-fi, this will also open the wi-fi settings to connect to the airplane network's SSID. Some airlines require you to register or login, so make sure you go into the browser and follow directions before opening any other aplication since they might not work right away.3) When announced that wi-fi usage should stop, use the \"Wi-fi Off\" button to turn wi-fi off.4) After landing, use the \"Landed\" button to turn airplande mode off. This will turn airplane mode off and re-enable your phone usage as normal.This tool works with any version of Android, including 2.0+, however, it is only necessary if you have a device with Android 1.5-1.6. Android 2.0+ allows Wifi to be toggled while on AP Mode.Open the preferences and you will find some extras. These extra features will allow you to modify the system so that when you enable airplane mode, wifi/bluetooth stay on, and, are toggleable.Bluetooth on Airplande Mode only works if your device is on Android 2.2+ AND the device manufacturer allows it.This application is free, and if you like it and would like to support me, you can scroll down and click on \"View more applications by this developer\", buy one of my paid apps. Also, this application has a built-in ability to send me donations via PayPal, you are NOT required to do so, but anything is greatly appreciated it and I will take it as a reason to keep supporting this application and trying to get the best out of your phone.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1329580924379",
+        "starRating": "5",
+        "title": "Perfect for low coverage areas",
+        "comment": "I was seeking a way to keep wifi on but radio/blututh off and found it! There are places where cell signal is so low that my DROID drains out in 30min. Now I can stay on wifi without killing my battery.",
+        "commentId": "lg:AOqpTOHxiCg1NHuotedc-H5CQ9HtcUR2qoBQOzRpQWNJDo32Bpj3VXesZ63Eiam-4AwwlteHKCHJ48lWC4wTHQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1328412644705",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "It\\'s not working for Bluetooth. I am so disappointed.",
+        "commentId": "lg:AOqpTOGUaNVkngs9MokDHCQ8HbfrcK2ygxD6N3Gd4XIpQmayTiKss3CI8OS1BSfZ47TYSb7hAVSgAq-e7C5fsg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1357227166980",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "I like it soo much it\\'s so usefullll :)",
+        "commentId": "gp:AOqpTOEHERdtx4gtlcmoflA8yedg38D9XNP7nfkIzCVyux2S25-NPBKEDoZMvA77yNZC9wPA-DSEtx1IwRsHpQ",
+        "author": "kk Mai",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1376690469178",
+        "starRating": "3",
+        "title": "Works ok",
+        "comment": "Has a tendency to stop and freeze up your phone, but usually pretty good otherwise. Fix this problem and maybe 5 stars.",
+        "commentId": "gp:AOqpTOE6F0cqjjy4-jAuMbjPlXS96MxURz5cS-KIoK3P0pzxBm1LDHwBtyoOpDHf-dIaQjQb7A2dh8xjI8jZHA",
+        "author": "Michael Phillips",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1324798738173",
+        "starRating": "4",
+        "title": "Very handy!",
+        "comment": "And it enables function my phone otherwise doesn\\'t provide.  Thanks for adding the change log!  :)",
+        "commentId": "lg:AOqpTOF_Gcutve4788S5dGj0ncINahYyc_wOWC9zj867pbkH-1QSruJAKSHof4HtUUbq64PumhKYdUoquO44cQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1339677582122",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "App allows airplane mode to enable but not disable. Had to manually turn off airplane mode through phone settings. BT control doesn\\'t work either. Gone!",
+        "commentId": "lg:AOqpTOEOoESNPpZjYYB4SacN1gUoue3qK6xq3YSnPBfRpR9qIYNFwvwD6Pzc6YH6jg1a6PvaeR6lfzGo-FryGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1348011687977",
+        "starRating": "5",
+        "title": "GREAT SII",
+        "comment": "I now can save long battery time while only using wifi in some places and can avoid radiation while sleeping as I can be available on viber only :-)",
+        "commentId": "lg:AOqpTOFD1UC30wJoEOzluiWVA1oTZqLasNdgQ6CCFDWBdKHUXl2KVpT3IqvouzDjobg3yz5FAQp8BdSW18w_1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1357671235739",
+        "starRating": "4",
+        "title": "Great app. But no support for Android 4.2",
+        "comment": "Amazing application worked great on Android 4.1 saved my battery all the time on my phone but now on Android 4.2 on my rooted phone and on my nexus 7 it doesn\\'t into aeroplane mode, also I can\\'t get into the menu because the 3 dot soft key doesn\\'t appear. But I can do it by going into settings and turning back on WiFi",
+        "commentId": "gp:AOqpTOFresmmPdwXbIi996H2IshcMwKCGyTxo1C1BGNT8YfgtybKoEftDHPkqNyV6kp9Ta5SDBfpQhRtQ4XA7Q",
+        "author": "Matthew Palmer",
+        "authorURL": "http://lh6.googleusercontent.com/-oKcYWUOrZag/AAAAAAAAAAI/AAAAAAAACkU/cHWcnRo8y2c/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-oKcYWUOrZag/AAAAAAAAAAI/AAAAAAAACkU/cHWcnRo8y2c/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1349297017013",
+        "starRating": "4",
+        "title": "Great App",
+        "comment": "Works as advertised.  Looking forward to using it on my trip next week.  Only one minor issue; Preferences> Notification Shortcut> Unchecked and this did not remove from notification bar.",
+        "commentId": "lg:AOqpTOF4QW4ic2Nn6k0XiGLo2avUcCcQrkPZ1EyY6EJWjRj8dN3BfknL86guvxdY5bz6PcD4sEi0CtNc4FbNJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1330969481888",
+        "starRating": "5",
+        "title": "Yes!",
+        "comment": "This is a app that most phones have the ability to do, however this is a major shortcut.  With options.",
+        "commentId": "lg:AOqpTOGcbcm0J_CmMt0peosU6_bG4M8K80ehyNylJe4X6Uztl9xnIJMAR6WJkK0OSv8LD65o59vCBRYc_3fMJA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1331439203987",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Major battery saver.  Perfect for ad-hoc tablets with no phone.  Don\\'t remove the telephone apk, just enable airplane mode and use this app to enable Wi-Fi.  Works great with my CM7 Nook Color.",
+        "commentId": "lg:AOqpTOFmIoUw-sZZ1oAUXEu8Rp2-T2NF2A1-mekH3VkR0YBytN0AniQYneff_tQBPdgMbI3ttg6erYKY8nZf_g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1353692473580",
+        "starRating": "5",
+        "title": "Works",
+        "comment": "Had to go in and turn airplane mode off then on in phone settings to get it to work. But great app",
+        "commentId": "lg:AOqpTOEb2UG0r2MllpoSFsPJ6dhwpoeRN7W3dj7FMNpTh3pmUJ95cR0WQyo6JE_AYjG9Nz48DVoK79hZDMonWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1372224736502",
+        "starRating": "5",
+        "title": "Best by far",
+        "comment": "This has become my favorite utility.  It works exactly as described and helps save the  battery.",
+        "commentId": "gp:AOqpTOH0xRQZ6VxXMGpC2_-T9phFJVQ7Dmbvd3Zj5GQCCKcaE7C2q4-MfgN1ZUtHC9vj1ZDEBw88E3BuWTuSUQ",
+        "author": "Joe Bateman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1356143608077",
+        "starRating": "5",
+        "title": "Incredible battery saver when there\\'s no signal",
+        "comment": "I just started using this app as I\\'m in no/low-coverage areas but I still want to be able to connect to my wifi. This app is extremely simple and works flawlessly on my phone. Frankly I would have paid $5 for this, and I hardly ever pay for apps. My only complaint is that I can\\'t find the donate button.",
+        "commentId": "gp:AOqpTOE0prA_7kWS5xke8D_Xs1MwEsEhSbFXYXSCocHkx8gapb7Dw5YIktakNH48vIMjJgHOsrBoOouNbEEJ9w",
+        "author": "Oliver Jensen",
+        "authorURL": "http://lh4.googleusercontent.com/-F4mh7hH5zvk/AAAAAAAAAAI/AAAAAAAAFlY/f3rj4OIingQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-F4mh7hH5zvk/AAAAAAAAAAI/AAAAAAAAFlY/f3rj4OIingQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1339822377154",
+        "starRating": "1",
+        "title": "Stuck on airplane mode HTC Sensation w/ beats",
+        "comment": "I had this app two minutes and it switched itself to airplane mode and wouldn\\'t respond to me turning it back off. Even after uninstalling I couldn\\'t turn off airplane mode. After restarting phone it finally came back on.",
+        "commentId": "lg:AOqpTOEF1BW4sNMU4bo73g6d7zbdZCR_Nx5NNB_5CCu5ti1ozgp0antZrE8Q519NS2ZMEC6CxD9iWpqF8EREOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1326406762185",
+        "starRating": "2",
+        "title": "Kills my wi-fi",
+        "comment": "I thought this would be a solution to preventing the \\\"cell standby\\\"issue on my tablet. But not ony did it not solve the problem, it\\'s dropping my wi-fi connection repeatedly.",
+        "commentId": "lg:AOqpTOG9hV5Zbnc76pmKdEc2ZCMhSnNBoDaKGQQ_gGM68ShOj7rE2t12KA7HUfjJZdxtZMyyx2rztwPL7BMk0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1325887389807",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Did what i needed, used to unlock wifi on airplane mode, thanks!",
+        "commentId": "lg:AOqpTOG-LgR2bTCwqwQZT7lqRkfjQGaY0PQq6wPbTqXAAxKv4NAb2nGLaumU_36A8TcbOIHXIOiNAYfONgfk4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1334742372142",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Very usefull",
+        "commentId": "lg:AOqpTOFTTY_DWpsq2OZAnnI9ZsZuEqpvJ09Gcbokijn6xfjlcRrTvJ7T85yYjll8g3nTlIEVo4efVaqMLhVEZQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1352910293914",
+        "starRating": "4",
+        "title": "Broken after 4.2 update",
+        "comment": "Worked great until 4.2 update. Will turn on wifi but cellular radio continues to be on. Please fix. Otherwise great app!",
+        "commentId": "lg:AOqpTOHdB_YEyADD7tYNOwDDS0GRIDw8WoN4z_7YFsk14iKR_aPmQlFh-niQrH5qZXkAeGfWikU_PzHWlDrqLQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1326373902724",
+        "starRating": "5",
+        "title": "Awesome free app!",
+        "comment": "Allows me to enable wifi in airplane mode. Been using it for years. Good to see it back on the market.",
+        "commentId": "lg:AOqpTOF3R2bfNePnC8CmvKBs7rKt5xNsHEfUzcUnG9-_a-nHNvgPJmSRXFFOihTzGuuW_F7ibBCzTOyGWg8HEg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_SETTINGS"
+    ]
+  }
+}

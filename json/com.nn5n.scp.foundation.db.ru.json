@@ -1,0 +1,51 @@
+{
+  "title": "The SCP Foundation DB nn5n L",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.nn5n.scp.foundation.db.ru",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "July 22, 2013",
+  "version": "1.0.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "118",
+  "rating": "4.7966104",
+  "contentRating": "High Maturity",
+  "creator": "Mykhailo Radzievskyi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.nn5n.scp.foundation.db.ru",
+  "extendedInfo": {
+    "installSize": "157M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is Full (with images) Russian version offline database The SCP Foundation from http://scpfoundation.ruYou can find original project here: http://http://scpfoundation.ru/For people, who don't know what is it. This is a lot Fantastic stories about different anomaly creatures, things, places. Is all try research and safe The SCP Foundation. All stories is not real, but I strongly not recommend read or install this program for the faint of heart!.Attention! After installation, program unpacking cache. You need 350Mb free space on your sdcard!About Light version:- light version contain only text without images (for safe space on your Android device);- Because here use less data, application work more faster;Features:- Almost 2000 articles for read.- Two themes: light and dark.- Menu contains: \"Start page\", \"Settings\", \"Search\" and \"Next\" buttons.- Yet not correctly working function for back to previous page. Please, use menu and select \"Start Page\" for back to main page.- Press \"Open URL\", and you will open current page on original The SCP Foundation site.- You can allow or not send automatically animus information to me from program about some problems inside application.Also you can findChinese full version: https://play.google.com/store/apps/details?id=com.nn5n.scp.foundation.db.chKorean full version: https://play.google.com/store/apps/details?id=com.nn5n.scp.foundation.db.krEnglish light version: https://play.google.com/store/apps/details?id=com.nn5n.scp.foundation.db.lightThis application is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License: http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "reviews": [
+      {
+        "timestampMsec": "1360394234664",
+        "starRating": "5",
+        "title": "Fantastic Database",
+        "comment": "I do not understand Russian, but this seems to be  very well done app. Rating high in hopes of an English version!",
+        "commentId": "gp:AOqpTOFdh0rnIa-g-hLVjjr5C5Vz_s35YcAYqg3jYMffn2E9q4iHGAMldk79a5BQFzj8B3G7PDRYtXNMwzXqlBY",
+        "author": "John Tambone",
+        "authorURL": "http://lh3.googleusercontent.com/-w_xXUy5PVxk/AAAAAAAAAAI/AAAAAAAAAhU/XcB8IR4DPXc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-w_xXUy5PVxk/AAAAAAAAAAI/AAAAAAAAAhU/XcB8IR4DPXc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376929333133",
+        "starRating": "1",
+        "title": "Whaaaaaaat!?!?!?!?!?!?!?!?",
+        "comment": "CANT READ DIS. DIS IS A LOAD OF BULL",
+        "commentId": "gp:AOqpTOERGY_FafuqcjAWdp4Y3aLY7gBuEnPVoJFefFuRzCuhuCm37TTgc9FAOLcUUPBoQRfubLgatGy-nNiGjns",
+        "author": "George Leach",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

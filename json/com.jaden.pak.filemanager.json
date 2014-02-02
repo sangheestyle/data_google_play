@@ -1,0 +1,58 @@
+{
+  "title": "Sense File Explorer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaden.pak.filemanager",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 18, 2012",
+  "version": "1.2.7.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "17",
+  "rating": "4.352941",
+  "contentRating": "Everyone",
+  "creator": "Jaden Pak",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaden.pak.filemanager",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Sense File Explorer (File Manager +Bluetooth)Sense File Explorer(File Manager) is a very easy tool for managing files in SD memory of devices.As implied in its name \"File Explorer\", all the actions of this app are similar to those of PC File Explorer.And via Bluetooth connection, Sense File Explorer can transfer files between 2 mobile devices.Main features are : 1) Basic file management actions : Copy/Cut/Paste/Delete/Rename for all files and folders2) Connect to other devices via bluetooth, and show the file list of the remote device and download or upload files.3) Files can be shared with others through SNS(Facebook, Twitter, ...) or e-mail.4) Search files with various conditions (file name, size, date, or composite conditions)5) Open or Execute all the known-type files.6) Usage of SD memory is graphically presented.7) Sense file explorer has a strong point in handling \"BIG\" folders.  i.e. if there are more than 1000 files in a folder,     (though it's not the normal case, it can be possible with some apps using caches in SD files)  coping or listing work can do much harm to device performance.   Sense file explorer \"Sensibly\" handles that situation, and help devices work properly without any delay or problems8) Ad-freeAny comments or advices are welcome.Please contact the developer if you have any.Thank you so much for reading!",
+    "reviews": [
+      {
+        "documentVersion": "2.7.1",
+        "timestampMsec": "1343147187198",
+        "starRating": "2",
+        "title": "Droid 3",
+        "comment": "Its not seeing my memory card",
+        "commentId": "lg:AOqpTOGSCwJ4Rj6ayvj1oGNFjGoxwfc47H_H9ioUDx7iKJ_KFTj8D5hT8Hxgyb9iL52_efzi7mTSZAiJTCJHzyE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.0",
+        "timestampMsec": "1335617011257",
+        "starRating": "5",
+        "title": "very nice",
+        "comment": "i like this App. very convenient",
+        "commentId": "lg:AOqpTOFGpQPvBRrshDfnRcXjfWB9OjLg3fY-3wSxi8fgXGjcuYBuWt4XJpgrcg4EWpEHXyTnNArQHsA-jxUZ7fQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367167321700",
+        "starRating": "5",
+        "title": "Bhk",
+        "comment": "Great",
+        "commentId": "gp:AOqpTOG7g3DCjM_Uz8skRaRqX5-27neq26aiGBJuzeYSdtYU-nwp7wUIpafcnut2xI5XKMcoVcrm65HS_7j2WJw",
+        "author": "Tabitha Lyles",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Hi, Don Pepito, Hi Don Jose",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jmtechnologysolucions.hola_donpepito_hola_donjose",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 27, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "15",
+  "rating": "4.9333334",
+  "contentRating": "Low Maturity",
+  "creator": "JM Technology Solutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jmtechnologysolucions.hola_donpepito_hola_donjose",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Divertida canciÃ³n infantil Hola Don Pepito, Hola Don Jose, para niÃ±os, la cual enseÃ±a a los chiquitines desde que aprenden a hablar a realizar tanto los  saludos como las despedidas, es una  canciÃ³n  clÃ¡sica latinoamericana, compuesta por el canta autor mexicano, Francisco Gabilondo Soler, ha sido  interpretada por innumerables artistas infantiles y traducida a varios idiomas.AquÃ­ esta representada por unos simpÃ¡ticos dibujos animados y la cantan unos payasos, esta muestra con alegrÃ­a y simpatÃ­a la mejor forma de expresarse al dirigir el saludo a una persona conocida. A travÃ©s de ella se  aprenden a socializar con los demÃ¡s, a seguir los ritmos y aprender palabras nuevas e inclusive a despertar la imaginaciÃ³n de los pequeÃ±os . Motiva a los niÃ±os y niÃ±as a saludar de manera creativa y hasta a la investigaciÃ³n pues posee palabras que necesitaran saber su significado, lo que los llevara a ampliar su vocabulario.  Baja este vÃ­deo y mÃ­ralo con tus pegueÃ±os, y veras como este aprenderÃ¡ y desarrollarÃ¡ mas rÃ¡pidamente  sus talentos ocultos, asÃ­ podrÃ¡ cantar tanto esta canciÃ³n, como la del pollito pÃ­o y bailara como el pupy dance.Historia del autor de la canciÃ³n.Francisco Gabilondo Soler, tambiÃ©n conocido como Cri-Cri, fue un cantautor mexicano de mÃºsica infantil. NaciÃ³ el 6 de octubre de 1907 en la ciudad de Orizaba, Estado de Veracruz, falleciÃ³ el 14 de diciembre de 1990 en Texcoco, Estado de MÃ©xico. Fue un compositor mexicano de canciones infantiles, famoso por presentar durante muchos aÃ±os un programa de radio enfocado a los niÃ±os, para el cual creÃ³ al personaje Cri-Cri, el grillito cantor. Sus canciones son famosas en AmÃ©rica Latina y han sido traducidas a distintos idiomas. Fue socio fundador de la Sociedad de Autores y Compositores de MÃ©xico.Algunos de sus discos editados fueron:-Cri-Cri, El Grillito Cantor (1956)-Tema de Cri-Cri (Entrada)-Llueve-Caminito de la escuela-El telÃ©fono-Baile de los muÃ±ecos-Ropavejero-Gato de barrio-El perrito-Guacamaya-Rusiana-Mi burrita-Vals del Rey-CanciÃ³n de las brujas-Tema de Cri Cri (Salida)-Marcha de las letras-RatÃ³n vaquero-La patita-CucurumbÃ©-Cochinitos dormilones-El Comal y la olla-Marcha de las canicas-Tango medroso-BombÃ³n I-Vals del trompo-El fantasma-Soldadito cojo",
+    "reviews": [
+      {
+        "timestampMsec": "1375987634920",
+        "starRating": "5",
+        "title": "N\\303\\255tido",
+        "comment": "Muy divertido",
+        "commentId": "gp:AOqpTOF2Z_8Yj_xe0kFOMv3n7SXiSJ9EFGndv3mGhvgtsivotTYKdcKZQW8k94Hket2onPwFckO92mJ22tYYKmk",
+        "author": "Pedro Pimentel",
+        "authorURL": "http://lh3.googleusercontent.com/-NPO9LB-C1Xo/AAAAAAAAAAI/AAAAAAAADsM/J5STLF8kq_s/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-NPO9LB-C1Xo/AAAAAAAAAAI/AAAAAAAADsM/J5STLF8kq_s/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

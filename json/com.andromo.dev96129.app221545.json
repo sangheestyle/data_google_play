@@ -1,0 +1,45 @@
+{
+  "title": "Joke Mob - The Best Jokes",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.andromo.dev96129.app221545",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "7",
+  "rating": "3.2857144",
+  "contentRating": "Everyone",
+  "creator": "XS Droid Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.andromo.dev96129.app221545",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Joke Mob - The most comprehensive free jokes app for your Android phone.  JokeMob has thousands and thousands and thousands of the funnest jokes for every occasion.  Looking for just the right joke or status to share on social networks like Facebook, Twitter, Pinterest or Google +? Try searching our massive joke list including the funniest jokes in all these categories:african jokes (6)american jokes (31)animals jokes (1319)asian jokes (16)australian jokes (6)aviation jokes (27)bar & drinking jokes (1958)bill clinton jokes (574)black jokes (37)blind jokes (11)blonde jokes (3099)body & health jokes (399)buddists / monks jokes (9)bush jokes (340)business jokes (969)canadian jokes (6)car bumper stickers (21)catholic jokes (137)celebrity jokes (232)christian jokes (15)computer jokes (1030)crazy jokes (45)current event jokes (90)current events â archives (3)definitions (250)dirty jokes (1209)dumb criminal jokes (8)education jokes (197)engineer jokes (297)european jokes (18)farmer jokes (42)fictional characters (65)food jokes (90)funny ads (5)gays & lesbian jokes (73)gender jokes (1445)governenment jokes (59)gross jokes (55)holiday jokes (252)irish / british jokes (34)jewish jokes (32)jokes for nerds (498)just do it jokes (63)knock-knock jokes (920)latino jokes (13)lawyer jokes (1080)light bulb jokes (765)little johnny jokes (1435)math jokes (54)medica jokesl (947)middle eastern jokes (18)military jokes (237)mostly true stories (335)movies & tv jokes (65)murphy's law (66)music jokes (164)muslim jokes (3)news of the weird (167)one liner jokes (1451)other jokes (11684)poem jokes (151)politician jokes (52)politics jokes (1460)professionals jokes (289)puns / word play (388)quotes (205)redneck jokes (1069)relationship jokes (1966)riddles (301)school jokes (1105)sci-fi / fantasy jokes (32)science jokes (64)senior jokes (37)sex jokes (1457)signs of our times (84)sports jokes (739)sports figure jokes (12)the battle of the sexes (566)thoughts (77)tongue twisters (19)top lists (420)travel / vacation jokes (229)yo mama jokes (1883)You can also add your own jokes and check back daily for new jokes from thousands of others who visit JokeMob every day.  Download JokeMob today and have over 50,000 of the funniest jokes at your fingertips any time.",
+    "reviews": [
+      {
+        "timestampMsec": "1377886818373",
+        "starRating": "1",
+        "title": "Not so good",
+        "comment": "But it is only my opinion. The kiddies will like them I think. Lol.",
+        "commentId": "gp:AOqpTOGKLc_iMulPiwhdykvL_6tiuPJ2rtIsknjBOwrKYRNWyvYR4vWFeton2a3TWHAJ6uFtsdXx_qpJinCcDh4",
+        "author": "Valerie Frost",
+        "authorURL": "http://lh6.googleusercontent.com/-kiBaZYryVog/AAAAAAAAAAI/AAAAAAAAAOg/1sc5n9dm460/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-kiBaZYryVog/AAAAAAAAAAI/AAAAAAAAAOg/1sc5n9dm460/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "com.andromo.dev96129.app221545.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.ACTION_PHONE_STATE_CHANGED",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

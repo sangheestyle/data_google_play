@@ -1,0 +1,36 @@
+{
+  "title": "Dragon Medical Mobile Recorder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Nuance.Mobility.DMMR.Live",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "March 22, 2013",
+  "version": "2.0.0.8",
+  "operatingSystems": "2.3 - 4.1",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "High Maturity",
+  "creator": "Nuance Communications Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Nuance.Mobility.DMMR.Live",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "For clinicians authorized to use Dragon Medical 360 | Mobile Recorder with Nuance Healthcare's background speech solutions. Dragon Medical 360 | Mobile Recorder turns clinicians' Android devices into effective and convenient mobile dictation devices for Dragon Medical 360 | eScription, Dictaphone Enterprise Speech System, and iChart. Clinicians can use Dragon Medical 360 | Mobile Recorder to dictate into their Android devices anytime and anywhere they have an opportunity. Once your clinicians complete their dictations, they can upload them via cellular (3G/4G) or wireless connections to your Nuance background speech platform. Dragon Medical 360 | Mobile Recorder frees your clinicians from docking stations, wireless networks, and carrying an extra digital device for dictation.Dragon Medical 360 | Mobile Recorder leverages the Androidâs design to provide easy to use touch screen controls to search for patients, select work types, record, and upload dictations with a touch of a finger. The high quality voice recordings created by Dragon Medical 360 | Mobile Recorder are optimized for speech processing, which helps produce the best drafts possible for Medical Transcriptionists to edit. With more than 72% of clinicians using smart phones and growing, Dragon Medical 360 | Mobile Recorder provides an exciting new dictation option for your healthcare enterprise.Dragon Medical 360 | Mobile Recorder is compatible with Android devices running Android 2.3. Users should verify the following Dragon Medical 360 | eScription/DESS requirements with their healthcare organizations.REQUIREMENTSâ¢ Dragon Medical 360 | eScription version 9.8 or higher or DESS 8.0 SP1 or higher â¢ Mobile dictation option purchased and enabled on systemâ¢ Assigned user name and passwordFEATURESâ¢Seamlessly integrates with Dragon Medical 360 | eScription, DESS, or iChart accounts and existing transcription processesâ¢Wi-Fi and cellular (3G/4G) wireless connectivity for immediate dictation uploadsâ¢HIPAA security features including authentication, user name, password, inactivity timeout, & encryption to safeguard protected health information (PHI)â¢High quality recording formats compatible with background speech recognitionâ¢Patient name lookup to improve data accuracyâ¢Dictation history to manage and review dictationsâ¢Worktype list to select report typeâ¢Priority select for urgent turn aroundâ¢Outpatient schedule integration",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.Nuance.Mobility.ACCESS_PHI",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

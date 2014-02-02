@@ -1,0 +1,32 @@
+{
+  "title": "RhythmTouch Lite",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.appliinfo.android.musicgamefree",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "February 17, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "11",
+  "rating": "2.2727273",
+  "contentRating": "Everyone",
+  "creator": "yo-rbn11",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.appliinfo.android.musicgamefree",
+  "extendedInfo": {
+    "installSize": "474k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "\"Rhythm touch Lite\" is a music game to the music to touch as for the panel. *Rule*Various color circle flows from side. You touch the button of the same color when entering it in the circle at the center. *The point of this application program*1:It touches the panel to the rhythm! Let's aim at the perfect game!2:Let's play by using the multi touch!3:It is possible to play readily when a few in becomes empty!4:Everyone can compete for the score by registering my score in the ranking table of the WEB site!*Manner of operation*Play screen:The red button touch down: When circle of the blood red enters circle at the center, it touches. The red button touch up: When thin red circle enters circle at the center, it touches. The yellow button touch down: When circle of the blood yellow enters circle at the center, it touches. The yellow button touch up: When thin yellow circle enters circle at the center, it touches.The blue button touch down: When circle of the blood blue enters circle at the center, it touches. The blue button touch up: When thin blue circle enters circle at the center, it touches.Drug:It is a drug in a right edge (The operation: â â â) from the left end as for a corner round quadrangle that appears on the screen. Excluding the play screen:Red button:ãâââ is moved on. Yellow button: Selection.Blue button:ãâââ is moved below.*coin*Gold coin:ãThe mistake is 0 pieces stage. Silver coin:ã5 in one stage mistake pieces or less. Bronze coin:ã10 in one stage mistake pieces or less. *Level*0-7: Crystal of water8-15: Crystal of fire16-23: Crystal of wind24-31: Crystal of thunder32-39: Crystal of dragon40-44: Crystal of heat45:Crystal of Conquest*Stage*A free version can be played only to stage 1-10. (A new stage appears when a pay version clears all stages 1-12. )*Copyright markSound effect: Music material/maoudamashiiBGM: Music material/rengokuteienOthers:ãAndroid NoteIt is prohibited to sell this part or all without permission.ver1.1:The design and the system were changed.It can move to a ranking page from the \"MENU\" button. Please push the \"BACK\" button, in order to return from a score screen to the original screen.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

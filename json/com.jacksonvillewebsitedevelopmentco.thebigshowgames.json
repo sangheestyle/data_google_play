@@ -1,0 +1,41 @@
+{
+  "title": "The Big Show Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.thebigshowgames",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 18, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.thebigshowgames",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "If you love The Big Show you will want this Weapon of Mass Enjoyment.  Play games featuring The Big Show plus connect with him on social media.Paul Randall Wight, Jr. (born February 8, 1972), better known by his ring name Big Show, is an American professional wrestler and actor, currently signed with WWE. Wight is a seven-time world champion, having won the WCW World Heavyweight Championship twice, the WWF/E Championship twice, the ECW World Heavyweight Championship once, and the World Heavyweight Championship twice, making him the first and only wrestler ever to hold all four championships.In addition to these championships, he has also won the WWE Intercontinental Championship once, the WWE United States Championship once, and WWE Hardcore Championship three times.Wight is also an 9-time world tag team champion, having won the WWE's original World Tag Team Championship three times (twice with The Undertaker, and once with Kane, the WWE Tag Team Championship three times (once each with Chris Jericho, The Miz, and Kane), and the WCW World Tag Team Championship three times (once each with Lex Luger, Sting, and Scott Hall).In addition to these accolades, Big Show is the 24th WWE Triple Crown Champion, the sixteenth Grand Slam Champion in WWE history, and the third wrestler (after Kurt Angle and Edge) to have held every currently active male championship in WWE. Between WWE and WCW, Wight has held 23 total championships. He was also the winner of WCW's annual World War 3 60-man Battle Royal in 1996, and has headlined many pay-per-views for WCW and the WWF/E since the mid-1990s, including the 2000 edition of WWE's premier annual event, WrestleMania.Outside of professional wrestling, Wight has appeared in feature films and television series such as The Waterboy, Star Trek: Enterprise, and USA Network's comedy-drama Royal Pains and the action-drama Burn Notice. In 2010, he had his first major role in the comedy film Knucklehead, which was produced by WWE Studios. Wight has said he would like to continue his acting career and expand beyond roles based on his size.",
+    "reviews": [
+      {
+        "timestampMsec": "1367030045077",
+        "starRating": "5",
+        "title": "Aaaaaaawsome",
+        "comment": "Aaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeeeeeessssssssssssssssssssssssssooooooooooooooooooooooooommmmmmmmmmmmmmmmeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "commentId": "gp:AOqpTOG7p_PugqDRo7juGoRKPewKMNuUdFpFSb4bU9riPvDhDkZelTowDxfW17Gz3J6-2pLeYiYgVDqYC-qGmQ",
+        "author": "Jerrod Ferrez Eriksen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.thebigshowgames.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

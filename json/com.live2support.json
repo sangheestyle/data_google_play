@@ -1,0 +1,73 @@
+{
+  "title": "Live2support Live Chat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.live2support",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "2.1",
+  "operatingSystems": "2.2 - 4.2",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Everyone",
+  "creator": "Live2Support",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.live2support",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Download live chat Android application from Live2Support. Use Live2Support live chat on android devices to support your customers in real time and interact with website visitors and customers. Ensure the seamless performance of your online business, Live2Supportâs live chat is now available on your android devices. You can interact with your customers or website visitors with ease by switching to Live2Support. You will also get to know the name, email, geo location and lot more details of your website visitors on a go by chatting with your customers. Live2support's live chat software allows you to chat with your website visitors, enabling you to give instant online customer support and pro-actively sell your product. It will take your website to the next level of sales generation and customer service. It let you monitor , record website activity and the surfing habits of your customers. Help your customers/website visitors anywhere anytime, send special offers, reply their queries instantly, Invite them for chat and more!http://www.live2support.com",
+    "reviews": [
+      {
+        "timestampMsec": "1359921244461",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "This is the only one that works",
+        "commentId": "gp:AOqpTOFALcT_8CiSNC--muHj9vxJlED08PXLO0RFXAzCQ8XDGvZ_fK01qJxqu1y7F7j0jVuhjpVtzgnkAxFYXA",
+        "author": "Cc Cboutique",
+        "authorURL": "http://lh4.googleusercontent.com/-TVBldHUjkEQ/AAAAAAAAAAI/AAAAAAAAAQ0/XhdJp02aJU0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TVBldHUjkEQ/AAAAAAAAAAI/AAAAAAAAAQ0/XhdJp02aJU0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1359007147212",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOGWROUHQ1jB4h0_74xbWHzYmg1MUwl28KON1yDcAxUATE75MX0ZTN9nstUAJ-JjpIARKqVn00wZoC0VMw",
+        "author": "Ram Bansal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344489742235",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "lg:AOqpTOFyP7MY8kCtkoALTwi8mVkf2GHkIQG-k2qKXmgIH08LUTOqUrkeq_XwioRM89HMjBKcxaOF1k05XOHLtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343210048855",
+        "starRating": "5",
+        "title": "Awesome app",
+        "comment": "Good work by the developers of the app. Nice application",
+        "commentId": "lg:AOqpTOFRGlP7YGn3jQJFreWDYwuXlsSavWoOxVCcwtZf-wcvw77-lFyypjS6XRD-AqEyjIfTaDc_KVvfYYP3-w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.FLASHLIGHT",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.live2support.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

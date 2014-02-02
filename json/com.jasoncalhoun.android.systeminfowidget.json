@@ -1,0 +1,208 @@
+{
+  "title": "System Info Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jasoncalhoun.android.systeminfowidget",
+  "category": "Productivity",
+  "price": "$0.99",
+  "datePublished": "November 20, 2010",
+  "version": "2.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1622",
+  "rating": "4.3181257",
+  "contentRating": "Everyone",
+  "creator": "Jason Calhoun",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jasoncalhoun.android.systeminfowidget",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Access important info & features right from your home screen!System Info Widget gives you an easy glance at some of your critical information, such as battery percentage, uptime, free memory, processor temperature, signal strength and more!You can also define what information you would like displayed on the widget, as well as have the remaining battery percentage shown in your status bar.Available widget items:â¢ Airplane modeâ¢ Autosync â¢ Battery lifeâ¢ Battery temp (Â°F, Â°C or both)â¢ Bluetoothâ¢ Free RAMâ¢ Free ROM â¢ Free SD spaceâ¢ Normal/Silent/Vibrate (Profiles)â¢ Reboot/Recovery (Root Required)â¢ Remount SDâ¢ Signal strengthâ¢ System uptimeâ¢ Toggle 3G/2Gâ¢ Toggle 4G (HTC EVO)â¢ Toggle GPSâ¢ Toggle WiFiWidget Sizesâ¢ 1 x 1â¢ 1 x 4â¢ 3 x 1â¢ 4 x 1Themesâ¢ Defaultâ¢ Eclairâ¢ Icons Only (Default)â¢ Icons Only (Eclair) â¢ Icons Only (White)â¢ iPhoneâ¢ WhitePlease note:* This is a widget, it will not show up in your application drawer. To install, long press on any empty space on your homescreen (A long press will last several seconds). Youâll then notice the âWidgetsâ option. Click on the widget menu then select the widget you want to install. This will place the widget on your Android home screen.* Tapping on the space surrounding the widgetâs icons will take you to the customization menu * Exclude from task killer or task manager apps & do not save widget to SD card* If upgrading, please remove the widget from your screen, download the upgrade & then reboot* Please email me with any questions or visit my FAQ: http://www.jasoncalhoun.com/faqs/",
+    "reviews": [
+      {
+        "timestampMsec": "1294435980682",
+        "starRating": "0",
+        "comment": "I down loaded app but, it won\\'t show on my app. page I think that it would be a good app. If I could just get it to run....",
+        "commentId": "lg:AOqpTOEzKSCLT_W5enm4NUlqZfho0XggvSMN3Gtttj6MTxn-K0zMX_EqUJ5IUoeT9CTxh9HR-jG4FotebIdpyrE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351047250033",
+        "starRating": "4",
+        "title": "Used to work",
+        "comment": "Got the new droid razr maxx hd, redownloaded this amazing app, it worked for the first few days. Then I had to move it and now the data won\\'t load. I removed it and readded the widget, still doesn\\'t work. Uninstalled and reinstalled and it still doesn\\'t work, please fix, I rely on this app so much.",
+        "commentId": "lg:AOqpTOH61P8PubSSkpISS30qno_5yd3w3LEWGKgH8RV5RfGL6hzLh9MqQlIBPWCyBWCVfvKkEyduF5nJfzKCsIY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295282553999",
+        "starRating": "2",
+        "comment": "Battery hog! Love the idea & the look but it ate through my battery fast. Uninstalled. HTC Desire",
+        "commentId": "lg:AOqpTOFsXnEr6gjRNTsQrelyCRL6xynoyoseTiUeh2EWmm9ULKEtPFOilJrZ0W1HXgMLcHjKmFXHpEQz2iPNTXQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300557661793",
+        "starRating": "4",
+        "title": "Love the app but needs Brightness",
+        "comment": "This is great, looks fantastic, exactly what I was looking for, except that it needs a button for brightness adjustment. It\\'s just a necessity these days.",
+        "commentId": "lg:AOqpTOElJhzThvz9hILsBURBEdQtPtn7KRfTnD9lm10XJElNLcj6Uf9Vz6UK-AFV2ZmVIXf21EXQVf26n-gtXkg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356953876628",
+        "starRating": "2",
+        "title": "Abandoned App",
+        "comment": "Looks like developer abandoned this app. Really needs an update for devices with internal storage cards and UI improvements. Uninstalled and using Elixir 2 which is way better.",
+        "commentId": "lg:AOqpTOEtl6LDYzLw9aKXbSEqLZTMwgFqUCmwIORoak1mbhwt_JDFslcoGCp1BjBjPgD-qeg37fbL0_HSds9VANY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1314413703293",
+        "starRating": "5",
+        "comment": "HTC EVO. Been using this since the EVO came out. Works perfect on every ROM I have used. Battery drain? Never had problem. Very useful widget.",
+        "commentId": "lg:AOqpTOGlMuedQEGgOss7UJtpoXuUo0AWTu785_kI14v5OD7J9m95SSuT6XSpATsQCTOyllqlrLTMCYSrqALUzSY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342644122124",
+        "starRating": "3",
+        "title": "Nice app",
+        "comment": "like the title says it is a nice app but the support isn\\'t there, the last update was 2 yrs ago",
+        "commentId": "lg:AOqpTOGxFrJspCASMOn4sylr-itMQ80-qNQLRas9CA72yc5N3TFoO7jtYW5zTDZ1UbWc9s1bLNwq8vNrxIKI-A8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378934349583",
+        "starRating": "1",
+        "title": "Doesn\\'t recognize external SD",
+        "comment": "Doesn\\'t recognize external SD on my s4. Shows it as internal SD space instead",
+        "commentId": "gp:AOqpTOFpGdDR_xzs60XYWcUbgGJivFWDLNvB20F9v12ulPgYkgHvujWdicJdbHsxigb7FxAgm9yPmg6PJKiGZiQ",
+        "author": "Palak D",
+        "authorURL": "http://lh5.googleusercontent.com/-f3BWM29Cf7g/AAAAAAAAAAI/AAAAAAAABWE/M6tNl_2AJXQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-f3BWM29Cf7g/AAAAAAAAAAI/AAAAAAAABWE/M6tNl_2AJXQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1316578066454",
+        "starRating": "3",
+        "title": "Ok, but...",
+        "comment": "My samsung already has some of these widgets. I wanted a good cpu indicator and it doesn\\'t even have that. What?",
+        "commentId": "lg:AOqpTOG2Hp4OS-M531aKuxqPglXfNx9dxkLNMHMDmqf86btZ00gUtWeF7XGaxSbp1XwZPYlrwjCucHi4BI2KGSg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1300408339807",
+        "starRating": "5",
+        "comment": "Shows all the information that keeps my system running fast! Well worth the cost! Droid X",
+        "commentId": "lg:AOqpTOHd3ybshLpJZSolzwQdqv7TrbiBVJVa72PCyMBBmLiMnvuMvIgivTxcFP1FQF0K0Zvi-00MY7kTNgimJBU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334609621903",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Would like a few more themes to choose from. Been the same ones for over a year now.",
+        "commentId": "lg:AOqpTOEqWCJrmnEDGO-lDJ-Mu7oS7AvOb46g2ljWOKREXBnY9dTlBJBRawnuPflOJAAZT-s1vN9L1B6tpaYQnbs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1305581134197",
+        "starRating": "4",
+        "comment": "Freezes my nexus s and kills battery even after changing update interval.",
+        "commentId": "lg:AOqpTOEzALDmvfAZhRiehkpNasi729w7hYsoIYPKf4NmW85B1mSRdxhcU5wtxxxTAmE6sjpI1F4LrTyFcXR42Yc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309924510986",
+        "starRating": "5",
+        "comment": "Simple and elegant. The most essential widget for monitoring your phone!",
+        "commentId": "lg:AOqpTOHxbNabcxlbmOR5BF5KTbQCIA5m8kXUpetGjY8oh0zco2d8gNX1vua9wWapBig44aKu9yu1EHtK-i3dnm4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374284292752",
+        "starRating": "5",
+        "title": "Like a dependable friend!",
+        "comment": "I\\'ve used this for a long time, gives me everything I\\'m looking to monitor. Thanks dev!",
+        "commentId": "lg:AOqpTOHU-QytzkU6hfFENjtHfuTMdilMA8STBKeH1hqRx_i1jwzsImtUra5PYzNYachbzy4QrxNVc4twIHmJJHE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350482420783",
+        "starRating": "4",
+        "title": "SD card memory doesn\\'t work on new phone",
+        "comment": "This worked   perfectly on my Droid X. I now have a samsung galaxy 3 and the SD memory card info doesn\\'t work. It shows the internal memory instead.",
+        "commentId": "lg:AOqpTOEF8qCkaEs34O2qBzCnisQa1Gt9fwhNL7wf7kchrnqtx1YzxMKBGtHNoFwUJZCiwDNeGuFJwyIImQoJvNE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1315350221231",
+        "starRating": "4",
+        "comment": "This is the best and most stylish sysinfo widget. My issue is why would it not always update properly on the evo3d? Update needed!",
+        "commentId": "lg:AOqpTOGQ6bGZfrfE8P5-0Fkx1q1xa6vGFI_B5xCPV_6IxPCZJPio0h2zOE_FfiR85A2oFB7cmSIDEEdxTGmpQlc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1306678932125",
+        "starRating": "4",
+        "comment": "Seems like a great widget but my purchase was a last ditch effort to get signal srength numbers, apparently not possible on my device.",
+        "commentId": "lg:AOqpTOG4FGWvNMdsj9EezFGzdMWGlDYMTgNbmed6IBevxhifSIoMNaEKAYm8Q065snp8vG6fHTtvaOk6MCCjbzE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1293247253601",
+        "starRating": "5",
+        "comment": "Very easy to use, and to setup. Worth the cost to me. I have multiple widgets in the screen to get even more icons at once.",
+        "commentId": "lg:AOqpTOFbXYRFzh87LvwrrxFkOPa-RmhrBt3dhCMBYMI8eTsKUYDAhIsSxLmK_H5XlyQgS0zVDgn7sjShYCRw1HU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316148706180",
+        "starRating": "5",
+        "title": "Definitely worth the buck",
+        "comment": "Useful, clean, easy to use. It took me a few minutes to figure out how to configure, then easy. It would be awesome if you could expand with some internal system usage metrics. Wifi selection would be kewl too.",
+        "commentId": "lg:AOqpTOF6nfmTaGlIVK_tQzOY7GK9KiI4HzhufHtrZELuXXz23VUpgMht46g4DkGkrxYdMbMqQNbmnXY0EHEM9vE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313344890572",
+        "starRating": "2",
+        "comment": "Some nice features, but widget stays resident in memory after removal from homescreen. 2.3.3 EVO",
+        "commentId": "lg:AOqpTOEgRe2ahPwj8s9rnK_Y_4oadMuHt5oX7Ru-zBDQ7oIKY-KQ9UXNqK8I5RgnXt-JqkEQVax-fN8IICpFROQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.WRITE_APN_SETTINGS",
+      "android.permission.ACCESS_WIMAX_STATE",
+      "android.permission.CHANGE_WIMAX_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "title": "Note Me",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.quicknotes.views",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.7.19",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2444",
+  "rating": "4.3261046",
+  "contentRating": "Everyone",
+  "creator": "Paramvir Bali",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.quicknotes.views",
+  "extendedInfo": {
+    "installSize": "546k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "NOTE: Pls contact us at 'support.android@pocketyourworld.com' before leaving bad reviews as we cannot reply to your comment and give clarification to fix the issue.Looking for a notes application that not just takes your notes, but also lets you find them when you need to?Well, look no more!We developed Note Me not just to help you jot down ideas, meeting notes, personal memos etc., but also to be able to organize them in such a way that you can find the information you are looking for easily.Key Features:- Multiple Tags can be applied to each note- Advanced filter. Use any combination of Tags to view only selected notes.- Mail/SMS/share multiple notes at the same time with other apps like Calendar etc.- Multi note operations like applying tags, deleting etc. can be easily performed by selecting multiple notes at once- Detailed user manual- Attached reminder to notes- Create Home Screen shortcuts to Notes- Comes with black/white themes- Import/Export notes to SD card- Touch screen UI controls- Customize UI like preview line, font size etc.- Sendto CalendarUSE 'MENU' Button  4 Description of ICONsCLEAR MARKET CACHE N RESTART MARKET FOR ANY UPDATE RELATED ISSUE",
+    "reviews": [
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1355972556544",
+        "starRating": "5",
+        "title": "Ads can be disabled from settings",
+        "comment": "Hotfix for startup crashes. Get the latest version 1.7.19",
+        "commentId": "lg:AOqpTOGnbmKRwJHuVFl3JHjKefJ2l3vYicQq7V97Z0zK1GFJZi04lRNTU3popCD8c4DznTSznakmW19hq80e-A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1356522394872",
+        "starRating": "5",
+        "title": "Nearly perfect",
+        "comment": "Outstanding feature- packed notebook. Perfection would include integration with LorSoft\\'s Task List homescreen widget.",
+        "commentId": "gp:AOqpTOHTEI6pIXb065ZfHmE0DAZATbfiUTZngMVdqh1B6WfcDUYaU0AdZVuOXYtDfxIr1hZVObX4BD0uLzwqGQ",
+        "author": "Martin Sharpe",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1356617500295",
+        "starRating": "5",
+        "title": "Better than the standard notepad!",
+        "comment": "Cool! Easy to organize!",
+        "commentId": "gp:AOqpTOHEweVkDCQCn2HyMNdU4VfNhNy4z1JilEVpDvMVzl5hV45yG61cb3fZkCVBfHawfDGLDjhSJU-c-1c9-w",
+        "author": "Nathan Pe\\303\\261alosa",
+        "authorURL": "http://lh3.googleusercontent.com/-6qD_lplRve4/AAAAAAAAAAI/AAAAAAAAABY/HbWbXQM_xSI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6qD_lplRve4/AAAAAAAAAAI/AAAAAAAAABY/HbWbXQM_xSI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1371962111646",
+        "starRating": "3",
+        "title": "Settings problem",
+        "comment": "Settings not working properly. Unable to hide tools. ...Updated- there is no support to increase or decrease fonts. Also we need support to sync link to google drive or dropbox or box.Presently I have beeen using \\'simplenotepad\\' and it is working fine. But \\'noteme\\' is also a wonderful app which if improved on the above mentioned drawbacks ,would become more useful.",
+        "commentId": "gp:AOqpTOFVjDqWR2-h2xVmfwEQ2x_CAfzuqEYdmYCyUg2CJ_yFHpWghD-EFMekkoFM3oUA2kbjn9p5nH7MgAypBA",
+        "author": "ajeeT singh",
+        "authorURL": "http://lh3.googleusercontent.com/-SPLR3F3IQWI/AAAAAAAAAAI/AAAAAAAAAaY/CN3x-4O9wkw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-SPLR3F3IQWI/AAAAAAAAAAI/AAAAAAAAAaY/CN3x-4O9wkw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1362317365918",
+        "starRating": "5",
+        "title": "Does what it says.",
+        "comment": "Simpke as that. Very fast and simple. No fancy stuff or something, it just works as notes, very fast to write, very fast to read.",
+        "commentId": "gp:AOqpTOHWy44tAo8R7MAvGLunYNZc3OmBmBBZEhAiZXnPPDJKQXMhZbuAb24ZgjnxOEonTPIL8sOtEOAVQfsWnw",
+        "author": "Nikola Grujicic",
+        "authorURL": "http://lh6.googleusercontent.com/-HTP5ppkGvow/AAAAAAAAAAI/AAAAAAAAAIg/7_wxQdqz4lw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-HTP5ppkGvow/AAAAAAAAAAI/AAAAAAAAAIg/7_wxQdqz4lw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1359963498902",
+        "starRating": "4",
+        "title": "IMO S88",
+        "comment": "So far so good",
+        "commentId": "gp:AOqpTOHMJ6GlX1RQ6s_1NDtL6vY1PCcI_4KQeXF4kOw8DzVOmQom8zSfFqHA_cvB-_LNlmbX03Fmed_fOa30OA",
+        "author": "Tirta Dehatta",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1364063107726",
+        "starRating": "4",
+        "comment": "Good app just add auto sd card backup and password protection.",
+        "commentId": "lg:AOqpTOF6ru9zJMumEken2Bposwdm4-ajrCMYBmNfq-uToh1qASp1Z9oItHVY22p-Ntxo2bS2gyAp62mivYir3g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.19",
+        "timestampMsec": "1367234953354",
+        "starRating": "5",
+        "title": "The Best",
+        "comment": "I love it...",
+        "commentId": "gp:AOqpTOHfmEMOTgGBEhgYYBBT34Xd80BuhTcvfNrzMnougMRJ0YhUF8He2yR176yC6lhzxXqZ2pQXlwtXsXRGvg",
+        "author": "Ty Swany",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.18",
+        "timestampMsec": "1355888493402",
+        "starRating": "5",
+        "title": "Much better",
+        "comment": "Ads are optional now, yeaa. Use this app constantly.Thanks",
+        "commentId": "gp:AOqpTOG2f8_3SXvQP5xo3dTgGdCRNBEjJymh_Wfu3JHFRoA_WLUZJXu9MBb7cJT45s6jkKzHXf0Oppntv_sFOw",
+        "author": "Will Gormley",
+        "authorURL": "http://lh6.googleusercontent.com/-YhDNhmeeb1s/AAAAAAAAAAI/AAAAAAAAAAA/gm0NIjUwZOc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-YhDNhmeeb1s/AAAAAAAAAAI/AAAAAAAAAAA/gm0NIjUwZOc/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.16",
+        "timestampMsec": "1349387023650",
+        "starRating": "5",
+        "title": "Best Little Pad East of the Pacific!",
+        "comment": "I chanced happily on this note app and I am thankful I did. This amazing program can do just about anything and does it smoothly, cleanly and without FCs or battery drain. Its clean UI is the nicest I\\'ve seen. It\\'s fresh, readable and instantly lets you know the status of your actions. There is even a key to eliminate the ads!!! The dev replies to emails quickly and the updates have improved on what was already a great app (as opposed to do many other updates lately - SP, Go, etc.) Hats off to the best !!!",
+        "commentId": "lg:AOqpTOFEv1s0196y3VtKLGYJzUpRA5RqWrbiPqzGUxMix11cRF7S5dNNj2nfDVOQfmBufiAwyNe7KjoJD-VITA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.16",
+        "timestampMsec": "1355600456881",
+        "starRating": "5",
+        "title": "2nd Best Note App",
+        "comment": "been uzing this app since my first android ph, 1 of the best note apps available",
+        "commentId": "lg:AOqpTOGNRBLuZ6NtOq190e_NaPfwgCzMaHToiAv_q6bt9NBGXr6WObZI8DGjnYZFfxJhpE1zuHiIoTgycxth3w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.16",
+        "timestampMsec": "1349083298732",
+        "starRating": "5",
+        "title": "Best I\\'ve found",
+        "comment": "Does what it says on the tin, I\\'ve yet to find a better note taking app on Android",
+        "commentId": "lg:AOqpTOEm_ByfkDg8tZWwKurQvXuIW0go3yJ0HoFEw-ehwf2XKBfZXPxjMgPUC8AovV-b4R32B9E9J9LnzcprsQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.16",
+        "timestampMsec": "1354490407365",
+        "starRating": "5",
+        "comment": "An essential app that I couldn\\'t be with out",
+        "commentId": "gp:AOqpTOG5RBzfq6JlrEHWMlJCyUNDOxPKc66qMfQ2OGkwkqDKbxL8rJdGailU6Dd-zHI6VvB_3-6v7VdTDT0qZQ",
+        "author": "gordon gilchrist",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.15",
+        "timestampMsec": "1348019525321",
+        "starRating": "5",
+        "title": "Entirely practical",
+        "comment": "I have been using this app since the beginning. I\\'ve never had any reason to switch. It\\'s feature filled and quick. It\\'s worth the look. Download this!",
+        "commentId": "lg:AOqpTOFegtYUSc_MUY0QpZoNTWCOI5P9-foH2gUGKcIT8yYhwldTbCauBHnu9Lc0yqManpDIGg6FIun-rtxRHg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.15",
+        "timestampMsec": "1349084059525",
+        "starRating": "5",
+        "title": "Fundamental to my day",
+        "comment": "Simply a SUPERB app. Its how Ive kept my to-do list with it for over a year now. Versatility in ability to make tags makes this app wonderfully adaptable to individual needs. Great look too. I can\\'t do without this app!",
+        "commentId": "lg:AOqpTOH-GRvvw1PSJJ3ceCrYe8p_ynB5PFHzYseYdaDyouRyGX62cagrEElUHLfSPypUJBfBW6uBFQdfJbozcg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.15",
+        "timestampMsec": "1349148227232",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Excellent app. It has all the features 1 cud want..",
+        "commentId": "lg:AOqpTOG6c8EIoqROhAkVbQHwpiIbhrK4jXobLjLKH5z8sz9JCxRPfA6wv5RyWJJH12VdFCXWSuzgIh97uL_Pig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.15",
+        "timestampMsec": "1348261893403",
+        "starRating": "2",
+        "title": "No content search",
+        "comment": "This is a note app which doesn\\'t permit searching note content!! That\\'s simply a fail, hence 2/5. Please implement content search devs, your app is worth it.",
+        "commentId": "lg:AOqpTOFYyT21Fj7Vt5KKj5cfTUnD8MS8myZdV2Zsb9a_KFAqkkvbuHAyIKAlbu4Arm28rEZYK9cyTeM9diXh6w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.15",
+        "timestampMsec": "1349080054104",
+        "starRating": "5",
+        "comment": "Favorite notepad app",
+        "commentId": "lg:AOqpTOE4mSaO5YhwQmIUWcsaoLnx_XusPiHccBsJJiKTEpGJ7mHrVk8cnzFtqv2hr4YJxhW3kXkGdSQZgQ_paQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.12",
+        "timestampMsec": "1332914803610",
+        "starRating": "5",
+        "comment": "Finally, an app I can use as a route list for work with all the necessary features. Great job.",
+        "commentId": "lg:AOqpTOF22gpGMnFwLyw8sJ3VaWtKvX4TDmX2oB62FiMV_cldrfKt1-3Sf_gGcRk-FWvWSQYmfpCWUxq-UTgytw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.12",
+        "timestampMsec": "1338352197207",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "I have been using this app for some time and think it is great.  I do not use all of the features (tags, etc.), but for a simple list making app it works perfectly.  My one issue is that a few updates ago they added lines on the pages which actually takes away from the beauty of the text.  It would be nice to have the option to turn things of f.",
+        "commentId": "lg:AOqpTOFStZs5MfQV1RRo5LWItBzBs_aXmFAvcHzWtHft6iQboUTRS4iGKKAVmOr1IQN2uWqascK9x53_vcOKZw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Calorie Register",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jasonanderson.calorieregister",
+  "category": "Health & Fitness",
+  "price": "$4.99",
+  "datePublished": "March 28, 2011",
+  "version": "1.0.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "3.5",
+  "contentRating": "Everyone",
+  "creator": "Jason Anderson",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jasonanderson.calorieregister",
+  "extendedInfo": {
+    "installSize": "109k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Keeping track of your diet is now easier than using a checkbook register.Calorie Register is a counter and tracker that will help you keep track of Calories, Fat, Calories from Protein, Sodium, Carbohydrates, Weight and various measurements in an easy to read, easy to input manner.  No more writing down and doing the math at the end of the day.  No more forgetting snacks or even whole meals.  Now you can input your calories as you consume them and Calorie Register will do all the math for you!  Calorie Register will remember the any items you enter, including the name, calories, fat, protein calories, sodium and carbohydrates of the item.  This information can then be autopopulated when entering additional register entries.A \"home\" screen gives an at-a-glance reference on your caloric intake from the previous day in addition to today.  It also summarizes your intake for the week and month, your current weight and the average weight change per day for the last 7 and 30 days.Calorie Register has preferences on the target number of calories, the number of days to display on the register, the colors of the registers and a unique feature of Calorie Register, Carry Over.In \"Carry Over\" mode, Calorie Register will calculate the difference between the target calories and the actual calorie intake from the previous day.  It will then take that difference and adjust the current days intake calculation, thus directing you to the correct two-day caloric intake.Calories, Weight and Measurements all have reports which include graphs so you can see your progress at a glance.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1327552078774",
+        "starRating": "4",
+        "comment": "I like the app. Basic and works well, but the fat totals don\\'t show up...",
+        "commentId": "lg:AOqpTOHfo8jaLAv9qCNtRY7j8XPqu08wgjKxdrGuaQJBBgabAV6_1DoKqfxrQ2_qhobiYspn_sDKr-H78jvuzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.2",
+        "timestampMsec": "1301170148819",
+        "starRating": "3",
+        "comment": "Three issues. You should be able to also log fat counts, you should be able to edit a calorie item & be able to store food names used frequently",
+        "commentId": "lg:AOqpTOEqYWN3CSlW8PgVKZzTd62Nx1FMPf4cwhZm6T5NRTBY5Hmpt2vbctzooMHT0XtMlACEukm_KReb-Sizew",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

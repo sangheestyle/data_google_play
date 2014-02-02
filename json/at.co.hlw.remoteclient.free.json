@@ -1,0 +1,230 @@
+{
+  "title": "iTap mobile RDP free trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=at.co.hlw.remoteclient.free",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "1.7.1.22950",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "129",
+  "rating": "3.7596898",
+  "contentRating": "Everyone",
+  "creator": "HLW Software Development GmbH",
+  "creatorURL": "https://play.google.com/store/apps/details?id=at.co.hlw.remoteclient.free",
+  "extendedInfo": {
+    "installSize": "5.2M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "This is a free trial version of the iTap mobile RDP remote desktop client. Manage your Windows desktop from your Android device. Utilizing the Microsoft RDP protocol, iTap mobile RDP gives you complete control and fast access from anywhere. Supports TS Gateway and does not need software to be installed on your PC.â FASTWith advanced compression and caching technologies, iTap mobile RDP allows you to use your Windows desktop conveniently, even when forced to use slower EDGE or GPRS connections. Compared to other Android clients iTap RDP can be more than twice as fast as the next best competitor.â SECUREiTap mobile RDP offers FIPS compliant security and support for NLA (Network Level Authentication). Additionally it is possible to automatically reconnect to existing sessions without storing passwords on your device. â USABLEUsing the same convenient gestures as iTap mobile touchpad, iTap mobile RDP puts you in full control over your desktop. Whether you need to scroll, drag and drop, or just right-click, you can perform all your tasks without having extra buttons or bars cluttering up you screen.Using our new desktop engine, you can access even huge desktops with full speed. In addition the sound of your windows desktop will automatically play on your Android device.The built-in keyboard features all the keys and modifiers found on a traditional PC keyboard. Additionally it has full support for international languages, including eastern asian input methods.The unique scope mode gives you precise control over your mouse and convenient drag-and-drop gestures, while still maintaining quick access to your complete desktop.SUPPORTED REMOTE SYSTEMS+ Windows XP Professional+ Windows Vista Business, Ultimate and Enterprise+ Windows Server 2000+ Windows Small Business Server 2003+ Windows Server 2003 (console and terminal server)+ Windows Server 2008 (console and terminal server)+ Windows Server 2008 R2 (console and terminal server)+ Windows 7 Professional, Enterprise and Ultimate+ Windows Small Business Server 2011+ Windows Server 2012Microsoft limits the Windows features in \"Home\" editions. If you would like to make use of RDP please upgrade to one of the supported Windows editions. FEATURES+ Support for TS Gateway (RDP from Anywhere)+ Support for RD Web Access and RemoteApp+ Support for NLA (Network Level Authentication) and TLS security methods+ Native resolution support on all Android devices+ 60% less bandwidth than any other RDP client on Android. This means twice the speed over slow networks!+ Huge Desktops. Up to the Windows limit of 4096x2048 pixels+ Sound support. Stream sound from Windows directly to your phone+ Built-in support wizard+ Unique scope mode for precise control of your remote desktop!+ Three different mouse input modes+ Automatic bandwidth reduction on 3G networks+ Automatic reconnect without needing to enter passwords+ Highest security (including NLA and FIPS compliant security protocols)+ Full international keyboard support+ Fully gesture based for maximum screenspace+ Compression and persistent Bitmap Cache for reduced bandwidth+ 8, 16, 24 and 32bit color modes+ Console sessions (Windows Server products)+ Remote Program support (start programs automatically on login)+ Convenient server search and reachability tests for bookmarks+ Remember multiple credentials per server+ Clipboard redirection+ SD card redirection+ App2SD+ Bookmark shortcut for homescreen",
+    "reviews": [
+      {
+        "documentVersion": "7.1.22950",
+        "timestampMsec": "1373657369400",
+        "starRating": "1",
+        "title": "Failed to parse authorization challenge",
+        "comment": "When I am trying to use RD Web, it displays all the icons. When I click on the app icon, it display an error message \\\"Failed to parse authorization challenge\\\"",
+        "commentId": "gp:AOqpTOGpPG62CTEDDCJ2VhUPR9a5f-caMRk-fUvX6-IeuB7ZAF5rDjaVdNB4Dv9aPe0vvDBm-c8TTS3KXjY1IA",
+        "author": "Daniel Leung",
+        "authorURL": "http://lh6.googleusercontent.com/-P-f5vLYZGXs/AAAAAAAAAAI/AAAAAAAAAIc/PkXTcNlOMqY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-P-f5vLYZGXs/AAAAAAAAAAI/AAAAAAAAAIc/PkXTcNlOMqY/photo.jpg"
+      },
+      {
+        "documentVersion": "7.1.22950",
+        "timestampMsec": "1375299851090",
+        "starRating": "5",
+        "title": "fantastic for RDweb & Jetro",
+        "comment": "finally cloud delivered directly to tablet. very smooth experience gesture works really well.",
+        "commentId": "gp:AOqpTOEf3rTDi4IAYa3D-JV3QCVMJVBS2Znet--jzqRKD-IdVQV8pidb7A3tkTcEYRga80fvSjvOY5OktBh8og",
+        "author": "Ash Dastmalchi",
+        "authorURL": "http://lh5.googleusercontent.com/-V3agrcBditU/AAAAAAAAAAI/AAAAAAAAHMk/btUcoc6RW_0/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-V3agrcBditU/AAAAAAAAAAI/AAAAAAAAHMk/btUcoc6RW_0/photo.jpg"
+      },
+      {
+        "documentVersion": "4.3.21737",
+        "timestampMsec": "1351730641705",
+        "starRating": "2",
+        "title": "Keep in mind, only for test features, not useful",
+        "comment": "need to wait for some seconds in a warning dialog box until connection be enabled and connection is down after 3 minutes.",
+        "commentId": "lg:AOqpTOElYrmZbIjh-W1TlnVsmkfpvbdpvQvXRSOjseZ0-P3RjmzVqw2z6osoxCTVbPlaUKU6hJ3gmNK-3KHwkg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.21737",
+        "timestampMsec": "1351651732906",
+        "starRating": "2",
+        "title": "Cost more than iOS version and not as full featured",
+        "comment": "I am evaluating all of their clients and was surprised to see iOS $11.99 version has more features than their $14.99 Android app.  Also iOS is tablet optimized but Android version is not.  RD Webfeed would have nice on Android, too.",
+        "commentId": "lg:AOqpTOFBZX7M-1nK-1KJ47yHUswOnGVNOTm1215YFnhIh1HKVJaCQpyqW69L45FlyVwbfQgjvvUAJt-uVyOQsA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.21737",
+        "timestampMsec": "1357064743634",
+        "starRating": "5",
+        "title": "Right click",
+        "comment": "Read the gestures manual on how to do gestures!",
+        "commentId": "gp:AOqpTOG8SfcB_3UxEUM_xAfI25t9P9--yGDs-xGRX61qZNkrcxifFdXOMiqLkX3HyzkOzA3MCKCxK5NEIc0g7Q",
+        "author": "Harpinder Sanghera",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.3.21737",
+        "timestampMsec": "1356834046613",
+        "starRating": "5",
+        "title": "Apps",
+        "comment": "Good exellent",
+        "commentId": "gp:AOqpTOGmf6MEAV1k1vuM--WjaG41wzkXn8o25sChrHh6wooiUTMmoZKQBc0IVKV2Zg9aviYk1HXSAzlYYjSOIw",
+        "author": "Lasmiwati Butarbutar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.2.20424",
+        "timestampMsec": "1344888468391",
+        "starRating": "5",
+        "title": "Great app... lol @ cheapskates",
+        "comment": "Great app. Works perfectly for me, also purchased iOS version. Cheapskate whiners: limitations... on a trial???? You\\'re kidding !???!?! I\\'m aghast. WTH do you think a TRIAL is?",
+        "commentId": "lg:AOqpTOEKYKD9mLk4WS6LCDBtWOPwF4i4CMbxvg_WIoECLedYuyR5n1BDXX3PHAl83Mu8_aCJWY9HZAu1JE4X8A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.0.20147",
+        "timestampMsec": "1334291136671",
+        "starRating": "5",
+        "title": "Wow!",
+        "comment": "TS gateway support is great - I now no longer have to connect to the VPN at work first, mapping local SD on through to the host works well and all-in-all its a really good little client. I\\'ll definitely be recommending it :-)",
+        "commentId": "lg:AOqpTOHgDZxB92jfxiHstArQDmKWup4NkrSxNKqhtC_MbOBFzFwCE5MpBRRvnd_iHgo_uCf-sXeWBGr6H0PeFQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.0.20147",
+        "timestampMsec": "1334165923260",
+        "starRating": "1",
+        "title": "Hard to use",
+        "comment": "I could not simply closes windows app!",
+        "commentId": "lg:AOqpTOFEh3rZivx4TBY1sGCK5VQPPJyqzCZr1LnNXoyRF5TYjIP5TK40f8pHLNQJbeOZs4xrPznvbp37Mtz84A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.0.20147",
+        "timestampMsec": "1332773016375",
+        "starRating": "5",
+        "title": "unrated",
+        "comment": "Asvassu",
+        "commentId": "lg:AOqpTOGhiACVXAk2Uvf7fSinZzeb-aGCpIFEBeUsamQSdLPqAlb535AyyAC31Mk2SqBwFXm6MYG_HLFggA2zNg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.17703",
+        "timestampMsec": "1329953790937",
+        "starRating": "4",
+        "title": "Great!  LOVE TS Gateway Support",
+        "comment": "Finally a RDP client with TS Gateway support on a popular platform besides Windows (saw your MacOS client too). MS should be ashamed to be beaten to the punch on all fronts. Who wants to bet this company does it again on the Windows ARM port of Windows 8? Thanks and just FYI you could raise your price too! I would have paid 20+. Those new to networking should have someone knowledgeable set this up. Xoom people should update. Fixed my issues.  Minus one star for honeycomb support....little problematical.",
+        "commentId": "lg:AOqpTOFcF9UscB5eGaMAeaApN_RTd_s4Sqo6JxSWo0oH7AY0jcQ1tNKR0wc8MbL6B2preTvJviBsRVuGD1ts9g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.1.17703",
+        "timestampMsec": "1326615303054",
+        "starRating": "2",
+        "title": "Crashed",
+        "comment": "\\\"iTap mobile RDP has crashed...\\\"  Crashed upon first connection. Bugged. Uninstalled.",
+        "commentId": "lg:AOqpTOHyPKMwBSaUgRBe4WE5y9GN947QkTU9mq9pPb7sF-kyO9wKZJiSomW_TN-lqOt_106YLhX5QBryhE60mA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.16164",
+        "timestampMsec": "1325676071621",
+        "starRating": "5",
+        "title": "Best RDP client!",
+        "comment": "The only client that connected to my Ubuntu machine without screen or keyboard problems!",
+        "commentId": "lg:AOqpTOEw6F3DX6nnL12KkJCcgkIPY67P-JKeM4BdW_MAYrEo3Tt1WfBQi5vcx1ABZfCcXgJMQ4mgg1Ak-m8nNg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.16164",
+        "timestampMsec": "1324116204611",
+        "starRating": "3",
+        "title": "Has potential",
+        "comment": "Works well, but critical bug means I won\\'t be buying this. Where connection may be down, this app gets stuck in a loop. check out 2X client instead.",
+        "commentId": "lg:AOqpTOF49sJfekCSMQqy0_nnQUOfa4XlqF3DH8msFq6mKBesxIJP97puf6Ch3qgXsswg8JJf4AMhGkLqiQWUNw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.16164",
+        "timestampMsec": "1317566979641",
+        "starRating": "1",
+        "title": "Crippled Trial and no Honeycomb Tablet support",
+        "comment": "Nag screen counts down every launch and once in use it times out after 3 minutes.  Also does not work well on Samsung Galaxy Tab 10.1 - can\\'t store credentials and keyboard support is poor.  Go with the 2X client, I\\'ve tried 5 now an this is the best and its\\' FREE.",
+        "commentId": "lg:AOqpTOFwDktP6CxSukUtHEsUuTlQZRS_1liiorkNqpiwtTQNsfxRhzC46M84pU3Uvp7gZwiNDNG4qxA6IzMmvA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.16164",
+        "timestampMsec": "1303314048196",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Works great, support for RD Gateway is very good. Control of remote host is excellent.",
+        "commentId": "lg:AOqpTOG1svXoxodxZgaC34eLkknV5zDwdtW1Haem7RYtniDJyuIkG_gHwKPsCkPI_PLxeo79F4YMBzCSH8PRzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.16164",
+        "timestampMsec": "1318154275179",
+        "starRating": "5",
+        "comment": "Mukastar",
+        "commentId": "lg:AOqpTOFjb91Ap6sg3a0QC28AnWlhUNZMZCkoInYDpH0GPnrruLp_ihAvPgOscZbNQuMzgenBjH-uaYBUJXRXpA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.16059",
+        "timestampMsec": "1311217722918",
+        "starRating": "4",
+        "title": "Lame trial limitations",
+        "comment": "3 minute limitation is crap. Otherwise, mostly good. One feature I like not in this app but in the apps by Xtralogic is when youre pointing around with the mouse, you can flick the screen and it will slow down like there is friction acting on it, kinda like menu scrolling. In this app, it stops as soon as you pull your finger away. -Evo 2.3",
+        "commentId": "lg:AOqpTOF4a-9zh-JnTXa_OseQH1Oc98_m6XWjUhLg_BfXExgC2nzhd-dqo_KlQXwo2NK-25YsHRjToBGptIRkhQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.15224",
+        "timestampMsec": "1307145570163",
+        "starRating": "1",
+        "comment": "90 second connections is not a fully functional trial. Its a ***** scam. Uninstalled. No purchase.",
+        "commentId": "lg:AOqpTOGo7ZewFF3alUr3c7ZQfW94bNNdqk1mAhyIsJhysvbgj6LB4_NFg1F9Z1ssfzhHHG1wAcYvfYT6U7L2Lw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.15224",
+        "timestampMsec": "1305927742427",
+        "starRating": "2",
+        "comment": "The app is good. But why is it 24 mb when on phone and 18 mb when on SD card? Other remote desktop applications are only 1 mb when on SD card!",
+        "commentId": "lg:AOqpTOEBWpnTeUw81wRZpKh48rcma96NGlXIoZrEzaGDlR5fehvxsvSdUWxm4cvQSOj0Q1X_ngpBKFTI2K5ufA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

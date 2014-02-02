@@ -1,0 +1,34 @@
+{
+  "title": "Fun Mariah Carey Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.mariahcareyapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.mariahcareyapp",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Mariah Carey?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Mariah Carey memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Mariah.Mariah Carey (born March 27, 1970) is an American singer, songwriter, record producer, actress, and philanthropist. Under the guidance of Columbia Records executive Tommy Mottola, Carey released her self-titled debut studio album Mariah Carey in 1990; it went multi-platinum and spawned four consecutive number one singles on the U.S. Billboard Hot 100 chart. Following her marriage to Mottola in 1993 and success with hit records Emotions (1991), Music Box (1993), and Merry Christmas (1994), Carey was established as Columbia's highest-selling act. Daydream (1995) made music history when its second single \"One Sweet Day\", a duet with Boyz II Men, spent a record sixteen weeks on top of the Billboard Hot 100, and remains the longest-running number-one song in U.S. chart history. During the recording of the album, Carey began to deviate from her R&B and pop beginnings and slowly traversed into hip hop. This musical change became evident with the release of Butterfly (1997), at which time Carey had separated from Mottola.Carey left Columbia in 2000, and signed a record-breaking $100 million recording contract with Virgin Records. Before the release of her first feature film Glitter (2001), she suffered a physical and emotional breakdown and was hospitalized for severe exhaustion. Following the film's poor reception, she was bought out of her recording contract for $50 million, which led to a decline in her career. She signed a multi-million dollar contract deal with Island Records in 2002, and after an unsuccessful period, returned to the top of music charts with The Emancipation of Mimi (2005). Its second single \"We Belong Together\" became her most successful single of the 2000s, and was later named \"Song of the Decade\" by Billboard. Carey once again ventured into film with a well-received starring role in Precious: Based on the Novel \"Push\" by Sapphire (2009); she was awarded the \"Breakthrough Performance Award\" at the Palm Springs International Film Festival, and Black Reel and NAACP Image Award nominations.In a career spanning over two decades, Carey has sold more than 200 million records worldwide, making her one of the best-selling music artists of all time. In 1998, she was honored as the world's best-selling recording artist of the 1990s at the World Music Awards. Carey was also named the best-selling female artist of the millennium in 2000. According to the Recording Industry Association of America, she is the third best-selling female artist in the United States, with 63.5 million certified albums. With the release of \"Touch My Body\" (2008), Carey gained her eighteenth number one single in the United States, more than any other solo artist. In 2012, Carey was ranked second on VH1's list of the \"100 Greatest Women in Music\". Aside from her commercial accomplishments, Carey has won five Grammy Awards, 17 World Music Awards, 11 American Music Awards, and 31 Billboard Music Awards. Referred to as the \"songbird supreme\" by the Guinness World Records, she is famed for her five-octave vocal range, power, melismatic style and signature use of the whistle register.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.mariahcareyapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Love Horoscope Match",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Love_Horoscope_Match_206134",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "0101",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "GPSDeveGroup",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Love_Horoscope_Match_206134",
+  "extendedInfo": {
+    "installSize": "3.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Test the match index for two horoscopes and set beautiful horoscope background as wallpaper. This free app Love Horoscope Match supports to foretell the match index for men and women horoscopes.SUPPORTS:Match two horoscopes from 12 horoscopesGet love match indexSet one of 9 horoscope backgrounds as wallpaperTotally free for Android usersSimple to use and easy to controlSuitable for Android mobiles and tabletsInstructions:1.    Slide to choose horoscope for you and the other one you love.2.   Press MATCH TO GET HOROSCOPE MATCH INDEX.3.   We also can get a description of match here.4.   In MORE we can get 9 backgrounds of horoscope to set as wallpaper.For example:We choose man horoscope to be Aries and woman horoscope to be Leo.Match to get analysis here with matching score 62%.Description: the Aries man is impulsive and vain; the Leo woman is always pound and uncompromising.The Leo womanÂ¡Â¯s fiery enthusiasm can burn itself out and thereÂ¡Â¯s always a danger of them both tiring of each otherÂ¡Â¯s competitive attitude to love.The Leo woman-Aries man combination is great for fun flings, but long-term happiness can be difficult.This free app Love Horoscope Match supports to foretell us love horoscope here. Come to download this app now! You will love it.======NOTE======1. This is a funny fortunetelling app here. Good luck!DONÂ¡Â¯T TAKE IT SERIOUS.2.NOTIFICATION ADS OR ICON ADS ARE HERE FOR ITS TOTALLY FREE. THANKS FOR SUPPORT.3.   If you like this app, please give us 5 stars or share with your friends. If there is any problem or suggestion, please email us.==========================================================A horoscope can be an astrological chart or diagram representing the positions of the Sun, Moon, planets, astrological aspects, and sensitive angles at the time of an event, such as the moment of a person's birth. The word horoscope can be derived from Greek words meaning \"a look at the hours\".It might be used as a method of divination regarding events relating to the point in time it represents, and it can form the basis of the horoscopic traditions of astrology. No scientific studies could have shown support for the accuracy of horoscopes, and the methods used to make interpretations can be generally considered pseudo-scientific.at s?ot??H?be expected, while a forecast could be more specific, and may cover a range of possible outcomes.Although guaranteed information about the future might be in many cases impossible, prediction can be necessary to allow plans to be made about possible developments.",
+    "reviews": [
+      {
+        "timestampMsec": "1373899603191",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOGAjaecGHgL4TKKpAgXTmzo4Ia0-N2ZRE-oEs5KoWBEPV3kWhnUyqw_rOc4cJXAN8l3n_RyEqZ0s7fN5g",
+        "author": "Ezekiel Castro",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SET_WALLPAPER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

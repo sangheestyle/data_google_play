@@ -1,0 +1,66 @@
+{
+  "title": "Word Lock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javamonkey.worddoclock",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "January 7, 2012",
+  "version": "1.3.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "23",
+  "rating": "3.9565217",
+  "contentRating": "Everyone",
+  "creator": "Java Monkey",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javamonkey.worddoclock",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Do you have Word documents on your phone that you don't want others to see? Confidential? Want to password protect them? Then âWord Lockâ is the solution!Use the simple user interface and quickly secure your Word documents The first screen shows all the Word documents you have on the SD (memory) card You can use the Word Lock file explorer by selecting the list icon and manually exploring the SD (memory) card to find documents to secure. Using the file explorer you can also add, edit, delete, copy, past and move files, zip and share filesTO SECURE WORD DOCUMENTSLong click / tap on the document you wish to protect and select 'Encrypt'Once encrypted the icon of the document will be shown as a padlock To view the file you must decrypt the document first by long click / tap on the document and select 'Decrypt'Ad free!Other features: * Ad free* User friendly interface* Secure Word documents using AES encryption * Using file explorer add, edit, delete, copy, past and move files, zip and share filesThis is a BETA release, many more features coming soonPLEASE BACKUP YOUR DOCUMENTS TO YOUR PC BEFORE USING THIS APPLICATIONKeywords: Word, Word secure, lock, hide, document securityFor any queries / problems email us at support@javamonkeyltd.com",
+    "reviews": [
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1333239052926",
+        "starRating": "5",
+        "title": "Works as described",
+        "comment": "Well designed app with high level encryption",
+        "commentId": "lg:AOqpTOEsrbfuM3348uebW76z-AiaCKkYeHBjgVvmqunoKNGZOwx-MKZS8VASVAYv3008L3wjmVZ8O7pt04nN",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.3.0",
+        "timestampMsec": "1343674189712",
+        "starRating": "4",
+        "title": "Update please",
+        "comment": "Its good But it will be better with multi-select function Its a little bit troublesome to lock documents one after another Update please:)",
+        "commentId": "lg:AOqpTOE270-EFKuq97VtPrYgxulnLQBFZf4mmlMh5h_e5mz9xsBQ_O9rUswnsG8wm9oFJjneBwdjwxOdpx8a",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.15",
+        "timestampMsec": "1326050053175",
+        "starRating": "4",
+        "comment": "Works on all my docs, great for work documents",
+        "commentId": "lg:AOqpTOGJOyV_3NRvzuyy5CpPNRsCiFrUka7pvk4l3hTly-4fPhT_3eItinu_pp_13n77UAIopek_jPYw-AxG",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357827301343",
+        "starRating": "1",
+        "title": "ajmj",
+        "comment": "ajukgn",
+        "commentId": "gp:AOqpTOFuj5xDOcrveH9qF_9YnxVEVvRzQVPS7WbwFBj_UxEtCHttN7kvfbLbU0IdRChEUL06pKbDKWxo8rtM",
+        "author": "Akshay Jadhav",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

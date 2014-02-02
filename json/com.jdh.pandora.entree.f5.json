@@ -1,0 +1,52 @@
+{
+  "title": "Entree F5 Firepass BETA",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jdh.pandora.entree.f5",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "November 22, 2011",
+  "version": "X1.0.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "6",
+  "rating": "2.6666667",
+  "contentRating": "Everyone",
+  "creator": "JDH Consulting, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jdh.pandora.entree.f5",
+  "extendedInfo": {
+    "installSize": "1.0M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "BETA - F5 Firepass SSL-VPN For ALL Rooted Devices NO  KERNEL module Required.  EntrÃ©e is a Firepass compatible SSL-VPN client that does not require a Kernel module.  Thatâs right no need for a TUN.KO or any other kernel module.  We have taken a completely different approach to the route interception of packet while staying fully compatible with the Firepass  on the back end.  In addition EntrÃ©e works with any rooted android device (from 1.6 DONUT forward) without IPTABLES or other kernel dependencies.  In addition EntrÃ©e also resolves the issues around split horizon routing, by allowing you to specify only the routes that you want to traverse the VPN tunnel in a concise CIDR block format.  All your other routes stay in tact.  So you can now continue to take advantage of direct connection to the Internet while automatically back-hauling your corporate traffic to the VPN head-end.  The PRO version of the product will support full remote route provisioning via REST API etc. Today you can easily add the routes in a comma delimited list via our Award-Winning glass UI (User Interface).ROOT REQUIREDHOW:An SSL-VPN is a very simple concept it is just a standard authenticated SSL connection not unlike a connection to your favorite SSL web server that is used as a tunnel to send and receive packets over.  The only real trick to making this work is the ability to obtain the packets to send, and to inject the packets that are received back into the android OS.  The most popular approach to this is the tun.ko driver.  It provides a method for packets to be read/written via an IOCTL interface in user space.EntrÃ©e takes a different approach that allows it to obtain the packets in user space without the need for this troublesome module (tun.ko).  In fact we don't need a kernel module at all to work as an SSL-VPN we leverage driver support that is built into every android kernel.  Root is still required to update routing tables, open drivers, etc. That can't be helped do to the security model of Linux that has inherited into Google android.Features:-Security Countermeasures (Pro Version):VPN technology is designed to mitigate risks to corporations, especially when content inspection, mail compliance etc.  Is enforced by the head-end the challenge is making sure that it is not circumvented in anyway.  EntrÃ©e is the first mobile client product to actually enforce these counter measures to ensure that the end-user can not just simply turn off the VPN and get around the other measures provided by the corporation.  EntrÃ©e PRO protects against the following:1.)\tMalicious kill using task killer etc.  You canât kill EntrÃ©e this way.2.)\tRemoval â Blocks removal from the device.3.)\tApplication/Service changes.4.)\tConfiguration changes are protected local or can be managed remotely.5.)\tProtect market application manipulation.6.)\tDelete all data. (Stealth Configuration Protection)7.)\tAudit trail logging of all events with easy query interface.8.)\tRemote access via secured provisioning API.9.)\tMulti-User support for different users hoteling or sharing of devices.-Split Horizon Routing:Specify which routes you want to traverse the VPN everything else usesthe default route.  The routes are shown in a routing table and highlighted in the color red to differentiate and highlight them.  Routes can be updated and managed remotely with the EntrÃ©e PRO version.- Remote Device Provisioning Via External Web Interface1) Connect to your WIFI assigned IP Address on port 6715 initial credentials (entree/password)2) You can configure the device remotely with a full browser.3) Once configured the new user/password will be your VPN user/passwordFrom The Same Team That Brought You Entree AnyConnect.Questions feel free to doug@jdhcon.com Enjoy!!!",
+    "reviews": [
+      {
+        "documentVersion": "0.0.2",
+        "timestampMsec": "1341612723031",
+        "starRating": "2",
+        "title": "Can\\'t load",
+        "comment": "Just sits at license page",
+        "commentId": "lg:AOqpTOGXWflHYmdV0BNdFgfX2emIkclP7vIX0VxWgxrrAZB3-rYMYxUEHzwA1Hq5BmzeyR4mtjqXmX0xpxkz",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351113374514",
+        "starRating": "1",
+        "title": "Won\\'t start",
+        "comment": "Errors out trying to start service.  Samsung Transform Ultra.",
+        "commentId": "lg:AOqpTOFs1bGCoUyXeeDnVlyVz76feJOn8KvEBEmgKOfiLnzKsk4qtYFcmwumCdJHB5-k3ge9pbWByvCoaLy2",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

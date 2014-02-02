@@ -1,0 +1,76 @@
+{
+  "title": "McDo France",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.md.mcdonalds.gomcdo",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "2.3.0.5",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "486",
+  "rating": "3.8847737",
+  "contentRating": "Low Maturity",
+  "creator": "McDonald's France",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.md.mcdonalds.gomcdo",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "McDonald's France: the official application.Now all of your favorite McDonaldâsâ¢ services are available, right from your pocket!Discover GoMcDo on your mobile, now available in our restaurants. Order and pay in one click and be served faster when you get to McDonaldâsâ¢. How it works:- Place an order and pay right from your Android- You will receive a QR Code and order confirmation number- Go to the McDonaldâs where the order was placed and scan your QR Code or order confirmation number on the Easy Check-In Kiosk- Pick-up your order at the check-out especially dedicated to GoMcDo usersFind and Get Directions to the closest McDonaldâs- Map- Opening Hours- ServicesCheck out the menu and latest products and build your own list of favorites- Sandwiches- Drinks- Desserts- etcâ¦Plan your next Movie Night:- Find the closest Movie Theater- Get Directions between McDonaldâs and the theater- Watch Movie Trailers- See what Time the Movie Plays- Check out the weekly movies featured by McDonaldâs â¢Hurry and Download the application now, you donât want to miss out!",
+    "reviews": [
+      {
+        "documentVersion": "3.0.3",
+        "timestampMsec": "1376328637466",
+        "starRating": "1",
+        "title": "Appli apparemment d\\303\\251velopp\\303\\251e par des gens stupides",
+        "comment": "Oui cette appli semble avoir \\303\\251t\\303\\251 d\\303\\251velopp\\303\\251e par des gens stupides. Je m\\'explique : j\\'ai voulu tenter la commande en ligne, je me cree un compte, je choisis mon mac do du coin, je remplis mon panier tout se passe bien et \\303\\251tant une personne un minimum honn\\303\\252te je veux payer. j\\'entre les coordonn\\303\\251es de ma CB, et la un code m\\'est envoy\\303\\251 par SMS par ma banque pour authentifier le paiement. SMS envoy\\303\\251 sur mon t\\303\\251l\\303\\251phone, l\\'appli est ouverte \\303\\251galement sur ce t\\303\\251l\\303\\251phone. Je bascule donc sur mes sms, je note le code je rebascule sur l\\'appli mac do et oh surprise ! la commande a disparue, je suis deconnect\\303\\251 et une fois reconnect\\303\\251 aucune trace dans l\\'historique. Bref fonctionnalit\\303\\251 commande inutilisable (ou alors sans payer, moi ca me va) car visiblement personne n\\'a jug\\303\\251 bon de la tester un minimum la chose en interne. BRAVOOO !!!!!!",
+        "commentId": "gp:AOqpTOEHz3OnoutSGwa3nNEWfLVb2wTNDObwIScCh1tvalD1LGRX6TjMhqurx466zZYxvZ1pbQo68t_dA_mY1Q",
+        "author": "Sebastien PIvain",
+        "authorURL": "http://lh4.googleusercontent.com/-7ilxGOzsV-M/AAAAAAAAAAI/AAAAAAAAAPk/xCqr3QG-kTc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-7ilxGOzsV-M/AAAAAAAAAAI/AAAAAAAAAPk/xCqr3QG-kTc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375985232253",
+        "starRating": "2",
+        "title": "Plut\\303\\264t inutile...",
+        "comment": "ne sert malheureusement pas \\303\\240 grand chose \\303\\240 part pour trouver un restaurant, et avoir le menu standard McDo.",
+        "commentId": "gp:AOqpTOEoD_hX9elIvKvHb5qBdq4E3VZmiqycM66qfGwQMaqmgX5uUQs8EegSs_8_GWm1ec7bYCjntIdJ_MXjpQ",
+        "author": "Maxx L.",
+        "authorURL": "http://lh6.googleusercontent.com/-J6RKJifThIQ/AAAAAAAAAAI/AAAAAAAABFQ/NR4K_wnGoLY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-J6RKJifThIQ/AAAAAAAAAAI/AAAAAAAABFQ/NR4K_wnGoLY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1363872165775",
+        "starRating": "2",
+        "title": "French Only",
+        "comment": "The description is in English, but the app is only in French. How truly weird is that?",
+        "commentId": "gp:AOqpTOFXg25oBnJ3tYJ8d4p7k8eNnh3ttSaMdY2oyPDQA8Sdqr1_GKp1jYwh-s8bO6Cv6vo3dAaiCHLnkPF8sg",
+        "author": "Peter Jones",
+        "authorURL": "http://lh6.googleusercontent.com/-HkZJ9pgWyJk/AAAAAAAAAAI/AAAAAAAAQKQ/eieHIX_S6iI/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-HkZJ9pgWyJk/AAAAAAAAAAI/AAAAAAAAQKQ/eieHIX_S6iI/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1366809482848",
+        "starRating": "1",
+        "comment": "App Order function doesn\\'t work!",
+        "commentId": "gp:AOqpTOFZEPkUmANBgRYefPvT-h0lpfC8siiL66i3IUI5c6A3fcFe-_Q4DZDt6vEWs5NDod8jy62e4EPK3Uayig",
+        "author": "Louis Guinaudeau",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

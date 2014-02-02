@@ -1,0 +1,231 @@
+{
+  "title": "FoxFi Key (supports PdaNet)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.foxfi",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "2.13",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "26853",
+  "rating": "3.9849179",
+  "contentRating": "Everyone",
+  "creator": "FoxFi Service",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.foxfi",
+  "extendedInfo": {
+    "installSize": "203k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Turns your Android phone into a free WiFi Hotspot - no rooting or tether plan required. You can connect from any computers or tablets or even game console. Access Point is infrastructure mode with WPA2 security. FoxFi usage is covered under the same phone data plan you have and no tether plan needed. This saves you $20/month from your carrier.Currently WiFi mode may not support some phone models and we are working to expand the supported list. However Bluetooth/USB mode works for all phones. To check and see if WiFi mode can be supported on your phone visit http://foxfi.com/devicesAgain you do not need a tether plan or root your phone (otherwise this software will be meaningless).  It WiFi mode prompts you to call your carrier that means FoxFi has failed and you should use USB mode or Bluetooth mode instead.*If you have T-mobile, you should use USB mode with \"Hide Tether Usage\" enabled.*Sprint and AT&T has removed FoxFi from Market. If you can not find FoxFi please install or upgrade from http://pdanet.co/bin.*Some Jelly Bean phones has locked-down the WiFi hotspot feature, because of that FoxFi will ask you to install a user certificate on those phones. The side effect is that Android system will require you to set a screen lock first (and only allows Pattern, PIN or Password) when you install any user certificates. We recommenda. Use a Pattern lock for simplicity. The Motorola PIN lock screen could confuse you.b. This is the only way FoxFi can enable WiFi mode when you don't have a tether plan. Use USB mode if you really don' t want the lock screen. c. To undo the screen lock you have to remove the FoxFi certificate first (simply select \"clear credentials\" in security settings).*Verizon Galaxy S4 with latest firmware update: if you do not want to set a lock screen for your phone,  just bring up menu in our app and set hash code to \"nolockscreen\" and save. If you do this you can clear certificates and remove the phone lock (see above) but Verizon will show you a message to sign up for a tether plan. If you dismiss the message it will turn off your wifi hotspot so do not close it.*AT&T Galaxy S4 with latest firmware update: you will see a message to call AT&T when you turn on WiFi mode. Please do NOT close that message (or simply hit the home button to hide the message). You will still be able to use the WiFi Hotspot.*The free version has a usage limit that requires you to restart FoxFi to continue using free mode. You can purchase the full version key to unlock this.Here are some tips to help your usage:1. On some models if you run into WiFi problem after using the Hotspot, simply reboot your phone and rename the hotspot before activating to clear the issue.2. For some Samsung phones if your computer is not able to get an IP address, try to turn on WiFi on the phone first and make sure it does not connect to any WiFi network, then turn on FoxFi.3. FoxFi is tested on non-rooted phones. If your phone has a rooted ROM it may or may not work.4. When WiFi hotspot is activated you may also see a hotspot notification of the built-in WiFi hotspot feature. Please ignore it. As long as you do not sign up for a tether plan you won't be charged.5. If you enter or change the hotspot password, make sure you rename the hotspot also before activating.6. Sometimes Windows need a \"repair\" on the WiFi menu to get a correct IP address.7. If you install the FoxFi AddOn app, you will also be able to hide tether usage by setting a proxy server address in the computer browser.",
+    "reviews": [
+      {
+        "timestampMsec": "1376908495077",
+        "starRating": "5",
+        "title": "Great App!",
+        "comment": "Exactly what I was looking for. Simple to use, slick design and super affordable. Free to start and only $7.95 to unlock full version. If only more designers would or could follow suite. Great Job!",
+        "commentId": "gp:AOqpTOF3q0MsB7Rh-dR9YITbTzSSu9flnpMiHMKTGDr_BCtBji_0PDtdF08V4hj17nXqFuMN7f6OGj8P-1PVHA",
+        "author": "Jon H",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375648640657",
+        "starRating": "5",
+        "title": "Works excellent! But....",
+        "comment": "Plz make this app work for \\'Verizon LG Optimous zone\\' its not working with the app ibarley got thx fone lastnyte because mi \\'Verizon samsung illusion\\' messed up, plz make it work with mi new fone if not ihave to get rid of this fone and find another samsung illusion, was original plan but couldnt find one);",
+        "commentId": "gp:AOqpTOGHppNf4W_ky7oMk9HkHwjaHrwfL9Owg5dSuDkp7FENqejaeWZf8kfGDSS2UVCQVvl1fewuaVdTbmWtaA",
+        "author": "Brianna E",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375592132449",
+        "starRating": "2",
+        "title": "Works on my Jelly Bean S3 4.1.1",
+        "comment": "Verizon Jelly Bean S3, works great, just activates your hot spots (even if you don\\'t have a subscription). It\\'s very ghetto that they are charging for this without warning. Very gay on their part, I purchased because I use it, but I really think they\\'re dirt morally. They should give me a refund. Lol",
+        "commentId": "gp:AOqpTOEDkYMdW10bWsxC4qhSmcDMA4esHsvBA15FuRoeOdU5hjiqhqWFsFio6DiKjGpZUP7Lt6JhSXeym7nMww",
+        "author": "Beau Reese",
+        "authorURL": "http://lh6.googleusercontent.com/-mmNjlCkvV_Y/AAAAAAAAAAI/AAAAAAAAXUM/PBiztbhndrc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-mmNjlCkvV_Y/AAAAAAAAAAI/AAAAAAAAXUM/PBiztbhndrc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375433956571",
+        "starRating": "5",
+        "title": "Awesome App!!!",
+        "comment": "Absolutely love this app, by far one of the best and easiest way to connect your phone to your pc and share your phone\\'s internet connection via wi-fi when you\\'re on the go!!!! Samsung galaxy note 2  T-Mobile SGH-T889 (4.1.2)",
+        "commentId": "gp:AOqpTOFMcGQmp4aFUQ-ANkR0PEPrnb8hpICwThr0NgD64-UWEpHwIy5teu5Pib7_sn8yAubZDkMmYPeBJwlVrA",
+        "author": "Mario Haro",
+        "authorURL": "http://lh4.googleusercontent.com/-rfSB3QyCPIQ/AAAAAAAAAAI/AAAAAAAAAAA/Qc1F0dwhtdQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-rfSB3QyCPIQ/AAAAAAAAAAI/AAAAAAAAAAA/Qc1F0dwhtdQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376315594743",
+        "starRating": "5",
+        "title": "I love this app",
+        "comment": "Great App!!! Fixed!!! I use this everyday since I\\'m a college student, my grandfathered data plan saves me from buying internet service!",
+        "commentId": "gp:AOqpTOGBk02NHx_mC9aOGmPx9OJ8TIEkaZ57V-iH9zRmSxzwvFxISwc5908au6zdl_VU2iz6j7__OeDCe57HmA",
+        "author": "Kenny G",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378251069893",
+        "starRating": "4",
+        "title": "Good app, so far",
+        "comment": "I purchased this app off my Droid 4 to bypass the $30/mo mobile hotspot fee, since I have Clear home internet, I use my hotspot for my PS3 and laptop. It runs flawlessly and is very indiscrete, it doesn\\'t slow my phone down, nor does it slow down connection on my phone\\'s apps. I\\'m very pleased with it, definitely would recommend.",
+        "commentId": "gp:AOqpTOEdVgdnKrBO5ePpepiDkwBznXlykwghQgE5lxVFGA2N2YO25hBHXA5KTuKTWVY7ZIy1JurwkyzbSwEcaw",
+        "author": "Necro Paragon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376974812357",
+        "starRating": "1",
+        "title": "Worked but hijacked my phone",
+        "comment": "I was forced to set up a screen lock pin and the app made itself an admin on my phone. Is there a way around this? Samsung S4 (Verizon)",
+        "commentId": "gp:AOqpTOEbfpr_g4Qg2iupR5aAGjXwAHbLh5nfKXLvlgpXpkd-2J7dUOZMhVAIlXqvGmDcYKcTL-GzCsbyf5XLQw",
+        "author": "Jason Fidler",
+        "authorURL": "http://lh3.googleusercontent.com/-H2Xpjyv7UXU/AAAAAAAAAAI/AAAAAAAAKVc/uFDIRvupk5k/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-H2Xpjyv7UXU/AAAAAAAAAAI/AAAAAAAAKVc/uFDIRvupk5k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374230119857",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "The app only worked just a few minutes then is garbage even when I bought the full version.  I want a refund!",
+        "commentId": "gp:AOqpTOHS6_QIP0CPlm0PEIPoiwjLwoG_SCeoffiz63dQvLUHHa4ENRq-Mi13zIePPLWr2k1aAFdlR8Llo4bGOA",
+        "author": "Todd Holt",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375695066581",
+        "starRating": "2",
+        "title": "Very dissappointed",
+        "comment": "Ever since the update with foxfi my phone takes forever to connect, and sometimes doesn\\'t connect at all. I have the full version and it\\'s become useless! Please fix this.",
+        "commentId": "gp:AOqpTOGcfDASYtRJ2alyAbOqouLZKwP9VWpMzTKpRLkKsL9bKBUQZI8mIowmKbPx2-ocnrrz8uXJUIOzGfQfoA",
+        "author": "Tia Hall",
+        "authorURL": "http://lh3.googleusercontent.com/-XwVClVtxNNY/AAAAAAAAAAI/AAAAAAAAABw/D4oz2ZHYKjk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-XwVClVtxNNY/AAAAAAAAAAI/AAAAAAAAABw/D4oz2ZHYKjk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375814913881",
+        "starRating": "5",
+        "title": "Read THIS",
+        "comment": "Worked fine 8/5/13. As of today 8/6/13 Foxfi no longer connects to Veriz on servers. I did not install the new update for Foxfi until after I received the \\\"Unable to connect to Veriz on servers\\\". Before and after update share the same condition. The update DID NOT cause this issue. The carrier did. Droid Razr Maxx.",
+        "commentId": "gp:AOqpTOHkVlsT6-arnsDt2dVnVR4bVXZfkWhJsZqczJm_S4RIoBU8yG_vlfTbCD9YyKXSNOEnLi8mOTL16lNzyg",
+        "author": "Zach Rigdon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375985682137",
+        "starRating": "1",
+        "title": "Can\\'t believe you started charging might as well go to Verizon",
+        "comment": "I could understand charging new people that are just downloading the app but for the ones that have had this for a long period of time its just crazy! I am not purchasing it because if u can charge us now whose to say your not gonna turn around and charge us again!",
+        "commentId": "gp:AOqpTOGCRrbL9h1pa1UZN_x2ft2len8pGhwx51bnVgyBLafebAD6cNmhyWBs5-24yEPcvfqV7jre5c9AWtOGiQ",
+        "author": "amanda morgan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374021916188",
+        "starRating": "1",
+        "title": "Increasingly Undependable [No, I\\'m not using it on a Nexus 7]",
+        "comment": "Most or all of the technical problems with this app \\342\\200\\224 some of which are persistent and others of which are recurring \\342\\200\\224 are associated with the publisher\\'s mechanisms for ensuring that copies are licensed.  It\\'s like buying a pass, only to be told by a drunk at the booth that the pass is no good, after which he vomits on your shoes.  Anytime that I use this app, I must engage in a tedious, undocumented process to actually get a working connection. The app routinely chokes at various stages, and will allow itself neither to be shut-down except through the task manager, nor restarted except after the phone itself is restarted.  I often spend more time getting a working connection than the connection itself lasts!",
+        "commentId": "gp:AOqpTOGvRrcP2tzTwtL6fmtx2wxzhQiLQwsW4TZWe5cfKZ65ckiQ9jQn49hLvNMsqY6waWoSuArxvHeDkOgUuQ",
+        "author": "Daniel Kian Mc Kiernan",
+        "authorURL": "http://lh4.googleusercontent.com/-0E4kZmS_AiU/AAAAAAAAAAI/AAAAAAAAAAA/aZBTkrtwje0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-0E4kZmS_AiU/AAAAAAAAAAI/AAAAAAAAAAA/aZBTkrtwje0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378287744438",
+        "starRating": "1",
+        "title": "Doesn\\'t work anymore",
+        "comment": "When i try sharing this with another device a internet window pops up and says \\\"Your monthly plan does not allow sharing your phone\\'s web connection with additional devices\\\". Ummm how about NO!. Playing me out my money smh (-_-) . Is there something you can do to get around this?",
+        "commentId": "gp:AOqpTOHcRwJR1W3YhVaw6tWZnY50yIxrETxQfO1AGQ6Bk9pD5g7TEDFOIyzOrC8dR3CGvwfPrn2HFwcetTBwzA",
+        "author": "Johnny Mazaba",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374093620118",
+        "starRating": "1",
+        "comment": "After latest update, app is still useless in Jelly Bean with US Cellular on Motorola Electrify. I can\\'t give out 0 stars our negative numbers out I would.",
+        "commentId": "gp:AOqpTOF2_8m8x92I_NYSUYSD7vyHH8YUQ0IGRbjJTO7eRGvulL6Ou-Z62g-b_5MewyC3tA-F3zzZpsBWYZF1Ng",
+        "author": "David Stone",
+        "authorURL": "http://lh4.googleusercontent.com/-zs7nSjmzWoY/AAAAAAAAAAI/AAAAAAAAAPE/9uEUGUDihSE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zs7nSjmzWoY/AAAAAAAAAAI/AAAAAAAAAPE/9uEUGUDihSE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377366646012",
+        "starRating": "1",
+        "title": "Samsung Galaxy S3",
+        "comment": "Fix for all jelly bean devices! I used to love this app until I got a new phone.",
+        "commentId": "gp:AOqpTOFTnwuqrXD9JEDoe0-r94njI9zf5ATU7FaYo9kM0IMHw2wZ1477nsz_twvaJQx0fOx7vj_ToRleXod3HQ",
+        "author": "Iris S.",
+        "authorURL": "http://lh4.googleusercontent.com/-_NDVisQXSIs/AAAAAAAAAAI/AAAAAAAAAFg/PhClfKhMj9M/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-_NDVisQXSIs/AAAAAAAAAAI/AAAAAAAAAFg/PhClfKhMj9M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374799736343",
+        "starRating": "1",
+        "title": "Bulls**t",
+        "comment": "This app sucks I used it for about a year owned it now all of a sudden it doesn\\'t work that\\'s cheap your licking everyone under the belt app maker you need to stop promoting that this works you guys or terrible people",
+        "commentId": "gp:AOqpTOEDgZe2D9jpqFKcG-9tJrL9CEIa1biJd1L2OfOkcdqknWUgnY4qub0khWUQd0X-Cv07TEYeTbVvKR8Yqw",
+        "author": "Frosty Winter",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374021641456",
+        "starRating": "5",
+        "title": "Verizon",
+        "comment": "This beats what Verizon is trying to do to their customers. It is great especially if your on the unlimited plan and no Internet at home, or anywhere.",
+        "commentId": "gp:AOqpTOHMxL_-00-Kkg0c5eac0Qz_Uta4vW8HKh8LyHz4m8H_pK9aVIi00MwLcVS8Z0-FBYyIKLu0VveLLq51qg",
+        "author": "Brian Foster",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374026783771",
+        "starRating": "5",
+        "title": "Works great!",
+        "comment": "For a free app, this little honey will get you online. No, its not lightning fast but, ITS FREE!!",
+        "commentId": "lg:AOqpTOHGH3wMCKWVO1KQyVs1MOzlAdXEKAVA_FnYk_qtOK8LpdTT26jwYoR2YLqrOD5sYNG2hJgLyzr5_duwtg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374038016345",
+        "starRating": "5",
+        "title": "Awesome App",
+        "comment": "Verizon pretty much forced me to install the latest update to my S4, which blocked my current subscription to FoxFi. Within a minute, got a notification from FoxFi had an update which overcame that update block. Thank you FoxFi.",
+        "commentId": "gp:AOqpTOGpKrMmTNVxRsEKx3OVXulGkSrHncBAJ8GT_wE0ZRrdftNIIBChZrsTcjJf9DmiNR8TL7NHTBZOBiVP4Q",
+        "author": "Mark Corona",
+        "authorURL": "http://lh5.googleusercontent.com/-2Wv0tRSS5fM/AAAAAAAAAAI/AAAAAAAAE7Q/__zMMTMk1A4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-2Wv0tRSS5fM/AAAAAAAAAAI/AAAAAAAAE7Q/__zMMTMk1A4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376830699568",
+        "starRating": "3",
+        "title": "Does what its intended, but",
+        "comment": "It requires a screen unlock pin, which then disable the face unlocking feature on my Maxx HD.  Failed",
+        "commentId": "gp:AOqpTOFoExrPimdyW1pj8089t7UcbUieeWvg7hCsu9i8_LuOFkzmO2ZVG0hkwNHnX-QiMUrBa0aWWSi5ij2Rzg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ProZone",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.boonex.prozone",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "March 1, 2011",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "3.4",
+  "contentRating": "Low Maturity",
+  "creator": "Levi Baber",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.boonex.prozone",
+  "extendedInfo": {
+    "installSize": "341k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This application is for users of ProZone - the online community for Multi-Family professionals.Multifamilypro's ProZone places you in the powerful, online, intellectual center of our industry where you can get connected with other professionals and with the ability to collaborate, communicate, share knowledge, gain insight, and create. The ProZone is power-packed with tools including video chat with both play and record functions, topical forums, specialized groups, regularly scheduled events, messaging with both text and video, your own personal mailbox, multiple blogs, polls and surveys, collaborative whiteboards, video and photo sharing, and more! You can even go mobile with the ProZone iPhone and Android apps! Variable levels of sharing allow you to create a private community network for yourself; connect privately within your whole company; plug into an industry-wide community focused on a particular specialty; or connect with the whole Multifamily industry. The ProZone connects people, whole companies, and communities with the most powerful resources in our industryâeach other. Get into the ProZone and Get Connected, now!",
+    "reviews": [
+      {
+        "timestampMsec": "1300150576669",
+        "starRating": "5",
+        "comment": "I want to log in but it wont let me",
+        "commentId": "lg:AOqpTOFqSE1DYhF-Tl9slnr3QFZ164rjFO05BFJkw5vTQyhxhZNtaIBCRSUXOiIWn66SxmW-kQLjI1MXrzf3kg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA"
+    ]
+  }
+}

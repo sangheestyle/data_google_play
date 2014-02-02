@@ -1,0 +1,215 @@
+{
+  "title": "bytNotes (Free)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.outwalk.android.bytnotestrial",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 28, 2013",
+  "version": "2.1.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "102",
+  "rating": "4.254902",
+  "contentRating": "Everyone",
+  "creator": "MSGA",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.outwalk.android.bytnotestrial",
+  "extendedInfo": {
+    "installSize": "402k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Contact related reminder notes right before making or receiving calls.Are you in the habit of forgetting what you promised your friends? Do you find yourself taken off guard and struggling to cover it up when they call?With bytNotes, you can now be warned before you talk!bytNotes is a simple notepad application with a very handy twist. It allows you to create notes and link them to multiple contacts from your address book. If any of these contacts call you or you call any of them, the related notes are displayed in an overlay for you to read before you start talking.This is the free version of bytNotes. If you like the application, please buy the ad free version from the market.Important Notice:bytNotes might conflict with other outgoing call interceptors such as Call Confirm. If you have such applications installed and you face weird behaviors while placing a call, you can just disable outgoing notifications from the settings menu. The incoming notifications will continue to work properly.birthday bytNotes\"What's worse than forgetting your friends' birthdays is talking to them on their birthday and having no clue!bytNotes can save you the embarrassment by displaying birthday reminders whenever you call or receive a call from a friend on his birthday\"*Save all your friends' birthday dates in Google contacts for best resultsLicense Information:bytNotes is based on the android Notepad example and reuses android icons and widgets all of which are under the Apache License, Version 2.0.  http://www.apache.org/licenses/LICENSE-2.0",
+    "reviews": [
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1371452716488",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Okey",
+        "commentId": "gp:AOqpTOG0BAuEYefbsstsYN1DbeqLSaqitZ-3moQd2PAhCccR4xbPGhVGVc_lpxzPE1iUebQ0-HyAamf8xOiBXoY",
+        "author": "Abdul Aziz Khamis",
+        "authorURL": "http://lh4.googleusercontent.com/-uRf3O0O9jcc/AAAAAAAAAAI/AAAAAAAAAtw/E7Rk3sAedAg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-uRf3O0O9jcc/AAAAAAAAAAI/AAAAAAAAAtw/E7Rk3sAedAg/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1357726926976",
+        "starRating": "5",
+        "title": "Cool app but...",
+        "comment": "It\\'s useful too :)",
+        "commentId": "gp:AOqpTOECS7UJCX7O5vmTpagwbM4xbfg3_QF00oHVarOQIt1PTo5hWKjR-dWDLEDW9unHuC-LKpw9GUYWw-wnOAk",
+        "author": "Wissam Debss",
+        "authorURL": "http://lh3.googleusercontent.com/-th1dqzXZzEs/AAAAAAAAAAI/AAAAAAAAAD0/Fi3LTAIwNh8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-th1dqzXZzEs/AAAAAAAAAAI/AAAAAAAAAD0/Fi3LTAIwNh8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1338667049225",
+        "starRating": "5",
+        "title": "Ok",
+        "comment": "I luv it",
+        "commentId": "lg:AOqpTOHEvOx69MMO-7bb0PTCM8kD-BVDu_zcZxQXi0CJcdQFPubEpViauPUv5FbD89rgWGCh8kSL1LuuxXKL5kw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1367925667283",
+        "starRating": "3",
+        "title": "Ok dev",
+        "comment": "I\\'ve bought the non-free version",
+        "commentId": "lg:AOqpTOEiUzoh1HEkl3cpoQ9r8KXbpmk9O_4CDQV_vR0EPTgWreXy73RmAmu98Za_YViv17DSzPrVJuHDpeHYaAk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1357389515712",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Absolutely no virus...some apps like Dr. Web is reporting false positive",
+        "commentId": "lg:AOqpTOG_970EBgFCEPFAQZJ42_6wYM7s5Y1cfaj-x6bAM8O7YoTdGzLV4Q9-fQshjFVnRv0UDY5Zb0XDuHqjQmQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331412022418",
+        "starRating": "1",
+        "title": "Force close",
+        "comment": "Force close in galaxy note 2.3.6",
+        "commentId": "lg:AOqpTOEJdBXfvalLxkIr36ZoGA15Nrh6ijdK8-60gR8feywojrDK2M-5ZLSzSbFDrUlGiwX-O9XXeQ25vht21Ss",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.5",
+        "timestampMsec": "1313939574439",
+        "starRating": "5",
+        "comment": "Great idea",
+        "commentId": "lg:AOqpTOEiqcxMu2fXmhYFgMm9oqx6rJqtAEntCt6jNpHi_cCOFkiUp6ZoQ_TUgSOC7x2FwfPX2GOFuxplmR25I-I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1308644392554",
+        "starRating": "2",
+        "comment": "You have to call or someone has to call you otherwise you have no contacts to assign? This is silly",
+        "commentId": "lg:AOqpTOF1LLludIolq1W9PDO604w_glSmPSsnD7cuJO6kMcbMfrOfqapjUDjhvo5lER5isL-BWEqoh5gxqcPZSfw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1309545790007",
+        "starRating": "2",
+        "title": "Looks great but only works with native app I guess",
+        "comment": "I tried it with Go Contacts and Go Dialer and it didn\\'t work.",
+        "commentId": "lg:AOqpTOG7CCpvXALBsY2zcQFJtQVr7m9rxbN5ZPX_j-FyZDFfjinpMxFveXQhIaTR2QDDGeQgw8hBPuWOWxqHrQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1307588576675",
+        "starRating": "3",
+        "comment": "Would be great if it worked when placing calls to a contact, i.e., when I go to call from contact list, the note isn\\'t there",
+        "commentId": "lg:AOqpTOF0qrieNEJxwMNsr-w8wBbRXOO-BBVx-n8GPCOiNr7103w0Phjcgj9rEGvpPLmkyGYjNNFZJ6eI3rCXLus",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1309709745824",
+        "starRating": "5",
+        "comment": "An excellent + useful idea that is well executed in this app!",
+        "commentId": "lg:AOqpTOEI8agvHn4m_ok8AwP_zjMkixMJkIYopR3ueR_5p5dKJhK7mhWhstBaHmqT-WtvLy3Ll_WhsoMolmkd2t4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1306901464558",
+        "starRating": "4",
+        "comment": "This does exactly what it says. I hope it keeps working how is supposed to.",
+        "commentId": "lg:AOqpTOFlR42waNw3FzQMS6KUEzBHzqNiIiAuGM1-V6ZZNxOK93n_CQcuXoBJlV7PD4Ih5Ta08nRDaOUh2KJSnZ0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.4",
+        "timestampMsec": "1311309020721",
+        "starRating": "5",
+        "comment": "I like it. Great idea",
+        "commentId": "lg:AOqpTOEbvNSsLMy8ohtnRtRajl1ygrrHubvMHHh3kSAAPdzk5r6Wqx7rKaL1hUOeIhPorhSBUMqF0LpG_G1rdF4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1295373758333",
+        "starRating": "5",
+        "comment": "Contact selection view was odd on first view, but makes sense. Great idea for app, well executed.",
+        "commentId": "lg:AOqpTOHrE7Tj2QuG702z_xusDHpcA2oc5GNKchW60ncyE8O-GecBouAyLCKET3mYBzmjyBfAaohSH0eTIyRs0Fs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1295398956161",
+        "starRating": "4",
+        "comment": "Used the trial version n liked it but i cant seem to find the paid version anywhere.",
+        "commentId": "lg:AOqpTOEAWRDmAe1sAREfHYVEdG3Q1RN-2MLYMMy56YCXs5btZ_inx-pHECKnN_SrWhNIhkKdFFFbWlIYR02sXFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1294338433979",
+        "starRating": "5",
+        "comment": "Very usefull app.",
+        "commentId": "lg:AOqpTOGGFyMzbaio1lWPqORa_WQfp7Yh_X-QFSnS-9omr9DRAW6IdwjHMNTalp37SJoLksjlNOjljOYHedlq4Ek",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366949374515",
+        "starRating": "3",
+        "title": "Average",
+        "comment": "My Comment Is Average Because My Kyocera Virgin Mobile Just Moves All Slow And This App Freezes Such As Most Of The Android Apps I Download.",
+        "commentId": "gp:AOqpTOEXavH8jz1OBUvSTa-X25GnTgDvFZRzgWsZd-JS8tBJ5InIuDWAC7WJ4OwMmBRb0WBSNRv8-CXqRIUfjBo",
+        "author": "Quentin Lebleu",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371853661092",
+        "starRating": "4",
+        "title": "Just what I needed",
+        "comment": "Good stuff",
+        "commentId": "gp:AOqpTOH7cH4ULnaJWN1a76xCWi9EeT38HnPhGtiNgYdPtAIlMT03hRK9vdR0yzHnAQs6UlC_EDUepJepsZcxXOI",
+        "author": "Jack Lamont",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357481765410",
+        "starRating": "1",
+        "title": "Junk Push Adverts",
+        "comment": "Junk, could be good but junk advert push that looks naf!!.",
+        "commentId": "gp:AOqpTOHWW_TQIaeO2dPTF3Sx22b5t0RCG0qegZPQoQd9fOSkuqJ3K4A1EFBeMsI4kE0UBH6b9XCDg1meS9Q_FIg",
+        "author": "Mike Ward",
+        "authorURL": "http://lh3.googleusercontent.com/-x7yIRQa6JB4/AAAAAAAAAAI/AAAAAAAAFiA/qceThX688bw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-x7yIRQa6JB4/AAAAAAAAAAI/AAAAAAAAFiA/qceThX688bw/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

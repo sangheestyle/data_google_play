@@ -1,0 +1,77 @@
+{
+  "title": "Task Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.task.managerjj",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 29, 2012",
+  "version": "3.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "242",
+  "rating": "4.2190084",
+  "contentRating": "Everyone",
+  "creator": "android tool",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.task.managerjj",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Install Task Manager,when you want to stop multinomial Software of background program,maybe in the actual situation of Android moving operating system,you need to manage you acpplication to avoid the damage of performance and battery.Task Manager is my favorite applicition,it also including a plug-in,tap it once,you can close all the started applications.What you can do from the setting:Ignore List:you can put the app what you don't want to stop into this list,so that when you use Task Manager to stop all task,the app which in the Ignore List will be ignored.Auto Start:when you choose it,Task Manager will be Auto Started when you starting up.And it will make some unconcerned task to stop.Also you can make a shortcut to desktop.Auto-Kill:It's a greatful and useful setting.You can choose to make Task Manager still work and stop the Software of background program when you phone is off.Keep Press the app name,it will show a menu:Kill--Kill the app task.Ignore--put the app into ignore list.Select/Unselect--Select/Unselect the app task to kill.Uninstall-Uninstall the app.Thanks for your loves of Task Manager.If you like,give good rate to us and download our other app.",
+    "reviews": [
+      {
+        "timestampMsec": "1376090732571",
+        "starRating": "3",
+        "title": "It works",
+        "comment": "Cool",
+        "commentId": "gp:AOqpTOFmxmKogK3EslruSXQj_bKona8GJAQ-0pXpa0G43VVXMNCBMd8ez8VAJNHGbg1oEI9sOOSfIagxaQR8bw",
+        "author": "Dwayne Butler",
+        "authorURL": "http://lh4.googleusercontent.com/-5H6RxYUpmc8/AAAAAAAAAAI/AAAAAAAAAjA/cLXYq4N_Pxk/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-5H6RxYUpmc8/AAAAAAAAAAI/AAAAAAAAAjA/cLXYq4N_Pxk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1347110418448",
+        "starRating": "1",
+        "comment": "It sucks. It turns off your music if you lock your phone",
+        "commentId": "lg:AOqpTOFvMQiP2v3Qb9S3W7ocdPwQPk26egqFpz20-B0yWGHrED3dmKyM-bCaMBYBV-3W96Ii1_yUGAYHcVX1jg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322970496675",
+        "starRating": "2",
+        "title": "I can\\'t tell that it\\'s working.",
+        "comment": "Auto kill frequency doesn\\'t show any notification.Auto kill sound enabled also nothing doing.",
+        "commentId": "lg:AOqpTOHMh5XCdkGuXp0nly1_bW82veOEMKqLS4Slt0zbhq80wU2CPWplWWW0zW0yCYFfQWiS0AYHJWYYMjIbhw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1336915945245",
+        "starRating": "4",
+        "title": "Dharam",
+        "comment": "Good",
+        "commentId": "lg:AOqpTOHskAPvt0OL-OGGq_WtgZxaqYtXThQwRpuZNtdS5czJReraMBDOYSuC1Yoha0z1tImQKi1azZAwgd9Q0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340541024339",
+        "starRating": "5",
+        "title": "Ok",
+        "comment": "We\\'ll see",
+        "commentId": "lg:AOqpTOHSALxvFYVRh7yEVjDcxmSEToJZxJBz4dnFn7iqvCBIhSl47PMH0xskeOlk2wpuSGYpclkWmfvmZh5oyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

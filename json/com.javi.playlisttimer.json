@@ -1,0 +1,208 @@
+{
+  "title": "Playlist Timer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javi.playlisttimer",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "January 7, 2013",
+  "version": "2.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "111",
+  "rating": "4.3513513",
+  "contentRating": "Everyone",
+  "creator": "Jabicho.soft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javi.playlisttimer",
+  "extendedInfo": {
+    "installSize": "454k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Playlist Timer is a light-weight music timer. Play your favorite music in your power naps, during your work out time or relaxing during your bedtime (or not, up to you).Do not worry about turning the music off. Do not worry about falling sleep either, Playlist Timer has a quite annoying alarm for the joy of user.*Note: Playlist Timer will only scan the music on the SD card of your cellphone. Also it will kill a kitten for each Lady Gaga's song found (well, currently it is a TODO thing).*************Features:- 3 languages: English, Spanish and Galician.- Lightweight and fast.- Multi-selection of the music.- Use of filters for better browsing experience.- Widget.- Select the music by playlist, genre, album or artist.- Save the selected music as playlist.- A seek bar with changeable resolution set the timer.- Fade out at end of countdown.- Shuffle.- Alarm with volume different from the music.- \"Play the whole selected music\" button.- 2 automatic generated playlists: \"All songs\" and \"Recently added\".Permissions:- READ_PHONE_STATE - to stop the music if there is an entry call.- WAKE_LOCK - to use the \"shake\" options with the screen OFF.- WRITE_EXTERNAL_STORAGE - for making the created playlists available to other programs.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1376516780496",
+        "starRating": "1",
+        "title": "Was good in old phone but not in new",
+        "comment": "Love this app which worked well in my Galaxy S2. Upgraded to Sprint Galaxy S4 and the font GOT HUGE. All the music font is so large searching and selecting music is near impossible. Also force closes almost every time.",
+        "commentId": "gp:AOqpTOFKSm5t0vWv15aYjyXsFbniY0hCoNzdFnwxTaTWnWgl0xWPupqn-nwwzfx3DH9yezjvurGXgsOua0ApEQ",
+        "author": "Ken Royal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1370796553618",
+        "starRating": "4",
+        "title": "good",
+        "comment": "grate app does what it says",
+        "commentId": "gp:AOqpTOENaxzxkMgvRl1q-QkKYZEFJ4NXh5tq3S3bOTydrr_L6pxJdZhhkXN1-g8F7YKI1srBv6_Zc2NWNDKrKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348831929387",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "Can\\'t change songs with this application. It only can start from first and you have no control on the songs list to play next or previous one.",
+        "commentId": "lg:AOqpTOG1suyDl4oJmHSgghd5wreq6ATMbGDdCzxP4EdYzgK3rypFHveH7vxUHPhAGBmznHPIryiiGKzv8pc8Cg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343165096282",
+        "starRating": "5",
+        "title": "Yeah",
+        "comment": "Great app. Creat a playlist, select it and dont worry about turning off the music...",
+        "commentId": "lg:AOqpTOED3zR7cQB6Txainv98dq4wZltifjDR2m8gtQr86NoPzEBVQYz0yQ3fPphJG-wNJNbP3Ek7_SgDbxS4Yw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322523507269",
+        "starRating": "5",
+        "comment": "Great app. It does what it\\'s supposed to do. The GUI needs to be improved however.",
+        "commentId": "lg:AOqpTOG4hrgioq7TuRMAtWM6Ks-rnZzRi2-_nFQa0z5mD4Oppdq08H-mytCTexkGV8di13FHcCxzo7Lxg-xdRw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337524289873",
+        "starRating": "5",
+        "title": "5/5",
+        "comment": "Thanks a lot, simple app that does the work perfectly!",
+        "commentId": "lg:AOqpTOGM_X7ujPpIEpXLFmOjPnkEqzD0_g_UXQV-a911PuD5KTo-3Bwq69z3vgAAzIB4ITr4rLrXsIVVSH-g0w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345224129126",
+        "starRating": "5",
+        "title": "very useful",
+        "comment": "this is what i was searching long. great application",
+        "commentId": "lg:AOqpTOEgVjfIT5NIlJXsyJmv1XMka1R0JAvcLN1jWpCOGWPHSid7kozURDZAE1fKMnP-Am4xRKLEr74euhmAEw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332521802909",
+        "starRating": "5",
+        "title": "So simple and works perfectly",
+        "comment": "This app does exactly what I wanted - sets a timer for a music playlist so I can listen to white noise as I\\'m falling asleep. It would be nice if it also worked with custom playlists, but even with just the default playlists, it\\'s very useful. And it\\'s the first app I\\'ve seen that requires no permissions!",
+        "commentId": "lg:AOqpTOG3eCFp4pzxXFHnga5FIjcJAHAnHIZJ-eu-UUGJzU-obWuf3OBNjdBpZcNd_E1Xjga30B778cHvnv4uKQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340807359386",
+        "starRating": "4",
+        "title": "Simple yet useful!!!",
+        "comment": "The only problem is dat the playing of songs does not stop even when u get a call!!! Music still plays in between an active call!!! Kindly fix it!!!!",
+        "commentId": "lg:AOqpTOHZYHtX-rcm17lEuJbw2S3OQq0VYeWTNksw3ix3jYdUi00Gm_bdio0DTRijOL7UEWOZmMuuIEZPYTGBCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312676841230",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Great app pretty straight fwd",
+        "commentId": "lg:AOqpTOENditUh44iV9DJEHUvYgesykeBxahz7y8wj-f90F1GB04Q1XXRoNwyruafXSWcuLufiSHiyyXrMfTzDQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333182109851",
+        "starRating": "5",
+        "title": "sweet!",
+        "comment": "if you got realplayer(beta), it automatically syncs to your playlists. Great app!",
+        "commentId": "lg:AOqpTOHIJQhpOQKKotxePFtAb6FyAN9KToJeAcW4gVex2yP48GAvv657gkgf-EELGrHEZIwSIijuWqSfWUH95g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313641996062",
+        "starRating": "5",
+        "comment": "I would like to say thank you for making this app and fot also making it for free which is very appreciated by me and others",
+        "commentId": "lg:AOqpTOG2lQpXnUKkj_Uj-vNreUIanEactKMUOrfoIrgdSYtcThRKfVhC6noDId6jYfwUon43rYnu-RrgL7vNsw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335924670979",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "I was looking this app scince last 2 day nd finally i got it. Guys for it.",
+        "commentId": "lg:AOqpTOF8DFxm-0cuLALFt61wT9jhCpalwdspjz1tED-d3piZ04vtu1gbb2YefUxp5lXmvMBV19MB0uC7nC_naA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357310715210",
+        "starRating": "5",
+        "title": "Supper handy",
+        "comment": "Super handy, nice app",
+        "commentId": "lg:AOqpTOFFFt--PTkZufAyBFRbHCfSSAjOZVhFvVexTfkG1NB5xQR42PJ3Pk28LNE1_tTbLmiUmoDvtiHmaiKoNA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333269737914",
+        "starRating": "5",
+        "title": "Desire HD",
+        "comment": "Best \\\"turn off\\\" app on market,and it is free.Tnx bro.!",
+        "commentId": "lg:AOqpTOGsLb7AC35SEV0sFv60WW121kEgPajNIDzBe3cUYWpfXzkVaaYfe5fUlBkCVOvuh3_bE_I7nk_uj-QU5A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1331290644153",
+        "starRating": "5",
+        "title": "THANK YOU!!!!",
+        "comment": "Its works great!",
+        "commentId": "lg:AOqpTOGT9fWxDfOrcNmkXgVYJNf3vpGC9C6rcEiyAfH92gTCokEZ3J-IzbD6PksgL-Yq3V-7K4UDBZR1wVne5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335853835086",
+        "starRating": "4",
+        "title": "Rate it",
+        "comment": "App good",
+        "commentId": "lg:AOqpTOF5W91C8qU3Pr56-5rhSAiNJPARXtBygQ4fws7l0Y2QiUUgi5pxrqvuU86mq1N1njcb5SESUhMjseGJOQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330444317373",
+        "starRating": "2",
+        "title": "Force closes",
+        "comment": "Force closes in my xperia x8. Please fix it",
+        "commentId": "lg:AOqpTOEZVJFLm2PycIs2Uv0bVUU_tLHDXMg4Z0Bm424yRLWjGPe04DvWPdVhtUoi4G6udQVKiVU8_9tEtqlMqA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302827855792",
+        "starRating": "5",
+        "comment": "The app that I was waiting for my desire.. tx :)",
+        "commentId": "lg:AOqpTOHP18_hFbTn0ntDX2z6ZsuCSq1SQ6IKFAcIAFKKhD5FUqtw4l48zOeCSwG8szYzE58zzHP8YhD3djSlMg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316954666720",
+        "starRating": "5",
+        "comment": "Top rating for the description. Poor kitty? No, poor me for having to here lady gaga...",
+        "commentId": "lg:AOqpTOH5LsdQ3-O_uTJKqRpFkgy-isTGT5lmwKUF4KS4uRifl3Gjzp7wgqZ-pL3impe4RXBTC27_BWD8k6ukOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

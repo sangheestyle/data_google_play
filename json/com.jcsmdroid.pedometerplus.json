@@ -1,0 +1,247 @@
+{
+  "title": "Pedometer Plus",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jcsmdroid.pedometerplus",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "0.9.8beta",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "458",
+  "rating": "3.9279475",
+  "contentRating": "Low Maturity",
+  "creator": "JcsmSoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jcsmdroid.pedometerplus",
+  "extendedInfo": {
+    "installSize": "1.9M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Pedometer Plus is the definitive application to measure the exercise and many more.â Records the distance, number of steps, calories, current speed, time...â No need to activate GPS (optional if you want to view your route later on a map)â Easy to use and minimum consumption of batteryMore features:Â· Pause and resume the current exerciseÂ· Send all your routes to Google Drive (Google Docs)Â· History of routesÂ· Custom profile with BMI calculator and step lengthÂ· Pedometer's sensitivityÂ· Share your results on Twitter, Facebook and Google+Â· Statistics of your exercisesÂ· Metric/English systemÂ· Two exercise types: walking and runningÂ· Available in english, afrikaans, spanish, french and swedish> Facebook: https://www.facebook.com/PodometroPlus> Twitter: https://twitter.com/podometroplus> Google+: http://gplus.to/PodometroPlus* Please do not report bugs in reviews. Send them to the email directly.Want to collaborate to translate Pedometer Plus in your language?â Enter here: https://webtranslateit.com/en/projects/5502-Pedometer-Plus-Android-App",
+    "reviews": [
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1374956045065",
+        "starRating": "3",
+        "title": "Not the best",
+        "comment": "Have used it 3 times and not once has it work, removing it now and wouldn\\'t recommend it at all",
+        "commentId": "gp:AOqpTOHfpwa52apN0tVXaIPpb-8r3Wwt6tCbHgCy0jO33CenCOwmovJLnzAXzkaaCigTwBF-BYRXyhyqGtSO8A",
+        "author": "Wynne Kerins",
+        "authorURL": "http://lh4.googleusercontent.com/-P3X3WA6nLz4/AAAAAAAAAAI/AAAAAAAAACQ/Co7q2r5P81w/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-P3X3WA6nLz4/AAAAAAAAAAI/AAAAAAAAACQ/Co7q2r5P81w/photo.jpg"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1377565880407",
+        "starRating": "1",
+        "title": "Not accurate",
+        "comment": "I walked 2.5 miles and this told me in kilometers not even a mile.",
+        "commentId": "gp:AOqpTOHoNEy3AxdbAdjVeBLY8bdhiH_DmWxpETMz1WMhzZ6SBndqQ-Vi4Vu1Duu_4v-Msft3NZBl7CUbrJIK2w",
+        "author": "Jennifer Turnbaugh",
+        "authorURL": "http://lh4.googleusercontent.com/-kVbyY51tbwU/AAAAAAAAAAI/AAAAAAAADy4/PGsdtrLaJPA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-kVbyY51tbwU/AAAAAAAAAAI/AAAAAAAADy4/PGsdtrLaJPA/photo.jpg"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1371564886149",
+        "starRating": "1",
+        "title": "Garbage",
+        "comment": "Walked 2 miles said I walk ed 26",
+        "commentId": "gp:AOqpTOH1krvM9NLLQk1kWt5QZ2yGlr0iNu1I-6zlF0XOb7BkQdarT_os1S7elTkvDvEj9t-RtcHEIdH9E9OzXw",
+        "author": "Jeff Johnson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1373877819721",
+        "starRating": "3",
+        "title": "Steps",
+        "comment": "Dont record proper steps, rest is fine.",
+        "commentId": "gp:AOqpTOEC7aNV0UKp0fqBmsNf5NR2sMGCxDgfdcl3TUAsae2MZyO9hPIGarbswilTWH9GbT9dkVQsqNw8nzEt5g",
+        "author": "M Khan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1376883576447",
+        "starRating": "5",
+        "title": "Gs3",
+        "comment": "Awesome app!",
+        "commentId": "gp:AOqpTOGWvTRVH0LYoJOP0oJsfeuL3VAmLGWjAIY1xHDfEfNeU7q7PmecUAWwipgMUdNwVGUpGexCubkUdsWWGQ",
+        "author": "John Reed",
+        "authorURL": "http://lh5.googleusercontent.com/-PFZWK5eHXqs/AAAAAAAAAAI/AAAAAAAAAAA/vJh8IVUWAJk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-PFZWK5eHXqs/AAAAAAAAAAI/AAAAAAAAAAA/vJh8IVUWAJk/photo.jpg"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1376143993073",
+        "starRating": "5",
+        "title": "The best",
+        "comment": "This is one stress free app. It is simply the best. Just press start and this app does the rest",
+        "commentId": "gp:AOqpTOFkSB2EMQGbXJ4-ZKXCfeQPOB78fjQDre9UDCWa21-bmtJp8wjBWn5XYeucELtSyIt8b4Hq3HkBuolBzw",
+        "author": "Maya Logan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1373112224588",
+        "starRating": "3",
+        "title": "Works.",
+        "comment": "Good app.",
+        "commentId": "gp:AOqpTOF5jawt_dBmLw9grkMnN4a-kHB5WRv_w4k6x-CEdRsvhH76GZcbK1ddKtf3sQ6xEIs7Usui1FAIAkb4-w",
+        "author": "Andre Awkward",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.8",
+        "timestampMsec": "1375286707391",
+        "starRating": "1",
+        "comment": "Resets to zero every time a notification comes in on my phone. Useless.",
+        "commentId": "lg:AOqpTOFyLLcmvGUQSQpw0lHxjOVVo-0dGQMM0J6bcSvTBpJG9RhY4eittx5EM294rMyfIWgrm3Q5O6pfvdaXkw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1367029827484",
+        "starRating": "2",
+        "title": "Doesn\\'t work",
+        "comment": "Barely records anything. I turned it on, started to walk and nothing. A kilometre later of fiddling I got it to record two steps. Not working on my S3 but other than not recording steps, the other features work but since I want to record steps it defeats the purpose of having it. Will definitely try again down the road once I see it working for others.",
+        "commentId": "gp:AOqpTOEEXEwg9v2aH_dsCs6v-Yjdu5A0spKuRSpF2lxpuBbt8n0axZJ8wwxqF10E_CsAfI4ss3bYAk0YRRNN4A",
+        "author": "Brady Patterson",
+        "authorURL": "http://lh6.googleusercontent.com/-RumygaFyTK0/AAAAAAAAAAI/AAAAAAAAA9E/cmYwsMj8SYQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-RumygaFyTK0/AAAAAAAAAAI/AAAAAAAAA9E/cmYwsMj8SYQ/photo.jpg"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1367722377764",
+        "starRating": "5",
+        "title": "Gave me a reason to start walking",
+        "comment": "I can\\'t run being disabled but I love that I can cater this to me, right down to the length of my stride! Love it, love it. I would love the ability to add a picture & make my own customized comment when sharing to social networks. But that\\'s a small thing. Great job dev!",
+        "commentId": "gp:AOqpTOH8LfGqa1TJzomwDi8yuqRCigy5dGqddaPGIKwERKhJ67n1-RP8a39dshf6vwvX3lsmB4Rx6udcG3GFlw",
+        "author": "Leigh Bain",
+        "authorURL": "http://lh6.googleusercontent.com/-bA8VHdieyUM/AAAAAAAAAAI/AAAAAAAABeU/GiDMaIe9td8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-bA8VHdieyUM/AAAAAAAAAAI/AAAAAAAABeU/GiDMaIe9td8/photo.jpg"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1372070079149",
+        "starRating": "3",
+        "title": "Mixed",
+        "comment": "At first this app worked fine during my runs. However whenever I receive a text during a route the app resets all data to zero. So I could run 5km but if I get a text half way through the data is lost and becomes useless",
+        "commentId": "gp:AOqpTOESjeEiPLnzR_wRM4Hgm-2uZkOuQ9j_8uz5T9bQxqotlpo3jRPBxXfDJZkDYCSDIRXx-335PXQFyIBHhg",
+        "author": "guy prowse",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1370726830909",
+        "starRating": "1",
+        "title": "Samsung galaxy 3",
+        "comment": "It doesnt accurately count steps and once its in sleep mode it goes haywire. Used it once and im deleting right now.!!",
+        "commentId": "gp:AOqpTOHpmEXXsMiT1Pi_o268m4ljQHfWGboGBEkTF84p-1AgJRfA1ZoJWDE5hripGYt3OiTSZBWEHhaSNMbkQw",
+        "author": "Gracie BOARD",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1369197299032",
+        "starRating": "4",
+        "title": "Lol",
+        "comment": "Pretty good little off nite pretty useful",
+        "commentId": "gp:AOqpTOFUVrq-QdloGIvlUV5KH_8aN8yz4iOBI1eCO-m2pxbPEzsjRDC68141kYHfkZo14R2jftqPduOorkjwHw",
+        "author": "Lucas Juarez",
+        "authorURL": "http://lh5.googleusercontent.com/-HwzF4Cgxjc4/AAAAAAAAAAI/AAAAAAAAABE/_WgSlPa8qUc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-HwzF4Cgxjc4/AAAAAAAAAAI/AAAAAAAAABE/_WgSlPa8qUc/photo.jpg"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1366548257404",
+        "starRating": "4",
+        "title": "Very good",
+        "comment": "Works really good. Use it all the time",
+        "commentId": "gp:AOqpTOHdJSOTFl9ls26NLsGfGlkNtVLegWKcq4eKg4xcxdDc37TkcN8uLBR6WZP0fZxycszY5B1PDfdSxtgLyw",
+        "author": "gloria bryant",
+        "authorURL": "http://lh6.googleusercontent.com/-25bv4KBmC8A/AAAAAAAAAAI/AAAAAAAADI8/p1kNli0S-V0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-25bv4KBmC8A/AAAAAAAAAAI/AAAAAAAADI8/p1kNli0S-V0/photo.jpg"
+      },
+      {
+        "documentVersion": "9.7.1",
+        "timestampMsec": "1368839417540",
+        "starRating": "5",
+        "title": "Great !!!",
+        "comment": "Love love love this !!! Cant wait to start runnin these extra pounds off !!",
+        "commentId": "gp:AOqpTOG372x9Lw-pxa4nvAzOzgYNOsql8reCzZuaExL-xU9eJIc79CC8RBybMS_48HtMLc3CIT8TCAvw1xbfzQ",
+        "author": "Athena Riley",
+        "authorURL": "http://lh6.googleusercontent.com/-A71pmuaBRYk/AAAAAAAAAAI/AAAAAAAAAw8/PVtPDrYDqGM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-A71pmuaBRYk/AAAAAAAAAAI/AAAAAAAAAw8/PVtPDrYDqGM/photo.jpg"
+      },
+      {
+        "documentVersion": "0.9.7",
+        "timestampMsec": "1365962489534",
+        "starRating": "2",
+        "title": "Forget this one",
+        "comment": "Went on a 7 k walk on return this read 1.75k checked steps it read 2 when I had actually done  10 wouldnt bother downloading",
+        "commentId": "gp:AOqpTOHba4tD2wVWxwN0wuk-VmNTTFQihARVs-1tXtMImiCv3PmxIUcxpYcJBsBQuSnQEsUUJw6ZgMbSpId9xA",
+        "author": "Aileen Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.6",
+        "timestampMsec": "1369145912912",
+        "starRating": "5",
+        "title": "Excellence",
+        "comment": "Great",
+        "commentId": "gp:AOqpTOFL15iYJlItzjSPcD11ua5q8LGXL5zJaC480llVIZ_QoHufdkSjmAi3ffODE4RRGmfBvnIKOKWKyk2iQQ",
+        "author": "Marissa Fransisca",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.5",
+        "timestampMsec": "1363199540161",
+        "starRating": "1",
+        "title": "doesn\\'t work on samsung galaxy mini2",
+        "comment": "all counters start like crazy as soon as I press start...",
+        "commentId": "gp:AOqpTOGvkvUOsUVpUNCJ_xIO7tHkrbFff7yuDvx3zNPcT2m-U_M2SLmoeKLMidjYRCrb-gyeo7K4k72On1XwSA",
+        "author": "Angela Vasilescu",
+        "authorURL": "http://lh4.googleusercontent.com/-iA2NZPk4Cvs/AAAAAAAAAAI/AAAAAAAA6m0/oi1EXzEFKSU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-iA2NZPk4Cvs/AAAAAAAAAAI/AAAAAAAA6m0/oi1EXzEFKSU/photo.jpg"
+      },
+      {
+        "documentVersion": "0.9.5",
+        "timestampMsec": "1362969395490",
+        "starRating": "1",
+        "title": "retarded.",
+        "comment": "As soon as I start it, without even moving my phone, it says I already walked up to 40 steps. Dont waste your time.",
+        "commentId": "gp:AOqpTOHFhN012BRJL7rkRRnOymbSLY2wMMdVpegH3AaVlg8VuiT0r0j62BhVascckBDb7mA1-1SIKeTHWzsCTQ",
+        "author": "Andrea Hagerty",
+        "authorURL": "http://lh4.googleusercontent.com/-xjpC-A-VbyU/AAAAAAAAAAI/AAAAAAAAADE/uReifSRSwvE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-xjpC-A-VbyU/AAAAAAAAAAI/AAAAAAAAADE/uReifSRSwvE/photo.jpg"
+      },
+      {
+        "documentVersion": "0.9.5",
+        "timestampMsec": "1363963717980",
+        "starRating": "2",
+        "title": "not accurate",
+        "comment": "Needs alot of work",
+        "commentId": "gp:AOqpTOED2hK5bMJhDQm4WFH4krgZfWYfx1mahncl7iEZqHa7R-ceJz91pePoYLGMBgGgGGktdsvCjIrFbgbDgA",
+        "author": "Alma Gross",
+        "authorURL": "http://lh3.googleusercontent.com/-5R2mHrLQw3s/AAAAAAAAAAI/AAAAAAAAAJk/S5j-pi6S2EY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-5R2mHrLQw3s/AAAAAAAAAAI/AAAAAAAAAJk/S5j-pi6S2EY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.GET_ACCOUNTS"
+    ]
+  }
+}

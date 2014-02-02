@@ -1,0 +1,81 @@
+{
+  "title": "HandMap Map Draw & Track GPS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=cl.noboss.utilities.mt",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "February 25, 2013",
+  "version": "1.2.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "13",
+  "rating": "3.5384614",
+  "contentRating": "Low Maturity",
+  "creator": "No Boss",
+  "creatorURL": "https://play.google.com/store/apps/details?id=cl.noboss.utilities.mt",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "New Version 1.2.1 SPK 18. Feb 25, 2013.***************************************************************HandMap Drawing Tool:Any time have you needed some way to draw a map for directions, or route to follow, or special meeting place, or unique places hard to find, and only there was your Android phone?   :-)Well, now you can draw a map with your hand and your finger, yeah!.Once you have drawn the map, you can share it or post it.If you have no time to wait, send a SMS directly from HandMap.The Destiny user will only need Internet access and an installed map tool like google maps or other.HandMap Drawing Tool relies on KML (Keyhole Markup Language), so almost any smart and Java enabled device could open the map.Oh!, and if you can not, then you can open directly in your mobile browser :-DEnjoy it, and share some special places to meet.Version HistoryRecent-------------------------------------------------------------------------V1.2.1SPK18-   KML Export. -   Map Categories Redesign.-   Map Upload Faster. Queue for No Network Areas.-   GPS Tracking now works on Background.-   New Gps Tracker Module: Now for trace only.-   New Quick Gps Tracker Panel: When no map and BIG buttons are needed.Past-------------------------------------------------------------------------V1.1.4SPK14 Fixed Crash Bug for No Cell Phone.V1.1.4 LanguagesNow languages: English, French, Italian, Portuguese and SpanishV1.1.3 Some Language Changes.Added Spanish MenuAdded Spanish Help.V1.1.2 This Bugs were Cleared.GPS Now Keep Awake.Better Auto Retry on Server Busy.Share Handmap and MapKey Now OK.V1.1.1 Mayor UpdateNew View Terrain Modes.New GPS Trace Modes and Sensitivity.New Map Sharing Mode - Map Key HandMap Openable.Map Metrics - Distance.Other minor changes.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.1",
+        "timestampMsec": "1368170194508",
+        "starRating": "3",
+        "title": "Kml or gpx export",
+        "comment": "Also cant find KML export, but best would be GPX export - to make tracks for my Garmin Oregon when I am bike-travelling... (and copy them on SD)",
+        "commentId": "gp:AOqpTOHpkVYveUMsz3uXekjhs7BgFJ9flkSQFycJVXGjZs9_sKEiMRX2VEKcg1M8CFrhkSvKqy_aP1ZH3rVTGM4",
+        "author": "\\320\\241\\320\\265\\321\\200\\320\\263\\320\\265\\320\\271 \\320\\234\\320\\276\\321\\200\\320\\276\\320\\267\\320\\276\\320\\262",
+        "authorURL": "http://lh3.googleusercontent.com/-fJ46ipuGz6E/AAAAAAAAAAI/AAAAAAAABaQ/voAlwB8z1qM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-fJ46ipuGz6E/AAAAAAAAAAI/AAAAAAAABaQ/voAlwB8z1qM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1346799814624",
+        "starRating": "2",
+        "title": "Best Draw a route app",
+        "comment": "Great for drawing a route. but cant access KML file and map URL links don\\'t work. so unworkable at this stage. will give 5 stars when this is up and running.",
+        "commentId": "lg:AOqpTOEAuwrNomG1SbB8p60SutKO_EDKpyYifhK9AsVdjDosYr0XfZSdX-pG9FwThoomqcdRb1QTHdO6Fi0UU50",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1329978946514",
+        "starRating": "1",
+        "title": "Sucks",
+        "comment": "Cannot see where I am in map cannot sign in and most of all cannot draw on map",
+        "commentId": "lg:AOqpTOHDKEp5jVeDxJ2h336OmFbQLxq6sF7NceehczB3NhMX-RGPP0fHzExx5CMMBIcLc7ifbFlQldiXxYBUjE0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1337385648972",
+        "starRating": "5",
+        "comment": "Love this It\\'s awesome! My favourite app. It works. It\\'s ace I love it. Thank you!!",
+        "commentId": "lg:AOqpTOESV80fPvWlF5lWyUOt4n3KccPMoXLHksx_dG6_t9aWoauSFNN2XYhHSs4NCSBYKfR6JJrfDw_zopZGLIU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.4",
+        "timestampMsec": "1341989626563",
+        "starRating": "1",
+        "comment": "Complete crap",
+        "commentId": "lg:AOqpTOHmDubidDZ8QGk9ICLDbIgs-WdXMEpp2nTqnMb7NRSHQDxbV22_gubqtz_BBD24qomtNOByygw9stSliWI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Social Lock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mhotspot.sociallock",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 16, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7",
+  "rating": "4.285714",
+  "contentRating": "Everyone",
+  "creator": "1BN Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mhotspot.sociallock",
+  "extendedInfo": {
+    "installSize": "681k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The free lock app for Whatsapp, Viber, WeChat, Line, Facebook, Kakao Talk, Kik Messenger. Keep your conversations safe with 'Social Lock'.Features:1. Numeric Lock.2. Pattern Lock.3. Waiting time to relock.4. Hide Pattern drawing.How to use:1. Open the 'Social Lock' and setup your password or pattern.2. Set waiting time to re-lock the messagins apps after exiting, so that you need not enter the password every time you close and open within short time.3. Toggle the Status to 'ON'.That's it, done! If you like our app, please take a moment to rate us :)Why to use our app?1. We have designed an efficient algorithm that consumes 7 times the lesser battery than other apps (approx).2. You can set the re-lock time. So that the application waits for that time to lock the application after one successful login. 3. Use Pattern Lock in stealth mode (pattern path is hidden).Note:If you are using any battery saver or ram booster application, make sure that they wont kill this Lock application service.Thanks to http://www.haibison.com/ for Pattern Lock library.",
+    "reviews": [
+      {
+        "timestampMsec": "1376803908904",
+        "starRating": "5",
+        "title": "awesome",
+        "comment": "No one can get into my messages except me",
+        "commentId": "gp:AOqpTOFoT6VXprnCB4aIpHpc7amwsBXO422jP4NWCs4x8j0Ok26T4kH8-4gmQ1S8wlHkfNVFkds1zwwEGdSKww",
+        "author": "merceda mieles",
+        "authorURL": "http://lh6.googleusercontent.com/-yeH3SUeD34c/AAAAAAAAAAI/AAAAAAAAAEo/xPNCC-AzzQA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-yeH3SUeD34c/AAAAAAAAAAI/AAAAAAAAAEo/xPNCC-AzzQA/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Active - 8bit Beach Theme",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.celltick.lockscreen.theme.Eight_bit",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 28, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9",
+  "rating": "4.5555553",
+  "contentRating": "Everyone",
+  "creator": "Celltick",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.celltick.lockscreen.theme.Eight_bit",
+  "extendedInfo": {
+    "installSize": "816k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Enhance your phoneâs appearance with this new \"8bit Beach\" Theme for Active lockscreen ! Themes Provides a pleasing visual experience while using Active lockscreen , Which offers users many features and benefits : â¢ Easy access - with one click only , you can call a contact, launch an app, play a game, browse the web, play music, get Facebook updates or just unlock your phone.â¢ Display your favorite gallery pictures, Facebook feeds and other apps of your choice while your phone is lockedâ¢ Set your favorite/recent contacts for easy calling even when you are on the Go.â¢ Launch your hand-picked/recently used apps â¢ Send Text messages through your SMS Inbox or any other text app such as WhatsApp, Skype, Viber, Email, Gmail, Twitter or LinkedIn â¢ Launch the Camera or any picture and graphics related apps installed on your phone such as Instagram, Mobli, Food, Adobe Photoshop ExpressThe Active Lockscreen is easy to use and is the best app for unlocking your phone - all you need to do is place your finger on the lockscreen ring and drag it to the relevant action or shortcut â ideal when you are on the Go.Enjoy our new background themes with matching graphics!",
+    "reviews": [
+      {
+        "timestampMsec": "1375158885678",
+        "starRating": "5",
+        "title": "Nice Icons & Color scheme",
+        "comment": "I actually overlapped the beach scene wallpaper with an image which matches the icon and unlock circles color scheme",
+        "commentId": "gp:AOqpTOGT4yS3ynHV2vSrq49a1v0VE_sOSF2pCVK5lS8pso0lx2JShjfViUgPRj7BKzbge8ZgTlm3I9mGQy6uQMA",
+        "author": "Ignacio Cordova",
+        "authorURL": "http://lh3.googleusercontent.com/-bZoysNeJ-bo/AAAAAAAAAAI/AAAAAAAAAC8/BxC8EazS_Dk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-bZoysNeJ-bo/AAAAAAAAAAI/AAAAAAAAAC8/BxC8EazS_Dk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376411453266",
+        "starRating": "5",
+        "title": "Alot of FUN",
+        "comment": "That is my favorite beach",
+        "commentId": "gp:AOqpTOGe317p4KoSVJcS0CBu4MPRCUxHy0MN3in7a0sVyw2xIvhGzBkGmWBsYi1__CU5YiF7xggcA8ltZlxXY5k",
+        "author": "Kenneth Blanton",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372005918813",
+        "starRating": "4",
+        "title": "Awesome App!",
+        "comment": "I would give it 5 stars if I could lock with pin/password and auto change themes. Thanks for a free and great app.",
+        "commentId": "gp:AOqpTOG4SdMM72_T1FyLvXyyUE78W2H5XxNJIu_62AzJY3Sn3cAYYu0zDWx-VixWJUq4wiNvNMDhCy2QRikJeYw",
+        "author": "Lisa M",
+        "authorURL": "http://lh3.googleusercontent.com/-tCAsEQYvMZs/AAAAAAAAAAI/AAAAAAAAAkI/9dbDKmsh0L0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tCAsEQYvMZs/AAAAAAAAAAI/AAAAAAAAAkI/9dbDKmsh0L0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373235858666",
+        "starRating": "5",
+        "comment": ":)",
+        "commentId": "gp:AOqpTOFblASRr5IG6VqwrTHzlKP3reP-T82ZgaNK19_H_OGTUcaXrzQp1wMzrbpJW8_CP2IS7j_qZ3i6b8VEwYU",
+        "author": "yaksh patel",
+        "authorURL": "http://lh3.googleusercontent.com/-FmOe5y01gr4/AAAAAAAAAAI/AAAAAAAAAQI/gHP2XpmqXL0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-FmOe5y01gr4/AAAAAAAAAAI/AAAAAAAAAQI/gHP2XpmqXL0/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "com.celltick.lockscreen.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Ninja Jutsu Hand Seals Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jayghl95.jutsu_hand_seals_guide",
+  "category": "Education",
+  "price": "$0.99",
+  "datePublished": "July 16, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.75",
+  "contentRating": "Everyone",
+  "creator": "jayghl",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jayghl95.jutsu_hand_seals_guide",
+  "extendedInfo": {
+    "installSize": "2.0M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Want to learn the jutsu's used by ninja / shinobi such as those found in anime like naruto? Then Check out this app and become a pro !! The Ninja Jutsu Hand Seals Guide provides you with a list of jutsu's with a step by step guide of the hand seals needed to perform it. This app is incredibly useful to show off to your friends how many ninja / shinobi jutsu's you can perform. About Hand Seals:In many popular anime / manga a series of hand seals or hand signs are performed by the ninja / shinobi to create huge and powerful attacks. However, in order to perform the jutsu's the hand seals have to be formed quickly and in the right order. This is where this app comes into its own; it shows an image of the hand sign along with the animal name (e.g. Serpant) to help you perfect the jutsu. Slowly and surely you will be able to memorize the hand seals needed to perform every jutsu on the list and become as good as the characters in the anime. About the creator:Hi, I'm Jay a 17 year old boy who is a fan of anime shows such as Naruto, Naruto Shippuden, Bleach, Fullmetal Alchemist etc. This is my second attempt at this app so please check it out and constructive criticism will be greatly appreciated. I'm charging a small fee for this app not to become a millionaire (although it would be nice) but to prove to my mum I can make money other than just having a weekend job. Also if you do not like the app once you have downloaded it, just request a refund using Google Play; I'd hate for people to find my app as a waste of money.Thanks and I hope you enjoy Ninja Jutsu Hand Seals Guide App !!!PS: The app price refers only to the developers work.",
+    "reviews": [
+      {
+        "timestampMsec": "1373054339603",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Its a good app but it only has so many seals. Other than that, I like it. I give it a four because I thought there would be a lot more but there probably only around 50. But I like it. Hope this helped you people who are deciding on getting this app",
+        "commentId": "gp:AOqpTOF029uLVNs6cdW7jP-7a_i1wJvRyEkByNRi1eQFeKWxnws53bzZ9fvF5QJAtPyFOSRGyWce6-dDf9m57j4",
+        "author": "Emory James",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370881016648",
+        "starRating": "5",
+        "title": "1st to download!",
+        "comment": "Expecting this to be awesome! Probably will be!",
+        "commentId": "gp:AOqpTOEjtXDbFJNzdmS7AnG6dFY0SrcLfzzL_mwbI_99r0x7DfHqq0faY3GOdLF1eJweSR-m-7dUnk8BsTKUH34",
+        "author": "Adam Attia",
+        "authorURL": "http://lh3.googleusercontent.com/-oGIG2S-WxRM/AAAAAAAAAAI/AAAAAAAAACY/srp3tRT5k5g/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oGIG2S-WxRM/AAAAAAAAAAI/AAAAAAAAACY/srp3tRT5k5g/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

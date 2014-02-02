@@ -1,0 +1,242 @@
+{
+  "title": "Jiffy Lube",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jiffylube.jiffylubemobileapp",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "December 20, 2012",
+  "version": "1.1.1.c",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "77",
+  "rating": "2.6883116",
+  "contentRating": "Low Maturity",
+  "creator": "Jiffy Lube",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jiffylube.jiffylubemobileapp",
+  "extendedInfo": {
+    "installSize": "22M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Help keep your vehicle on the road and out of the repair shop with the Jiffy LubeÂ® App. Find the nearest Jiffy Lube. Get tips. Store important vehicle information. Itâs all at the tip of your fingers with the Jiffy Lube App.Features:Locator: Find Jiffy Lube locations quickly with the locator feature. You can get directions, call the location directly, and find out what services are offered at that location. You can also download the $5 off coupon for the Jiffy Lube Signature ServiceÂ® Oil Change.MyInfo: Conveniently store photos of important vehicle documents such as registration, insurance cards and license plates for handy access*. Car tips are also provided to provide quick, helpful information in the event of an emergency, such as how to jump-start your battery.MyGarage: Schedule reminders for important routine maintenance checks, such as tire pressure, coolant level and wiper blades. Each item on the list also comes with âhow-toâ instructions.Jiffy Lube: Allows you to connect to Jiffy Lube in more ways. Here you can find general information on warranties, a list of services offered, general information on oil and a link to the Jiffy Lube Facebook page.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1378141417759",
+        "starRating": "3",
+        "title": "Worth the trouble",
+        "comment": "This app crashes way more often than it should. However, it works well enough and long enough to get to coupon page. Thus despite having to deal with a few crashes, it paid off immediately.",
+        "commentId": "gp:AOqpTOF-I7ab3RImK3RIQ036ZxA-9njkQlVBkQbqPqJC1l-XkfEOiFyllxc5FxdU9uGsYlvGfmSN0oS2dXI1p9A",
+        "author": "Kerry Neubrander",
+        "authorURL": "http://lh3.googleusercontent.com/-4abpLN1bwBs/AAAAAAAAAAI/AAAAAAAACHo/sgT6jKDHDL4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4abpLN1bwBs/AAAAAAAAAAI/AAAAAAAACHo/sgT6jKDHDL4/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1361051075594",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "Application won\\'t even completely open.  Constant force close errors. Unable to use application at all.",
+        "commentId": "gp:AOqpTOG_d1VYY2mtSn5pgKBht7v-iwPe3nfE8D4CpOuRGCa59kp4RrilROB6GsEHhrzdvnIZSphlNUWEIZdz2cY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1378059957565",
+        "starRating": "1",
+        "title": "Great concept, poor implementation",
+        "comment": "Great to have a way to track my oil changes and reminders, too bad this app doesn\\'t work well.  It doesn\\'t use the built-in keyboard, and isn\\'t able to progress to other fields for entry.  Also, won\\'t close with using End Task.",
+        "commentId": "gp:AOqpTOHrKoCrHXsGUkOrU7IpG4dHKaogTd7L8GUKADRv51Q7YAXtZAf7jvbfXSN-P6VC1kkQz2gANj5CjgF5Gxo",
+        "author": "John Williams",
+        "authorURL": "http://lh6.googleusercontent.com/-dzojfGLmX88/AAAAAAAAAAI/AAAAAAAAADY/q6Ho7E5ZNLU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dzojfGLmX88/AAAAAAAAAAI/AAAAAAAAADY/q6Ho7E5ZNLU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1362965386978",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "Useless.  Crashes all  of the time.  FIX IT",
+        "commentId": "gp:AOqpTOF6-8uMqq8NjmHqdCBBc_-6SJ_F8kp8FeAxEgvuyKAfvmMM-4C_GCxZyvvFmwOwQJVSZDUGVZnhE2gc0_4",
+        "author": "Joseph Gilligan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1374841019963",
+        "starRating": "1",
+        "title": "Worthless",
+        "comment": "Crashes. Manual entry of everything. Was hoping I could download service records like the Tires Plus app.",
+        "commentId": "gp:AOqpTOF2xdWg8FcDlTrw-4HTn3Q9AVJx-MaFMN4nlACscOWBi7xWV6wS1bdreVZ4VRQyWI610QQY5ZT9DmAXX9E",
+        "author": "Marc Lieberman",
+        "authorURL": "http://lh4.googleusercontent.com/-qHo6JlqMdkY/AAAAAAAAAAI/AAAAAAAAALY/EmzJMRKeq38/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qHo6JlqMdkY/AAAAAAAAAAI/AAAAAAAAALY/EmzJMRKeq38/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1376612052569",
+        "starRating": "1",
+        "title": "Horrible!",
+        "comment": "Never works always force close",
+        "commentId": "gp:AOqpTOF1GOD5jY8BQFo_z9NF9vMbh6TU45k6PbIgOjwhRFDinVuK21y7F_BrmM18dTDF-Wu-jPJq-2v6W64vuyk",
+        "author": "Priscilla Delfin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1372784769163",
+        "starRating": "2",
+        "title": "Needs work",
+        "comment": "Locator worked ok. Let\\'s you enter (picture) of registration, license plate, but no way to back it up to phone or cloud. Menu & Back buttons don\\'t do anything.",
+        "commentId": "gp:AOqpTOGj3sVsKsWMfP2lgXk3r0cCHm3W6n_3ChEGXtp1_dWJu0xicKnyKwlu8tOrwCUYmz5-UmfOLvmxDVhN6mM",
+        "author": "Robert Bruce Summers",
+        "authorURL": "http://lh4.googleusercontent.com/-ZZFFRn4gkok/AAAAAAAAAAI/AAAAAAAAFb0/Q1yrZDlN6io/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ZZFFRn4gkok/AAAAAAAAAAI/AAAAAAAAFb0/Q1yrZDlN6io/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1364436437686",
+        "starRating": "1",
+        "title": "Poor app",
+        "comment": "Will not let me update",
+        "commentId": "gp:AOqpTOH__OfivRO3kjoPpYGu8uOho6pRoINtiCOSvVWtcVCcIjntxCEMM65T2FpHgHlq3FFJQd2IcavsHvtf-dI",
+        "author": "Ty Bertrand",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1369417229778",
+        "starRating": "1",
+        "title": "Sucks!",
+        "comment": "Doesn\\'t work at all! Razr maxx",
+        "commentId": "gp:AOqpTOFUe2JaNfuYtcmyR5JdF738IgMcaGkt6AEzH9-3IKW4GR9dJV0OKU9Cb1-dHFV5vcVDhOztuAPDVfBxqag",
+        "author": "katrina coffey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1369189390110",
+        "starRating": "5",
+        "comment": "Perfection!!!",
+        "commentId": "gp:AOqpTOH7NlwdO3idJMRMuOr-yJK14W38BklSNXEbTa6cTrRC3_jr82PmDa1owsT3gUpv1gAABTSQCAs4Bu83SJ0",
+        "author": "Jose Castillo",
+        "authorURL": "http://lh6.googleusercontent.com/-EO9G9LTQ_s4/AAAAAAAAAAI/AAAAAAAAAD0/vf4Ux_h43Nk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-EO9G9LTQ_s4/AAAAAAAAAAI/AAAAAAAAAD0/vf4Ux_h43Nk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1365560309331",
+        "starRating": "2",
+        "comment": "Lots of bugs. Freezes constantly.",
+        "commentId": "gp:AOqpTOEwglmILEXPzE2MCfIGYm9eAMyrVVmO9WURRSooKYznmF1zxyMN8oDicAWMoQQ04mYXUSMXUGHDj2JlytY",
+        "author": "Darleen Fink",
+        "authorURL": "http://lh6.googleusercontent.com/-IUe6jLFZWKI/AAAAAAAAAAI/AAAAAAAAAH8/Vdcqdcws-Zk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-IUe6jLFZWKI/AAAAAAAAAAI/AAAAAAAAAH8/Vdcqdcws-Zk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1347538830372",
+        "starRating": "1",
+        "title": "Totally Useless",
+        "comment": "Downloaded it and tried it today.  Sheer waste of time and download minutes.  Nothing useful and nothing new that cannot be handled by Google maps.  Deleting this app.",
+        "commentId": "lg:AOqpTOGQ1SHoRLY-vmW15nc88a9cvkLj_gkXyGOVcvDwhydrvVDHgSM2i6NIpgyAIdiChL5cWRknWSxV3xWAQE0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1347564935122",
+        "starRating": "1",
+        "title": "Very sllow",
+        "comment": "Not a secure application, Personal information ( Car VIN numbers, Registration info ) is at risk if you loose the phone. I expected maintainence reminders from Jiffy Lube online services directly but it requires me to enter next service due dates.",
+        "commentId": "lg:AOqpTOEeyKJIm02szQVz2A-SIJs8XEPtd6wuIBwXZ-cVknV8asPa_D8YAsNzl40nzHviZ5-3i79v37RZM-iAraI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1346432874360",
+        "starRating": "1",
+        "title": "Are you kidding me?",
+        "comment": "This is what happens when you just hire any developer to develope your app. Designed by a windows programmer for sure. Ever heard of efficiency,  28 mb? No added value cupons? Try again please. What a waste.",
+        "commentId": "lg:AOqpTOEnPJj1ynz0pZgn73u0orPdJT7HqXPSrOf5vlm96ue6VfFX9Tb3lvAZ3LncS50Rp9PGEc0jnGJ3jCcORtk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1345472576781",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Uninstalled",
+        "commentId": "lg:AOqpTOF8BQuyQg26OFligS6XOIThtvxPDQ20VIgON8H77zJE1YUpxOA-RDIuD7aGXA19rU-I81TCuHf5vGWNVJ4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1341596179020",
+        "starRating": "3",
+        "title": "Good start but needs improvements",
+        "comment": "I love that I can save my vehicle info on it but the app is rather large and a little buggy. With that said I\\'m still happy with it but I think an update can make it above average. Also coupons and checkin bounces would be really nice!",
+        "commentId": "lg:AOqpTOFlNS4kllC-4Y7iI94EvHY3AIAUJ-_nsGnt3Jkb30fNt_ej5bU-frAzNghm_seGrnbDPSRJ8TklcaKVIL4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1342131045486",
+        "starRating": "1",
+        "title": "Fail",
+        "comment": "Kept saying run time error and wouldn\\'t save anything. Even reinstalled. Still nothing. Final uninstall.",
+        "commentId": "lg:AOqpTOGzezk-LnQ8Pj_zzcOTuDZMMl3hntaE-jzJHvQrR3pyaWj0ntGFO9Q1-0bbgEsSbzek1erh6LHulmr9p04",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1338388668522",
+        "starRating": "1",
+        "title": "It\\'s a pig",
+        "comment": "App is over 21 MB!  Station locator takes you to stations that don\\'t exist.   Only have one chance to see a coupon.",
+        "commentId": "lg:AOqpTOH-_YdxSsRsMvjeVEZgdTC7n8cLQBw5lozaoGoT1oTB98HqBITpFISC6IwHarOtFtLXlOjJy74Yd2ZfuDs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1337439256412",
+        "starRating": "1",
+        "title": "Won\\'t quit or exit.",
+        "comment": "That\\'s why I uninstalled it!  Hitting the \\\"back\\\" button on my phone is supposed to close the app (unless there\\'s a specific \\\"quit\\\" or \\\"exit\\\"  button.  And this has nothing to do with the app staying resident in the background.  Your app should at least behave like 99% of the other apps, or nobody is going to want to use it!",
+        "commentId": "lg:AOqpTOHpE97T1WfTgeB9nL3RcL4RhRft1NxXsFWUOM5y4RfckypUFkuUCQlqSKPG0gpjxQFLeBLmE2rZ1vosMT8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.1",
+        "timestampMsec": "1336332154808",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "I downloaded the system. Tried entering both vehicles and system kept shutting down force close. Not worth the time until they fix it.",
+        "commentId": "lg:AOqpTOEIMttGXZWX1wEbG1RDdpQ5qldaSBSbl_eLO2Gx68HWwihZlJ94Ql2Z02mCHg4kXtfgduAwOkjJ-RtXlKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Save Contact",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.safecontact.mainclass",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "December 19, 2012",
+  "version": "2.0.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Evo Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.safecontact.mainclass",
+  "extendedInfo": {
+    "installSize": "216k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Your contacts will be always available on our site : http://www.adv-mbs.com/advmbsco1/android/site/ you have just to login with your email and password and will get to see your list of registered contact anytime anywhere.SafeKeep ContactsOverview:What is Save Cantact ?Have you ever had an unlucky day and lost your phone? or even worse have you ever been the victim of phone theft?For those of you who have been through the same predicament there is now no need to worry with Save Contact.Save  Contact allows you to save and store all your contacts in one place so that you don't need to  worry or go through the hassle of ever losing them again.Why Safe Contact?Most people nowadays own a smartphone device with all important data such as all your contacts, banking data, personal photos and videos, notes in short your whole life is stored on your device and with phone theft on the rise it is imperative that you back up on a regular basis.With our nifty Save Contact contacts app you can do just that, store and sync all your contacts on our personal cloud storage server and have access to your contacts anytime, anywhere.it's Easy Using Save contact is a breeze and easy to install. All your contacts are located on the server and you can access them any time the data.it's Secure You create your own username and login so only you can access it when you need access.All your confidential data have never been so well protected. The data is encrypted on our servers and decrypted in real time, only when the user is viewing.it's FREE !!!Available Features:1-\tSaving contactsYou can choose to save selectively or to save and automatically sync and save all of your contacts.2-\tImportYou can choose various options of importing contacts such as Importing all your backups Importing contacts that include a descriptionDeleting a backup.Help and Supportfor Help and FAQ's please drop us an email or use the contact form on our web site.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

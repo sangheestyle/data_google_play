@@ -1,0 +1,38 @@
+{
+  "title": "Personal Budgeteer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jf.android.pb",
+  "category": "Finance",
+  "price": "$3.13",
+  "datePublished": "August 21, 2012",
+  "version": "2.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "44",
+  "rating": "3.8863637",
+  "contentRating": "Everyone",
+  "creator": "JFSolutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jf.android.pb",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Personal Budgeteer is a powerful app for advanced management of financial revenues and expenditures of your household. Our mission is to improve your awareness on the status of your expenses and help you to reduce your family expenses.Main features:- Flexible movements tracking- Photo reminders-  Financial trainer and statistical tools to forecast the balance at the end of the month- Fully customizable 2-level categories- Multiple accounts capability- Synchronization tools- Periodic alerts- Advanced reporting tools- In-app search engine-  Template movements- Online currency managing and conversion- Import/Export features- Password protection- Widgets- Full SupportThe product is easy to use and will be constantly updated based on user needs.Operates in English, Italian, French, Spanish and Portuguese.This version is optimized for smartphones and tablets of every size (from 2.7' to 10'+).This version is Ad free.The license is only checked the first time you start the application. This operation requires an active internet connection. In all other cases PB does NOT require any internet connection.Main features description:- Flexible movements tracking: insert, update, delete money transactions with few touches. Every movement is customizable in all terms. PB automatically checks for duplicates during movement insertion.- Photo reminders: if you don't have time to insert a movement, shoot a photo to something related to it and let PB remind you later.- Financial trainer: improves awareness on your expenses status and forecasts the balance at the end of the month.- Fully customizable 2-level categories: define your own categories and category groups in every detail and update or remove them at any time.- Multiple accounts capability: define multiple accounts and transfer funds between them.- Synchronization tools: Got a big \"android family\"? PB allows you to synchronize one or more local accounts with as many paired android device as you need (Bluetooth required). Keep always updated your family's movements with few touches.- Periodic alerts managing: need to remind recurrent expenses? PB offers a powerful tool to generate alert notifications and attach fully customizable movements to them.- Advanced reporting tools: PB offers one of the best in-app reporting instruments set available today. You can select report time intervals and aggregate data by movements, time, categories, creation date... I's possible to sort the results by many criteria and compare them with other results from different time intervals.- In-app search engine: search for specific movements using different search criteria.- Online currency managing and conversion: PB has full multi-currency capabilities. Define account currencies and make currency conversions all the time using web updated rates.- PB Tools: sales, trip and other useful calculator tools.- Import/Export features: accounts, movements, categories, periodic alerts and reports are exportable on SD card (or via email) using csv file format. You can update them easily from your PC and import them from device's SD card.- Password protection.- Widgets: Different formats available.- Full Support: every page of PB has a written and video manual to guide you bringing out the best from it. Our team is always reachable via email and is available to answer for questions and improvement requests.Graphic and icons design: Diagrafo S.n.c.Music inside videos are written and performed by Samuele Rizzuto",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

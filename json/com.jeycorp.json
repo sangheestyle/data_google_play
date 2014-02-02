@@ -1,0 +1,30 @@
+{
+  "title": "Play Cube puzzle - v1.0",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jeycorp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "September 27, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "15",
+  "rating": "4.866667",
+  "contentRating": "Everyone",
+  "creator": "Jeycorp",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jeycorp",
+  "extendedInfo": {
+    "installSize": "18M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hexagons inside the numbers and signed byCompleted in a given period of time, suggests that the number is a funny puzzle game.Beginner difficulty children solve the difficulty, but the reward would be difficult, even a mathematician.Simple puzzle game, the more addictive,\"Play Cube - The Lord of the arithmeticâ numbers for an extraordinary intelligence that you can meet.[How to Use]â The goal is to complete the numbers presented at the start of Stageâ click the cube and faces in the cube can only go to.â The limited time that is proportional to the difficulty exists.â Free Touch can touch there is no limit.â Touch by touch can be as many times as the number must be completed.[Configuration menu]â Stage - is the place to play the game.â My Position - to check my score.â Option - effect of volume can be adjusted.â Information - Version information and Jey Corp / news Afro Design posses.[AlrimmalMinutes if you experience the 100 Stage Play Cube ..You will not be a genius heard live.Perhaps to reach 100 on the stage, who would not.[Development]- Software : Mamp- Design : AfrodesignAll questions relating to applications in Afrodesign can help.jeycorp2011@gmail.comhttp://www.twitter.com/jeycorp2011http://www.facebook.com/jeycorp2011",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

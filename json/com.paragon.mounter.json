@@ -1,0 +1,223 @@
+{
+  "title": "Paragon exFAT, NTFS & HFS+",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.paragon.mounter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 7, 2012",
+  "version": "1.10",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "1193",
+  "rating": "4.20285",
+  "contentRating": "Everyone",
+  "creator": "Paragon Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.paragon.mounter",
+  "extendedInfo": {
+    "installSize": "4.9M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "====================================!!Requires root!!! To verify root access please use Root Checker app.The only solution available on the market that mounts NTFS/HFS+ formatted USB drives or SD cards automatically!Forget about incompatibility issues! Get unlimited access to the most widespread file systems in the world on your smartphone by mounting USB sticks or SD cards formatted to Windows NTFS or Mac OS X HFS+. Now you can easily copy, transfer and modify data previously unsupported by Android volumes.The software was successfully tested by nearly 50,000 Android enthusiasts!Whatâs new?â¢ Mount on boot: automatically mount all NTFS and HFS+ partitions available on boot completion â¢ Mount on connect: automatically mount NTFS and HFS+ partitions when a new media is connected.â¢ exFAT evaluation mode - for OEMs only. The software is based on Paragonâs Universal File System Driver (UFSD) technology. UFSD is the leading cross-platform technology with millions of satisfied end users worldwide. It includes exFAT, NTFS, and HFS+ driver technology, which fully supports SDXC cards and Windows/Mac USB drives.Your feedback is very important to us. Please email us directly at feedback@paragon-software.com with any problems or requests.====================================This version in incompatible with Android 4.2. Will be fixed soon.",
+    "reviews": [
+      {
+        "timestampMsec": "1354159924470",
+        "starRating": "5",
+        "title": "Work great on Galaxy Note 10.1 8010",
+        "comment": "Tried the app [root] Ntfs Mounter first but didn\\'t work at all. This one worked first shot! 7gig 720p MKV movie tested and played flawlessly!  Great app!",
+        "commentId": "gp:AOqpTOEv_qyet2KeRVf7gYAYVqlVlB-f1iEaC7ac4IgWNDax3_3HnDM4G9C_cnvlr2ShPiMg8t-aiOZkk5TYcQ",
+        "author": "Fr\\303\\251d\\303\\251ric Harvey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366486689247",
+        "starRating": "4",
+        "title": "Worked great on 4.1, please fix for 4.2 soon!",
+        "comment": "The app did exactly what I needed and worked flawlessly on Android 4.1. However, after upgrading to 4.2 the mount point is now empty and shows no files. Please fix soon. Thanks!",
+        "commentId": "lg:AOqpTOHsxFgrrwzCQPFDFzbsaZOQNP-_Qy-8EaWCSOHIS7I4MKMNUavuDeF8YBEaoH8RJah_iagQ0DAlGqeA_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365925529819",
+        "starRating": "3",
+        "title": "helpful app",
+        "comment": "it\\'s very good to mount NTFS but i have little problem that i can\\'t move file or copy using ES File Explorer File Manager.  many problem with write files please help me to fix it . . .",
+        "commentId": "gp:AOqpTOGZlxH_WKdGv7G1Nr8vspSMDh021zhoU0Y5SAto6hm7dCHYrZU_VXa_HCyE9sHcfs3kfKM63bBkFuwYWg",
+        "author": "Emad Aldeen Hajjar",
+        "authorURL": "http://lh5.googleusercontent.com/-1fvtNewEal4/AAAAAAAAAAI/AAAAAAAAAUs/0SsmOlBV3Mc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1fvtNewEal4/AAAAAAAAAAI/AAAAAAAAAUs/0SsmOlBV3Mc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369681919923",
+        "starRating": "5",
+        "title": "Superb",
+        "comment": "This solves my all issues,tried others also but thy were paid with less features. This does my job. Thanks developer, any update would be appreciable.",
+        "commentId": "gp:AOqpTOE7XeFTaxpmHyMLyLMSd2d97YjTzTsMpf2DMHRpasJ32eI1lXfsgaTbsqdMUoUa26lNEDF3yLJxl5swVQ",
+        "author": "Mohsin Basharat",
+        "authorURL": "http://lh3.googleusercontent.com/-zD28gsJraS8/AAAAAAAAAAI/AAAAAAAAALE/-C-HeUbJCN4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-zD28gsJraS8/AAAAAAAAAAI/AAAAAAAAALE/-C-HeUbJCN4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368585199475",
+        "starRating": "3",
+        "title": "good idea, still needs \\\"ext\\\" support",
+        "comment": "great app for the specified functions, however, it would be nice if it included support for ext-type FS\\'s; especially for other Linux Kernel-based OSs",
+        "commentId": "gp:AOqpTOEbSHjK9-cHMe4oiwsGD4Lhm8f2iXxF_lHI0GYs1GBU0DyoDTlaUtKBXzONShc5YAyYMEAKhdyVYEiieg",
+        "author": "Amel Hodzic",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371233469799",
+        "starRating": "1",
+        "title": "Not Working On Nexus 7, System 4.2.2",
+        "comment": "Installed on rooted Nexus 7, system version 4.2.2. Identified and mounted an attached NTFS USB key. Correctly identified size of key. Was able to perform file system check. However navigating to mount point in ES File Explorer showed no files. Confirmed files on a Windows machine.",
+        "commentId": "gp:AOqpTOGrUvz33JP80zBuPaU2Ahc_k73MM9G400gAmdeyhr7XvCw0dMRe8haXLeJSxMoxcvDe-dVC0i0YldhQaw",
+        "author": "Kirk Bocek",
+        "authorURL": "http://lh5.googleusercontent.com/-i_oWsVyOciE/AAAAAAAAAAI/AAAAAAAAB94/lPEi1NJZDIQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-i_oWsVyOciE/AAAAAAAAAAI/AAAAAAAAB94/lPEi1NJZDIQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367689275721",
+        "starRating": "5",
+        "title": "works great after reboot",
+        "comment": "at first, the app didn\\'t even open. after a reboot, it is able to mount and format HFS+ and NTFS partitions. moved around several gigabytes of data without any issues.",
+        "commentId": "gp:AOqpTOE0mNUEimcEJF68KilQnw6-A0Ny9aTRhoj21Neh5wEza3-VNzc4_l-U1K009pIN9MAPpV21Y_tcanSriQ",
+        "author": "Alex Benson",
+        "authorURL": "http://lh3.googleusercontent.com/-gZzh6GeS60w/AAAAAAAAAAI/AAAAAAAAAHs/E4JnHVpP2cs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-gZzh6GeS60w/AAAAAAAAAAI/AAAAAAAAAHs/E4JnHVpP2cs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1351782172099",
+        "starRating": "5",
+        "title": "Epic Win!",
+        "comment": "Works great with partitions or mounting the entire sd card as /mnt/sdcard-ext to function like stock, including USB transfer. After USB transfer you may have to remount. No more 4 gig file limit.",
+        "commentId": "lg:AOqpTOEOqXOObQhsL_zPTiIjcrJEcSOsX9vJ8FqiqPJtrKNAqf4YWhIgXPwbuiYMSXDB62ERFyj9Lm2GTnSxSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365691150892",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Works perfectly with my multipartition external drive. Easy setup and no hassle. Would like to see the mount  points saved per volume.",
+        "commentId": "gp:AOqpTOGhHQ2zfKCjnYVPiDEjb9M-coIud3rnGK9bB2zWvzpL5W8x-JFewpgIavfk1KG1zt46kp-itgDXaeNQhQ",
+        "author": "Landon Brown",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371057366330",
+        "starRating": "5",
+        "title": "Does exactly what it claims to do!",
+        "comment": "I have a lot of files stored in my portable hdd, most of them in hd format, so naturally they have big file sizes(some exceeding 4gb, hence the need for ntfs). With this app, my phone can now recognize hdd formatted in ntfs, exfat, etc. Now I can enjoy my videos, on the go! Note, however, that it moght not recognize hdd automatically,  and might require a refresh from the app. Also, some hdds may require a \\\"jumpstart\\\" from another power source before it may run, as in the case of my hdd.",
+        "commentId": "gp:AOqpTOHgCAXPF9BLxWz6lgj_qDrWdlpv-T8hVK41InsjEUR0pZ-Au4QZgoGpcXNSCDYO3G-dFdgbe0kCTpBSqw",
+        "author": "Jan Mangubat",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367378431250",
+        "starRating": "2",
+        "title": "it worked but now Fuse error",
+        "comment": "it worked 4 me but now it says Fuse not found, update to latest android version to fix it. i think the error is causing because i changes SD card",
+        "commentId": "gp:AOqpTOEdS389CAqhW0ONp9eTYZ5gCeuFKL_4U1sqKgaVq7FiIboF6Ev-gqlCVzBTr2NlZFdaJ3BGqpVrhkm6mw",
+        "author": "Afaq Akhtar",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363350996904",
+        "starRating": "5",
+        "title": "Awesome, and a feature request",
+        "comment": "Worked like a charm. What would I like is to add an option to mount specific files to directories (I have a debian image on sdcard and want to mount it with this tool).",
+        "commentId": "gp:AOqpTOGW2-4aQ7uxegtj3dw1mmtCZCbqF9NcBV5wC7tvwfX4HtIMDxdLFCFDa4pzR7_ZjrqjOQ1CRw0lV-srfw",
+        "author": "Marius Moldoveanu",
+        "authorURL": "http://lh3.googleusercontent.com/-1q5Lv7_E8X4/AAAAAAAAAAI/AAAAAAAAAe8/WIMCR1o-LHY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-1q5Lv7_E8X4/AAAAAAAAAAI/AAAAAAAAAe8/WIMCR1o-LHY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374186440361",
+        "starRating": "5",
+        "title": "sweet",
+        "comment": "only app that woud let me mount my seagate free agent 500 gig drive to my tablet after i rooted n rommed it! thanks a ton guys . you rock!!!!",
+        "commentId": "gp:AOqpTOFI2HWLd2UgzYefa6xAOza6aE0j8xmqXQCsWP-qU5n4prETtJ6hQ4rBoTEJ9_nH8lyQRIbFKhsRAou0IQ",
+        "author": "Bob M",
+        "authorURL": "http://lh3.googleusercontent.com/-O8EJNv0IGYM/AAAAAAAAAAI/AAAAAAAAABE/ycakm9iYiCk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-O8EJNv0IGYM/AAAAAAAAAAI/AAAAAAAAABE/ycakm9iYiCk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350026495741",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Great job guys..... Does what it says it will..... Galaxy S3 on Jelly Bean AOSP ROM",
+        "commentId": "lg:AOqpTOGRzlbe-70yisLYeyoaoiMzb5TqR1_PXA0wiGNJKpwWgKtIHpzgYSzyzQhNQqL23FSUdtIYmtMBvtbEnQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360021318623",
+        "starRating": "5",
+        "title": "It works!",
+        "comment": "After trying and failing with Stickmount and USB OTG Helper, this app finally did the trick! Now got my Note 2 playing videos from a 64GB NTFS drive. Thanks.",
+        "commentId": "gp:AOqpTOE2CWLaZRzq7QQJ-G1qcy0FWvMlGrMUuv1fKoob5y7A0Vw80dHLiynCt_LrpPQuwVryeaAY9sBFHIcDpw",
+        "author": "Marcus Wade",
+        "authorURL": "http://lh4.googleusercontent.com/-ayHbN9btAks/AAAAAAAAAAI/AAAAAAAAAJQ/XbYcl6_z2z8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ayHbN9btAks/AAAAAAAAAAI/AAAAAAAAAJQ/XbYcl6_z2z8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360208222169",
+        "starRating": "5",
+        "title": "Holy cow it works!",
+        "comment": "I can now read from my NTFS formatted usb flash drive on my Galaxy Tab 2 7.0 running JB 4.1.1!!! I thought I was stuck using Fat32, but no more!",
+        "commentId": "gp:AOqpTOGF8aPLZYr3ZB7IQAJ5RoPzrdWJeJROdlp8cTjTMowyjBTuTclr9fp1_BljPHUfomGTlFU7-z7U_beRjw",
+        "author": "Francis T",
+        "authorURL": "http://lh5.googleusercontent.com/-ZJJz_xy8C3k/AAAAAAAAAAI/AAAAAAAAAGo/RpP3yA9NtGc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ZJJz_xy8C3k/AAAAAAAAAAI/AAAAAAAAAGo/RpP3yA9NtGc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362897582532",
+        "starRating": "5",
+        "title": "Nexus 7",
+        "comment": "This works perfectly. No bugs or need of anything extra. What Stickmount could not do, this app mounted my NTFS partitioned usb flash drive enabling me to transfer my app data my flash drive. Mounts and unmounts without an issue.",
+        "commentId": "gp:AOqpTOEL4d2PY8c6cWi-hHLzs-SmKHe-P2zan7HGo-szjEJ1HAxwtCDyNw5inpaJAKb7Oz-j9MWcSFXVS9hLvw",
+        "author": "Jonathan Jones",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373650909082",
+        "starRating": "1",
+        "title": "Unmount problem after device standby.",
+        "comment": "When my device goes in standby the usb stick ( or mounted folder ) stops responding while the mount folder stays alive and there is no way to unmout it. If i reconnect the memorystick it\\'s mounted in a new folder witch results in a 2nd mount folder and so on..... ( 3th... 4th... ) the previously mounts do no longer work only the last active one until the device go in standy ( sleep mode ) the only thing that helps is rebooting my device to close al dead mounts.",
+        "commentId": "gp:AOqpTOHnCc0PX-svQ9mzCmKKpXf-2nDeS_I-uvpZ2ANzybw6a8V5YjkiK26tdkFBw8r_WbIv2cFLDtzuyfqE6g",
+        "author": "Steven Van Geert",
+        "authorURL": "http://lh3.googleusercontent.com/-nVUKvnOSsCY/AAAAAAAAAAI/AAAAAAAAAMk/Phnr5o2ShEY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-nVUKvnOSsCY/AAAAAAAAAAI/AAAAAAAAAMk/Phnr5o2ShEY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1365689462550",
+        "starRating": "5",
+        "title": "Worked out of the box",
+        "comment": "Great app.. Worked flawlessly on my SGS3, connected 1TB external HDD.",
+        "commentId": "gp:AOqpTOGv352PA4QXgUJPB59pG_XsIMyQKF4r7gKjatkXB4Dd_hdydiadqVf3jfBSgpC-re48XQVqmY9SErmj9A",
+        "author": "Rusiru Herath",
+        "authorURL": "http://lh5.googleusercontent.com/-erg_yuwu3Uk/AAAAAAAAAAI/AAAAAAAAAPA/KFTXJ_ph56A/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-erg_yuwu3Uk/AAAAAAAAAAI/AAAAAAAAAPA/KFTXJ_ph56A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1351125636167",
+        "starRating": "3",
+        "title": "Doesn\\'t work on boot up",
+        "comment": "crashes when I boot up, but works if I restart it",
+        "commentId": "lg:AOqpTOFhEu7turt7c1RW8DaSJUJHBvSTkNubqlKmY47__KKlftTQQXBf3dvwmrzjuFh1tiP1DrcKMRgBaAs2Ng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

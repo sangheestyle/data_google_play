@@ -1,0 +1,34 @@
+{
+  "title": "OurJesusLives",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ourjesuslives.android.OJLM",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "May 16, 2012",
+  "version": "1.0.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Our Jesus Lives Ministries",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ourjesuslives.android.OJLM",
+  "extendedInfo": {
+    "installSize": "5.5M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "WE BELIEVEâ¦the entire Bible is inspired by God, without error and the authority on which we base our faith, conduct anddoctrine.WE BELIEVEâ¦ We believe in the universal sinfulness of all men since the Fall, rendering man subject to God's wrath and condemnation. WE BELIEVEâ¦in one God who exists in three distinct persons: Father, Son and Holy Spirit. We believe Jesus Christ is the Son of God who came to this earth as Savior of the world.WE BELIEVEâ¦Jesus died on the cross and shed His blood for our sins. We believe Jesus rose from the dead and is coming again. We believe that eternal salvation is found only by placing our faith in Jesus Christ and what He did for us on the cross. WE BELIEVEâ¦water baptism is a symbol of the cleansing power of the blood of Christ and an outward testimony to our faith in the Lord Jesus Christ. We believe in the baptism of believers in water in obedience to the command of ChristWE BELIEVEâ¦in the regular taking of Communion as an act of remembering what the Lord Jesus did for us on the cross.WE BELIEVEâ¦that the Gospel embraces the needs of the whole man and that the Church is therefore commissioned to preach the gospel to the world and to fulfill a ministry of healing and deliverance to the spiritual and physical needs of mankind.WE BELIEVEâ¦every believer should be in a growing relationship with Jesus by obeying Godâs Word, yielding to the Holy Spirit and by being conformed to the image of Christ.WE BELIEVEâ¦as children of God, we are overcomers and more than conquerors and God intends for each of us to experience the abundant life He has in store for us.WE BELIEVEâ¦ in the personal, physical and visible return of the Lord Jesus Christ to reign in power and glory.WE BELIEVEâ¦in the resurrection of the dead and in the final judgment of the world, the eternal conscious bliss of the righteous and the eternal conscious punishment of the wicked.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "MB Storage Widget",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.MBStorageWidget13_3",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "March 15, 2013",
+  "version": "1.5",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "UK HD Video Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.MBStorageWidget13_3",
+  "extendedInfo": {
+    "installSize": "69k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This widget is able to display the amount of MB used up on internal memory SD card.Also, it displays the free storage space available on card icon.The information of memory storage offered will~~~updates minutes latter~~~.To use this free widget, you should install this app to phone firstly,and then find the widget by going to your home screen and press Menu > Add > Widgets.After the steps, you can see the SD card icon appeared on desktop.Do you what know more about the card memory space? Control the file saving amount in time? The small widget help you much.This is just a widget and one can not find it in app menu list. Add widget to hone screen and if you do not like it again, just delete the desktop icon.-------------------------------------------------------------------------------Ad statement: Everyone can install this android app to phone without paying. To keep software free, we cooperate with othercompany and allow add some icon advertisements or notification ads. Hope you can understand us.--------------------------------------------------------------------------------If you need this app, just download free. I think you are good enough to rate with five stars.More about SD cardSecure Digital or (general known as SD) is a non-volatile memory card format for use in some portable devices, like mobile phones, digital cameras, and GPS navigation devices and tablet computers.The Secure Digital standard was maintained by the SD Card Association (SDA). SD technology had been implemented in more than 400 brands across dozens of product categories and over 8,000 models",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

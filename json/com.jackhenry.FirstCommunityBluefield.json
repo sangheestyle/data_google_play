@@ -1,0 +1,129 @@
+{
+  "title": "FCB Mobile",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.FirstCommunityBluefield",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "v2.1.7a1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "14",
+  "rating": "3.642857",
+  "contentRating": "Low Maturity",
+  "creator": "First Community Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.FirstCommunityBluefield",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "It has never been easier to access your First Community Bank accounts than with First Community Bank Mobile Banking Android App.  Offering the convenience of account availability, whenever and wherever you need it, First Community Bank Mobile Banking offers features such as:â¢     Check available balancesâ¨â¢     Pay Billsâ¨â¢     Transfer Fundsâ¨â¢     View recent transactionsâ¨â¢     Locate First Community Bank Branches and ATMâsConcerned about security?   So are we!  We use security features similar to those present in our online banking solution, to give you the peace of mind knowing your transactions are safe.  Features such as:â¢     Advanced Encryption Technology, via SSLâ¢     â¨Multi-Factor Authenticationâ¨â¢     Secure logins and passwordsInterested in accessing your accounts anywhere, at any time?â¢     As an online banking customer, you can enroll in mobile banking through your online banking account or through your mobile device.â¢     Interested in becoming an Online Banking customer?  Visit www.fcbresource.com and enroll online.First Community Bank is a member FDIC",
+    "reviews": [
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1377883327093",
+        "starRating": "5",
+        "comment": "Great app!",
+        "commentId": "gp:AOqpTOE9kHTpffBT61TqxRXOklmVe2XpJTsoJb6dlA0b_vcukYIvvOIbnQxTiom6uGbTe4IHDV1l7ImfwRkf_oY",
+        "author": "Rex O\\'dell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.7",
+        "timestampMsec": "1377206100934",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "I love it,works great for me fast and easy ..Just what I needed..",
+        "commentId": "gp:AOqpTOGLIkahjJQ9M6yVMKIbSbeEPKTBv2zh8qEXf70z-ysMTyx5vg4vUr2jhfXobZwWdgdqpEP6cc2wbZUqblU",
+        "author": "Jessica Hinkle",
+        "authorURL": "http://lh6.googleusercontent.com/-s3vB6WZoN0Q/AAAAAAAAAAI/AAAAAAAAAEY/Yy72VJgvI2o/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-s3vB6WZoN0Q/AAAAAAAAAAI/AAAAAAAAAEY/Yy72VJgvI2o/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1377407895424",
+        "starRating": "1",
+        "title": "Spying Update",
+        "comment": "I used to approve of this app until the recent update that requires allowing this app to view your network connection, your other accounts on your phone like Facebook, and the scariest of all, access to your phone\\'s camera to take pictures and video. A simple banking app has no need for these permissions, especially when the \\\"What\\'s New\\\" description of the app is incredibly vague. Uninstalling, I don\\'t want my private information being looked at by an app that has no need for it.",
+        "commentId": "gp:AOqpTOEEEoYuaxXh0zfmK1rsIoJyMgiIbmhghEI4DUmZSl12VLfgdW3J6YlA2HcRnHMPmJxj0HhWOuYVbNerFwM",
+        "author": "Matthew Ward",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1372764388790",
+        "starRating": "1",
+        "title": "Very bad",
+        "comment": "This app is a joke faster just to go online than use app",
+        "commentId": "gp:AOqpTOFxXc-61-uPR8Zi4o08gFsahM6jY3T8xhnWUGprSNprbIZSmZ23hBhOV4AOQOiRB9wrfuMSxTH5MMjZ6Cw",
+        "author": "Michael green",
+        "authorURL": "http://lh6.googleusercontent.com/-0JMgSJbduwE/AAAAAAAAAAI/AAAAAAAAACc/kgh5P5k9Spg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-0JMgSJbduwE/AAAAAAAAAAI/AAAAAAAAACc/kgh5P5k9Spg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1348103845369",
+        "starRating": "1",
+        "title": "Bad fcb. Bad.",
+        "comment": "The instructions are unclear because no where does it say that you have to uninstall the previous version and the app doesn\\'t show up in search.",
+        "commentId": "lg:AOqpTOFS8GanHue9IbBNndTNyySe7glvyzt9VHKUXcOiFzw9qzK4aQm6te2GKbmKcZz_7rJ0NkCE2KvpIt-ai18",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1348162002491",
+        "starRating": "5",
+        "title": "FCB TECH",
+        "comment": "Love the new app!",
+        "commentId": "lg:AOqpTOENH3ZlXM7iBXFuI_ELIfpNl2KIlW8glfD3LNWHrY5FDKzeIuspe2b8lP4L4NDRqLcROGM-gjX8jYXYGyE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350053990469",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Don\\'t let the low rating worry you some people don\\'t understand they have to uninstall old to get new if not it would just be an update..  idiots",
+        "commentId": "lg:AOqpTOG5lSpgJTWd1_0jCI5T0K16kdUnTW0jS57TkqoCEgvw-h7V08GQVIcgln1pWu4JPoMLwKiNUqo18zmCw48",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357707558544",
+        "starRating": "1",
+        "title": "Poorly designed app",
+        "comment": "No way to save multiple login IDs. Horrible user interface.",
+        "commentId": "gp:AOqpTOFhzs6hzHs1Rx-iZbPZ7E5IjaDUmLDf1G4Ld5L-QR05xVTWLLeGa_y0nCDprVO3QCLqjkONKejl79UFMWE",
+        "author": "A Ali",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348532515924",
+        "starRating": "4",
+        "comment": "Would have been nice to now that you had to uninstall the old app. However, that aside I love the new app. So much better than the first!\\tWould have been nice to kn",
+        "commentId": "lg:AOqpTOHP2d07KaIJoN-mm6dN9Tleic86Et5iqx0wBQ92BCRDslmoAYAKDxa7IyC_h1XSKT0H6Ir18s474c-PmwI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348162019915",
+        "starRating": "5",
+        "comment": "Love the new app!",
+        "commentId": "lg:AOqpTOGV_Mcnh641oPJElM3DIKLoAZaWpnbKo7QcUImxSaeFQ7bH2--E9sGHtaUaFec9CBfDRwIg18nAxyLNJyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.jackhenry.FirstCommunityBluefield.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ]
+  }
+}

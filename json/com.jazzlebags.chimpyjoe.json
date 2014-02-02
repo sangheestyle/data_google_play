@@ -1,0 +1,54 @@
+{
+  "title": "Chimpy Joe Flea Face",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jazzlebags.chimpyjoe",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "February 4, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "JAZZLEBAGS GAMES",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jazzlebags.chimpyjoe",
+  "extendedInfo": {
+    "installSize": "9.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "A must-play arcade game!Help Chimpy Joe by squashing and splatting the bugs and ants that are crawling around his face and driving him crazy, but beware, if you splat the butterflies or his beloved bananas then you lose one of your three lives.Oh, and Flea Face has a pimple problem - make sure you splat his spots before they get out of control. If you let more than four erupt on his chimp face then the game is over for this monkey!Squash all those crawling creeps using your finger - fast, addictive, insect-filled fun.12 manic levels, including time trials, chaos challenges and 'The Hard Way Home' killer levels to test your reactions, split-second timing and splat skills!!!!+ Different bugs to splat+ Great fun and completely FREE!+ Watch out for the butterflies and bananas+ Different addictive game modes - time trials, point scoring and endurance levels+ A great game for all ages!!!+ Play for just a few minutes or get serious and lose yourself in the gameplayEnjoy this game for free and give us your feedback so we can continue to develop Chimpy Joe Flea Face and make him as fun as we possibly can!",
+    "reviews": [
+      {
+        "timestampMsec": "1361568509182",
+        "starRating": "5",
+        "title": "good",
+        "comment": "so I don\\'t no want to say",
+        "commentId": "gp:AOqpTOHh1zTLj4H1unkUoXqwTQ2siubYgAA5fXl7zpwtQUetDfAlbkgBhJC4TddISa0R55SoKNYU-CWNYKNiNjs",
+        "author": "Karen Lotidis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355769637219",
+        "starRating": "3",
+        "title": "Funny",
+        "comment": "Lol bull",
+        "commentId": "gp:AOqpTOF2d9T3Q2Se4BppGG7pPPdIz6-N0cpNz7irD0G08rpqM2V-IBooJj54s6RvtMJpX6SjoNuvjEpcBw65W60",
+        "author": "Ieshia White",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

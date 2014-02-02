@@ -1,0 +1,231 @@
+{
+  "title": "AV Tools",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.embu.avtools",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 21, 2012",
+  "version": "1.5.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "221",
+  "rating": "4.3846154",
+  "contentRating": "Everyone",
+  "creator": "Embu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.embu.avtools",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "A simple but very useful collection of audio-visual tools and information for use when ever you need.Audio Tools  â Delay calculator - A quick and easy way to convert from metres / feet to mS.  â DAW disk space calculator - Want to know how many tracks you can record for your 30 minute master piece and at what sample / bit rate based on your hard drive capacity, then this is the tool for you.  â SPL calculator - Simply enter amplifier power, loud-speaker sensitivity and a distance to find your maximum sound pressure level.  â Impedance calculators - Calculate total loads for a group of speakers in parallel and series configurations.  â Tone Generator - Select from 10 common sine wave frequencies, 20hz to 20khz sine wave sweep, pink and white noise.  â dBu / dBV to voltage converter, wavelength calculator, constant voltage impedance converter (70v + 100v line), and UK radio mic frequency lists (Ch38, Ch69 and de-reg).Video Tools  â Aspect ratio calculator - Need to work out a videos aspect ratio; simply enter the dimensions and press calculate, alternatively enter one dimension and select the aspect ratio to get the second dimension.  â Projection distance calculator and screen resolutions guide.Lighting Tools  â DMX address - dip switch - Simply enter the DMX address to receive the correct dip switch settings, then select an offset (Number of DMX channels your fixture requires) and use the plus and minus buttons to quickly address multiple fixtures.  â Beam width calculator and Gel cut calculator.Power Tools  â Power voltage current calculator - A simple Ohm's law based calculator.  â Voltage drop calculator Plus  â Pin-outs for common audio-visual connectorsAdditional features available in AV Tools Pro:  â No Adverts  â Custom frequency tone generator with play in background facility   â Favourites feature - quick access to your most used tools.https://market.android.com/details?id=com.embu.avtoolsproIf you would like to request a feature or report a bug please use in the in app feedback form, otherwise please leave a comment.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1367761895193",
+        "starRating": "5",
+        "title": "Great! Super helpful!",
+        "comment": "This app comes in really handy and is an amazing help! Anything from the light work I do to trying to soldier a specific cable, knowing I have this app gives me a huge piece of mind, I just quick pull up what I need to know.",
+        "commentId": "gp:AOqpTOGo0UqO355-lv5JG-uH6j3w-DMHBYdknNWTsx79gwf3nO5tDfbcE-UsrmAank_XqDQdGsidBH1TtjHjG_8",
+        "author": "Dave Rohrbach",
+        "authorURL": "http://lh6.googleusercontent.com/-Gmh1pT-xwyg/AAAAAAAAAAI/AAAAAAAAAHY/amEkljZ3a5M/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Gmh1pT-xwyg/AAAAAAAAAAI/AAAAAAAAAHY/amEkljZ3a5M/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1359502771192",
+        "starRating": "4",
+        "title": "Very handy",
+        "comment": "Great little app! Gives you everything you need while on the job! Could do with a resistor calculator which is why only 4stars",
+        "commentId": "gp:AOqpTOEVC8n2SvhsbziuMuayIaP9Bp-yoswWhuTSkoCX_Ruhd_aJ-BRZ9CovFXYN6uzXy8N7-rRKG1x_872G0T4",
+        "author": "Andrew Ward",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1342055729803",
+        "starRating": "4",
+        "title": "Awesome",
+        "comment": "Please add the units for projected screen size then it will be 5 stars.",
+        "commentId": "lg:AOqpTOG1Ef6MpWa7nNOVMxB81gTIA6AzrdVVEsba4muydFLFNFiPUlojRXpP6vgUNyhjX6gnE23ek17kzxRLs5Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1343159558755",
+        "starRating": "1",
+        "title": "No good for audio.",
+        "comment": "The test tone generator keeps resetting the volume, messing up my test measurements.  Dunno if it\\'s ice cream sandwich or this app, but it\\'s unusable to me.",
+        "commentId": "lg:AOqpTOGymqjKsQApb_zWFREjE_bhU6X2NkDBdcAEeIgKqlz6AZNy4GCDc_E14td89JUPLW_uE-99qHF1rKllK6U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1349811745568",
+        "starRating": "5",
+        "title": "Handy app",
+        "comment": "I do sound/lighting Installations and this app helps me a bunch. Basic but to the point.",
+        "commentId": "lg:AOqpTOFoYWw-lE-nCVEMMxF9yVoSFzENuVtSIJJtCro9Ep5Z1SHXZ9iNN-qGsRYwaX6AlVivWlA8o_GhofByiMo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1352865106527",
+        "starRating": "5",
+        "title": "I have used this app many times as both a teacher and a tech.",
+        "comment": "My best story is when my wife forgot her white noise machine for sleeping.  I said, \\\"There\\'s an app for that.",
+        "commentId": "lg:AOqpTOF8-IH5l6A3xaZXTaFyTvk5UMT-5fny44ZzsRNGM_06c4HkYKwakCFVCaKaCyb7SKa3pRxaaMYFCzDpKuA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1377557120277",
+        "starRating": "5",
+        "title": "Must have for av techs",
+        "comment": "You beauty she\\'s a ripper!          Nice.",
+        "commentId": "gp:AOqpTOFvQaOdbig7VxC4Xqns2ePSjuICeUbpmfSjUzuN-w8L29hrC6esBCwqQ-XMhFFLfXsCd3g2SfhrD3TnPBE",
+        "author": "Luke Core",
+        "authorURL": "http://lh3.googleusercontent.com/-RYiuSI8cVv8/AAAAAAAAAAI/AAAAAAAAACQ/g4eI4mOxRBs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-RYiuSI8cVv8/AAAAAAAAAAI/AAAAAAAAACQ/g4eI4mOxRBs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1374355562040",
+        "starRating": "4",
+        "comment": "Bad for a free app... helps with all sorts of calculations.",
+        "commentId": "gp:AOqpTOFGGCyaN2-zT85TgP0YOm3GjmNjgd9L319oOBlbMBxRQHYbjAwpH9DwG0goJWDDccra5mXG_GZk26PLVr8",
+        "author": "Joseph Solomon",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1368824467084",
+        "starRating": "4",
+        "title": "Decent free app",
+        "comment": "Lacks a few features but over all an app that stays on My phone.",
+        "commentId": "gp:AOqpTOEtn9mNScGkMPcympi8w6E3caJp-9C3hctLDn4dwATEtEH0YWTTwQCq-k-RIw8tC8FivWewel9ujLZXkMs",
+        "author": "Gary Rogers",
+        "authorURL": "http://lh4.googleusercontent.com/-MxmfGjY86EE/AAAAAAAAAAI/AAAAAAAAdLw/jw4nX-4IONg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-MxmfGjY86EE/AAAAAAAAAAI/AAAAAAAAdLw/jw4nX-4IONg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1375202585943",
+        "starRating": "5",
+        "title": "ok",
+        "comment": "good",
+        "commentId": "gp:AOqpTOGv6f5vAoie8tiCk3SFPzqFpgc-8Hdkj3xxmHKCJw_GeMSBp6rMrs59K6yGjYoqZyg9tzNCSpdFUp62oi0",
+        "author": "RAHUL.T.R TR",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1343353130562",
+        "starRating": "1",
+        "title": "Not working",
+        "comment": "Does not calculate anything.  GTi9300",
+        "commentId": "lg:AOqpTOFyGPpifh5vR62cgmFiXhN2KrRTTW-m97EzXrcpPJib0vtIt4QBv-REFXz4Vgwk2H_TfE4FqXA3-7lAgKc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1353402826808",
+        "starRating": "5",
+        "title": "Way to go!",
+        "comment": "Great application!",
+        "commentId": "lg:AOqpTOEFjgqWYm5T6dVpV5EhQG9omOuMgnHR9j9YS0t3ksaXR4y8nc_edkdXvfHtjYHTegUvJSMLpigPw-kOWvc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.2",
+        "timestampMsec": "1344364336139",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "Good to have ... I\\'m an A1",
+        "commentId": "lg:AOqpTOGrAz-YOdi2lEFnoQ3TBAdrrtYrzxc4l8VzUcdtHSoFzGLOR_yU8E_URd_fiHIwr7ooNugFDkMGgPnbkN8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1330540222429",
+        "starRating": "5",
+        "title": "Great program...",
+        "comment": "...for the AV geek like myself. Has good information for when field techs call asking for random connector pinouts.",
+        "commentId": "lg:AOqpTOGCb2T-PFWQd-kHIJORv6d2CMt0jxaaVyC_hUCSgotTt9TDXWjRHsD3-5rmUWxmLVJRHmBoFgelvRlGkbY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1330847018919",
+        "starRating": "5",
+        "title": "An information leatherman",
+        "comment": "As an AV tech I find this app supremely useful. When something unusual pops up it often provides the info needed to make it happen, doubly handy when ur 16 hours into a shift and the nerd in you has well and truly clocked off.",
+        "commentId": "lg:AOqpTOEgLR5KfaVITB1L6u2UroaNZfvmF-zl4fOMrSzORzDspgb_Y3VuEvhA-xMCo1bIwkZexvqvcQeQTcc8Jm0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1340497919911",
+        "starRating": "5",
+        "title": "Simple AV Reference",
+        "comment": "It\\'s straight forward reference tool.",
+        "commentId": "lg:AOqpTOGzwZy0KDrisB5wbPCoeS-w8dog0R35thlTJiMG0gSJUafx40mXDJqyyUz1pGpvJHxY-nls6Gszyv-TX7c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1338769968946",
+        "starRating": "4",
+        "title": "min wire gauge is AWG17!",
+        "comment": "Looks like a nice app, but useless for my immediate purpose (sizing wire for 12v alarm power bus) because the smallest wire gauge it supports is AWG17. It *desperately* needs to add AWG 18, 22, and 24 (fire alarm, phone, and cat5e), and should really do 18-26 (including odd values... a pair of AWG \\\"x\\\" wires is equivalent to AWG x-3, so a pair of awg 24 cat5e is like AWG 21), plus 28 (junky fake \\\"cat5\\\" from China) and 30 (for the truly masochistic, or someone planning an i2c or 1-wire bus for home automation). I\\'m pretty sure it was just overlooked by the author (who\\'s in a metric country & for whom AWG is probably a theoretical abstraction), but an app targeted *specifically* at stuff like A/V really needs to support wire sizes *used* for A/V.",
+        "commentId": "lg:AOqpTOHJVv7HCY6SD9UVjo1bNz-fsk6ubIvZ8gnHtki1-QLjQ8fNqnk2YKZ-MZ3zdc4mRUkJdGAN1BK0o6_QWIU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1340294791871",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "Thanks for a very functional app.  Please add an area in the app to accomadate notes.",
+        "commentId": "lg:AOqpTOEjAnpTYrZJIhmLAR1c3NodxDiZA0UiiUZyhQL34NJ0PSnxjOdCdFiu58WW_80SuvxGQ-y2pEGvZKNL4SQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1339734505616",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "A must have for any event technology professional!",
+        "commentId": "lg:AOqpTOEul6-yJs8ROYbhhT7Hss-eNOAet7RqA_Y-L5kLasEeAEikHf5COomPeZ61PxHkPWTkQzmgwpKUBPmloR4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1335620722354",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Paired with electrodroid, perfect pair of apps.....",
+        "commentId": "lg:AOqpTOFKgBfE6931xa_ioHBnrrLP-iePIyeRzHjfNN-GHVWW0EZTH7_K7nJbExotTr94g8tz-NIt3ZQhtKgFwOY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

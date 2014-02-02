@@ -1,0 +1,45 @@
+{
+  "title": "Personal Budgeteer Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jf.android.pbfree",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 6, 2012",
+  "version": "2.0.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "10",
+  "rating": "3.8",
+  "contentRating": "Everyone",
+  "creator": "JFSolutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jf.android.pbfree",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Personal Budgeteer is a powerful app for advanced management of financial revenues and expenditures of your household. This version is Ad free but allows the inclusion of a limited number of movements. To fully exploit the potential of PB purchase the paid version available on Google Play.Our mission is to improve your awareness on the status of your expenses and help you to reduce your family expenses.Main features:- Flexible movements tracking- Photo reminders-  Financial trainer and statistical tools to forecast the balance at the end of the month- Fully customizable 2-level categories- Multiple accounts capability- Synchronization tools- Periodic alerts- Advanced reporting tools- In-app search engine- Online currency managing and conversion- Import/Export features- Password protection- Widgets- Full SupportThe product is easy to use and will be constantly updated based on user needs.Operates in English, Italian, French, Spanish and Portuguese.This version is optimized for smartphones and tablets of every size (from 2.7' to 10'+).Main features description:- Flexible movements tracking: insert, update, delete money transactions with few touches. Every movement is customizable in all terms. PB automatically checks for duplicates during movement insertion.- Photo reminders: if you don't have time to insert a movement, shoot a photo to something related to it and let PB remind you later.- Financial trainer: improves awareness on your expenses status and forecasts the balance at the end of the month.- Fully customizable 2-level categories: define your own categories and category groups in every detail and update or remove them at any time.- Multiple accounts capability: define multiple accounts and transfer funds between them.- Synchronization tools: Got a big \"android family\"? PB allows you to synchronize one or more local accounts with as many paired android device as you need (Bluetooth required). Keep always updated your family's movements with few touches.- Periodic alerts managing: need to remind recurrent expenses? PB offers a powerful tool to generate alert notifications and attach fully customizable movements to them.- Advanced reporting tools: PB offers one of the best in-app reporting instruments set available today. You can select report time intervals and aggregate data by movements, time, categories, creation date... I's possible to sort the results by many criteria and compare them with other results from different time intervals.- In-app search engine: search for specific movements using different search criteria.- Online currency managing and conversion: PB has full multi-currency capabilities. Define account currencies and make currency conversions all the time using web updated rates.- PB Tools: sales, trip and other useful calculator tools.- Import/Export features: accounts, movements, categories, periodic alerts and reports are exportable on SD card (or via email) using csv file format. You can update them easily from your PC and import them from device's SD card.- Password protection.- Widgets: Different formats available.- Full Support: every page of PB has a written and video manual to guide you bringing out the best from it. Our team is always reachable via email and is available to answer for questions and improvement requests.Graphic and icons design: Diagrafo S.n.c.Music inside videos are written and performed by Samuele Rizzuto",
+    "reviews": [
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1346382262072",
+        "starRating": "4",
+        "title": "Cool",
+        "comment": "The interface is easy to use once you\\'ve gone round it a bit. very nice. Will see if I can go on much longer before getting the pro version",
+        "commentId": "lg:AOqpTOE9a5lzf1ZzAljTCzRQBiUR3xiMZll4D8FfF81NjedVh4FfLelajO7HHxadUmZgBAFluK7lOVhm0kkDgOg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

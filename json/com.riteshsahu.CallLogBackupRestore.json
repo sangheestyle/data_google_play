@@ -1,0 +1,233 @@
+{
+  "title": "Call Logs Backup & Restore",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.riteshsahu.CallLogBackupRestore",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 13, 2013",
+  "version": "3.21",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2674",
+  "rating": "4.6914735",
+  "contentRating": "Everyone",
+  "creator": "Ritesh Sahu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.riteshsahu.CallLogBackupRestore",
+  "extendedInfo": {
+    "installSize": "980k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "A simple App to backup and restore Call Logs (History). Backup is stored by default in /sdcard/CallLogBackupRestore folder.* Automatic Scheduled Backups.* View Backup Contents from within the App.* Backups created in XML Format.* Option to specify the Backup folder.* Backup format is independent of the Android version so the Call History can be easily moved from one phone to another, irrespective of the Android version.* Delete Call History on the Phone.* Email a backup file. * The XML can then be converted to other formats, and can also be viewed on a computer.Android only keeps history of 500 calls, so something like this is a must if you want to keep your call history.This App needs access to the following:* Storage: To create the Backup file on the SD card.* Network communication: For displaying Advertisements.* Your social information: To read/write the Call History and also to display and store the contact names in the Backup file.* Run at start-up: Start scheduled Backups. * View Network Connections: So that the app does not try to load Ads when there is no connection.* Control Vibration: To vibrate the phone when an operation is completed.* Prevent Phone from Sleeping: To prevent the phone from going to sleep/suspended state while a Backup or Restore operation is in progress.* Test access to Protected Storage: To create the Backup file on the SD card.Translations:- Finnish - Thanks to Juhana H.- Russian - Thanks to Pavel (ÐÐ°Ð²ÐµÐ» ÐÐ¸ÑÐ¾Ð½Ð¾Ð²)- Spanish - Thanks to Miguel A. Alvarez- French  - Thanks to Julien Benoist- German - Thanks to Marc Hillesheim & Jan Allan Zischke- Dutch â Thanks to Kristof Roels- Portuguese - Thanks to AntÃ³nio Silva- Italian - Thanks to Oliver Thomas Cervera- Polish - Thanks to MSZ & MR - Swedish - Thanks to BjÃ¶rn Lindahl- Estonian - Thanks to Margus Palu- Simplified Chinese - Thanks to Thomas Wang- Slovenian - Thanks to TKL- Welsh - Thanks to Huw Waters- Czech - Thanks to Jiri Trcka- Macedonian (Republic of Macedonia - F.Y.R.O.M.) - Thanks to Vlad- Turkish - Thanks to Hasan GÃ¶k- Hungarian - Thanks to Kojedzinszky DÃ¡niel- Hebrew - Thanks to s_h- Traditional Chinese - Thanks to Bernie Huang- Korean - Thanks to HoeLyn Do (ëíë¦°)- Norwegian - Thanks to Dag JÃ¸ran Hanssen- Danish - Thanks to Jeppe Leth Nielsen- Romanian - Thanks to Gabriel Peca- Greek - Thanks to Michael and Dimitrios- Slovak - Thanks to Richard Antal- Georgian - Thanks to Temuri Doghonadze",
+    "reviews": [
+      {
+        "timestampMsec": "1376306933579",
+        "starRating": "4",
+        "title": "Almost Perfect ....",
+        "comment": "... needs Dropbox upload like its excellent SMS companion!",
+        "commentId": "gp:AOqpTOFOasL49-ZjQ9AaFRhW2abmsFphNWhmj4Bmwkn-Id5u3beUUZ-4pu0Ofci5DrHmZld56lJ4IlT6XNTICbA",
+        "author": "David Daniels",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376310093278",
+        "starRating": "4",
+        "title": "Nice call logs backup",
+        "comment": "But after I restore the logs, the phone doesn\\'t sync it to the names, but just numbers....",
+        "commentId": "gp:AOqpTOHsEzTcT1BYGxGjO0-8kutNbLFF8-DUq1rEqK_VWD1AG3mqH2uA3K0NHTmLwzJelIDhoY9Fpod-QCNPy24",
+        "author": "Philippe Lai",
+        "authorURL": "http://lh3.googleusercontent.com/-KGOzZZYyNfc/AAAAAAAAAAI/AAAAAAAAC9o/tjuul_ogFRI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-KGOzZZYyNfc/AAAAAAAAAAI/AAAAAAAAC9o/tjuul_ogFRI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377793670736",
+        "starRating": "5",
+        "title": "Lovely app for rom changer",
+        "comment": "Extremely useful app while migrating to new installation or change of android rom. Usually the frequent callers will be in recent history in order and starting out blank history you have remember the exact name etc to call again. This solves the problem  Thanks a lot developer",
+        "commentId": "gp:AOqpTOGfb5fnJI5TCjPPMcFSOjY-Bp3aiukbc3A2x_c4bf9XFNjGYVLZLcbA8FsKWxDciJ8Q_b_Ku8iIavem5zo",
+        "author": "Kunal Vaidya",
+        "authorURL": "http://lh4.googleusercontent.com/-zYDZ5IJ0x5A/AAAAAAAAAAI/AAAAAAAAAvI/FkfwXRihPjc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zYDZ5IJ0x5A/AAAAAAAAAAI/AAAAAAAAAvI/FkfwXRihPjc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376983254763",
+        "starRating": "5",
+        "title": "Love it",
+        "comment": "Love it",
+        "commentId": "gp:AOqpTOFbijjC8nexxGt6w9Ed-7hXu6qH2M3Q7uZ-m7ogc6RETG6ylW7zofRrEIxBRqsL6cs_XtCDeRkBdDrBqZ0",
+        "author": "Shy Francis",
+        "authorURL": "http://lh3.googleusercontent.com/-be2Mw4XAcbk/AAAAAAAAAAI/AAAAAAAADkQ/kyVnoQ648TM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-be2Mw4XAcbk/AAAAAAAAAAI/AAAAAAAADkQ/kyVnoQ648TM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376518526977",
+        "starRating": "4",
+        "title": "Perfect",
+        "comment": "Seeing all your backup apps merge would be great. That\\'d be a huge convenience.",
+        "commentId": "gp:AOqpTOFRsKZffOQeDsbWdEST9V_jyZ-CfXRPbf8gVd-mSErBPaF6Z5XYS0a-3rM9HIKLj3I77xH4J468HZarncc",
+        "author": "Zuhaib Ali",
+        "authorURL": "http://lh6.googleusercontent.com/-Ai0ObxdN6Uc/AAAAAAAAAAI/AAAAAAAAASs/SWuXBbsY5hg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Ai0ObxdN6Uc/AAAAAAAAAAI/AAAAAAAAASs/SWuXBbsY5hg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375198704327",
+        "starRating": "5",
+        "title": "very useful",
+        "comment": "Nice App. now i can back call logs along with contacts & SMS",
+        "commentId": "gp:AOqpTOHXeDMW77mmF5xYvnus6g-GXAprdPEpltwsoJzcUBKeOWqOZUxOjqIgE7TRGumK78FgDnLO-Fc45-OByBY",
+        "author": "Surendra Patel",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375842354214",
+        "starRating": "5",
+        "title": "My phone is grand",
+        "comment": "Its simply super usefull apps.",
+        "commentId": "gp:AOqpTOF7HfJVuXEhkInJPUE_jcj3V7WgwqB_SNTvuLvNH6FFs9iy2Vw6RkcnWGhaSuKbM5dAD25-ti9SmIkI2K0",
+        "author": "Kumaresan Subramani",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377487002096",
+        "starRating": "4",
+        "title": "Wonderfully simple app.",
+        "comment": "Some tasker integration would put it to 5 stars.",
+        "commentId": "gp:AOqpTOGwLWzS9YXsd9BrkkYdsEJNuok_eRG4CVs0KVilMtAEB4PBtNQdfVPNBFlopuiZX0L9jMTX6-nNYlZnoO0",
+        "author": "Joshua Abramson",
+        "authorURL": "http://lh3.googleusercontent.com/-9KT7lCDDHz0/AAAAAAAAAAI/AAAAAAAAC7c/FUvypGIiunA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9KT7lCDDHz0/AAAAAAAAAAI/AAAAAAAAC7c/FUvypGIiunA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375679175066",
+        "starRating": "5",
+        "title": "Arc s",
+        "comment": "Nice app....really need when change rom",
+        "commentId": "gp:AOqpTOEY54xrvADrqUYi6aJ924-PSmlJc4NxTEFqVjfeOX_kfjypjEpaALySzmqLZ0JXOufPytBBmHwfvAJxYc8",
+        "author": "Ariff Hussin",
+        "authorURL": "http://lh5.googleusercontent.com/-kcrA0zZsN7I/AAAAAAAAAAI/AAAAAAAADIc/VM4XXtMAXTM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-kcrA0zZsN7I/AAAAAAAAAAI/AAAAAAAADIc/VM4XXtMAXTM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378165051307",
+        "starRating": "5",
+        "title": "SGS i9000",
+        "comment": "Excellent ***** Does exactly what it says on the tin..",
+        "commentId": "gp:AOqpTOE4eNRysre2rhaAOS0VrjSLfBh25ppPjxlLNkn9ytHwos9TsssdAo8z5Qs6dm3IGoflO172Id6kGuU6S-k",
+        "author": "Rashid S",
+        "authorURL": "http://lh5.googleusercontent.com/-TSqe0e77Bqg/AAAAAAAAAAI/AAAAAAAADMU/MOV9vGxyThw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-TSqe0e77Bqg/AAAAAAAAAAI/AAAAAAAADMU/MOV9vGxyThw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373792075650",
+        "starRating": "4",
+        "comment": "Its a good app.. works well with my samsung tab2",
+        "commentId": "gp:AOqpTOEi28PHhvrCtq9LCf8T9ZYa0tWslzFsF3o3ElhFBud3d0kTkm6Prr8KFYAFwPitNFytcLiM0J0QPDJFiYk",
+        "author": "SANIL BHATIA",
+        "authorURL": "http://lh4.googleusercontent.com/-4Ln2JYf7X4I/AAAAAAAAAAI/AAAAAAAABeU/Os0fNciNTwY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4Ln2JYf7X4I/AAAAAAAAAAI/AAAAAAAABeU/Os0fNciNTwY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373809427710",
+        "starRating": "3",
+        "title": "This now doesn\\'t work in Xperia mini st15i",
+        "comment": "now this doesn\\'t work in my handset... my handset is Xperia mini st15i... but, it worked past...",
+        "commentId": "gp:AOqpTOFfdabYR-E2WReTnuTYtSA5T-VMkQkxZe76xKGw4mrNwIgBJbUpp_7MVM3wAu5yUmzZ7L2NGlOuPbXhVtI",
+        "author": "Shahriar Iraj Ifti",
+        "authorURL": "http://lh4.googleusercontent.com/-C-auf6v0ITc/AAAAAAAAAAI/AAAAAAAAAHU/6JYc1TNX1G0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-C-auf6v0ITc/AAAAAAAAAAI/AAAAAAAAAHU/6JYc1TNX1G0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376071474825",
+        "starRating": "5",
+        "title": "Very good",
+        "comment": "Does its job perfectly. Well done guys",
+        "commentId": "gp:AOqpTOHk4kV5-GPIZjvhU_Rhnjq-6iyqihZAqzrrGcOXwST_O4I7YfKj0jQnRQG8-RQa2Mm8QAuG-NY7PDh2Ae8",
+        "author": "ravi mahajan",
+        "authorURL": "http://lh4.googleusercontent.com/-Vvhks_bcF7k/AAAAAAAAAAI/AAAAAAAAAAA/7M-H0vg4CV4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Vvhks_bcF7k/AAAAAAAAAAI/AAAAAAAAAAA/7M-H0vg4CV4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377885010957",
+        "starRating": "5",
+        "title": "Great app!",
+        "comment": "Works as advertised!",
+        "commentId": "gp:AOqpTOHCU23FQXfGx10VdJWkvZRGc1BkPyYPo8GZfIGStKgbqrTa6FqQOOGGpFbQ-GV5NM5dXRxqGhJpUH95i6I",
+        "author": "Robert Murdaugh",
+        "authorURL": "http://lh3.googleusercontent.com/-6ajVJIyhHdI/AAAAAAAAAAI/AAAAAAAABco/XSqWZUJ8NNI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6ajVJIyhHdI/AAAAAAAAAAI/AAAAAAAABco/XSqWZUJ8NNI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377167145485",
+        "starRating": "5",
+        "title": "Perfect app",
+        "comment": "Does what it says",
+        "commentId": "gp:AOqpTOG3DaLSiLwvnoRjI_X53cHKt2-g1Ettz4_fNWbbVm2A20TVcPaUxcTnQGkgNBWTeNkvXFsfY42PKi5LxJo",
+        "author": "Suraj Jain",
+        "authorURL": "http://lh6.googleusercontent.com/-1_-NAkOcZQg/AAAAAAAAAAI/AAAAAAAApTA/uCHVXGghJsA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1_-NAkOcZQg/AAAAAAAAAAI/AAAAAAAApTA/uCHVXGghJsA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374037335635",
+        "starRating": "5",
+        "title": "Very helpful",
+        "comment": "I love this app.. very useful since I like trying out different roms",
+        "commentId": "gp:AOqpTOHb6Sv_tk1Z50GdRY0x3l2TXzXQHsS9qghzkdfOWysL13TxdyvxCNO2atngHqH3_DUAJOEBgzmFAzyA7vI",
+        "author": "Joseph Chris Mendoza",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374674822115",
+        "starRating": "5",
+        "comment": "good",
+        "commentId": "gp:AOqpTOGVEZw1dJApfGcO0tL1E7BS1tysRLVs0WbIYmLh_PIMIVEsWUuHiTuNELYIRQ8JBE5pHC_x_Y4_z3JA2Yo",
+        "author": "MOORTHY GOPAL",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376987813793",
+        "starRating": "5",
+        "title": "Jos\\303\\251 A.",
+        "comment": "\\\"200813...kfr...thanks...\\\"",
+        "commentId": "gp:AOqpTOGm8Sh_4nOBKMTH22_k0gEPVgrmWQCk5QAat7T0BZGZFppHr-3KVDzxjyyOV_Ph80UxbYS5Vo47bnN2uh0",
+        "author": "Jos\\303\\251 A. Aponte-Marrero",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376334599764",
+        "starRating": "5",
+        "title": "Micro",
+        "comment": "Keep it up...",
+        "commentId": "gp:AOqpTOFDcccrH7rs-3idDyFMS4rrlOqKoZo5efb_yJxITZmi1_9wbUKcMq1EKY6wOSKsm1r1zzbF-XNRpfTGxcg",
+        "author": "Himanshu Rana",
+        "authorURL": "http://lh4.googleusercontent.com/-77YxDbvhnqM/AAAAAAAAAAI/AAAAAAAAAJI/QFw5zt5Fyt0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-77YxDbvhnqM/AAAAAAAAAAI/AAAAAAAAAJI/QFw5zt5Fyt0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378001728911",
+        "starRating": "5",
+        "title": "Ddd",
+        "comment": "Ssss",
+        "commentId": "gp:AOqpTOHBnumhygXk6_Rq6QvSsYFh1jvb5zp-jTAPCXlIPjUqe0rf2f6Ihku_GHmDulM_UjGqPMT5RTwsnmhAwFo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.riteshsahu.cloudbackupdriveconnector.ACCESS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

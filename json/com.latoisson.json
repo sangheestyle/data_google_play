@@ -1,0 +1,49 @@
+{
+  "title": "Latoison Law App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.latoisson",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 8, 2013",
+  "version": "1.4",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "My Attorney Apps, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.latoisson",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Welcome to the LATOISON LAW APP from the Law Offices of Enrique Latoison. We understand that, in our fast-paced, high-tech society, people demand information at their fingertips and the comfort of knowing they can get answers fast. With our easy-to-use APP, you get both: detailed information about our services and easy access to our attorneys who will stop at nothing to get you results. Features include: - Case-specific information - Free legal references - Free phone consultations - Access to our LatoisonLaw Facebook page - Direct access to our website - Office location information - Contact information - Attorney bios With offices in the greater Philadelphia area, we handle cases throughout the surrounding counties, including Philadelphia, Delaware, Chester, and Montgomery. Our practice areas include: - Criminal defense - DUI - Custody - Child support - Divorce - PFA - Personal injury - Traffic offenses - License restoration - Workerâs compensation Disclaimer: By viewing this description, you agree and understand that this is information upon request. You also agree that any information contained within the application is information upon request. You also understand that we are only license to practice in certain states and federal courts, and this application is only intended for use in those states. The website within the app is only for our Pennsylvania practice. If you download our application in a jurisdiction within which we are not licensed, you expressly agree that we are in no way offering you legal advice by your use of the app and are not practicing law or availing our services for cases in those states. Attorney Advertising. My Attorney is on my cell phone...Is Yours? Created by My Attorney Apps",
+    "reviews": [
+      {
+        "timestampMsec": "1336164509594",
+        "starRating": "5",
+        "title": "Great App",
+        "comment": "Very professional and informative!",
+        "commentId": "lg:AOqpTOH841nf1bz3sik0rovV9zQFlPt0cGewZBiJxRLZwI5-T9tJq3YauoDi_km2ib8vm68bFFgDpgw6i-2vTrE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341334800662",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Very helpful and easy to use!",
+        "commentId": "lg:AOqpTOFFImPqXyjjs340s3ULNlq5Endvw1LdbZWa8tfUx2qTaQenQQlBskXiNT9y0pCg2IrSyAn6KgzwoBq-HuQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

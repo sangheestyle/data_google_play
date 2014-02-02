@@ -1,0 +1,248 @@
+{
+  "title": "uSound Player (Stream Music)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.lowlevel.usound.player",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "1.5.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1618",
+  "rating": "4.3862796",
+  "contentRating": "Everyone",
+  "creator": "Lowlevel Media",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.lowlevel.usound.player",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Listen and download all your favorite songs from your Android device and from any place!'uSound Player' is an application developed by Lowlevel Media that allows to play and download, through streaming and totally FREE, a wide variety of songs available at the updated MP3 database.Listen your songs anywhere, at any moment, in an easy and intuitive way.FEATURES:â Play any song through streaming using 3G or WiFi connection.â Download songs directly to your device's external storage.â Move your downloads to background to do any other tasks: search, play a song...â Move between the different areas of the application using the tabs and gestures system.â Add your preferred songs to favorites to have them easily accesible.â Play your favorite or downloaded songs in an easy way.â Share your songs with your contacts easily.â Limit the search results count to reduce the data total usage.â Set the downloaded songs as ringtone.â Only ICS/Jelly Bean: Pause and/or forward songs from Android notifications.More information here:http://lowlevel-studios.com/en/usoundPERMISSIONS:â ACCESS_NETWORK_STATE: To check the actual network state.â WRITE_EXTERNAL_STORAGE: To save the downloaded songs in the external storage.â WRITE_SETTINGS: To set the downloaded songs as ringtone.â WAKE_LOCK: To avoid the screen to go off during a search.If you like this application rate it positively, otherwise give us your comments, opinions and/or suggestions.LEGAL NOTICE:'uSound Player' is an application developed to work as a client of third party services.We do not distribute files and/or links and we are not responsibles of the contents provided by those services.If you have any concerns for the available contents, please contact the providers.",
+    "reviews": [
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378282022204",
+        "starRating": "4",
+        "title": "Works... Sometimes.",
+        "comment": "This app is great for listening to music but you will often need to browse through the servers which often go down or lag terribly. Luckily there are 6 so you can usually get it to work, after ten minutes of trying.",
+        "commentId": "gp:AOqpTOEEodmck9KoQ9Js8WN1Dxvpde4BRJXvfYHvhN8MWJm1T6eWWv0HjayGreIuT795rJyuSVRBt4epJVtofaU",
+        "author": "Reece Clark",
+        "authorURL": "http://lh6.googleusercontent.com/-GHCnI4tcfh0/AAAAAAAAAAI/AAAAAAAAABY/RESSwHwV1nk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-GHCnI4tcfh0/AAAAAAAAAAI/AAAAAAAAABY/RESSwHwV1nk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378323562717",
+        "starRating": "4",
+        "title": "Love! But...",
+        "comment": "I love the app immensely, but the option to set our own background pictures has been taken away. Please put it back. Other than that, LOVE!!!",
+        "commentId": "gp:AOqpTOEZ7NaG7TDnXRt9MVw30gPdnzfR48MROfzY5E07Kdcf5SdH8Ggdpky72KmlfyghzrKVZFTk1Po_jDMwMrI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378396800150",
+        "starRating": "4",
+        "title": "Decent",
+        "comment": "With the exception of not being able to down load multiple songs at a time or album. It works great. It would be easier to if we could rate those who upload music so we don\\'t get trolled. I downloaded what I thought would be Led Zepplin and got Never gonna give you up. While funny Rating this user would help others identify good users to bad users. Thanks!",
+        "commentId": "gp:AOqpTOETq_JOaj52ydOk77McA7CQ_wDNPhlX_pCgR8ig3tEi0JegVRT8N_6CQnUJBdQLDx41lCq6sQ143ieP5Qw",
+        "author": "Edward Red",
+        "authorURL": "http://lh6.googleusercontent.com/-DPP2Wb7T0LY/AAAAAAAAAAI/AAAAAAAAAFc/zA7PfV2PmKk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DPP2Wb7T0LY/AAAAAAAAAAI/AAAAAAAAAFc/zA7PfV2PmKk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378273062638",
+        "starRating": "3",
+        "title": "What happened to the ui",
+        "comment": "The last version was great.......I almost didn\\'t update because everything was working fine....I decided to update and its awful,its almost impossible to get the song to download......I try to download and the song just wants to play intead of download....fix this please and I would rate 6 stars....I want the old version back",
+        "commentId": "gp:AOqpTOEJzsFgPxLFKrOYHLR5qZIs0FHmVYFHuvEuBSR5n3ZVoGxJGgBlKfbQ1pD16jrMCiXPweLxIrBmTitdIaQ",
+        "author": "Jesse Hooper",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378340686846",
+        "starRating": "5",
+        "title": "Excellent!",
+        "comment": "Dubstep solves everything 3 by Jacksfilms",
+        "commentId": "gp:AOqpTOHteju379CDSIN5YoXHsYJdZY96yZf9s2I7ZDgrYVecFop5p3YO90Tmav17jaClqBoyfERkOM8KqSzY77Y",
+        "author": "zeralia neon",
+        "authorURL": "http://lh5.googleusercontent.com/-DXrWxzGTVC0/AAAAAAAAAAI/AAAAAAAAALY/2iyu1JhbGek/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-DXrWxzGTVC0/AAAAAAAAAAI/AAAAAAAAALY/2iyu1JhbGek/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378347501028",
+        "starRating": "2",
+        "title": "Fix it please!!",
+        "comment": "Everytime I download a song, it always says \\'Error downloading song\\'. Please fix it!! I\\'ve had to download it atleast 7 times for it to work!! Not impressed!",
+        "commentId": "gp:AOqpTOEmywVxkSaEOK5jGl-YwEOvxPc2kXWDBi5x3IwEg1BNhWZRGcDFbyHgBp_3qPzAZ0kq4vE_iqfJBVSX6qA",
+        "author": "Perrie Edwards",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378222580139",
+        "starRating": "5",
+        "title": "Niceee",
+        "comment": "Lovely",
+        "commentId": "gp:AOqpTOFaZqFbic4N2cHekRneL_nvmSJMYOhDY6pkK8irjsnUVNNROSfaQCBuU704gl0pRMm32CeD0WLRQcIO0Mg",
+        "author": "Jevitha Chalaya",
+        "authorURL": "http://lh4.googleusercontent.com/-qGFLx7h4AaE/AAAAAAAAAAI/AAAAAAAAB4Q/1bnNAg86jqw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qGFLx7h4AaE/AAAAAAAAAAI/AAAAAAAAB4Q/1bnNAg86jqw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378344472829",
+        "starRating": "4",
+        "title": "Awesome needs only a little thing",
+        "comment": "It is very good I only wish of it adds an option for using custom download managers it would be better",
+        "commentId": "gp:AOqpTOHkbPpoBFBQM4OzItwmL1QJqvqdJ9e6yLFbMuC27uFawAqSF9_F4GnuyHhnf6aDf9-CocBrFVatwTAfF00",
+        "author": "John Zakaria",
+        "authorURL": "http://lh5.googleusercontent.com/-0_kGCcHqy5k/AAAAAAAAAAI/AAAAAAAAAZM/4GMJriPZ2ig/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0_kGCcHqy5k/AAAAAAAAAAI/AAAAAAAAAZM/4GMJriPZ2ig/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.0",
+        "timestampMsec": "1378248818176",
+        "starRating": "5",
+        "title": "amazing",
+        "comment": "free has alot of music  get it u need it!!!!!!!!",
+        "commentId": "gp:AOqpTOHJjbN19u0Emg_WNemRbY_z3WNEkwmKEzttI7HTveYWs5YXXFQd5OBvj5PDb96TWZphyAeNV31C_ZTYJrU",
+        "author": "Karlie Jones",
+        "authorURL": "http://lh5.googleusercontent.com/-qMa4W5ysoq4/AAAAAAAAAAI/AAAAAAAAABU/Pu6yl7rJC7Q/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-qMa4W5ysoq4/AAAAAAAAAAI/AAAAAAAAABU/Pu6yl7rJC7Q/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375492134851",
+        "starRating": "5",
+        "title": "Exactly what I was looking for!",
+        "comment": "I\\'ve been looking for a music streaming app that doesn\\'t play a station or a playlist, just the song I want when the mood strikes me. This app is absolutely perfect, and it\\'s completely FREE! (Unlike Spotify...)",
+        "commentId": "gp:AOqpTOF_xXR9jzsOv0G_xT1QL6_ckMDp7KndXskvtQYeLcBOe7UVfEpnq36fD4XTBRmRdbqhiQxgOQGj7W-1_sE",
+        "author": "Angela Pascual",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1374980831895",
+        "starRating": "3",
+        "title": "It\\'s overall rating as a mp3 downloaded is equal to its price",
+        "comment": "Add more songs that are dated, I reccomend having a single staff member to each genre to efficiently seek out such songs",
+        "commentId": "gp:AOqpTOF4fx9iixzvhv-T5vls8Q5LrGPx0dZcnXj7lOqU_wXEalAUtOGmNBQgiLhVYuizezLLLvNRAk2fedARRD4",
+        "author": "Eric LopezWilder",
+        "authorURL": "http://lh4.googleusercontent.com/-sHIkaXWTRhc/AAAAAAAAAAI/AAAAAAAAAYw/kDTn0m7P6oU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-sHIkaXWTRhc/AAAAAAAAAAI/AAAAAAAAAYw/kDTn0m7P6oU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1377358615139",
+        "starRating": "5",
+        "title": "Fantastic and useful!",
+        "comment": "Sound quality is always good and servers are now very quick!",
+        "commentId": "gp:AOqpTOF83y5U9zH3elBcYYYgMTf7tK0rafPblYMreLlWsM8490c0KM-w6E5FOFeg9vuv829MeD9i5mRz0LSaJis",
+        "author": "Samuel Miriello",
+        "authorURL": "http://lh3.googleusercontent.com/-uEHLaCjl0ug/AAAAAAAAAAI/AAAAAAAAAD4/5kgv4VP0SMM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uEHLaCjl0ug/AAAAAAAAAAI/AAAAAAAAAD4/5kgv4VP0SMM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1376952757605",
+        "starRating": "4",
+        "title": "Needs Improving",
+        "comment": "I am on Galaxy Ace 2 and it no longer will let me download songs ir listen to them before download so now im stuck with the same songs forever and cant get new ones. Please Fix",
+        "commentId": "gp:AOqpTOEZXzlMnxTVgrfg6Ijdn-cT54xwe2V8dgqvX8QaixPsEoS7FwG3s3cMmFB8cJR4HhRDERD9jwwr3mYfBEg",
+        "author": "Christopher Burke",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1377394506935",
+        "starRating": "1",
+        "title": "Awful!!",
+        "comment": "This is crap! The originalfix  actually. It will only successfully download songs one time out of fifteen!! Fix the problem.",
+        "commentId": "gp:AOqpTOGwg5pFyJ5Od74awvPCN861NwxOAPeotK63taFmDyXtcPqtRO_37hHEe0arLgJ4Y2McJkYTtjrQHIPFeuQ",
+        "author": "Victoria Crawford",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375972889504",
+        "starRating": "4",
+        "title": "Brillant app",
+        "comment": "I love this app have found songs i havent heard in years. Very easy to use and its free! Only problems is now and again it stops if that problems sorted would give usound 5 stars. :-)",
+        "commentId": "gp:AOqpTOFE3XWnS1H0ugwygeel1OV9DwSLYT-eQNoU_XuwKLG2GBfXuUaGNCyAQn6QBq2zAXZceenTuJeTs9beZ10",
+        "author": "Laura Osborn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1376363135372",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Love it!!! Smooth operation but could do with the ability to add full albums but that\\'s just me being fussy",
+        "commentId": "gp:AOqpTOGW4icXqDuRyOiixG3sXBS7WOGVUezyTL35WvTJthliv92CmUOy2BtF026cfHKXuTeLPBqrxo6ofWwAjgA",
+        "author": "ciaran westerman",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375660112603",
+        "starRating": "3",
+        "title": "Awesome app but crashes a lot!",
+        "comment": "An app everyone should have. The only problem is that it crashes a lot. My friends have the same problem. Gets annoying. Still nice to have.",
+        "commentId": "gp:AOqpTOHP2JZRxiEUVt9viNHwhKYlxOO_m9mY_RycZAX2ORQLBny-6758CGmQ_rS9sEn1EmFowr6YCLKLYyCdgM4",
+        "author": "Joshua James",
+        "authorURL": "http://lh4.googleusercontent.com/-Wu4Wqbgt19A/AAAAAAAAAAI/AAAAAAAAAPw/t1gLNJXTjdw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Wu4Wqbgt19A/AAAAAAAAAAI/AAAAAAAAAPw/t1gLNJXTjdw/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1376780769174",
+        "starRating": "4",
+        "title": "Not working properly with 4.3",
+        "comment": "My favourite \\\"aarrh me hearties\\\" music downloader, when it works it\\'s the best. Use engine 4 for best results, slow downloads but heaps more songs to choose from. Since update to 4.3 it\\'s not working properly, fc\\'s a lot and will only download a few songs before it stops working or fc\\'s. Please fix, love this app.",
+        "commentId": "gp:AOqpTOEAtJeORiV8YA3BylGDl-_oev7ShxtmADfxponetLP7PDmZKdeJeHp-sksm3X_Y1nMsPAYcAnrMnX-4NWQ",
+        "author": "Dan Rasmussen",
+        "authorURL": "http://lh3.googleusercontent.com/-4w7iH6PjSco/AAAAAAAAAAI/AAAAAAAAnKE/4C3TLeGC5bI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4w7iH6PjSco/AAAAAAAAAAI/AAAAAAAAnKE/4C3TLeGC5bI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375130574075",
+        "starRating": "5",
+        "title": "Brilliant app",
+        "comment": "Excellent quality, really easy to use, has a huge library of songs, and best of all it is completely free and has none of those annoying audio adverts. Highly recommended for anyone who wants to steam music without a subscription.",
+        "commentId": "gp:AOqpTOFnUYp1hdRx0QiycSLlV5ZX6US9yGCRLso4bpY6uM1gcE6_Osmhd12koEYK99kFTXVuRr8ioR2Tp_cfAbg",
+        "author": "Ewan Roycroft",
+        "authorURL": "http://lh3.googleusercontent.com/-tsWs8NSV7Fg/AAAAAAAAAAI/AAAAAAAAAIY/x5jebeUAzOs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tsWs8NSV7Fg/AAAAAAAAAAI/AAAAAAAAAIY/x5jebeUAzOs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.4.3",
+        "timestampMsec": "1375904281598",
+        "starRating": "5",
+        "title": "I realy love it",
+        "comment": "Every time i get a new phone its always free an still easy to use an find all my songs from new to old and you can make a music video on your phone wit it!!",
+        "commentId": "gp:AOqpTOFQHtlkF2Lcu2hCQkmHa7kJZR4JCuu9xbBVB3egHp8Zobcc8qPuGeq_ZiqLKG3WUdvruXv2q23Sh7Q8kUM",
+        "author": "Teniea Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

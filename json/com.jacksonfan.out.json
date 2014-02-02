@@ -1,0 +1,68 @@
+{
+  "title": "Outer Space Go Locker",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonfan.out",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "June 7, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "71",
+  "rating": "4.1267605",
+  "contentRating": "Low Maturity",
+  "creator": "rockshowteam",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonfan.out",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Outer Space Round GoLocker ThemeHave a wonderful and elegant Outer Space Round locker screen in a way very similar to the iphone go locker theme screen. Just slide the Round Lock in middle to unlock the phone and has various shortcuts using which you can directly reach the desired location. It makes your phone look very similar and alike to apple products like iphone and ipad.GO Locker Abstract Outer Space Round Lock look Theme, design to GO Launcher EX, is available now!Fill your screen with amazing abstract animations. An android application that cannot be missed by anyone who loves abstract wallpaper.The wallpaper has an awesome Outer Space background with lock placed in middle. On pressing the lock scan you will see the various shortcuts i.e Home,camera, phone and Message.It has really highy quality HD graphics. One other thing that one might notice at one go is its wonderful charging mechanism . The ring surrounding outer Space round lock starts to rotate when your wonderful android smartphone is put in charging mode.Must Do Before Installing this application :-This theme doesn't need ADW/Magic Locker to work, just install Go Locker and get this app working. You can also download our other go locker themes with more beautiful backgrounds.Please leave a feedback on our email (rockshowteam@gmail.com) in case of any problems with this lock screen.The theme has been extensively tested on all the major handsets including Samsung,HTC, LG, Motorola,Sony.Important Notification:-This free app is advertisment supported and may contain ads in the notification tray and/or home screen.In our apps there is a new search tool from our advertisement partners and give you access to great web search via a search icon, bookmark link and homepage. You may remove them at your choice by clicking on the icon and drag them to garbage.",
+    "reviews": [
+      {
+        "timestampMsec": "1377954740475",
+        "starRating": "3",
+        "comment": "Good not the best",
+        "commentId": "gp:AOqpTOEj7UCHww0-WQhDl6xzx6uNDPT3vJmssYd2Pd1YP-rPMT63kpsHcss2KTdgjfqD449KMtqC5VlDTgMpQg",
+        "author": "essa jr",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345482651198",
+        "starRating": "4",
+        "comment": "I like this..",
+        "commentId": "lg:AOqpTOFne3Xnv2rXFJakFFvnk6tzLxzNG33qSchu2QKvMP_rGtfmBrd81lDIdkFA8b4LPiV58IVerNNnY3Uc2Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

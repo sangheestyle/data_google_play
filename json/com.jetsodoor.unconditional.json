@@ -1,0 +1,36 @@
+{
+  "title": "Unconditional Love",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.unconditional",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "HK Nut",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.unconditional",
+  "extendedInfo": {
+    "installSize": "3.9M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do You Have Hatred, Jealousy And Fear Causing By Your Love For Someone?! Letâs face it â We all know the fact that even we love someone wholeheartedly, they may betray us. If we are certain that our relationship will last forever, ... If we are certain that our relationship will last forever, we will definitely love unconditionally.But as time goes on, more and more people have been learning more about relationship and how they can keep the relationship last.Anybody â Regardless of their circumstances can equip themselves with these information.But before we go into that, ask yourself, have you ever faced any of these problems in your life?â¢Wanted to be loved forever.â¢Fear your partner may not love you.â¢Do not know how to maintain a relationship.Well, you are not alone. Iâve once walked down this lost path and I told myself that I would do whatever it takes to figure out the solution.And after years of research and hardship, Iâve finally found the solution, which I want to share with you today.Introducing .... Unconditional Love .....Hereâs What You'll Learn from this App :- Nature of an unconditional love- How to remove attachments in your love life- Learning how to love unconditionally- Basic steps in making your love life count- 10 reasons why you need an unconditional love- And more !Please note that this how to make Unconditional Love App does require an active internet connection for most of its features to function.Tags: Unconditional Love, Unconditional Lover,",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

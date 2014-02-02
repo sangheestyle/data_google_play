@@ -1,0 +1,51 @@
+{
+  "title": "Xbox One Gamer Magazine",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.triactivemedia.threesixtygamer",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "4.0.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "MagazineCloner.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.triactivemedia.threesixtygamer",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "ONE Gamer is your one-stop shop for all things Xbox-related!From the Xbox 360 to the Xbox One, our monthly digital magazine is the only source you need for no-nonsense reviews, red hot previews, exclusive in-depth features, and the latest news and opinion on Microsoftâs current and next-gen consoles.Weâve been covering Xbox games since 2005, our team has over 200 years of gaming experience and weâre 100% independent, so you can count on us to bring you content you can trust!---------------------------------This is a free app download. Within the app users can purchase the current issue and back issues.Subscriptions are also available within the application. A subscription will start from the latest issue.Available subscriptions are:6 months (5 issues)12 months (10 issues)-The subscription will renew automatically unless cancelled more than 24 hours before the end of the current period. You will be charged for renewal within 24 hours of the end of the current period, for the same duration and at the current subscription rate for the product.-You may turn off the auto-renewal of subscriptions through Google Play Account settings, however you are not able to cancel the current subscription during its active period.Users can register for/ login to a pocketmags account in-app. This will protect their issues in the case of a lost device and allow browsing of purchases on multiple platforms. Existing pocketmags users can retrieve their purchases by logging into their account.We recommend loading the app for the first time in a wi-fi area.If you have any problems at all please do not hesitate to contact us: help@pocketmags.com",
+    "reviews": [
+      {
+        "documentVersion": "2.3.3",
+        "timestampMsec": "1364996406971",
+        "starRating": "5",
+        "title": "Great mag",
+        "comment": "A well-written magazine that tells it like it is. Looks good, has a nice dry line in humour and all the trailers make for great viewing too!",
+        "commentId": "gp:AOqpTOHhddmFqWRalEAdWeCrpiy40UKR5l2BonCbr6Ud8vjP5ciurGffv86I3d6mYF9Xlb2TAL0o7ENuBTbSMw",
+        "author": "Ian Collen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364996411669",
+        "starRating": "5",
+        "title": "Epic coverage worth it",
+        "comment": "Awesome mag with a lot a good content",
+        "commentId": "gp:AOqpTOFbZc8aPSz3-kiaTQ7gese3G09qNtNCVIsSJtx9x1dY6g-UpcavQVr5kqYNy4pclZwo1v9Kg4cB2QaMqA",
+        "author": "Kerry Hanrahan",
+        "authorURL": "http://lh5.googleusercontent.com/-B6utCZ5KxHc/AAAAAAAAAAI/AAAAAAAAABg/YwuPT3c8qh4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-B6utCZ5KxHc/AAAAAAAAAAI/AAAAAAAAABg/YwuPT3c8qh4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

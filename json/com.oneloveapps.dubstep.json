@@ -1,0 +1,47 @@
+{
+  "title": "I Love Dubstep",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.oneloveapps.dubstep",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "June 20, 2013",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "10",
+  "rating": "4.4",
+  "contentRating": "Low Maturity",
+  "creator": "One Love Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.oneloveapps.dubstep",
+  "extendedInfo": {
+    "installSize": "2.6M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Â¿ Eres adicto al Dubstep? Esta es tu apps I love dubstep!Tienes diferentes fondos de pantalla con los que podrÃ¡s personalizar tu dispositivo android y compartirlo con todos tus amigos via whatsapp, correo electrÃ³nico, facebook...Demuestra que eres el mayor seguidor del Dubstep y descÃ¡rgala yaEl dubstep (/dÊbstÉp/) es un gÃ©nero de mÃºsica electrÃ³nica de baile. El sitio web musical Allmusic describe su sonido de modo general como \"producciones formadas por ajustadas series de loops con lÃ­neas de bajo abrumadoras y patrones rÃ­tmicos reverberantes, samples troceados y vocales ocasionales\".1Las primeras muestras de dubstep fueron publicadas en 2011. Se trataba de remezclas instrumentales, oscuras y experimentales de producciones de 2-step garage, realizadas con la intenciÃ³n de incorporar los elementos funky del breakbeat o los rasgos mÃ¡s oscuros del drum and bass en el propio 2-step. Estas remezclas aparecÃ­an como cara B de los sencillos de 2-step de la Ã©poca. En 2001, esta y otras variedades de mÃºsica garage oscura comenzaron a ser mostradas en el club nocturno londinense Plastic People, en las noches llamadas \"Forward\" (tambiÃ©n estilizado como FWD>>), que serÃ­an considerablemente influyentes para el desarrollo del dubstep. El tÃ©rmino \"dubstep\" como denominaciÃ³n de un gÃ©nero musical comenzÃ³ a utilizarse en torno a 2002 por sellos discogrÃ¡ficos como Big Apple, Ammunition y Tempa, momento en el cual las tendencias estilÃ­sticas presentes en las remezclas comenzaron a hacerse mÃ¡s remarcables y distintivas en relaciÃ³n al gÃ©nero original, el 2-step, asÃ­ como al grime, sonido con el que en sus orÃ­genes el dubstep tambiÃ©n guardÃ³ una estrecha relaciÃ³n.2Un temprano seguidor del sonido fue el DJ de la emisora BBC Radio 1, John Peel, quien comenzÃ³ a programarlo a partir de 2003. En 2004, el Ãºltimo aÃ±o de su programa, sus oyentes votaron a Distance, Digital Mystikz y Plastician (anteriormente conocido como Plasticman) en su top 50 del aÃ±o.3 El dubstep comenzÃ³ a extenderse mÃ¡s allÃ¡ de una pequeÃ±a escena local hacia finales de 2005 y comienzos de 2006. Numerosos sitios web dedicados al gÃ©nero comenzaron a aparecer, ayudando al crecimiento de la escena.4 SimultÃ¡neamente, el gÃ©nero empezÃ³ a recibir una importante cobertura en revistas musicales como The Wire y en publicaciones online como Pitchfork Media, que comenzÃ³ un apartado regular denominado The Month In: Grime/Dubstep. El interÃ©s en el dubstep creciÃ³ considerablemente desde que la DJ de BBC Radio 1 Mary Anne Hobbs comenzara a promocionarlo, comenzando un programa dedicado en exclusiva a este sonido (titulado \"Dubstep Warz\") en enero de 2006.5 6 7Hacia el final de la dÃ©cada de 2000, el gÃ©nero pasÃ³ a tener un importante Ã©xito comercial en Reino Unido, aumentando progresivamente el nÃºmero de sencillos que entraban en las listas de Ã©xitos de mÃºsica popular. Los periodistas y los crÃ­ticos musicales tambiÃ©n llamaron la atenciÃ³n sobre la influencia del dubstep sobre el trabajo de numerosos artistas de mÃºsica pop. En esta Ã©poca, los productores comenzaron a fusionar elementos del dubstep original con otras influencias, creando gÃ©neros de fusiÃ³n como el mÃ¡s lento y experimental post-dubstep.    Skrillex    Burial    Nero    Skream     Rusko    James Blake    Flux Pavilion     Bassnectar     Benga     Knife Party    Chase & Status    Magnetic Man     Borgore      Scuba     Modestep     Zomboy     Doctor P     Datsik    Boxcutte     Caspa     Excision     Cookie Monsta    Noisia    Porter Robinson",
+    "reviews": [
+      {
+        "timestampMsec": "1378438827556",
+        "starRating": "4",
+        "title": "Meh",
+        "comment": "Share to facebook. Download from Facebook. Delete app. Problem solved. ~OnceAMarineAlwaysAMarine~",
+        "commentId": "gp:AOqpTOFOJ4JMDqhbU5fZRqW-gfXv3XSYaFRGDOtDJk-eTHbuB-7osSObDMFRzpm0LU8M_Qx-CYECmucUKWiINg",
+        "author": "Brian Hill",
+        "authorURL": "http://lh4.googleusercontent.com/-4bhVU9XoErI/AAAAAAAAAAI/AAAAAAAAAC0/BS4XCphSLVU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4bhVU9XoErI/AAAAAAAAAAI/AAAAAAAAAC0/BS4XCphSLVU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

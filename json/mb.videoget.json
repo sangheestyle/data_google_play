@@ -1,0 +1,248 @@
+{
+  "title": "DMovies : Movies Downloader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=mb.videoget",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "0.3.3",
+  "operatingSystems": "4.0.3 and up",
+  "ratingsCount": "172",
+  "rating": "4.662791",
+  "contentRating": "Everyone",
+  "creator": "Ananda Babu",
+  "creatorURL": "https://play.google.com/store/apps/details?id=mb.videoget",
+  "extendedInfo": {
+    "installSize": "1.8M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "vGet detects videos embedded in websites and allows to download them, stream them with any installed Player, or play them via DLNA directly on a Smart TV.Play Videos directly on your Smart TVvGet supports DLNA to play (cast) videos directly on a DLNA-Device in your local network. Many devices out there support DLNA, for example Smart TVs, XBox, MediaCenters, AllShare Devices etc. As opposed to many other DLNA-tools, vGet does not relay the video stream over your mobile device but streams directly from the internet. This saves battery life - the video even keeps playing when you switch off your Android device completely. So vGet offers Chromecast-like functionality without requiring additional hardware.Download VideosDownload any video for later offline viewing. vGet includes an integrated download manager that supports multiple concurrent connections to speed up downloads. It automatically increases the number of connections as long as this improves the download speed, if supported by the server. Stream VideosPlay embedded videos with the player of your choice. Choose any installed Video-Player (e.g. MXPlayer, VLC, etc.) to stream them directly without downloading. This even works for flash videos.Supported VideosvGet works as a simple web-browser and is therefore able detect HTML5-Videos on any site. It can even detect some flash-videos, without  requiring flash player to be installed. Note that support for flash videos is limited, so don't expect it to work on every site. But it has been reported to work quite some sites, including putlocker, sockshare, movshare, novamov, filenuke, played, nowvideo, clicktovie, nosvideo, videozed, faststream, nowvideo, potlocker, putme, bitshare, streamcloud, movreel, vidstream.in, xvidstage, billionuploads, primeshare, ginbig, ...Support for Chromecast will be added soonLimitations- Youtube is not supported due to terms of service restrictions.- No support for live streams yet.- Flash videos are not detected on all websitesReasons for App-Permissions:- Full network access: required for downloads and DLNA.- WLAN-Multicast: required for DLNA to detect local devices.- USB-Storage: required for saving downloads.- Start at boot: to resume downloads automatically after rebooting.- Prevent sleep mode: required while downloading to keep active downloads running.If you experience any problems or have suggestions for improvements, please report them on http://vget.w69b.com/bugs.Tags: flv download, flv player, flash, streaming, dlna, upnp, allshare, film, download movie",
+    "reviews": [
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1378276173838",
+        "starRating": "5",
+        "title": "Brilliant... Hessle free",
+        "comment": "What an amazing sofwr this is... Its detect video n u can stream it with any player also play directly on ur tv via wi fi direct also... Brilliant",
+        "commentId": "gp:AOqpTOG7iIShYzt-ElK_Nr1KsX8nV3THmUpM7za-BI4Ld-1-NRv32L4GpyzjPZeQWplHj1MRg_EtLEx1zHoUyA",
+        "author": "Robin Chawla",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377535043928",
+        "starRating": "4",
+        "title": "Bravo!",
+        "comment": "Just what I\\'ve been looking for. Please add storage/saving option. I prefer saving my videos to my external storage. Thanks and keep up the good work!",
+        "commentId": "gp:AOqpTOF_fx7yodTVVeMaiGvHxdCnu_Z3o336eTKHNe1MpP_V6FRR1C-bjWFY1aTCMnRfaMAtHbAAG3QyLKYvvw",
+        "author": "Bullit Bayot",
+        "authorURL": "http://lh4.googleusercontent.com/-77o93eQz8_o/AAAAAAAAAAI/AAAAAAAAC7M/OHxjudFDdT0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-77o93eQz8_o/AAAAAAAAAAI/AAAAAAAAC7M/OHxjudFDdT0/photo.jpg"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1378284242121",
+        "starRating": "5",
+        "title": "Galaxy s3",
+        "comment": "One of the Best app ever. Hands down.",
+        "commentId": "gp:AOqpTOGmsv0xZa4WtwrHwJZqguJaAj87Zq4fNPqXUeEgSNvGKM6jm-Pkw4bNfWm3tg66vAJwrEOrCrwHO_VPZQ",
+        "author": "carlos urena",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377518124221",
+        "starRating": "4",
+        "title": "Great Idea",
+        "comment": "So much better being able to watch online streams using my choice of player. I\\'ve just noticed that delete no longer works with version 0.3.3, it definitely used too. If I start a download and realize the file is too big I can only pause. To get it off my phones notification bar, and VGet download list, I have to reboot. Force Stopping doesn\\'t work it just comes back if I need to continue using the app for something else.",
+        "commentId": "gp:AOqpTOHthMiejjn2gjn82Dw3_TBS0d8aoy_VW2u9pZ_5n1h3_DwhVv_Exuos8G5t8ENdZcgboxdgs1MxE-AD7Q",
+        "author": "Mike Bye",
+        "authorURL": "http://lh4.googleusercontent.com/-KNtMBN7NaOU/AAAAAAAAAAI/AAAAAAAAAcc/Hq7CbBIQf8Y/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KNtMBN7NaOU/AAAAAAAAAAI/AAAAAAAAAcc/Hq7CbBIQf8Y/photo.jpg"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377458111507",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Really good app does exactly what it says.",
+        "commentId": "gp:AOqpTOGG_9Sjzm-K-67l4L_pnmrJC7dM0de2mxms6ZAJ59lEWW1wssX8mOM0v92q4pdv1H_y1JZ9fWug4HKlmw",
+        "author": "jamie Paul",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377309277627",
+        "starRating": "5",
+        "title": "Haha",
+        "comment": "Nice app this is just what i\\'ve been looking for",
+        "commentId": "gp:AOqpTOFMyyF6mXG0oMfcktXArSuqca946eEl0JGUuQTFoxdssNO6Ui5HyVI0NnSIvqS3Ker4HOLbQqDQ6712DQ",
+        "author": "lanz ruzgal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377616843960",
+        "starRating": "5",
+        "title": "I\\'m in love with this app!",
+        "comment": "I absolutely love this app. I have downloaded dozens of movies and watched dozens more on this app. Love it!!!",
+        "commentId": "gp:AOqpTOHjyY6OxT52xUL5dsWkbOHoEsf2xaU_TkbeIV30L7ycf6QY47LjEEdR3vUtWjhu-R4fr6hW1m6VNKtAdA",
+        "author": "Mathew Torres",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1378192100547",
+        "starRating": "5",
+        "title": "Very use full app",
+        "comment": "This is great app",
+        "commentId": "gp:AOqpTOEY52AHzNEZw9CkbrScNLI6eRiXLQRTUULYPdUCtfPtxC8bBldcXrClO1wOsSGqwqcgslnjJ6uWk4Oiag",
+        "author": "Mervin Lim",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377876412650",
+        "starRating": "5",
+        "comment": "Good app, works perfect",
+        "commentId": "gp:AOqpTOEAwjRm-EREYNQaV6igPpahfG8pSoIdkb1RutQrAvzYv7DLwAD6SA_uTruTk6Bg64WxubjhF6EhM5lrag",
+        "author": "priit laane",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377985174766",
+        "starRating": "5",
+        "title": "PERFECT!!!",
+        "comment": "Awesome  app.  I can watch my movies and shows that wouldn\\'t play in my tablet browser.",
+        "commentId": "gp:AOqpTOG5CWYaXP-bhIzgWRK-f8wRX2PSCFr8z9Lidy7AqU5ELkZBfwggeVLz8VM3VUmlrTQBrCvYkzG4s1TLlg",
+        "author": "Adam Lovato",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377780667449",
+        "starRating": "5",
+        "comment": "Great App",
+        "commentId": "gp:AOqpTOH8CfEw-3uSlmbfWt9-7WV_2umD8t07sbTnWWX_3mhTdYARASlhFdV_hoJqReY33E_hM899p8RygY7NTg",
+        "author": "Horace Davis",
+        "authorURL": "http://lh6.googleusercontent.com/-daOWdxHCZjA/AAAAAAAAAAI/AAAAAAAAAGE/wejvTqBQg78/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-daOWdxHCZjA/AAAAAAAAAAI/AAAAAAAAAGE/wejvTqBQg78/photo.jpg"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1378167450302",
+        "starRating": "5",
+        "comment": "Harika Wi-Fi ile videolar direk smart TV\\'de",
+        "commentId": "gp:AOqpTOF2mYfA78ewRLaw9Ww9CY5yeuVHA8DnSihJf-FRmisS9t0xhQ65rUA9NjGOmpkBh0EkAh-iSZcw7oPLzg",
+        "author": "Selahattin Sava\\305\\237",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377739484307",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Need more apps like this! Workout great songs super useful with my LG L9 & XBOX 360",
+        "commentId": "gp:AOqpTOEM-2W45Nfco0THubz7gVIlou_SqRTuyGMN947rLYl2mAnE1McPyUjhAVBDV_7DbZr-rH5ZC7s5ATinUw",
+        "author": "STevE Ganc",
+        "authorURL": "http://lh5.googleusercontent.com/-eJ5jSzsEJyg/AAAAAAAAAAI/AAAAAAAAAAA/7fpHa81AGdY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-eJ5jSzsEJyg/AAAAAAAAAAI/AAAAAAAAAAA/7fpHa81AGdY/photo.jpg"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377222192027",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Love it",
+        "commentId": "gp:AOqpTOHg04Hlav2OPpBTSEnhoU3AqXsBu_rlYJWOwVRNOVZ8a9vpaSqbjneoytsx2n2VtcmraSXRUOYS17f1lQ",
+        "author": "eddie garner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.3",
+        "timestampMsec": "1377423020008",
+        "starRating": "5",
+        "title": "Checker",
+        "comment": "Works grea8.",
+        "commentId": "gp:AOqpTOEw8zX2jKoVuMU_XDW6dakx6erq05T_TuHqmL1_ADn8Rlw8eYsl2cysfYKlZu2kf3wnLeRY_7LhZnbPHw",
+        "author": "MY STYLE",
+        "authorURL": "http://lh6.googleusercontent.com/-e6693L1uo8s/AAAAAAAAAAI/AAAAAAAAACo/gpeJjTw-0PQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-e6693L1uo8s/AAAAAAAAAAI/AAAAAAAAACo/gpeJjTw-0PQ/photo.jpg"
+      },
+      {
+        "documentVersion": "0.3.2",
+        "timestampMsec": "1376752010391",
+        "starRating": "4",
+        "title": "Good app",
+        "comment": "Just need to add dlna for videos from storage and ill give it 5 stars",
+        "commentId": "gp:AOqpTOF0rXJvPyRY5Wh2xNZ1hcMH9DxxixPke1Opc3ODqZAWnQ4Eww28_GDthDIIyGkr6cAgEAwiBG1T__n59w",
+        "author": "Tareq Yasin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.2",
+        "timestampMsec": "1376514805394",
+        "starRating": "4",
+        "title": "Top app",
+        "comment": "A bit slow at loading page\\'s.Sort this and it would be five stars also might be useful if you could check your history.TOP APP!",
+        "commentId": "gp:AOqpTOFicBv3XAE0m7Dh4kvNEbvJxbdVN-Tqbyn-OffkdqbjX4yEjlZNSgxkHJM0ICd2kjOZA0YqeI2px8n_dw",
+        "author": "Ryan Hopkins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.2",
+        "timestampMsec": "1377209046632",
+        "starRating": "5",
+        "title": "Used to work good,what happened?",
+        "comment": "Everytime I try to stream a movie now it Lags Sooo Much!Does this happen to anyone else or just me?Plz Help",
+        "commentId": "gp:AOqpTOE0zg4YqQD-xOC-h6mmE-3cF31HVdRp4qm9Qd_TEYqz5ZLDshUzsUbvGIYH1Xsyo-7a4uN1TEPyh7gVjQ",
+        "author": "richard gomez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.3.1",
+        "timestampMsec": "1376113685446",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Love it... use to download my movies it works and easy to use...",
+        "commentId": "gp:AOqpTOEwwQ02Xnmgtff87hmPVqdHYVGcBqMvm8riAZ4qCDiB6xjto1CSUV5Bm13Xq_n_QslghjRw4xYssDuTJA",
+        "author": "Jeremy Delgado",
+        "authorURL": "http://lh6.googleusercontent.com/-ChuVgJ1pWs0/AAAAAAAAAAI/AAAAAAAAB_I/xXPpQdKHJj8/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ChuVgJ1pWs0/AAAAAAAAAAI/AAAAAAAAB_I/xXPpQdKHJj8/photo.jpg"
+      },
+      {
+        "documentVersion": "0.3.1",
+        "timestampMsec": "1376399718237",
+        "starRating": "5",
+        "comment": "Wokey",
+        "commentId": "gp:AOqpTOFR0hMlH_5Y3K1esKwsNVoGKw8XW2ftZDntj65VgIHxWEo4d9_A3j48T5XI6xU9cAimrpjrLv1Ov511Jg",
+        "author": "hazrizal zainuddin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

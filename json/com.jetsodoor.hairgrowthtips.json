@@ -1,0 +1,57 @@
+{
+  "title": "101 Hair Growth Tips",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.hairgrowthtips",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Low Maturity",
+  "creator": "HK Nut",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.hairgrowthtips",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "101 Hair Growth Tips Healthy hair is a thing that everyone aspires to have. But having healthy hair is becoming really impossible in this age of pollution and sickness. People who once had healthy hair are losing their hair because of very many reasons like genetic factors, illness, medication, and also hair abuse which includes using chemicals in the hair for coloring, blow drying, straightening using straighteners such as chi flat iron, and also usage of shampoos and conditioner. Anybody who uses chemicals in their hair for any purpose should keep one thing in mind they lose their natural hair, getting it back or re growing becomes really difficult.Inside 101 Hair Growth Tips you can learn 101 tips to prevent hair loss and how to growth hairWhat you can learn from the 101 hair growth TipsPrevent hair lossHow to grow hairHow to growth hairTips for hair growthTips for hair careAbouthair treatmentStop hairloss\tLearn growing hair\tHow to fast hairWhat grows hairMake hair growAnd much more ...................",
+    "reviews": [
+      {
+        "timestampMsec": "1370891069929",
+        "starRating": "5",
+        "title": "good",
+        "comment": "good",
+        "commentId": "gp:AOqpTOEM8aZF6-aKDA7ik2RYRssF_6OcKYNk7Phy8SDkxGKChAp7CUgXsmlBhT-PQxFotpLR56torMiQF_4bsR8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372718388700",
+        "starRating": "1",
+        "title": "???",
+        "comment": "What the heck is this? These arent tips. Just advritisment for a product",
+        "commentId": "gp:AOqpTOGbblE7A6JZOo_-0yXewho1y6H_a24c5POLFrDSgdDbT_vymVtFZ63fsmXr6gW9JC4IZO2Y4mZ950HoRHc",
+        "author": "Bree Mcalister",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.WAKE_LOCK",
+      "com.jetsodoor.hairgrowthtips.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "ESET Secure Authentication",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.eset.esa",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "2.16",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "43",
+  "rating": "4.604651",
+  "contentRating": "Everyone",
+  "creator": "ESET",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.eset.esa",
+  "extendedInfo": {
+    "installSize": "337k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ESET Secure Authentication provides ultra-strong authentication to make remote access to the company network and sensitive data safe, but hassle-free. It is a mobile based solution that uses one-time passwords (OTP) for authentication of access into the companyâs VPN and OWA (Outlook Web App).Full functionality requires installation of the server side. For more information and pricing see www.eset.com/business/products/secure-authentication or contact your network administrator.Key Benefits:â¢ One-tap installation, simple and effective user interfaceâ¢ Delivery of OTP via client application or SMSâ¢ OTP delivery works independent of the availability of internet connectionâ¢ Compatible with any mobile phone supporting SMS messagingâ¢ Supports broad range of mobile operating systemsâ¢ PIN-protected access to prevent fraud in case of device theft or lostâ¢ Serves multiple OTP zones, e.g. OWA access, VPN access, and othersâ¢ Global technical support in local languagesESET Secure Authentication is a software-based risk management solution that protects company data by preventing the unauthorized access to the company network, sensitive information and other vital resources. The two-factor, one-time password (2FA OTP) system is a combination of two factors â âsomething that user knowsâ, e.g. a password â with âsomething that user has,â a mobile phone to receive the one-time password for access.ESET Secure Authentication enables you to establish a strong authentication policy across the entire company. It is easy to use for both employees and the IT staff. The seamless integration with the Microsoft Management Console and the ADUC (Active Directory Users & Computers) plugin makes management of passwords in the company network a breeze.Note: This download pages serves the client application intended for mobile phones.Rely on ESET â a company with over 25 years of experience in enabling businesses and consumers to enjoy safer technology.",
+    "reviews": [
+      {
+        "timestampMsec": "1373447334127",
+        "starRating": "5",
+        "comment": "i\\'ts work in paypal?????",
+        "commentId": "gp:AOqpTOHfyhjZBt0VZxjTlGDcksfyqwT9S81aLLMxY2HUVrZV2WRoUU8Htgq1YLR3kCle3eB0o5zNgU3X4aHhz1I",
+        "author": "Israel Cohen",
+        "authorURL": "http://lh6.googleusercontent.com/-8zHO6VXpQck/AAAAAAAAAAI/AAAAAAAAAAA/gG2tRLL6FrE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8zHO6VXpQck/AAAAAAAAAAI/AAAAAAAAAAA/gG2tRLL6FrE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373550417739",
+        "starRating": "4",
+        "title": "Follow ME @BLACKGGHOST VIA @twitter",
+        "comment": "Follow ME @BLACKGGHOST VIA @twitter",
+        "commentId": "gp:AOqpTOFfIDC6lISGZzm7mqn1LH7sXkfLng3WdTh5tFoHJwDkXwZq8OMtMPIr2yUa1OQ8t_DF9ElomPooLL0nRfk",
+        "author": "WAQAR AHMED QURESHI",
+        "authorURL": "http://lh4.googleusercontent.com/-Y1KeCarcMEA/AAAAAAAAAAI/AAAAAAAABGI/STsS3qOJkj0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Y1KeCarcMEA/AAAAAAAAAAI/AAAAAAAABGI/STsS3qOJkj0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374889402747",
+        "starRating": "5",
+        "title": "Father of  antivirus",
+        "comment": "Father of antivirus",
+        "commentId": "gp:AOqpTOF1XI4KusXWHgaIGf-UDG9uKITzu6BuQ9ttZgo6fgodYomACLEhvZ9S4oyISVh6NeZxdzOXmnx-r0Kepl4",
+        "author": "Amit Ojha",
+        "authorURL": "http://lh3.googleusercontent.com/-3_kBmaMQGhc/AAAAAAAAAAI/AAAAAAAAACA/cdiBPrDtJRo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-3_kBmaMQGhc/AAAAAAAAAAI/AAAAAAAAACA/cdiBPrDtJRo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

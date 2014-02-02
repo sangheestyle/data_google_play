@@ -1,0 +1,207 @@
+{
+  "title": "NeuroSlice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=org.homphysiology.neuroslice",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "May 13, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "90",
+  "rating": "4.5666666",
+  "contentRating": "Everyone",
+  "creator": "Dr. Sanjay Manohar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=org.homphysiology.neuroslice",
+  "extendedInfo": {
+    "installSize": "5.3M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Interactive neuroanatomy appLearn your neuroanatomy using interactive mapped images. Each slice has neuroanatomical regions mapped out so that you can familiarise yourself with nuclei and tracts of the brain and spinal cord. I hope that NeuroSlice will be useful to training neurologists, neurosurgeons, medical students, and neuroscience students.This is the very first release; if you have any problems with this app, please email me and I'll try and fix it in the update!Neuroscan comprises 40 images taken from MRI scans and stained brain sections, which have been digitally labeled with the anatomical regions. They are all downloaded in the 6MB so you can browse offline.The program allows you to  1) touch a region to highlight it, and its name will be displayed 2) select the name of a region, and the region will be highlighted 3) search the database of regions to show which slices a given locus is visible.Most regions also have a short description, explaining the significance of the region. and can link out to Wikipedia if you have an internet connection. Finally, there is a testing-mode (beta) in which you can test yourself in one of two ways. Either you have to touch the region whose name is shown, or you have to select the name of the region which is highlighted. The software is written by Sanjay Manohar ( http://www.smanohar.com ) who also wrote the HOM physiology simulator in collaboration with Roger Carpenter (http://www.homphysiology.org). To contact the author, email me on homphysiology@gmail.com.Want to know more?-----------------------------This app has been developed to support the fifth edition of Neurophysiology: A conceptual approach, 5E by Roger Carpenter and Benjamin Reddi - an unrivalled âone stop shopâ for students of medicine, physiology and applied physiology, neurophysiology, neuroscience and other bioscience courses looking for a comprehensive, integrated introduction to the challenging disciplines of neuroscience and neurology.  Click here to buy: http://www.crcpress.com/product/isbn/9781444135176Purchasers of Neurophysiology: A conceptual approach, 5E also get free access to a companion website: http://cw.tandf.co.uk/neurophysiology/ --  which provides further interactive resources to support teaching and learning:â¢\tNeuroLab â interactive exhibits;â¢\tNeuroSound â sound clips illustrating the chapter on the auditory system; â¢\tNeuroVid â a comprehensive set of movie clips showing the components of a standard clinical neurological examination; and â¢\tNeuroQuestions â sixteen sets of interactive MCQs.CreditsThe app was developed by Dr Sanjay Manohar of Oxford University. The material for NeuroScan and NeuroSlice was put together by Alice Miller of Edinburgh University Medical School, and the Java programs for desktop were written by Sanjay Manohar and Robin Marlow. The histological material was taken, with permission, from Riley HA, An Atlas of the Basal Ganglia, Brain Stem and Spinal Cord, 1943, Williams and Wilkins, Baltimore, and the MRI scans are taken from Gillespie JE and Jackson A (eds), MRI and CT of the Brain, 2000, Hodder Arnold, London, by kind permission.Much of the development of this material was supported by an award to RHSC from the Institute for Learning and Teaching.",
+    "reviews": [
+      {
+        "timestampMsec": "1360133614270",
+        "starRating": "5",
+        "title": "Excellent app!!!!!!",
+        "comment": "This is an amazing app for anyone who wants to know more about neurology..with lots of great images / info in it and is very easy to use...Appreciate that it is a free app.Overall a great app!",
+        "commentId": "gp:AOqpTOHV3vZb5vSGrX-07XnzeOGLtw8Q5C0_2aMTKFdta6UMx8fMEj6y4q7u08DPUqYejiCiqe3jFJAU3qWFyA",
+        "author": "Nisha R",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369937094068",
+        "starRating": "2",
+        "title": "Badly set up",
+        "comment": "Info is all there, but very difficult to see it fast. Please use labels. Imaios / e-anatomy style",
+        "commentId": "gp:AOqpTOEczHu2zfrMlK8uPSGPGK0poAznSDqxtg6jkPT84EnggEe6XagrI-H495Cat0Ef5PlT9-yyU8-KNHioew",
+        "author": "Jonny C",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351445572471",
+        "starRating": "3",
+        "title": "S\\'alright",
+        "comment": "So far so good. Some of the slides seem overly pre-zoomed though",
+        "commentId": "lg:AOqpTOFxaUXASV2i2W802EFd7iGZpboFjJWT6bqKrosPybqiKsijdgYdVYmWkCCMb_utPhs-R-6Xq9HFTPrE5w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346589702183",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "Really usefull",
+        "commentId": "lg:AOqpTOHpKPLGJPtIfXfzlplmM_QJpwg7KhodVJXfzk2c3NHF0GKPqO96HeGMb68ymNvWOArdmgEoDabiDGEGhg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345205789049",
+        "starRating": "5",
+        "title": "Interactive and fun anatomy learning",
+        "comment": "This is the first app to give you neuroanatomy quite literally at your fingertips! It\\'s fun and easy way to learn. Enjoy!",
+        "commentId": "lg:AOqpTOFVzTF9D6kIPVYOyPJfxQJMJwqnkYjk6IhoIwYoZy9zB-RFKRpRY-DEwm-1xIqeVVMcH7lUlBSNqSiAYA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347765600320",
+        "starRating": "5",
+        "comment": "Great!",
+        "commentId": "lg:AOqpTOHGjhnLlmCL20cao5dkG_QI3dsCn4O7NAPhaJZWSBda9lttvP9AWEh_4yW_Vm2mOJJ5XDPrdGJh0zrwcw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346655682232",
+        "starRating": "4",
+        "title": "Galaxy ace plus",
+        "comment": "Nice application..very helpful to medical student.",
+        "commentId": "lg:AOqpTOFdUFy0PptGVEvsRmm3i7J5Ry2BYnPrsGjBi4nXZxbb_Ti55oDDsfkJjdACi9jpk7awcDs_R-3zyMiGog",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346672857001",
+        "starRating": "5",
+        "title": "Mahesh yadav. B",
+        "comment": "This is for d idea",
+        "commentId": "lg:AOqpTOFVZp0QxTD9o_bCzzGmpQrKb9bx49HQdTA-4Jw0zoTzKz56CPpL2Dz-afUoPavGKlCKdVuzv8uoV2FTOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375098529158",
+        "starRating": "5",
+        "title": "Phanny",
+        "comment": "Phanny",
+        "commentId": "gp:AOqpTOE_oJG9MfHPdU0X7WGNEh5jzoS_ixAHxusOF1_olLZ9ahcxFDzjmLf2Uvi4q4EyDHDLoCA23UnNPtwdSg",
+        "author": "Phanny Pen",
+        "authorURL": "http://lh3.googleusercontent.com/-_ODnOo628Ns/AAAAAAAAAAI/AAAAAAAAAAw/k_t3e_GaUug/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-_ODnOo628Ns/AAAAAAAAAAI/AAAAAAAAAAw/k_t3e_GaUug/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364505565509",
+        "starRating": "5",
+        "comment": "Nice app!",
+        "commentId": "gp:AOqpTOEAkAwCHJJB7xUb0l5aHijLZF_DzlRuyfSOTdXDwUB1eowyqjMb_0BfsJDBval4ienpdQMkP5jfetgIFA",
+        "author": "Jo Jojo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363845807546",
+        "starRating": "5",
+        "title": "More good done for the world.",
+        "comment": "This is excellent work. And the addition of being that this is free make it all of the better. I cannot explain my gratitude towards you Dr. In such simple words. But you must know I am going to pass my test.",
+        "commentId": "gp:AOqpTOH5vmTVx5GbNSgUncYAL8ZK5IaSTibfKZpV-mN62VlPJyRCx1quu9aaCtLZpjqt_951IThZ_BsRhNXuRw",
+        "author": "Thunder Washington",
+        "authorURL": "http://lh3.googleusercontent.com/-hj3aPyVGmAY/AAAAAAAAAAI/AAAAAAAAAAA/Ta9kml50htA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hj3aPyVGmAY/AAAAAAAAAAI/AAAAAAAAAAA/Ta9kml50htA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1345574317078",
+        "starRating": "5",
+        "title": "Portable Neuroanatomy at a Glance!",
+        "comment": "Portable Neuroanatomy at a Glance!   This is an excellent  handy  quick reference tool for both medical students and postgraduates\\342\\200\\246..in fact for anyone familiarising themselves with Neurology/Psychiatry. It is also  a valuable aid  for teaching during ward rounds.  The app has a small footprint and the working interface is fast and simple. The test modes and the database search, make this a comprehensive Neurology App. for the Android.",
+        "commentId": "lg:AOqpTOFqmV3VI9pIRczcB6bIU6vGymrJdEcI5mqQi4NNd5yXnlBdrfk1MqycW73vpeAeHBUX6Tgoz_yHFPkusg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353178272592",
+        "starRating": "5",
+        "title": "Neuroscience student",
+        "comment": "Not in the best detail but actually really handy and usefull. Great for quick revision or getting to grips with basic structure placement. Some things are over zoomed but other programs like this are either hard to use or hard to find and have access to.",
+        "commentId": "lg:AOqpTOEK4vHob0D9nDXiL2UxQoVqLwj-xafoTmU3QnYBpweBH__7NCW7VVez8IXbi7kjmcm2uBLm71WJYiljzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347510840674",
+        "starRating": "5",
+        "title": "Dr.syam chandran",
+        "comment": "Recommended app. Go for it if u like neuro and brain.",
+        "commentId": "lg:AOqpTOFJ-3Luz2Quy21bWowK0w-VJ1f3bNhOk7tH2PKEf5TbmH2-Lb5R5rzBrpiNQqbmmFm4HDC5bUSTpNrojA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347032032553",
+        "starRating": "5",
+        "title": "Varun",
+        "comment": "Very useful app",
+        "commentId": "lg:AOqpTOERF7mk4oCJxVos0M3kY2wMB95ywTs8rZXakFAtj4EwZvKEFbEHj2hoddchZvP8uXlL7E6iuwrlx1Ktfw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346812845851",
+        "starRating": "4",
+        "title": "dr. m a sarwer",
+        "comment": "excellent ,nice job. inforn mative for medical personnel as quick refferances",
+        "commentId": "lg:AOqpTOHL2UFKFLzW213F9IpXIpU5hqYSGxzk3tki22FkwgqIKtLTZK2anHl1Lnsq9ecTreoyv4kUeaKNnwzH_w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347194675263",
+        "starRating": "5",
+        "comment": "Very useful app",
+        "commentId": "lg:AOqpTOEOdYNCLiuKPJJ0LmsfKwwkAWlxWk7inDg2KU7x7400Hm7O2EsUFd0dOJZyPXLgZnv-KeWHAMj0LqOZ7w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350579966452",
+        "starRating": "2",
+        "title": "Good for nothg app",
+        "comment": "Does not hv enough details for med students. Meant for Mch/MD people.",
+        "commentId": "lg:AOqpTOFF9IOQadAcS34UqADohIbJuD66vUlbEg74iLqqNYh67-Xf1e26T7aAtccQEBREcBLdWGAmbF2j8ESHmw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345397639488",
+        "starRating": "5",
+        "title": "Well done",
+        "comment": "Great app.",
+        "commentId": "lg:AOqpTOFTY0Fo8njYmGZOE5m-svIMCH_8CnoOqrEXT68yR00cPS0dGv-S0nH6i-amrsvvbD4zEtaJg-ZrO4YFQQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345157505642",
+        "starRating": "5",
+        "title": "Excellent neurology learning tool for students and mrcp",
+        "comment": "Unique tool allowing users to integrate anatomical and physiological learning of neurology. Invaluable for medical students and those studying for mrcp",
+        "commentId": "lg:AOqpTOGLClHByNRsjbpy1bg3wSg9CeS_uEamAclW-OZCykkUExAI1lzGcEJtC4lPOan6hkPcWALn7prfuSDS8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}

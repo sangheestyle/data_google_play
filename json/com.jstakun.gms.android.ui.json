@@ -1,0 +1,102 @@
+{
+  "title": "Landmark Manager",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jstakun.gms.android.ui",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 13, 2013",
+  "version": "2.0.7",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "52",
+  "rating": "4.0384617",
+  "contentRating": "Medium Maturity",
+  "creator": "GMS World",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jstakun.gms.android.ui",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "Facebook Places, Foursquare, or Google. Which one to choose? Choose Landmark Manager and link them all!Landmark Manager is mashup aggregating places from multiple providers including Facebook, Twitter, Foursquare, Google Places, Yelp, Qype, Wikipedia, Eventful, YouTube, Webcam.Travel, Flickr, Picasa, Foursquare Merchant, Panoramio, Groupon, 8Coupons, Hotels Combined, Expedia, Last.FM, Meetup and Evenful. Automatically check-in at places you are visiting, find daily deals, book hotel, find parking, route or ATM and many more...Key features:- Check-in at Facebook Places, Foursquare, Google or GMS World, - Auto Check-In: check-in automatically to your favourite places,- Find out where your Facebook or Foursquare friends checked-in or took photo,- Create custom layers,- Send updates to Facebook, Twitter, Google and LinkedIn,- Find daily deals from Groupon, 8Coupons and Foursquare Merchant,- Compare hotel prices and book rooms with Hotels Combined and Expedia,- See places reviews from Yelp or Qype,- Find ATMs, parkings or routes,- Find events from Last.FM and Eventful,- Record and save your route, - Import places from kml files, - See photos from Panoramio, Flickr and Picasa,- See movies from YouTube,- See Webcams from Webcam.Travel,- Link with your Facebook, LinkedIn, Twitter, Google or Foursquare accounts, - Share selected landmark details via Mail, SMS, Facebook, Twitter and many more,- Send geo messages to Blogeo,- Call selected places, - Find route from your current position to place you want to visit.",
+    "reviews": [
+      {
+        "documentVersion": "2.0.5",
+        "timestampMsec": "1360613037166",
+        "starRating": "3",
+        "title": "needs inprovements",
+        "comment": "every time I open the app, I have to re login to foursquare and GMS World",
+        "commentId": "gp:AOqpTOEtexVRnl2HMwpjZmReZSXZEKSaOS__Gnqt6OVryuYMl8aZxI-bjzgOVTQXEjW8VHz4zKjZWWfkCHM-Iw",
+        "author": "Ann Smedes",
+        "authorURL": "http://lh4.googleusercontent.com/-f7SV4zll9Cw/AAAAAAAAAAI/AAAAAAAAEpM/ZC-zR2eYUPs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-f7SV4zll9Cw/AAAAAAAAAAI/AAAAAAAAEpM/ZC-zR2eYUPs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.5",
+        "timestampMsec": "1349387906153",
+        "starRating": "4",
+        "comment": "Boa, com boas imagens e facil de usar",
+        "commentId": "lg:AOqpTOFfrk_EjQAjkWvAsr8CG2IJShWYX_Tc70QB_0-mFRQyybW6mo1UuiKpicibp_2PD1RH4x9NlZ3U715pqQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.3",
+        "timestampMsec": "1332107178439",
+        "starRating": "5",
+        "title": "Great for automating checkins",
+        "comment": "This app helped me a lot to automate my checkins to Foursquare and Facebook, and let me see where my friends are checking-in",
+        "commentId": "lg:AOqpTOHp2iVXDNu6A9UBOn7xaV9IzhaPvV42KXuCOUGeUdUsya905slD8CQoUorx3CONd6MhVQhUlpP_iqdPrA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1329396999710",
+        "starRating": "1",
+        "comment": "Horrible! Can\\'t log into FB. Every time you try it logs you out of Everything! Anoying as hell! Waste of time!",
+        "commentId": "lg:AOqpTOEVh_nXm-rmGIrNkr3BsOM4xujCdXIi0MW4l4KLFruJztH41eFkXGZeYxnpmqQXbUbGur6yJmcCxcKriQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.4",
+        "timestampMsec": "1318099267129",
+        "starRating": "1",
+        "title": "Promising, but painful to use",
+        "comment": "I was able to use the map only once.",
+        "commentId": "lg:AOqpTOGWromjRXh0ziQ0PRVAXf6AK52WWxacRLEAGeWY4_x2hUiwVIleCJ6xayxJQZ9X1jVGwuE0yAYcub3WTQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.9.3",
+        "timestampMsec": "1313681029186",
+        "starRating": "2",
+        "comment": "It shows places of all networks, but performance is poor. The interface needs improvement.",
+        "commentId": "lg:AOqpTOH_C18b0PUTJvmhwVVEiO4MgDXFo4czgZbXGYjUvay6Vj4Y1Zhsa_ZUOzn43o_W65KD3HAZkM6jcN23qg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.8.3",
+        "timestampMsec": "1304767184901",
+        "starRating": "3",
+        "comment": "Map usage needs to be a bit more polished",
+        "commentId": "lg:AOqpTOHcs_e3OiI5iLwzWoH8tLXKxbhfgtiinnht8fbw_GXTZEoJL7dbSkLxm4qTg16zbu6cLK0YOuE9GMdIUw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.jstakun.gms.android.permission.ACTIVITY",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Unromantic Encounters Diagnosi",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.notpopular",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "2.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "121",
+  "rating": "4.1652894",
+  "contentRating": "Medium Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.notpopular",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "ââOver than 20,000 downloads!!ââHow unpopular you are in the opposite of sexï¼Perhaps that you are popular in fact but in an \" Unromantic Encounters \"ï¼As Romantic Encounters, Unromantic Encounters also exsits.Let's check if you are in Unromantic Encounters by answering 30 questions.â  Aphorism to become popularï¼ï¼Cleanï¼ã» Check you face and cloth before meet to a male.ã» Clean is the most important thing.ï¼ï¼Do not be too self-contentedï¼ãã» It is falut thinking about thatãGirl places me in a key positionã.ã» There is no relative between \" how I love her\" and \" how she loves me \".ï¼.Do not say that you have been single for a long timeï¼ãã» People would choose a cleaner and more populay shop.ã»ãDo not reject girls oftenã.ï¼.Do not think that \"every girl is okay for me \"ï¼ãã» First, you have to realize what type of female do you like.ã» Opportunity will definitely comes and all you have to do is waiting for.ï¼.Do not insist anythingsï¼ãã» Do not bother others' opinion.ã» Do not express your thought straight and listen to female's voice.ï¼.Do not nagï¼ãã» Do not chatter in jobplace neither to female.ï¼.Do not rely on what you saidï¼ãã» It does not mean that you heard \" I love you \" everyday.ï¼.Do not reject girls' capriceï¼ãã» Female usually say something capricious.ã» Try to be a person who becomes happy caused by glad mood of female.ï¼.Answer the call even in midnightï¼ãã» Answer the call even in nidnogh to make girl feels at ease.ï¼ï¼.No excuse and no reasonï¼ãã» Confidence from hard-working is your best appeal point.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.notpopular.permission.C2D_MESSAGE"
+    ]
+  }
+}

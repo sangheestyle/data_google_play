@@ -1,0 +1,34 @@
+{
+  "title": "Will Smith App Games + Social",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.willsmithgame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.willsmithgame",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Will Smith?  If so you will want to get this app so you can pass the time playing fun games with Will as the star.  You can also connect with Will via social media so you can stay up to date on everything Will Smith related.Willard Christopher \"Will\" Smith Jr. (born September 25, 1968) is an American actor, producer, and rapper. He has enjoyed success in television, film and music. In April 2007, Newsweek called him the most powerful actor in Hollywood. Smith has been nominated for four Golden Globe Awards, two Academy Awards, and has won four Grammy Awards.In the late 1980s, Smith achieved modest fame as a rapper under the name The Fresh Prince. In 1990, his popularity increased dramatically when he starred in the popular television series The Fresh Prince of Bel-Air. The show ran for nearly six years (1990â1996) on NBC and has been syndicated consistently on various networks since then. In the mid-1990s, Smith moved from television to film, and ultimately starred in numerous blockbuster films. He is the only actor to have eight consecutive films gross over $100 million in the domestic box office, and Ten consecutive films gross over $150 million internationally and the only one to have eight consecutive films in which he starred open at #1 spot in the domestic box office tally.Fifteen of the nineteen fiction films he has acted in have accumulated worldwide gross earnings of over $100 million, and four took in over $500 million in global box office receipts. As of 2012, his films have grossed $6.36 billion in global box office. He received Best Actor Oscar nominations for Ali and The Pursuit of Happyness.Born in West Philadelphia, Smith also lived in Germantown in Northwest Philadelphia. His mother, Caroline (nÃ©e Bright), was a school administrator who worked for the Philadelphia school board, and his father, Willard Christopher Smith, Sr., was a refrigeration engineer. He was raised Baptist. His parents separated when he was thirteen, but did not actually divorce until around 2000.It is untrue, though widely reported, that Smith turned down a scholarship to attend the Massachusetts Institute of Technology (MIT); he never applied to the school, although he was admitted to a \"pre-engineering program\" there. According to Smith, \"My mother, who worked for the School Board of Philadelphia, had a friend who was the admissions officer at MIT. I had pretty high SAT scores and they needed black kids, so I probably could have gotten in. But I had no intention of going to college.\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.willsmithgame.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

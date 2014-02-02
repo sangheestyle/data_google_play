@@ -1,0 +1,30 @@
+{
+  "title": "Dreambox Music Control",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jehoefna.DM",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "December 4, 2012",
+  "version": "3.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "28",
+  "rating": "4.071429",
+  "contentRating": "Everyone",
+  "creator": "Jeroen's Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jehoefna.DM",
+  "extendedInfo": {
+    "installSize": "770k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Control and play mp3 files on your Enigma1 based (Dream)box.Do not throw away your old dreambox!  Use it as a network music player (without TV) and with high quality audio.To clarify:  The app is a remote control, the music is played by the DM box only. No streaming supported!Do not rate this app negative when your DM box does not work! Other people are happy with this app. There is no Enigma1 alternative for Android and iOS!Features:- Control buttons always visible.- Browsing music folders.- Continues play folder.- Display current song / status.- Support multiple boxes.- Sending text messages to TV.- The only app that controls music with Enigma1 based boxes!Prerequisites:- Receiver with Enigma 1 OS (Dreambox or compatible)- Webinterface and FTP-Server must be enabled.- Music files available and accessible. (On local or network drive)Hint: Follow the 5 steps-guide to connect. - https://sites.google.com/site/jeroensandroidapps/dreambox-music-control- Email me if you have problems with your specific box. I will try to fix it as soon as possible. You can try the app for free to test if it works for your DMbox.  If you want the full functionality you can upgrade the app for a small fee. - Keywords:EnigmaDreamboxNetwork music playerRemote controlPCM audio outputmp3- Images:Enigma1   (tested OK)Pli Jade1Pli Jade2Pli Jade3 (tested)- Compatable Boxes:DM500     (tested OK)DM600 PVR (tested OK)DB-600DM7000DM7020DM5620DM56x0STM9100SABcom IPBox90000HDHave fun!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

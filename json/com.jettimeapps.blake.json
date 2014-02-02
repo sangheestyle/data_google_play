@@ -1,0 +1,37 @@
+{
+  "title": "Blake Griffin HD LWP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.blake",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 23, 2013",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacob Jetts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.blake",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Big Blake is ready to take the Clippers to the promised land in this free HD Live Wallpaper!!  Blake Austin Griffin is an American professional basketball player for the Los Angeles Clippers of the National Basketball Association (NBA). Griffin had a renowned high school career at Oklahoma Christian School, winning state titles each of his four years under his father, Tommy Griffin, who was the head coach. He played college basketball for the University of Oklahoma Sooners and was awarded numerous accolades in his second year including the Naismith College Player of the Year, Oscar Robertson Trophy and the John Wooden Award. Griffin left college after two seasons to enter the 2009 NBA Draft where he was selected first overall by the Clippers. In his first season, he broke his left kneecap, which he injured during the final pre-season game, and underwent surgery missing the entire 2009â10 season. He made his NBA debut as a rookie the following season and was selected as an All-Star, won the 2011 NBA Slam Dunk Contest and was named the NBA Rookie of the Year. In 2011, Sports Illustrated ranked him as one of the NBA's 15 Greatest Rookies of All Time. Don't get dunked on!!****************************************************************************Please show support by posting comments and ratings! Thank youThis app contains ads that may appear in the notification tray or homescreen as an Icon. You can optout the ads from the links below:Leadbolt Optout: http://opt.leadbolt.comTo delete the icons just hold your finger on them and drag to the trash can to delete.****************************************************************************Tags: CP3, swag, Clippers, LA, Los Angeles, Oklahoma, dunk, jamKey Words: LWP, SD Card, theme, wallpaper,  Jets",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

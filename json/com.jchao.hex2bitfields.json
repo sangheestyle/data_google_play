@@ -1,0 +1,35 @@
+{
+  "title": "Bit Field Decoder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jchao.hex2bitfields",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "January 18, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "J Chao",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jchao.hex2bitfields",
+  "extendedInfo": {
+    "installSize": "80k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Bitfield Decoder is a simple tool that embedded software/hardware engineers or driver developers may find useful.When debugging on embedded systems or drivers, it's often handy to be able to easily decode register values (especially with unaligned fields).This app helps you accurately inspect individual fields/bits within a register.You can simply enter a value for the whole register in hexidecimal or decimal and view the value for each field (or vice versa).This app can also be used as a hex/dec/bin base converter up to 64 bits. It shows individual bit values (binary) clearly without having to find out the bit position.Features:* Supports 8-bit, 16-bit, 32-bit and 64-bit registers.* Easy to inspect the value of an individual bit/field within a register.* Easy to inspect the value of the whole register given certian bit/field values.* Organize bits of a field by simply clicking.* Able to name a field so you don't have to look up the datasheet next time.* Able to save the definition of your favorite registers.* Support unsigned 64-bit numbers.* Registers are shown in MRU order.* A software keypad to input the hex/dec digits. Sorry that hardware keyboard is not supported.* Free and no ads.Note: This app doesn't include register definitions of any specific domain. Please define your own registers based on related documents.To define a register:* Click a pre-defined register based on the number of bits (8/16/32/64).* Click \"Organize Bits\" to group bits of fields. Click \"Done\" when you're done.* (Optional) Long press a bit/field to name it.* (Optional) Click the white value bar to enter the default value of the register.* (Optional) Click \"Save\" and give this register a name if you want to use it later.Note: You don't need to save the register or enter field names if it's unlikely for you to use the same register in the future.To inspect the value of certain fields (given the value of the whole register):* Click a saved register or a pre-defined register based on the number of bits.* (Optional) Click \"Organize Bits\" to group bits of fields. Click \"Done\" when you're done.* Click the white value bar at the top to bring up the keypad for entering the register value.* In the keypad screen, enter the register value and click \"Apply\".* Field values are shown on the right side of each field.To get the value of the whole registers (given values of some fields):* Click a saved register or a pre-defined register based on the number of bits.* (Optional) Click \"Organize Bits\" to group bits of fields. Click \"Done\" when you're done.* Click fields to edit field values. If a field is only one bit, the value is toggled (0/1) upon clicking.* The value of the whole register is shown on the white value bar at the top.To convert numbers between hexidecimal / decimal / binary:* Click a pre-defined register based on the number of bits you need.* Click the white value bar at the top to bring up the keypad for entering the value.* In the keypad screen, enter the value and click the \"HEX\" or \"DEC\" button to convert it.* Hexidecimal or decimal value is shown in the value bar and the binary value is represented in the form of bit fields.This app was originally just created for myself to make some debugging tasks a bit easier.I've released it to the market hoping that someone else might find it useful.Please rate this app if you like it and feel free to contact me at jja.chao@gmail.comNote: The keypad may look ugly on some devices (but should still be usable). Please let me know if it doesn't work on your phone.",
+    "reviews": [
+      {
+        "timestampMsec": "1371712483060",
+        "starRating": "4",
+        "title": "Very Useful",
+        "comment": "The one thing missing from this app is the ability to specify that grouped bits be displayed or entered in binary.",
+        "commentId": "gp:AOqpTOEvRaXLoyf3c6WiL2u03I1q7mqFu9hjiFaRFcsS9vZmB3SUj3lFWLeI5NZydkjcdx5g7POl7ZmegCk_UPs",
+        "author": "Harpreet Sangha",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

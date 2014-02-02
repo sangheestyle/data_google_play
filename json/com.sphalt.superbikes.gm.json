@@ -1,0 +1,56 @@
+{
+  "title": "Speed City Superbikes Moto",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.sphalt.superbikes.gm",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "July 7, 2013",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "3.75",
+  "contentRating": "Low Maturity",
+  "creator": "StarkApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.sphalt.superbikes.gm",
+  "extendedInfo": {
+    "installSize": "12M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Best android Speed City Superbikes Moto game! Start racing yourself with this fast and furious moto racing. Amazing, exciting pictures of superbikes moto racing awaiting for you to enjoy.You will have a blast time with this game if you enjoyed racing games such as speed city moto racing. The COOLEST Moto racing game you can have.Speed City Superbikes Moto game is easy but super fun. You can play together with your friends.You can test your wits and speed in this 3-in-1 game app.Game 1: Speed City Superbikes Memory - Memorize the featured superbikesGame 2: Speed City Superbikes Puzzle - Piece together amazing pictures of superbikesGame 3: Speed City Superbikes Blocks - Move blocks fast and furiously to fit each otherIt is a 100 level of block game.There is  no limit, but each stage has target points to proceed to the next stage.Once you've completed each block racing stages, you will love this game very much.The more blocks you clear fast, the more score you will get.Other features:â¢ You can pause the game and resume later.â¢ We've put together the best collection of moto racing in action videos.DISCLAIMER: All names, trademarks and images are copyright of their respective owners. The use of any names, copyrights, trademarks or photos have been used for Descriptive Purpose only and not to show endorsement or permission of use. This is completely unofficial, and created for fans.This app is made by fans for fans, and it is for entertainment and personal use or purpose only.DOWNLOAD NOW and enjoy!",
+    "reviews": [
+      {
+        "timestampMsec": "1377266052490",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "Not nice",
+        "commentId": "gp:AOqpTOH26Yft5SsWLR4dCoBjoOvlD4xLVAhvrm4BO1hMDlUyi3AmrhqUqvZhNFP15W-Py33zNCj9ZAiwc2qip4s",
+        "author": "Shubham Saini",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377096331247",
+        "starRating": "5",
+        "title": "Super",
+        "comment": "I.like very much",
+        "commentId": "gp:AOqpTOGD8fPvvlNBcQZayycGOb4iuS07vn10-S2OgxCrtPQqV45fS0DqMnrO0fYXHmvOx4HHTrlTkvXjKfIf14w",
+        "author": "santhana krishna",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.sphalt.superbikes.gm.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Beyonce App Games + Social",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.beyoncegame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.beyoncegame",
+  "extendedInfo": {
+    "installSize": "4.8M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Beyonce?  If so you want to get this app so you can play fun games with her as the star.  Also connect with Beyonce on social media so you can keep up with everything Beyonce related.BeyoncÃ© Giselle Knowles-Carter, known mononymously as BeyoncÃ© (pron.: /biËjÉnseÉª/ bee-YON-say; born September 4, 1981), is an American singer, songwriter, dancer, and actress. Born and raised in Houston, Texas, she enrolled in performing arts schools and performed in singing and dancing competitions as a child before becoming the lead singer of Destiny's Child, one of the world's best-selling girl groups of all time, in the 1990s.During the group's hiatus, Knowles released her debut solo album Dangerously in Love (2003), which earned her five Grammy Awards and has sold a total of 4.9 million copies in the US. It spawned Billboard number one singles \"Crazy in Love\" and \"Baby Boy\", the former went on to be considered by VH1 to be the \"Greatest Song Of the 00's\". Following the disbandment of Destiny's Child in 2005, Knowles's second solo album B'Day (2006) contained the top five singles \"DÃ©jÃ  Vu\", \"Irreplaceable\", and \"Beautiful Liar\". Her performance in Dreamgirls (2006) earned her two Golden Globe nominations. Knowles' third album I Am... Sasha Fierce (2008) spawned hits \"If I Were a Boy\", \"Single Ladies (Put a Ring on It)\", \"Halo\", and \"Sweet Dreams\". This album helped Knowles earn six Grammys in 2010, breaking the record for most Grammy Awards won by a female artist in one night. Her fourth album 4 (2011) became her fourth consecutive number one album on the Billboard 200. In April 2008, Knowles married rapper Jay-Z and, in January 2012, gave birth to their first child, Blue Ivy Carter.Knowles' work has received numerous awards and accolades, including 17 Grammy Awards, 12 MTV Video Music Awards, and a star on the Hollywood Walk of Fame (as part of Destiny's Child). As a solo artist, Knowles has sold over 13 million albums in the United States and 118 million records worldwide (as well as a further 50 million records with Destiny's Child), making her one of the best-selling music artists of all time. The Recording Industry Association of America (RIAA) recognized Knowles as the Top Certified Artist of the 2000s. In 2009, Billboard named her the Top Female Artist and Top Radio Songs Artist of the 2000s decade, and ranked her as the fourth Artist of the Decade. Knowles was also ranked first on Forbes' list of the \"100 Most Powerful and Influential Musicians in the World\", appeared on VH1's list of the \"100 Greatest Artists of All Time\", and placed third on their \"100 Greatest Women in Music\" list in 2012.",
+    "reviews": [
+      {
+        "timestampMsec": "1376443992315",
+        "starRating": "5",
+        "title": "Loves",
+        "comment": "I have Rihanna Apps and know have Beyonce H... Yeah Loved The App as highly recommended Awesomely Amazingly Cool to have....... As rated 100%...! INFiNITE and beyond",
+        "commentId": "gp:AOqpTOHByCcJDFMpGzPl7svov05KgHuh2HT8JI_TnnVIwVRT5YdyZA0pifaSZ6UMBEfLDFQSQwLgBgyXzV49JA",
+        "author": "Roxzy Zahn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366646281810",
+        "starRating": "5",
+        "title": "great app",
+        "comment": "this app is so fun to play the graphics are the best",
+        "commentId": "gp:AOqpTOEaXitw06PtLQp8UkZRxWFyS-S7PvwW5MPiq1_8Epwyj45QuZkJLAf1pqBb4V-PoINz_jF7uSHMAbSHfg",
+        "author": "Norman Pelletier",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.beyoncegame.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

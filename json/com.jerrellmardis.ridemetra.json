@@ -1,0 +1,245 @@
+{
+  "title": "Ride Metra",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jerrellmardis.ridemetra",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "August 21, 2013",
+  "version": "2.5.6",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "274",
+  "rating": "4.540146",
+  "contentRating": "Low Maturity",
+  "creator": "Jerrell Mardis",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jerrellmardis.ridemetra",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Ride Metra is an easy to use and beautiful transit app that provides Metra train schedules (even when you don't have a data connection), station locations and directions, nearby stations, upcoming departures, Metra service advisory alerts and the ability to search for a Metra rail line or station.After you have installed the app please go to Menu -> Settings, look over the available settings and configure your Preferred Metra rail line to get the most out of this app. Trust me, you'll be glad you did.If you enjoy the app please feel free to rate it, add a comment and tell your friends about it.Features: â¢ Integrated Metra \"Rail-Time Tracker\" service. â¢ Automatic backups and restores of settings. â¢ Ability to view the fare (cost) of your trip. â¢ Intuitive method to favorite a route. â¢ See ALL the stops for a specific trip. â¢ Offline viewing of train schedules for present and future dates. â¢ Add favorite routes. â¢ Find nearby stations. â¢ View upcoming departures nearest to you. â¢ Get directions to stations from your current location. â¢ Search for stations and Metra rail lines. â¢ View and filter Metra service advisory alerts based on your preferred Metra rail line and have them pushed to your device daily. â¢ Pull to refresh the Metra service advisory alerts.New features in v2.0+The layout and structure of how content is relayed to you has drastically changed in this release. The home or \"main\" screen is now a user navigable screen that flows from the left to right and right to left just by swipe of your finger. You'll be presented with 4 different pages: Nearby, Upcoming, Lines and Favorites. * Nearby - provides a list of all the stations nearby you. Simple right? * Upcoming - uses the preferred Metra rail line that you've configured in your settings and any favorites saved to intuitively decide the best and most relevant departures from your nearest station. * Lines - provides a list of all the Metra rail lines. * Favorites - is the home to all your saved routes.More on \"Upcoming\" screen... * If you would like the Upcoming screen to use your favorites as well in order to determine the upcoming departures please check the checkbox \"Filter upcoming departures\" in the Settings screen.With this update, I've made certain actions that were \"hidden\" in context menus of Ride Metra 1.x easier to get to in Ride Metra v2.x. * You'll now be able to lookup schedules on different dates by clicking on the calendar icon in the action bar of the home screen. * Clicking on the map icon next to the station names will take you over to your default Maps app. * You can now favorite a route by simply pressing the star icon of a given route.https://plus.google.com/104626036898113366733/posts/cHJ7hgUxK5vIf you are experiencing issues please feel free to send me an email at jerrell.mardis@gmail.com describing the issue and I'll try to have it resolved as soon as possible.",
+    "reviews": [
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1378496699586",
+        "starRating": "1",
+        "title": "Would leave no stars if an option",
+        "comment": "Never gets service updates and has \\\"No results found\\\" for the Rock Island (RI) District. Deleting app as it serves no purpose for me.",
+        "commentId": "gp:AOqpTOFzSD-crsBsQ-6_qNVm7mg8fYNxMgq1zSSAPmKjaO0vc-NhsyB6wRrW95PcCgnvhOPAPJtUyvddxOubiw",
+        "author": "Claire Coyle",
+        "authorURL": "http://lh4.googleusercontent.com/-4hhPGxDhjkg/AAAAAAAAAAI/AAAAAAAAAAA/t-SN0gGNnEs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4hhPGxDhjkg/AAAAAAAAAAI/AAAAAAAAAAA/t-SN0gGNnEs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1371688438483",
+        "starRating": "5",
+        "title": "Almost perfect",
+        "comment": "Metra should buy this app and make it official. It does a great job",
+        "commentId": "gp:AOqpTOGNsm0Dd7Nj7ch_iJnLfAozeg_Ri9fYQ3Lz3014WmahTgVhbjH6EpLeUkFktzhE_CGMGOS9UHhBmhN1nQ",
+        "author": "Cecil Mathew",
+        "authorURL": "http://lh6.googleusercontent.com/-OQ0vvm1mIq8/AAAAAAAAAAI/AAAAAAAAQfI/7JGZVPepL2Q/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-OQ0vvm1mIq8/AAAAAAAAAAI/AAAAAAAAQfI/7JGZVPepL2Q/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1369746793151",
+        "starRating": "1",
+        "title": "Inaccurate.",
+        "comment": "Garbage program does not give you the right schedule when that day is a holiday. Like memorial day. Ended up being an hour late because there was no 4:05 train even though the app said there was. It\\'s just eaiser to download the pdf file. That pdf is just a copy of the paper handouts you get at the station.",
+        "commentId": "gp:AOqpTOFMUt8J7Vc6O826MbTHfXYqbyfHAbvzww_PFNq1UJvz8nS0Ru_UitV-DoMflB1wNuvvBXPVoktzBxtPRw",
+        "author": "Michael kogol",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1372015895141",
+        "starRating": "1",
+        "title": "Doesn\\'t sync until you open it.",
+        "comment": "This app should be syncing in the background before you use it. It doesn\\'t.",
+        "commentId": "lg:AOqpTOGzSCSppNp65LF4YeK6TGULGqdaN9xyl_Xmo9GLFcjAz4t7HKC7MnPZR4ui0PtgVpchOLMi0NI6ALx1jw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1372396269472",
+        "starRating": "5",
+        "title": "Very useful!",
+        "comment": "Great app. Never miss a train. Only problem is service alert DON\\'T work, please fix!",
+        "commentId": "gp:AOqpTOEOEn96hV5AOveqIlWd8zHJnfDWZhBiJmoGon19XtVxW5dke_gjMkUC_q2h3uH15GgFdlfiJzZxChRyNQ",
+        "author": "Abby Carbajal",
+        "authorURL": "http://lh3.googleusercontent.com/-tBCGw3kuwKA/AAAAAAAAAAI/AAAAAAAAAHI/4glsKcpcjT8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tBCGw3kuwKA/AAAAAAAAAAI/AAAAAAAAAHI/4glsKcpcjT8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1373283796919",
+        "starRating": "4",
+        "title": "Great!",
+        "comment": "I don\\'t seem to be getting any alerts right now. I\\'d like to be able to set a time window for when to check alerts. Filter alerts by line would be nice too.",
+        "commentId": "gp:AOqpTOHbKkg841wP_HG9oRG8sFnumk2ZE9jIR2F3HSjm0XrpYdwRJjx2k0YgTRGLx51gujzBJRrmd8A5O85tWg",
+        "author": "Nick Tkach",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1363452186280",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "This app is quite useful. I use it with no problems each day. I just wish that it shows what stops are flag stops.",
+        "commentId": "gp:AOqpTOHa0Xq8z6SIkvVgubdZul6PeVWaCkKzLwx96I6TEywETeF43Y-9kGbf5a6S4WLvJXUbrVTsfEdqWtn2gw",
+        "author": "Michael W",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1366717878425",
+        "starRating": "1",
+        "title": "Maybe in missing something",
+        "comment": "This app is missing some train routes and a pretty major one at that. Where is the rest of Rock Island schedule.",
+        "commentId": "gp:AOqpTOE26cI-LMnE8v2__3bWym4Oeor7zo9hbVIkY48SuZu-dV8tSpWSFZdTeAjpfZdlyuWQE_tkxeQJfNaLMg",
+        "author": "Amber Lanae",
+        "authorURL": "http://lh3.googleusercontent.com/-LY6AewP70eQ/AAAAAAAAAAI/AAAAAAAABI8/Q1FBIIhdFW4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LY6AewP70eQ/AAAAAAAAAAI/AAAAAAAABI8/Q1FBIIhdFW4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1375159212966",
+        "starRating": "5",
+        "title": "A must",
+        "comment": "Simply a must if you ride the metra even just occasionally",
+        "commentId": "gp:AOqpTOHFzEvq8zYCiWgw3eDUfbik4bpx0Uem1btOtFHkhFLZPOYltQj8QziTMP_ZgMMTT8A5EZsdcKqnhLSbxQ",
+        "author": "eric hetzel",
+        "authorURL": "http://lh4.googleusercontent.com/-YCDrwHJe6Jo/AAAAAAAAAAI/AAAAAAAAAFw/RRmOQhiRBm8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-YCDrwHJe6Jo/AAAAAAAAAAI/AAAAAAAAAFw/RRmOQhiRBm8/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.6",
+        "timestampMsec": "1376458434384",
+        "starRating": "5",
+        "title": "Amazing application",
+        "comment": "Can\\'t believe metra doesn\\'t have anything remotely comparable.  GREAT commuter app.",
+        "commentId": "gp:AOqpTOHxn9YMBsnhArcGHyACwID-fwt4Pr9a4lz4Ap5Jjeo3i0HHTp_WQwV7U2QdYijjYzJxaQZooZPl4eI72Q",
+        "author": "Krzysztof Mulica",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5",
+        "timestampMsec": "1354189705250",
+        "starRating": "5",
+        "title": "Very Handy Each day",
+        "comment": "This is a very handy app I use just about each day. Its well designed, easy to navigate, fast on all my android devices. Kudos to the developer for taking the time to build this app and share it with the world.",
+        "commentId": "gp:AOqpTOHHbG40Bv1hTFjpHMXDkQS4_-PZwFxdIYeG2sKmAJ-mCpD913IVvES1CyHeXeBDA2CNPIwJ7OR6de3TmQ",
+        "author": "Richard Lewis",
+        "authorURL": "http://lh4.googleusercontent.com/-5onYNG2ytBQ/AAAAAAAAAAI/AAAAAAAAOAo/X5-T5unU6cs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-5onYNG2ytBQ/AAAAAAAAAAI/AAAAAAAAOAo/X5-T5unU6cs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.5",
+        "timestampMsec": "1357133683165",
+        "starRating": "5",
+        "title": "An app for the Chicago suburban commuter",
+        "comment": "Tired of the CTA risers getting all the cool apps? This app provides schedule information, fare prices, and service alerts for every Metra line. Meta should be paying this guy.",
+        "commentId": "gp:AOqpTOGLCnIX489L9RCObBWExgf8W0UDKwxrWdhIuhi24EPu6spSPBWOktIx09pHM8LXIwrwr_ogHX7-WbDa-g",
+        "author": "Peter Kosmal",
+        "authorURL": "http://lh3.googleusercontent.com/-6n8A28yROFU/AAAAAAAAAAI/AAAAAAAAA94/jSYEW8ilt-0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-6n8A28yROFU/AAAAAAAAAAI/AAAAAAAAA94/jSYEW8ilt-0/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.5",
+        "timestampMsec": "1355896690172",
+        "starRating": "1",
+        "title": "Not working for me",
+        "comment": "Whenever i choose either a station or a train all i get is no results found",
+        "commentId": "lg:AOqpTOE-psX7K7-luCpYmcbKDUh3mpMHPIq0MjOTVLpr6vtuU97W_HAsQrm4EbZQiGNlRRBsBeh8Z2tEg7Vx2Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5",
+        "timestampMsec": "1354771832221",
+        "starRating": "1",
+        "title": "Needs help",
+        "comment": "This app use to be great now it don\\'t even tell you of upcoming trains",
+        "commentId": "gp:AOqpTOH-XATrChm3Grz4R_8ScQ2RYpTdIef3rYb9ZeWjkl4TpR1mwEPpY_Kyjg1sSHPcXfSrbPS1lizIg2dk-g",
+        "author": "C Smetts",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5",
+        "timestampMsec": "1356872376012",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Literally the only improvements I can think if is if the app indicated which platform the train was boarding on and alphabetizing the stops. This would be extremely helpful in union and ogilvie.",
+        "commentId": "lg:AOqpTOFrn4BkJ5tO3CsqdOQvWoLR3Skqb2OggoPj45NK600Alq3B902wggGmR4dz4dgwo5nomRXdWd6FifL0Xg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.5",
+        "timestampMsec": "1356994516163",
+        "starRating": "4",
+        "title": "Widget?",
+        "comment": "How bout address adding a widget for alerts or arrival time.",
+        "commentId": "gp:AOqpTOG5lANWcflrn8_BPmnVZrQk0lWcpyLLyhNhVULJ9XZUpQd5OLUItRHV2ykPxevzygPS6qiNghLAfjgWLw",
+        "author": "Joe Clatch",
+        "authorURL": "http://lh6.googleusercontent.com/-gHrIg2sHc-Q/AAAAAAAAAAI/AAAAAAAAbgI/koBflOLmnfw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gHrIg2sHc-Q/AAAAAAAAAAI/AAAAAAAAbgI/koBflOLmnfw/photo.jpg"
+      },
+      {
+        "documentVersion": "2.5.4",
+        "timestampMsec": "1353416981492",
+        "starRating": "1",
+        "title": "Good app but needs fixing",
+        "comment": "Overall it\\'s a good app. The Milwaukee north line always displays the inbound 8:01am train from Glenview to Union station as outbound train to Union station, this needs to be fixed. Also it would be nice to see how much time until the next train instead of seeing what time the next train is at.",
+        "commentId": "lg:AOqpTOFhqHjDs8dWov6VtR-DEIC7nah_Q82fkJjx7eE4uKVVO1qK2Xy50lzH3YPnhVw-B7EPPk5cNIv4UK4njA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.2",
+        "timestampMsec": "1352823566135",
+        "starRating": "5",
+        "title": "Best Metra App",
+        "comment": "Beautiful design. Quick to get to your local train\\'s schedule. Love the nearby option. Hands down, best Metra app there is",
+        "commentId": "lg:AOqpTOFgE9eCOBf8HjfzAvMYaKGkA_tecE1m4ZguaCZl4rWRzU43aw8U8eEyGqcAXEZIIYYF74iO9vVLZ3wlmg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.1",
+        "timestampMsec": "1352842769456",
+        "starRating": "5",
+        "title": "Easy And Informative",
+        "comment": "This is so much more simple and fast to use instead of those complicated pamphlets you can find at the stations.",
+        "commentId": "lg:AOqpTOGFbAjslRd_Zk3mJW_HcBijMSSP9ra2HtPhkqVUaeH_GBwYn49I53hmNVk4doe-YxSzPXzS4EPDNfX5Ng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.5.1",
+        "timestampMsec": "1352721761165",
+        "starRating": "5",
+        "title": "galaxy 2",
+        "comment": "work good and fast app",
+        "commentId": "lg:AOqpTOEbvJLntv0BxzrDh137UzHq5cX77uJ0nUAH7IzUhRLTPaaChsHpZ7q4dRxVgMVyM1R6b1AXkUYVwOb7Jw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK"
+    ]
+  }
+}

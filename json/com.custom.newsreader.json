@@ -1,0 +1,57 @@
+{
+  "title": "Customized News Reader",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.custom.newsreader",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "June 13, 2012",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "2.3333333",
+  "contentRating": "Everyone",
+  "creator": "Nithin Reddy",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.custom.newsreader",
+  "extendedInfo": {
+    "installSize": "71k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "This Application is a easy and a quick way of reading the news in an android device. If you're a person, who have interest in specific categories, like Business, Technology, or Sports, etc, and tired of searching them on the net, then this this app is for you! With just 2 taps, you have access to the complete world. Give it a try. Hope you all will like it.Comments and feedback are appreciated. It helps me in my future endeavors.Keywords : Custom news, News app, News application Android, News, News Aggregator, News reader, Great Space Coaster, Google News App, Google News, Yahoo News, Guardian Unlimited, BBC, New York Times, Hollywood Reporter, Reuters, Washington Post, ESPN, MSNBC, Wired news, New York Daily News, Telegraph online, NPR, LA Times, CNN/Money, People, US Magazine, TV Guide, ABC Online, Consumer Reports, Rolling Stone, The Examiner, SF Gate, Boston Globe, Chicago Tribune, Chicago Sun-Times, USA Today, Wall Street Journal, The Mercury News, Cleveland Plain Dealer, NY Daily News, NY Post, Dallas Morning News, Houston Chronicle, Philadelphia Inquirer, Arizona Republic, Denver Post, Newsday, Fox News, Seattle Times, SF Chronicle, Newark Star-ledger, Baltimore Sun, Milwaukee Journal Sentinel, Atlanta Journal Constitution, Trending Topics, Custom Topics, Custom categories, Google News App, Business News, Entertainment, Sports news, Technology news, Science news, Health news",
+    "reviews": [
+      {
+        "timestampMsec": "1339653280877",
+        "starRating": "5",
+        "comment": "Useful!!",
+        "commentId": "lg:AOqpTOE5ZZEieXeeIAzTmyc2wPlichE0NecAAfXR5-bdKONCzTn5QAgZBY3uTF6uD3M0fFneQO1Zdia5kyQAeXo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329920620453",
+        "starRating": "1",
+        "title": "Does not display in full screen",
+        "comment": "Cuts off the screen on my Razr",
+        "commentId": "lg:AOqpTOEdT1NA_jGyyOIuRnwhP7Gz_tuhsIis3SamkWGMvDub58GLO6I5_oqJPf9TCu79IcC62ooXKzzE5oW6w_4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340472665497",
+        "starRating": "1",
+        "title": "No good on large screen",
+        "comment": "Poor on a 10inch tablet. Lots of devs make this mistake of only testing phones. Huge ads. It also just links to Google so why bother? What it needs is a massive index of site news from APIs, RSS, and other sources which it integrates into one massive searchable index.",
+        "commentId": "lg:AOqpTOHWbkV4_92RPU_385WuDxVyTLIivpeWrmb0Ugfisq-m5pP6kheSA8NcaHuS92ISCVagfhrA8cQW1uG3Zzc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

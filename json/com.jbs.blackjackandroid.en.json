@@ -1,0 +1,53 @@
+{
+  "title": "Crystals BJ: Speak English",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jbs.blackjackandroid.en",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "March 5, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "SAPCRYSTALS plc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jbs.blackjackandroid.en",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Crystals Black Jack: Learn to speak English!Fancy learning how to speak English fluently in an easy and funny way?Black Jack Comes Backis an interactive application specially designed to teach you to think and speak English!Two detectives, Tom and Bill, see a criminal, Black Jack, from Chicago in a small pub in Budapest. Following Black Jack in Budapest, London and Chicago with the help of the detectives and lots of interactive exercises, you won't even notice that you are actually becoming immersed in intensive spoken English fluency practice. Step by step, chapter by chapter, your ability to speak English fluently will increase rapidly.An exciting variety of interactive tasks, including speaking, listening, reading and writing practice, enables you to rehearse vitally important grammatical structures over and over again, maximizing the efficiency of your learning experience.To learn English properly you are supposed to read and write in English, to understand fluent spoken English and the most important of all to think and speak English. You will learn to speak English at the very beginning of the app saying 30-40 simple sentences in a row, narrating you first story. At the end of the app you will be able to speak English for 30-50 minutes non-stop using more complicated words and grammar structures.This fascinating detective story, cartoon pictures and educational games make both adults and children enjoy learning English.Do all the chapters of the application and you will learn to speak English fluently!",
+    "reviews": [
+      {
+        "timestampMsec": "1360782910755",
+        "starRating": "5",
+        "comment": "Great!",
+        "commentId": "gp:AOqpTOE1N7v9ythZkJcs34mwIJyHNMjRmiGrmTyRvkJVxaykdijP7jqR6dCXCCWifbYGNLKvnvh_x2xVLYVeGg",
+        "author": "Szilveszter Kolonics",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360788934844",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Very preferable and nice app.",
+        "commentId": "gp:AOqpTOHxD8zjmOVoh21khNPUSn3COmNbIwmLPelGJ1bmZAs60R2RT_CjFJ8VrwbC5juDMluqPUFuIcXdWN75sA",
+        "author": "Karolina T\\303\\241rkony",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

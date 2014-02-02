@@ -1,0 +1,33 @@
+{
+  "title": "Handy Lyrics - Jason Aldean",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bswhaney.JasonAldean",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "March 9, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Kultida Anekboon",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bswhaney.JasonAldean",
+  "extendedInfo": {
+    "installSize": "696k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "If you are Jason Aldean's fan, this app is right for you. Whenever you want to check Jason Aldean's lyrics, just open this app and choose the lyrics that you want. You don't have to access the internet to get the lyrics. We provide all Jason Aldean's lyrics here. In the Album tab, you can choose lyrics based on the album. In All lyrics tab, all of Jason Aldean's lyrics are here. You can quickly search the lyrics by using the search bar at the top of the page.Hope you guy enjoy using this app as much as I enjoy developing it. :)-------------------------------- Main Features -------------------------------- - Lyrics categorized by album - Show all lyrics - Search lyrics-------------------------------- List of albums -------------------------------- - Jason Aldean- Relentless- Wide Open- My Kinda Party- Night Train-------------------------------- List of lyrics -------------------------------- - 1994- A Grown Woman- Amarillo Sky- Asphalt Cowboy- Back In This Cigarette- Big Green Tractor- Black Tears- Church Pew Or Barstool- Country Boy's World- Crazy Town- Days Like These- Dirt Road Anthem- Dirt Road Anthem (Remix)- Do You Wish It Was Me- Don't Give Up On Me- Don't You Wanna Stay- Drink One For Me- Even If I Wanted To- Fast- Feel That Again- Fly Over States- Good To Go- Hicktown- I Ain't Ready To Quit- I Believe In Ghosts- I Break Everything I Touch- I Don't Do Lonely Well- I Use What I Got- If She Could See Me Now- I'm Just A Man- It Ain't Easy- Johnny Cash- Just Passing Through- Keep The Girl- Laughed Until We Cried- Lonesome USA- Love Was Easy- My Kinda Party- My Memory Ain't What It Used To Be- Night Train- No- Not Every Man Lives- On My Highway- Relentless- See You When I See You- She Loved Me- She's Country- Staring At The Sun- Take A Little Ride- Talk- Tattoos On This Town- Texas Was You- The Best Of Me- The Heartache That Don't Stop Hurting- The Only Way I Know- The Truth- This I Gotta See- This Nothin' Town- Walking Away- Water Tower- Wheels Rollin'- When She Says Baby- Who's Kissing You Tonight- Why- Wide Open- You're The Love I Wanna Be In",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

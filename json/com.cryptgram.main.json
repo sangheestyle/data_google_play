@@ -1,0 +1,35 @@
+{
+  "title": "Cryptgram - Crypted,Photo,Chat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.cryptgram.main",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "June 11, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Cryptgram",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.cryptgram.main",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Cryptgram reinvents photo messaging, giving you a fun, effective, and secure way to share photos with friends! This is much more than a time limited photo sharing tool like Snapchat - With Cryptgram you can edit and draw on photos before you send them and even decide if the friends you share photos with will be able to re-share them or not!    This is fully customizable encrypted photo sharing at its finest. Cryptgram lets you pick an choose you own array of security features - including a unique âblurâ option - to ensure that you donât only have fun connecting with friends via photo message, but do it all on your terms and without compromising your privacy! More exciting and fun message editing & creation options are set to debut in the near future as well!Cryptgramâs many Features include:â Customizable photo re-sharing controls ensure that friends canât spread photos you send around without your permission!â Pick how long friends are able to view your photos and how many times they can open each one up via intuitive slide controls!â Control how your contacts are able to access photos you send - make it as easy as letting them touch your message, or make things fun and make them shout to your message in order to unlock it!â Utilize Cryptgramâs innovative âCreditsâ system to make sharing even more fun! - Collect credits from friends by sending out photo messages that they have to pay to see, then just sit back and see if the pics youâve sent out are worth the money to unlock!â Blur portions of photos you send out and give your friends the chance to deblur it - thereâs a catch for them though! You get to pick how long theyâll have to do so before time runs out and theyâre out of luck!Jump into the best free private photo sharing experience on Android! Get Cryptgram and start sharing photos securely, completely on your terms, and in the most fun way you can today!Let us know how you like the app and what improvements youâd like to see via email at - support@cryptgram.comStart Snapping & Enjoy!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_LOGS",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "GateSMS - Free Gateways",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jakubd.gatesms",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.6.7",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "955",
+  "rating": "4.7005234",
+  "contentRating": "Medium Maturity",
+  "creator": "Jakub Dyszkiewicz",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jakubd.gatesms",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "GateSMS will help you to send sms from popular polish internet gates in convenient way. Pay less for text messages!====== Supported Gates ======- Orange SMS PL- Orange Multibox (mbox) PL- T-Mobile Omnix Multimedialna PL- T-Mobile Omnix Sponsorowana PL- PlusGSM PL- Wapster PL- Slide SMS============ FEATURES ============- SMS manager- Conversation view- Fast switching between gates and standard sms- Automatic identification of the operator- Deleting polish signs from standard sms messages- Reminding of unread messages- Setting your own ringtone for message notification- Different types of vibrations- Different bubble colors for messages from different gates========= LINKING SERVICE =========Linking service make your messages from gates more readableEx. sms from Orange PL gate:1021231231231:OD JanK*Odpisz zaraz*: How are you?You can change forJan Kowalski:How are you?It's simple. You just make few clicks and sms from gates won't be different from standard sms (except bubble color)===== GO SMS PRO users =====Go SMS Pro automatically blocks notifications from other apps and you won't be able to use linking service.If you want to turn it off, go to settings -> receive settings -> uncheck set others notifications off====== MIUI ICS users ======MIUI stock SMS app automatically disable sms notifications for other apps. You can switch this in settings turning of \"Priorytate for SMS application\" option==== DOUBLE NOTIFICATIONS =====If you got double notifications just turn it off in other app.In stock SMS/MMS that would be:setting -> uncheck \"notifications\"======= FACEBOOK AVATARS =======Official Facebook app blocks access to their avatar database so there is no way to get it. Problem might not exists in HTC phones with SenseUI. Good solution is using free application SyncMyPix and sync Facebook avatars with Google Account=== BEFORE RATING ====If you have problem or question related with application, write me an e-mail so i can help you. In this moment there is no possibility to answer if you left comment in Play Store so i won't be able to solve your problem. In this version of app i want to focus on stability and next i'm sure i'm gonna  add more gates (Play PL, paid Plus PL, Wapster PL and even other lets you send sms abroad). If you like GateSMS and want to help, please rate app high, let your friends know about it. It helps application to be more able to find and it will become just better. Thank you.========== PERMISSIONS ==========android.permission.WRITE_SMS - sending smsandroid.permission.READ_SMS  - reading smsandroid.permission.RECEIVE_SMS - receiving smsandroid.permission.SEND_SMS  - sending smsandroid.permission.READ_CONTACTS - reading contactsandroid.permission.CALL_PHONE - calling to contacts (in conversation view)android.permission.VIBRATE - vibration along with notificationsandroid.permission.MODIFY_AUDIO_SETTINGS - modification ringtoneandroid.permission.INTERNET - internet accessandroid.permission.ACCESS_NETWORK_STATE - checking if phone is onlineandroid.permission.WAKE_LOCK - wake phone when notification comesandroid.permission.GET_ACCOUNTS - verification buying applicationandroid.permission.READ_PHONE_STATE - verification buying applicationWarning! Free version contains ads, if you want to turn it off go to the settings->pro version. Appliaction uses Google Analitycs to find what is the most important for users and what functionality have to be developed on first place.",
+    "reviews": [
+      {
+        "documentVersion": "1.6.7",
+        "timestampMsec": "1378046970756",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "Not good..not support slidesms",
+        "commentId": "gp:AOqpTOGPVGDpO5qb51GWr_Q2Ba-TrG1VAasNovTOu79M_WKUDHZfXpoA_0TvGt9SbliQPlsj_wZcFTdo5Njcww",
+        "author": "suman bhandari",
+        "authorURL": "http://lh4.googleusercontent.com/-vRmpOCAstsc/AAAAAAAAAAI/AAAAAAAAABw/svIohzPbBx0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-vRmpOCAstsc/AAAAAAAAAAI/AAAAAAAAABw/svIohzPbBx0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.5",
+        "timestampMsec": "1365533967726",
+        "starRating": "4",
+        "title": "\\305\\232wietnie dzia\\305\\202a, ale..",
+        "comment": "Ale cz\\304\\231sto jak wyst\\304\\231puj\\304\\205 problemy z sieci\\304\\205/zasi\\304\\231giem i sms si\\304\\231 nie wysy\\305\\202a to powiadamia o tym tak, ze tego si\\304\\231 rzadko kiedy zauwa\\305\\274a. Trzeba w\\303\\263wczas ca\\305\\202y czas patrze\\304\\207 na ekran i pilnowa\\304\\207 tego czy si\\304\\231 wys\\305\\202a\\305\\202o. Wobec tego proponowa\\305\\202abym porz\\304\\205dna notyfikacje oraz sygna\\305\\202 d\\305\\272wi\\304\\231kowy/wibracje w przypadku gdy sms si\\304\\231 nie wy\\305\\233le. A tak poza tym, super.",
+        "commentId": "gp:AOqpTOGpTom2eA1XV0GcNpoYQ8kEX7haU6AwLLjaukEr1h_70GIUFuwlDAqqos27Gqgfg2v4CzVSPaSpHWPq3A",
+        "author": "Lan Pham",
+        "authorURL": "http://lh5.googleusercontent.com/-PowSgelmXSY/AAAAAAAAAAI/AAAAAAAAA_g/a7wgc8N8ahs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-PowSgelmXSY/AAAAAAAAAAI/AAAAAAAAA_g/a7wgc8N8ahs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.5.8",
+        "timestampMsec": "1349617029617",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Super! Jedyna rzecz do poprawy to obs\\305\\202uga Guard w miui",
+        "commentId": "lg:AOqpTOE1DXxtwGqx4RCvecBycAFs-8j-7Xgm5J2wJQNULgVInhv0G2RHueIXaHdk4BT7ALL8W61kE8ylE0bOXg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.8",
+        "timestampMsec": "1346833041109",
+        "starRating": "5",
+        "title": "..",
+        "comment": "Bardzo przydatna aplikacja.",
+        "commentId": "lg:AOqpTOGZIbLyhZLkCoNy6BxSbMWVxlEN1-iYB1lyelCM3fRvHBB4aZZ2ihuUj4YtcrevOFbo58gPdTH1aQoWCA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1345026514862",
+        "starRating": "5",
+        "title": "The best",
+        "comment": "Najlepsza bramka :D tzn apk do wysy\\305\\202ania z bramek ;) SMSoid czy bramka sms bledn\\304\\205 przy gatesms j :))",
+        "commentId": "lg:AOqpTOFp2TIpwtU-KSaS4mCUG_8LMnbWIftcmbxvRyANdKVUY59m11dKgpaJq3USkISnQ69-fpJluhPKtEPo8Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1345386602207",
+        "starRating": "5",
+        "comment": "Very good. Does what it say. I\\'ve used it to send smses to Plus and Orange.",
+        "commentId": "lg:AOqpTOFsRdXCAgjZQz5yGlkM2e6NrEnzyeXompTR6ip9zpWm4-mKR6JiixpVzefXgGSPt0oX1fBIdQB_IMNefg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1346350123963",
+        "starRating": "4",
+        "title": "Mikorano",
+        "comment": "Quite nice app. Works well on Wildfire",
+        "commentId": "lg:AOqpTOGVTWmX0tYs8_rLZj5pYKVvEVTxHKnWcnNJ5sw6Zn2g5o9ORr5Dg-AuGrAax1fXZ8EcEEnt93cfoYkvVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.7",
+        "timestampMsec": "1344870117676",
+        "starRating": "5",
+        "title": "Ok",
+        "comment": "Superb",
+        "commentId": "lg:AOqpTOGxRIK6dQTuMD0lMc9fnJ334vIUE7DQ6l0GGTntOI28WlGaHXsHtU66R_jpAT22OkmrPezxw-Pv9hsJWw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.5.1",
+        "timestampMsec": "1342523918125",
+        "starRating": "3",
+        "title": "Tylko wifi",
+        "comment": "Wygl\\304\\205da \\305\\233wietnie, obs\\305\\202uga ok. Na WiFi jak wysy\\305\\202am smsa do orange to mi si\\304\\231 obrazek \\305\\274e s\\305\\202owem do wpisania prosto w oknie pokazuje i jest super. Natomiast na 3g czasami s\\305\\202owo jest przesuniete o tyle, ze nie da rady wpisa\\304\\207. Nie rozumiem tego b\\305\\202\\304\\231du.",
+        "commentId": "lg:AOqpTOE4K1fL-KiJn_MZBd4M6zsxDhHpTSrgFF79NwJnzoiVBiVP3Hqny9x4K0qDkLhHmtJnItcW6Z1nk0XVZA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344580699566",
+        "starRating": "1",
+        "title": "kuin",
+        "comment": "not interesting...",
+        "commentId": "lg:AOqpTOFYMg_5LbMCLX8-LdPNkd13btv8s8V-tf5099-BcfPCCSuu9r-KUTpiMpF8CzxYoCUXcqKs2KsMXlcOhw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_MMS",
+      "com.android.vending.BILLING",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

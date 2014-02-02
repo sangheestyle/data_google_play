@@ -1,0 +1,45 @@
+{
+  "title": "Simply Anagrams",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jamiewilburn.games.simplyanagrams",
+  "category": "Brain & Puzzle",
+  "price": "$0.99",
+  "datePublished": "August 9, 2012",
+  "version": "1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Chasing Quarks",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jamiewilburn.games.simplyanagrams",
+  "extendedInfo": {
+    "installSize": "5.4M",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Introducing: Simply Anagrams!Simply Anagrams is an easy to play and engaging game for mobile devices thatâs hard to put down. Simply Anagrams boasts the following features:* Very high replay value.* Two game modes: Casual Game gives you all the time you need to solve a puzzle, and Two  Minute Game when youâre ready to challenge yourself.* Shuffle: Gives you a new perspective on the current puzzle.* Share on Facebook providing a way for you to boast to your friends when you have a really impressive game.* Visually appealing custom user interface provides a unique experience. Designed to be quick to learn and easy to use, the Simply Anagrams allows you to enter words and navigate word lists quickly on any sized device.* Lively sounds make pressing buttons and finding words a rewarding experience.* The hand-crafted Simply Anagrams dictionary has been evolving for nearly 9 months and contains nearly 10K words. Great efforts have been taken to remove offensive words making the game family friendly.* Review word lists after the game to see which words you missed.",
+    "reviews": [
+      {
+        "timestampMsec": "1346560566394",
+        "starRating": "5",
+        "title": "Love this game",
+        "comment": "It looks great and its super fun.",
+        "commentId": "lg:AOqpTOGCRzmo9B-6EluVu5bEYGXS4ZuPQwLPy2P53pQo1Q_iLEaXyPNPk5w8A9Tl5SWC0BNw6c8VmPqKOvK81Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347131233040",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I cant stop playing this game! I love it! Worth every cent ive been face deep in words for hours now. Well done!",
+        "commentId": "lg:AOqpTOGoMd6bvxQr-XjWqheR9SSxl5MoF8-80dJ5XCqMAjyJFwEHHWr0_A7Qv4OS72qPolyEstEqDDp12HReYw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

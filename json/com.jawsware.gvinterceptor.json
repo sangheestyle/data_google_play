@@ -1,0 +1,88 @@
+{
+  "title": "Call Interceptor: Google Voice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jawsware.gvinterceptor",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 3, 2013",
+  "version": "3.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "30",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "jawsware international",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jawsware.gvinterceptor",
+  "extendedInfo": {
+    "installSize": "216k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "* * * 15-DAY TRIAL * * *The App you are about to download has all the features of the paid-for App, just a 15-DAY limit to try before you buy.After the trial period the app costs $0.99 to activate.Call Interceptor: Google Voice uses the touch-tone phone calling capabilities of Google Voice to make calls using your Android Phone. It provides you with an extensive set of rules for determining which calls should be intercepted and routed through Google Voice and which Google Voice Number should be used for the intercepted call.The Interceptor is notified everytime an outgoing call is about the be placed and it determines if the call should be intercepted and routed through Google Voice. This means you place calls/dial numbers as you normally would.Calls that are routed through Google Voice appear to the receiptent as being from your Google Voice Number.The call log of your phone is modified to show the number originally dialed not the Google Voice Number number.You have the ability to add multiple Google Voice Numbers and then setup rules to determine when each number should be used.",
+    "reviews": [
+      {
+        "timestampMsec": "1377881373740",
+        "starRating": "4",
+        "title": "Cf",
+        "comment": "Nice concept of app",
+        "commentId": "gp:AOqpTOEabd1rvmsoYaPjJbVeN58xDZGy9KM4qphGefgP2e7xJgBrAcBtu30VvJ6UXlIDN0wXIJSrC1hZml5GLQ",
+        "author": "Alexis Flores",
+        "authorURL": "http://lh4.googleusercontent.com/-1vqTDslqo5w/AAAAAAAAAAI/AAAAAAAAAhA/pnDvov0dU6A/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1vqTDslqo5w/AAAAAAAAAAI/AAAAAAAAAhA/pnDvov0dU6A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378790876318",
+        "starRating": "5",
+        "title": "works great",
+        "comment": "nice app",
+        "commentId": "gp:AOqpTOEgO9biiIhFIPTLjOfAdfPo1Nis5KJpxW6TqqS6HEQXXDRcoVb-BLFoZA0aK8_fUfHiKjonR3zST2weug",
+        "author": "Christopher Workman",
+        "authorURL": "http://lh5.googleusercontent.com/-hj6ZTCdQWpM/AAAAAAAAAAI/AAAAAAAAAso/7EBl45_Ntfs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-hj6ZTCdQWpM/AAAAAAAAAAI/AAAAAAAAAso/7EBl45_Ntfs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350675509064",
+        "starRating": "4",
+        "title": "Wow"
+      },
+      {
+        "commentId": "lg:AOqpTOElnP262rlKFItYUrkaB5bX-B6lffw28mrpNJ51BQw-gea-MPL3rC87phOOP_irYlW4UKmpUO0kYMEGXA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352514050752",
+        "starRating": "2",
+        "title": "Use with Voice+",
+        "comment": "I use this with Voice+.  Voice plus bypasses this apps need to access GV VM to place the call.  If these 2 developers would join forces, it would be a great app!",
+        "commentId": "lg:AOqpTOFYtoyPbsyJj7F1IU3H-HBMysMzS8vhWH7sGQ2vFP_GXlFZpZrdZc1Au6pON3ix5nL1qb7g7aN_womAUA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332933397520",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "The app is pretty cool. Works perfect for my use case where I have 2 GV numbers and want to decide when to use which GV number.",
+        "commentId": "lg:AOqpTOEFW2BWKhlGn-gsulDY3gcIUJZmXuIhFxqqxjPXe7Z0QZcgFrsPz8CwVnmS4d2kbGjHikOv-S7c6QC06w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Trade - Woman 4 Camels Calc",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=camel.calc.com",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "January 2, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "41",
+  "rating": "3.487805",
+  "contentRating": "Low Maturity",
+  "creator": "b-apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=camel.calc.com",
+  "extendedInfo": {
+    "installSize": "466k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "How much camels is your girlfriend worth? \"This app is awesome - the girls are competing on who is worth more camels :D\" Do you want to know how many camels a sultan would give for your girlfriend? Here you will find the answer with this funny app. Check it out how sexy and useful your girlfriend is. Who knows, maybe you think about flying with your girlfriend to Dubai or Egypt. Come back as a rich and carefree man. What are the benefits ? A camel can not talk, it sleeps outside and has big stools.How many camels is my girlfriend worth . Check who has the hottest girlfriend. This funny app is very simple.How nice would it be, to simply trade your girlfriend and receive camels instead.Are you proud of your beautiful girlfriend and want to show  everyone how great she is? Share with the world how many camels she is worth! We support Facebook, Twitter and many more. Also e-mail is supported. Share your results. Spread the word!This is the perfect app to get attention at a party. Let all of the girls use the app, they will make a contest on who will get the highest score. I you are considering to date a girl, let her first fill out this app. If she is worth to less camels: NEXT!Why camels? Camels are better then horses, sheep, goats, pics or other animals. They are just fantastic, don't you think so? They can survive in the dessert for about two weeks with absolutely no water. This is awesome. Do you know why Al Bundy is unhappy with his life? He should have used this app. A lot of famous hollywood stars should consider that, too. Maybe they would choose hotter women (Lady Gaga, Britney Spears, Julia Roberts, Rihanna, Olson Twins, Angelina Jolie,..) Big boobs or small boobs? Good in bed or still a virgin? This is all considered by the algorithm. It provides PERSONAL results. Check out who is hot and who is not! This is not boring. If you are single, use it to determine which chick is the best choice. I bet Charlie Sheen of Two and a half men would use this, too.This app is very funny. It is exclusive to android, you can not find this in the Apple App Store and therefor you can not use it on any iPhone.The app does not request any information on your location.This app has no relation to camel cigarettes. If you consider this kind of sarcasm as offensive - please do not install the app! Do not take it seriously - it is not!",
+    "reviews": [
+      {
+        "timestampMsec": "1333360649031",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Funny app to rate gals :D",
+        "commentId": "lg:AOqpTOEMufXUkjNXfmVysxmtjwK-xZGUpIpX3n1TmluS6F_7k9AaXAOW-HnBAeuPPiWrc5drE8TiQxzDwxRUQw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333313550280",
+        "starRating": "3",
+        "comment": "Funny",
+        "commentId": "lg:AOqpTOGZbN3tATxZuJ_-qhjJanPfQxxaY26VYcH9SGtAaLMcAlyIRzVDXayksoK8rAHuEbLH4LzDHyxuXCfFFA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344264993514",
+        "starRating": "5",
+        "title": "Hilarious!!!",
+        "comment": "I just simply LOVE this app! It\\'s just simply entertaining",
+        "commentId": "lg:AOqpTOGfFBRQqohacgXIJm6yxKil7Qm2RE5ZEH1YYLLSRNjy2hTpc3dYjkhI7U4HT12q_92i8fcqOpQUaymGtA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

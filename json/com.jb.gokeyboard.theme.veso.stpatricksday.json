@@ -1,0 +1,36 @@
+{
+  "title": "GO Keyboard St. Patrick's Day",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.gokeyboard.theme.veso.stpatricksday",
+  "category": "Personalization",
+  "price": "$1.99",
+  "datePublished": "February 26, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "VeSo Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.gokeyboard.theme.veso.stpatricksday",
+  "extendedInfo": {
+    "installSize": "749k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "UPDATE: THE ANDROID PLAY STORE WILL NOT ALLOW YOU TO INSTALL GO THEMES CORRECTLY IF YOU ARE RUNNING JELLY BEAN! EMAIL ME DIRECTLY AFTER PURCHASING IF THE THEME IS NOT SHOWING UP DIRECTLY!A beautiful St.Patrick's Day theme designed by VeSo Apps.St.Patrick's Day theme for GO Keyboard is available now! Designed and developed by VeSo Apps. Beautiful, green and gold, lines outline, get this theme to make you GO Keyboard more lovely and colorful. Happy St.Patrick's Day!If you like the theme, maybe you'll like also:- GO Locker St.Patrick's Day theme- GO Launcher EX St.Patrick's Day theme- GO SMS Pro St.Patrick's Day theme- GO Contacts EX St.Patrick's Day theme- GO Locker St. Patrick's Hat theme- GO Keyboard St.Patrick's Hat theme or- PROUD TO BE IRISH clock widget too.Search for it on the Market!âââââââââââââââââââââIMPORTANT - Read it carefully!!!âââââââââââââââââââââ1. This is not a standalone app, you need to download the LATEST version of GO Keyboard app in order to apply this theme. (Search âGO Keyboardâ to download)2. To apply the theme within GO Keyboard Pro,download it from GOKeyboardsettings->Display settings->Select Theme. After downloaded, it will displayed in \"Theme\" Tab, click and apply it.3. Don't forget to rate it! ;)4. For any problem, question or suggestion, please first contact developer before you left bad rate or comment! Thank you!5. I can't response on Market comments - please contact me vie mail: vesoapps@gmail.comâââââââââââââââââââââVisit us on Facebook: https://www.facebook.com/pages/VeSo-Apps/203009479756715Follow us on Twitter: http://twitter.com/VeSoAppsâââââââââââââââââââââGO Keyboard, GOKeyboard, St.Patrick's Day, clover, gold, hut, green, shamrock, st-patrick, luck, lucky, holiday",
+    "reviews": [
+      {
+        "timestampMsec": "1377174251963",
+        "starRating": "5",
+        "comment": "Very nice and smooth.",
+        "commentId": "gp:AOqpTOFUCrBbK_d5suJU2MBDoUIwGah2TFmeASZFawLEwwqhqB1nDuzgwXaED9oRSidKJX8AZuTy6pEQJJHM7A",
+        "author": "Anne-Grethe Meyer",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

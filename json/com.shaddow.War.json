@@ -1,0 +1,216 @@
+{
+  "title": "War (Card Game)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.shaddow.War",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "June 21, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2529",
+  "rating": "3.9857652",
+  "contentRating": "Everyone",
+  "creator": "ShaddowApps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.shaddow.War",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Looking for a simple card game to play? It doesn't get much more simple than War! Features and rules below.== Features ==- Quick game option for single player (26 cards instead of 52).- Multiplayer via Bluetooth! It felt like it would be difficult for two people to share a little phone screen.- Easy controls! All you have to do is tap the screen anywhere to play.- Auto-shuffle at the beginning of the game and every 100 battles. You can also manually shuffle whenever you want.- Auto-save for single player.- Auto-finish option available for single player.- Uses System wallpaper. This means that if a Live wallpaper is set, you will see it in the background animated in all of it's glory!- In-game statistics (lower right corner)- App2SD support for Froyo (Android 2.2) and later.== Premium Features ($0.99 USD) ==- Premium status can be purchased through the application.- Various settings available to Premium members. Settings can be viewed in the game (see screenshot).- Statistics will be recorded upon completion of a successful game.- Ability to do a quick game in multiplayer (if both players have premium status).- Removal of ads.The game is fully functional without premium status, so if you don't want it, you do not need to pay for it. However this game is ad-supported for those without premium status.== Tablet Support ==War should work on tablets. Larger graphics have been added and card movement is slightly faster.== Game Rules ==Each player draws one card. The player with the larger valued card wins both cards. If they are the same value, then a War occurs, in which three cards are placed on the table. Then one card is drawn - The person with the higher valued card wins the war (all of the cards on the table). Aces are high and suite does not matter.The game will handle double wars by triggering another war ontop of the current one, however, triple wars will NOT happen. If a triple war triggers, then every card on the table is added together for each player, and the player with the total highest value wins. If they are tied (which is extremely unlikely), then the winner is selected randomly.* Please note that the background shown is not part of the game, since the game is transparent. The wallpaper shown is Starfield 3D Live Wallpaper, which can be found here:https://market.android.com/details?id=com.kalicinscy.wallpaper.starfield",
+    "reviews": [
+      {
+        "timestampMsec": "1374181534450",
+        "starRating": "1",
+        "title": "Dull.",
+        "comment": "If you want to practice tapping a screen this for you.",
+        "commentId": "gp:AOqpTOFDqWM42-w1YVpdMfbrMm3b1DD8oP6-K87BBWbyTvpmgIiYAOz8zZYEgiCPWKKigTljv5cpHUE9GaFV69A",
+        "author": "Douglas Turner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375673053221",
+        "starRating": "3",
+        "comment": "Ok game when you play war it is not correct and glitches that need to be fixed not that exciting either",
+        "commentId": "gp:AOqpTOGigNjOCIfG0QnX_P8fvHaO2OeLego7lBR0hD0Y8W2HMVjaNiaXIjplrTSJIOtCEgeRd6kTKRU8sXR8K5o",
+        "author": "Theron Bloom",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373783126028",
+        "starRating": "3",
+        "title": "Fun but not played correctly",
+        "comment": "I lovw how smooth this version of war is played. There is, however, one major issue. When two players draw the same card, they are SUPPOSED to each.draw three cards from their piles, placing them face down(not up, like in this version) they then are supposed to each draw one more card. The final card is what decides the winner of the \\\"war pile\\\". Also, I just played this, and in the war part, opponenet had a 3 as last card, I drew ace, for.some reason, computer won whith a 3 vs my ace. Ace is highest. Wtf",
+        "commentId": "gp:AOqpTOGVD6fDCqzxYOJ_MImayFT27sdSnIVcE1UEmSxAO_z2wsggpJgEsb87fAzmHjlopEMa0TSun_6bT1HlPX8",
+        "author": "Valerie Smith",
+        "authorURL": "http://lh5.googleusercontent.com/-PjT2Kz211Mg/AAAAAAAAAAI/AAAAAAAAACM/IQOv0deVycc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-PjT2Kz211Mg/AAAAAAAAAAI/AAAAAAAAACM/IQOv0deVycc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375466817029",
+        "starRating": "2",
+        "title": "Boring",
+        "comment": "A funeral is more exciting. Redesign please",
+        "commentId": "gp:AOqpTOFAWRa5OV2F_nqiAH6unH-dCpaWKfTTpK4S92NSFpt71AuQgCxGgKIemw9u678-mLSOUkv8QxaMEEgAfRg",
+        "author": "Leanne Macdonald",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373767048292",
+        "starRating": "5",
+        "title": "An ok game",
+        "comment": "For the ones who say it\\'s a short game y\\'all need to press normal cause that\\'s what I did and my game lasted me 12 min and 3 secs and it\\'s a pretty good game even though all u do is tap on the cards I\\'ll go head and give it 5 stars",
+        "commentId": "gp:AOqpTOGinEAYy85asLTVvzMqvO6vSpaqiPJdGbnTXBNt0x6hF2EZlKlphyhDV2yrOxXlq_wvfMz8WUVL02dirrs",
+        "author": "Chelsea Bates",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1361831128530",
+        "starRating": "1",
+        "title": "Dumb",
+        "comment": "Very boring.... I mean yes its war. But there is no fun in it.. just tap tap tap in 2 min 38 sec the game is over.... very lame.",
+        "commentId": "gp:AOqpTOFRztSQn-qmk6CJ0gOveGVtTCqYGJL9gILPHVbsNRKVzf5ypVQdYxzYdl1g4Ds-4tf31PoNx_7hU2uSho8",
+        "author": "Sharaya Henderson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365990224191",
+        "starRating": "5",
+        "title": "FUN!!!! :-)",
+        "comment": "I love it! I played it over and over!!!! please make more fun games!! also did I metion I luv this game!!!!! I give this game 5 stars!!(*****) :-) (VERY FAST)",
+        "commentId": "gp:AOqpTOG6pAMrvP6xN4Sd8thIB8AQanQoM8IGobjWtccjy4U1Iqp4KVmaFMPrz-hrRdUIKuIKZFIFmlB5Hm80-3U",
+        "author": "Rebekah Demeri",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1346836149655",
+        "starRating": "3",
+        "title": "Yep",
+        "comment": "Its a war card game alright kinda just as lame as playing it with real cards but my kids like it so",
+        "commentId": "lg:AOqpTOGzEGt2HEqOCdMBjqF5enLmR4XyQT_WTsnkBLVbguOA4YB3-Luto3gANTOHTSabm6X-Rg3r4XyhSHTipKM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357923344753",
+        "starRating": "4",
+        "title": "Ok",
+        "comment": "Could of been better its not glitchy and it flows but it needs another variable it needs a little bit more of challenge tweak it up a little more",
+        "commentId": "gp:AOqpTOFTyI5oSNsyGcrxAQ8zljmG0FHxggjKQgs9BYVMl38zsmKXwPan6o8NTikyTnjo71B95FvW0hWGnLik8dA",
+        "author": "Yesenia Velez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1315882706013",
+        "starRating": "2",
+        "comment": "Mindless...just hit the screen...the game does all the work for you...not as fun as when I was a kid.",
+        "commentId": "lg:AOqpTOHO6uQk7cTS-c1XtsVRAa3woM8lXCtgpoyi--J4DIQJEY-cmvZOxgh6fRaKLHAyZ9e-5kQKWMM43J_bYn4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350803235549",
+        "starRating": "3",
+        "title": "Ok",
+        "comment": "Its alrig ht, if it had a better table and carried tge rule to fold, I eiuld have recommended it. Just an opinion :)",
+        "commentId": "lg:AOqpTOFdgqPO2_SkOU628Jg0W-Sar_rJMoNddIbdLkgfNdsUbE6PYKYzNFrjEbFSiJWflZ0VK0zgeCbvC2K-cCc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316583118528",
+        "starRating": "5",
+        "title": "Simple addicting game",
+        "comment": "Great game Lots of cool features, lots of fun!",
+        "commentId": "lg:AOqpTOF9gqyZ0QrYuzQGMiwWVCL47G8z-mNk9XkFEZSc_rt49geeTlNrrdE6cIr069Nagar-73EUlK8S65GIKkI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347761163684",
+        "starRating": "3",
+        "title": "Samsung Galaxy Prevail",
+        "comment": "It\\'s fun and I would give 5 stars if you could change settings without upgrading to premium",
+        "commentId": "lg:AOqpTOFttV9Ebbx8OmbR_yKkhjM6YCg3DySXVs1jzD-ZCzYVW3-T8zXTgEzHLG7kIMaQKC3emnNOcuCbBRDIJz4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316552849722",
+        "starRating": "3",
+        "title": "Time waster",
+        "comment": "It\\'s a classic card game, but all in all, not too fun.",
+        "commentId": "lg:AOqpTOHLqQNwR08r1H8bDc4EvspmUKMxD8jfLmR6APOLbpgfKLPr_qbWSiF8gJm03THPQiuibYYbvcCOroR-3eY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334128879246",
+        "starRating": "3",
+        "title": "Fun but...........",
+        "comment": "It needs to be able top be linked to facebook like most games on the market",
+        "commentId": "lg:AOqpTOH5KWZGpKWT-3eXvK7LI_w38nXGbKc033xzwjq_Mgs63LGWnIX_ldFkqukeTuJQKfOrZPhNp_Us_AZAGp8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362784645542",
+        "starRating": "1",
+        "title": "THIS GAME SUCKS!!!",
+        "comment": "This game is terrible! I know It\\'s war but it was poorly executed and sucks donkey dick!",
+        "commentId": "gp:AOqpTOFePlSgDFtOpMxaFvIwwvlO_93orzGWerMiCRzLDACmPlYTPBTZGfS7MWB78ZTGiDRgNgo2uDTvdg4K-hw",
+        "author": "Jimmy Marmolejos",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1322156318904",
+        "starRating": "4",
+        "comment": "Great app, easy to use. Awesome when your bored(:",
+        "commentId": "lg:AOqpTOHFDvt5ldwY7LrDv-eFUYaA00QHHdOD-Yn_DiyoI6QSihJ9_iYvEWFYi6MDmvtfezsinzfcP_OFbcCnDxA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324911961233",
+        "starRating": "5",
+        "title": "A great time passer!",
+        "comment": "The multiplayer is better than the singleplayer.",
+        "commentId": "lg:AOqpTOGWQPs0wfsbNsyhEtsM6kTUpyORL-duCjfmHPIHsP9QblfPGjlaRWqz9sfcyS0x6sxkqUxkLhZ_C2As128",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329772028939",
+        "starRating": "1",
+        "title": "Delete",
+        "comment": "I downloaded the game, bought the premium package, won every game before i bought, lost every game after i bought.  Don\\'t bother downloading, waste of time and $.",
+        "commentId": "lg:AOqpTOEB-rgCe6RjXbBUcnVcl9QzxIRf7QCJfXhF_nf_NS-8wypN7hHpVyw0-MIlsD8p8SrU8TXHW0LFI4192lk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1316828700010",
+        "starRating": "3",
+        "title": ":",
+        "comment": "game was fun til I noticed every time I win my opponent gets a point too I dnt get a point wen they win it uninstalling cuz that\\'s stup",
+        "commentId": "lg:AOqpTOGS1Z-B81Xz6Zknv0ci94LrhW9IhwG0pPXCx5hIor6wo4hctEvT4bvQ6nfoxWG48wxgDqnMpUdo5w9H9dY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "com.android.vending.BILLING",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ]
+  }
+}

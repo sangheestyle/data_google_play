@@ -1,0 +1,64 @@
+{
+  "title": "My Kaleidoscope World（kids）",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.kaleidoscope",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "3.8",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "385",
+  "rating": "4.5194807",
+  "contentRating": "Low Maturity",
+  "creator": "BabyBus",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.kaleidoscope",
+  "extendedInfo": {
+    "installSize": "24M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Can you see the flashing wheel next to the panda? Do you know what is it? Yes, that is the magical kaleidoscope.   Oh, no! The door is locked again by the cute panda! If kids want to successfully move to the beautiful garden through the house, they will have to find the same five items which are hidden in the house to get the pass. Come on little explorers, letâs find them.  When babies arrive at the beautiful garden, they need to decorate their garden by themselves. Please move your finger to drag the decorations on the roof and release them on the points which are on the grass. Amazing effects will come out immediately.  The magical and amazing kaleidoscope will bring a lot of fun and surprises for your kid. Letâs start enjoying the world of the magical kaleidoscope. âââââââProducts of BabyBusââââââââThe most interactive, entertaining and educational art productsâ______________________â¶design conceptsï¼We focus on inspiration, not just learning.We focus on capacity-building, rather than a single cognition.We focus on entertaining, rather than spoon-feeding teaching.Take the baby bus, which is loaded with a happy childhood!___________â¶The series introductionï¼The first brand in early childhood educational software (field of mobile Internet), which is developed specifically for the 0-6 years baby, and covers the cognitive development, games, songs and other relevant categories. The software is designed to combine the advanced concept of early childhood, through entertaining and educational way to achieve the purpose and goals of the mental Enlightenment.PS: type âsinyeeâ in the search bar to find all the products of BabyBus.___________â¶Welcome to contact us onï¼E-mail: ser@baby-bus.comwebsite: http://www.baby-bus.com",
+    "reviews": [
+      {
+        "timestampMsec": "1375981733621",
+        "starRating": "5",
+        "comment": "My kaleidoscope",
+        "commentId": "gp:AOqpTOHadQEh_-xZw6FDEXDA_0aLHUck1CbzHb8uMvpyzfhzplzCKyh7CMefZgkh77s5zjfZiU2q11IFsEVXmEw",
+        "author": "Amyjoe Gillis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364828121066",
+        "starRating": "5",
+        "title": "Pandas cute",
+        "comment": "Cu\\303\\271uuuuuiuuuuuuuutttttttttttttttttttteeeeeeeeeeeeeee",
+        "commentId": "gp:AOqpTOHEZW0OZeLezeQadM__Pp6pTDezbV7M1QIhZbnYff8PdJFeIVQh1gHEi7qyBRm-3oJyk8rz3xquRpEhuCs",
+        "author": "Balambigai Mahamaheswaran",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358115717520",
+        "starRating": "2",
+        "comment": "Resuello. joshua",
+        "commentId": "gp:AOqpTOFs2jqAR7EmqTR8TbP7IGwGXHA2JLFfbp5tlT6axdHq-5e1HL21pxwGENmW1nUL4uR0kAy-sEkbkt5QZMw",
+        "author": "Violeta Resuello",
+        "authorURL": "http://lh4.googleusercontent.com/-cOWwCoNSbIk/AAAAAAAAAAI/AAAAAAAAAQo/la3eybCL6nY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-cOWwCoNSbIk/AAAAAAAAAAI/AAAAAAAAAQo/la3eybCL6nY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

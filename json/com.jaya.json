@@ -1,0 +1,145 @@
+{
+  "title": "Where are you",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaya",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 17, 2013",
+  "version": "1.4",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "70",
+  "rating": "3.8857143",
+  "contentRating": "Medium Maturity",
+  "creator": "MobiDeveloper",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaya",
+  "extendedInfo": {
+    "installSize": "23k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "WRU: Where are you? Personal GPS tracker*** This app should be on the phone you want to track ***WRU-Service helps people to check on the location of their friends and family when needed without disturbing the person being tracked.  Just install this app on the phone you want to track and from another phone send an SMS 'wru' or 'wru-t' to the phone which has the app.  Once the app receives 'wru' (or 'wru-t') SMS it sends an SMS with geo co-ordinates back to the sender.  If the sender also has this app then it shows the location by opening the map application.  If you want to see the location on google maps on the internet then open http://maps.google.com and enter in the co-ordinates alone with the comma in the middle to see the point. example:  42.581926, -83.673535Service can also be started by the user who wants to be tracked through the GUI service. Just enter the telephone number which should receive your co-ordinates and press 'WRU' OR 'WRU-T'.Types:1. WRU: Recent location is sent once or at most twice if a stale location is detected. No need to stop as the application stops by itself.  2. WRU-T: Application keeps sending co-ordinates every 1 mile the user moves. If the user is not moving then further updates are not sent. You need to send 'stop' SMS or press 'STOP' from GUI to stop 'WRU-T'Phone requirements for this app to function correctly:1. You should be able to send/receive SMS.  2. You should have GPS locator/Network locator service on your phone.If either one is missing then this app will not work. An easy test to see if this app works on your phone is to start the GUI service and enter in your telephone number to send an SMS to yourself. Watch the different messages and finally if you receive an SMS with the geo co-ordinates and also if the google map opens up showing your location on the map, then  the app works for you, else one of the messages will tell you where it failed.If both are available and occassionally is un-reliable (e.g.,SMS takes a long time etc) or does not work then it could be:1. Your phone is out of SMS signal range. An easy check is to see if you are able to send/receive SMS. If you are NOT able to send/receive SMS promptly then NEITHER can the app.2. GPS/network locator service is switched off or for some reason not working.This app is not the reason for not working in any of these cases.Salient features of this app:1. Very low memory foot print.2. Saves battery as the location service is turned on only when needed.3. No third party website is collecting your location data. It is only sent to the person who sent you 'wru' or 'wru-t' SMS or you decided to send to someone yourself.Some other possible usage scenarios:1. You lost your phone and want to trace it. All you need  is another phone from which you send 'wru' SMS to your phone and wait to receive the co-ordinates from your lost phone.2. If you think someone stole your phone and is moving with it then literally track the thief down by sending 'wru-t' to your phone.3. Your vehicle has a breakdown/accident on the road and you want to send your location co-ordinates to get help. 4. You want to know when your loved one leaves office and gets close to home as you are throwing a surprise party. Send 'wru-t'. Once your loved one leaves office you get updates every mile.5. You want to track your teenager but do not want to call as the kid could be driving and you do not want to disturb when all you are trying to find is where they are.And many many more.....A note on Location providers:1. GPS is the best and most accurate but some people do not like using it as it consumes more power.2. Network provider does not give accurate location and also even though the phone hardly moved, the location seems to shift to other near by tower sometimes.  Please be aware of this.Last but not the least, Thanks to all the good folks who have given great ratings, reviews and useful feedback! It is much appreciated!",
+    "reviews": [
+      {
+        "timestampMsec": "1330913052034",
+        "starRating": "4",
+        "title": "Works,  but could do with more options",
+        "comment": "Good, works in my SGS2.   My suggestions: 1. Option for user specified keyword.  Wru is too common.  2. Option to intercept this keyword sms and not pass it on to the sms handler ie not buzz and chime and not show up in the notification bar.",
+        "commentId": "lg:AOqpTOHJyMDrVz4GUci1Sx5peXiXatutCM6659NYGl_8iu8NYXc43tMLBnqBFiiyffuyD1LHKhJN22Q8LBj_6Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310767294512",
+        "starRating": "5",
+        "comment": "Works great. Family was able to track me during a long bike ride",
+        "commentId": "lg:AOqpTOHdhYtzG3oVF4WBxz0iAW-BObHC0M8GozPVuosZcD6jW_gPw6Z4vUVBLBMW7MJ11cSx2HuNnH8HRNzz5g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323913871696",
+        "starRating": "3",
+        "title": "OK...a bit unreliable here.",
+        "comment": "Works sometimes/not. But the one if phone you\\' re tracking doesn\\'t have data plan or GPS. Pls provide 1 url for gmaps, email via sms. Cool concept.",
+        "commentId": "lg:AOqpTOE4dOs0K2zQeyMqDX5sK7tMW9buiI1ZXSrLLCezHSyZDD_rxDVysbAJZ57Ns6Hany7siaojYXXdoFf5tQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1313209437615",
+        "starRating": "2",
+        "title": "Doesn\\'t work per instructions",
+        "comment": "Probably a good app based on some of the other feedback but it doesn\\'t work like I think it should. Please post better instructions or add it to app.",
+        "commentId": "lg:AOqpTOGwg-3Fk45fAst25l18doGzlpiMNvGOlsj49m0Htq8zE46njmyBcXozBP1h6P-fsXWyQVyIfvmRHvBILg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1308801201500",
+        "starRating": "1",
+        "comment": "It takes a long time to show location. Sagar",
+        "commentId": "lg:AOqpTOGoymgZhnL4gKFuRKop97ktKAWtycFFiE6X7FNRe70aVQ2Ejl-Qe27YTzoAuiSLa0LfyCXt-a8Tn3ixTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350499584663",
+        "starRating": "5",
+        "title": "Very sample and great",
+        "comment": "Some of my friends his car stolen. I wish we could have this app. Before. I recommend everybody to by cheap android phone and install this app.and hide it in ur car. Many thanks",
+        "commentId": "lg:AOqpTOExLgeJHzbfw_k8b_FMTHPN86lTn8V_HcL5qihez30odtZuoM3b5SfSJoFeE02KDs4yUL7mdtnWkRoEaA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309125396758",
+        "starRating": "1",
+        "comment": "Don\\'t work..uninstalled",
+        "commentId": "lg:AOqpTOF89Nxc9Hdh3uYYxSbk5a-N-1544C_lBX49UiUo4wnPb88N4soPGLmlwCuF8LWWwLKq_DQn2zq6UC7Cdw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1308849925317",
+        "starRating": "4",
+        "comment": "If this app had a website component it would be the best app ever!!!",
+        "commentId": "lg:AOqpTOEfO-r1M9-dCadfGPO7DHpvd7_I0CAsY26_xfIgYqu7S4EQ_ohgXhFljFgJt2znJYYumVKTfIx--BlOVQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307432555116",
+        "starRating": "5",
+        "comment": "Brilliant app",
+        "commentId": "lg:AOqpTOHvwrXgxrUZbXrljoUneP3SA6IJ9NjfMuR7oVVNi32-jaKZxzL5PoAbMtPt-QUMkbLcbfudDP1NErDpsw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302823092101",
+        "starRating": "5",
+        "comment": "Works well. Takes a bit to get the text, especially if the phone is not in motion or in a place where service is unavailable.",
+        "commentId": "lg:AOqpTOEr13dHiL1SD4f2Vzej_XOnLMr8Xzdz5piKLiqwUVrlTHhiwYNPI-LWTEtxvjuGrfGC6X_N-9LKBfudzA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302467057071",
+        "starRating": "1",
+        "comment": "I never got a response from the app. It does not work.",
+        "commentId": "lg:AOqpTOH_FukRDSACjx37KmOmsMBf8jcZf6xaKdDtTE3aofjd4PuCsNKR4wcOxmJ5IM5KiveCLrjF11ZFlalybQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302462535228",
+        "starRating": "1",
+        "comment": "I want to be able to track",
+        "commentId": "lg:AOqpTOE8G4Gu9nCI5i97egcUBpxG28Qr0NinUGAozgKiVHKC0-cxB0nyEzHzRFKYYvo6Wv4Up1vzjAbODjjP-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1301417508356",
+        "starRating": "1",
+        "comment": "get this to work at all",
+        "commentId": "lg:AOqpTOFWOAcXfoH3wXQsh0hrRLVNrhedOnDaJNw0tZ1nl0lcgGCDm6Xz1zcthAPLbmdkcuSELhYN8OudDVhGbw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349945354991",
+        "starRating": "5",
+        "title": "Exselent",
+        "comment": "Bad app ranking i have given in bad app its excellent  \\\" Bad \\302\\256\\\"",
+        "commentId": "lg:AOqpTOEtO9Tk7ka22zEkcNn84E57Vg5kWo-wHCDWK_hMGR36t118uX0EUoflKI9MlJmgDog2C_ZalYKvzyh_Fg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.SEND_SMS",
+      "android.permission.RECEIVE_SMS"
+    ]
+  }
+}

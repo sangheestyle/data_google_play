@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Lilian Garcia Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.liliangarciaapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 25, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.liliangarciaapp",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Lilian Garcia?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Lilian Garcia memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Lilian.LiliÃ¡n Annette GarcÃ­a (born August 19, 1966) is a Spanish-American singer and ring announcer. She is signed to World Wrestling Entertainment (WWE) as a ring announcer. During her first stint in WWE, she became the first WWE Diva to remain with the promotion for ten years.GarcÃ­a was born on August 19, 1966, in Madrid, Spain. She spent the first eight years of her life in the country due to her father's employment with the American Embassy, and was educated on an American military base, leading her to describe herself as a \"military brat\". Upon returning to the United States, Garcia graduated from Irmo High School in Columbia, South Carolina. She went on to attend the University of South Carolina, graduating cum laude. Lilian's family comes from Spain and Puerto Rico.GarcÃ­a was a top ten finalist in the Miss South Carolina beauty pageant. Garcia was also one half of a popular morning show on radio station WYYS,\"YES 97\" in Columbia with Chuck Finley in the early '90s. She was a VJ in Atlanta, Georgia, where she also had a drive-time afternoon radio show. She also served as karaoke host at the Nitelites nightclub in the Embassy Suites Hotel in Columbia, South Carolina, and later at the West Columbia Ramada.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.liliangarciaapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

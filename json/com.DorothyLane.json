@@ -1,0 +1,40 @@
+{
+  "title": "Dorothy Lane Market Mobile App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.DorothyLane",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 31, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Parsus Solutions, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.DorothyLane",
+  "extendedInfo": {
+    "installSize": "72k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "The Dorothy Lane Market app has arrived!  A great food experience awaits you every time you visit DLM and now weâve used technology to make your shopping experience better. Right at your fingertips you have access to your Club DLM account, tracking your points balance, delicious recipes, current specials, and upcoming events. Itâs simple and easy to navigate. Main Features:My AccountView your points balance and past transactions. SpecialsView weekly club deals specials, bonus points items, and the list of Club Rewards items you can redeem your points on.  Recipes Need a quick, delicious recipe for dinner or for your next gathering?  Browse our extensive collection of recipes that we have tested right here in our kitchens. EventsWe look forward to many fun and exciting events throughout the year. Search upcoming events and watch for more details on each event as the dates draw closer!Additional Features:LocationsFind the nearest DLM to you and view hours. ProductsLearn more about the foods and products we are proud to serve to you and your family.ServicesView a variety of services we are pleased to offer.If you are experiencing login or other technical issues, please email dlm@dorothylane.com",
+    "reviews": [
+      {
+        "timestampMsec": "1351019556382",
+        "starRating": "5",
+        "title": "DLM",
+        "comment": "Great! Easy to use.",
+        "commentId": "lg:AOqpTOG72q7tZUDjOqPVmdtucuQ6zUJI7xeHc8mUXBE_QWDTNY83nlmQsAikVwNOUM-cXRmurRs-JpATU9lHCrQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

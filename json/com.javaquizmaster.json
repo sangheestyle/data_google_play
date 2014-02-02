@@ -1,0 +1,30 @@
+{
+  "title": "Java Interview Questions",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javaquizmaster",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 23, 2013",
+  "version": "1.12",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Java Experience",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javaquizmaster",
+  "extendedInfo": {
+    "installSize": "793k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Java Interview Questions list for freshers and experienced developers. The questions are of high quality. Some question will really test the best of you. Now you can crack Java Interviews of companies like TCS, Infosys, Cisco, CSC, Wipro using this app. These Java Multiple choice questions are also useful for Java Programmer certification (OCPJCP).The quiz questions in this application is built by me after having enormous experience in giving and taking java interviews. This application contains Core Java quiz questions with four choices for each question and you need to pick the right answer.Sample questions:1) Which of the following design pattern is used when String literals are stored in a separate pool?   a. Decorator   b. Storable   c. Flyweight   d. Prototype2) ^ operator is used for?    a. Answer\": \"XOR\"    b. OR    c. NAND    d. NORTags: Java, MCQ, Interview, Certification, SCJP, OCPJCP, Sun, Oracle, Core Java, QuestionsThis free app is ad supported.If you have any complaint/suggestion regarding this application, do contact us at http://www.javaexperience.com/contact-us",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

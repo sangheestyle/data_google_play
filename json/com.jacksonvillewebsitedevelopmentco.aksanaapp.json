@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Aksana Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.aksanaapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.aksanaapp",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Aksana?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Aksana memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Aksana.Å½ivile Raudoniene (born April 29, 1982) is a Lithuanian fitness model, bodybuilder and professional wrestler. She works for WWE on its SmackDown brand under the ring name Aksana.Raudoniene began her career as a bodybuilder at the age of 16, where she began her training. At the age of 17, she was the youngest participant in the 1999 IFBB Arnold Classic Contest. During her time as a bodybuilder, she won three medals in Bodybuilding Amateur World Championships (2 silver, 1 bronze).In October 2009, Raudoniene signed a developmental contract with World Wrestling Entertainment, and was assigned to Florida Championship Wrestling (FCW), WWE's developmental territory, where she became the Queen of FCW and won the FCW Divas Championship, and also becoming the first diva in history to have both titles simultaneously. In September 2010, she competed in the third season of NXT, but was unsuccessful in winning the competition. She made her debut to the main roster in August 2011, being attracted to SmackDown General Manager Theodore Long. In April 2012, she then began an on-screen relationship with Antonio Cesaro, also becoming his valet. In October 2012, Aksana began aligning herself with Eve Torres.Raudoniene worked as a successful bodybuilder, fitness model and personal trainer and she won the 2009 IFBB Arnold Classic Contest and has competed in numerous other bodybuilding contests. Raudoniene has been working out since the year 1996 in her home of Lithuania and after a year she entered her first fitness contest. At the age of 17 she was the youngest participant in the 1999 IFBB European Fitness Championships.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.aksanaapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

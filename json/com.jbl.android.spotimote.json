@@ -1,0 +1,251 @@
+{
+  "title": "Spotimote free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jbl.android.spotimote",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.6.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4402",
+  "rating": "4.2905498",
+  "contentRating": "Everyone",
+  "creator": "Jean-Baptiste Lernout",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jbl.android.spotimote",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "Control Spotify on your Windows computer with Spotimote! (no MAC support)Spotimote turns your phone in a remote control for Spotify. With it, you can control Spotify from anywhere in the house.It's ideal for parties, lazy days or if you have a media center tucked away in a closet.(It requires the installation of the Spotimote server on your PC. Get it for free from http://www.evolu-on.com)Features:- Control what's playing now: play/pause, next/previous track, Spotify/PC sound volume, shuffle, repeat, track pos- Search for tracks, artists, albums- Access your playlists, selection, downloads, library, personal music, inbox...- Control the play queue- Launch track/artist radio- Star/Unstar tracks- Access your tracks history- Add tracks to playlists (Spotify premium users)- Manage your favorites (tracks, albums, artists, playlists...)- Widget (not available in Spotimote Free)If you have any trouble using spotimote, please send me an e-mail or leave a message on the forum (http://www.evolu-on.com/forum).Spotimote communicates with the Spotimote server component over Wifi. Make sure your phone and your computer are connected on the same wifi network to establish the connection.After the installation of the Spotimote server component, when you launch it for the first time, you may be prompted by the Windows Firewall. You have to authorize the server component to access the network or it won't be able to communicate with your phone/tablet.About the permissions, the \"READ PHONE STATUS AND IDENTITY\" permission is required to let spotimote automatically pause the music when an incoming call is received on the phone.This product uses a SPOTIFY API but is not endorsed, certified or otherwise approved in any way by Spotify. Spotify is the registered trade mark of the Spotify Group.",
+    "reviews": [
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1370278207746",
+        "starRating": "5",
+        "title": "Works great, easy to use",
+        "comment": "Great! It makes Spotify much more convenient for use with my home stereo. Occasionally, it takes 15-20 seconds to connect.",
+        "commentId": "gp:AOqpTOH_rEGebudMuqI7n-hrxSkVK_MpKV06SPbkvqw5d3ZzR1R3m6glsdt3OuDWuwdoMUXY61cQVykedpJcSQ",
+        "author": "Steve Morris",
+        "authorURL": "http://lh3.googleusercontent.com/-16eaCy3lS5E/AAAAAAAAAAI/AAAAAAAAAMw/gOAOC_JFZ6Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-16eaCy3lS5E/AAAAAAAAAAI/AAAAAAAAAMw/gOAOC_JFZ6Y/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1369854596466",
+        "starRating": "5",
+        "title": "Thank you for enabling my laziness",
+        "comment": "Sometimes I don\\'t want to get out of bed to control spotify on my desktop computer and with this app I don\\'t have to! Even has the capability to relaunch spotify when the desktop app inevitably spontaneously crashes!  Only suggestion would be to make the server app capable of updating itself or at least letting me know on the computer and not just my phone.",
+        "commentId": "gp:AOqpTOEvu9KyVm3dOxQeQpFXlt5-_QMHSrovs3nBMNaPdGdpHoEIr6wx2nvcLuXeFb81HVTtFzUQoTHlmpJz7w",
+        "author": "Pat Breen",
+        "authorURL": "http://lh5.googleusercontent.com/-_UnU1yY5r0c/AAAAAAAAAAI/AAAAAAAAGso/kBgESdYw8Sg/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_UnU1yY5r0c/AAAAAAAAAAI/AAAAAAAAGso/kBgESdYw8Sg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1370073978934",
+        "starRating": "4",
+        "title": "Super cool app, but needs a little work",
+        "comment": "The queue can not be edited, and some of my playlists apparently don\\'t contain all/any tracks. This has been an issue for quite some time. Please fix it! Also sometimes the song/notification is not updated when app is minimised.",
+        "commentId": "lg:AOqpTOGYKDEfuwKrmFN5LVEVKAU_GE-g7jfNFXN9NT46KgFzTdc_cUxKC5sAj8tiZl_3dYgPIAbX0MH-qjmAdQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1377724181504",
+        "starRating": "1",
+        "title": "Very disappointing",
+        "comment": "When I first logged in, it worked ok. But when I tried to view my playlists, it asked me to log in to Spotify on the app. So, I did. And then nothing worked after that. I couldn\\'t connect to the server, I couldn\\'t do anything. This app only works if you don\\'t need to see your playlists and just want to play/pause/skip tracks.",
+        "commentId": "gp:AOqpTOE_quwWwWt0IMzHWOIqjgmjCw03TpYh4u3P_yE8-0gXhx-90prH7zEJUhIQ2AtnBUJsqWqmHqdb-0R8JA",
+        "author": "Norton Wang",
+        "authorURL": "http://lh5.googleusercontent.com/-uh1EiD3rjiY/AAAAAAAAAAI/AAAAAAAAAHI/sXcr_iehNRI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-uh1EiD3rjiY/AAAAAAAAAAI/AAAAAAAAAHI/sXcr_iehNRI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1374659213784",
+        "starRating": "4",
+        "title": "Well Rounded!",
+        "comment": "Can be a bit funky but all apps have room to improve. Great after I solved pesky WiFi issues!",
+        "commentId": "gp:AOqpTOERKHe1mFopJpE2VDpFW9nr_AbfFjDvY8Ox97J_9A0vH15VRO3WZl1CkkpWV-giLZEatEG0Duo5vYMNiQ",
+        "author": "Zack Ball",
+        "authorURL": "http://lh4.googleusercontent.com/-mI-Rqe7s9r4/AAAAAAAAAAI/AAAAAAAAAFw/KJHq2QMbfbs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mI-Rqe7s9r4/AAAAAAAAAAI/AAAAAAAAAFw/KJHq2QMbfbs/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1371304138171",
+        "starRating": "5",
+        "comment": "It works amazingly well on my Sprint GS2. Highly recommended!",
+        "commentId": "gp:AOqpTOHutIuKxf_ZpisjJ-PhGU3kJjf7v_T4PSCruxHkXmyBeIwdQ0LFMmP6HZdwnqxcAgAH_zv71pYTPsyOcw",
+        "author": "Jason Osborne",
+        "authorURL": "http://lh6.googleusercontent.com/-5G7WO3HvUeU/AAAAAAAAAAI/AAAAAAAAAAA/q8dymW4QEJE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5G7WO3HvUeU/AAAAAAAAAAI/AAAAAAAAAAA/q8dymW4QEJE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1370696865670",
+        "starRating": "3",
+        "title": "One of the best for free users",
+        "comment": "More options than most. Sometimes a little sluggish UI, but otherwise offers a lot for a free app. Would love to have thumb up/down within the app, as well as a widget and expanded notification in the notification drawer, as there are ads to support it. Keep up the good work. ^_^",
+        "commentId": "gp:AOqpTOHahYn3g36tPuosF3BEWuvduRuWKV9J9J1v8t6OpXWZ9obge8Yzu3XolRz_wJCNtFh92Xh_gxDMhxhrlg",
+        "author": "Aaron Stedfast",
+        "authorURL": "http://lh5.googleusercontent.com/-GDcdSd_2CeQ/AAAAAAAAAAI/AAAAAAABHUo/0SFP4Wtk1YI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GDcdSd_2CeQ/AAAAAAAAAAI/AAAAAAABHUo/0SFP4Wtk1YI/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1374483349411",
+        "starRating": "1",
+        "title": "Unbearably slow",
+        "comment": "In theory it\\'s brilliant, we\\'ve got a pretty fast home network and I link it to my very good laptop but I choose a song which will then take probably a full minute to start playing, and then proceeds to restart the song 5-10 times. Frustrating is an understatement",
+        "commentId": "gp:AOqpTOHJUxe6TmF-WKjBSFQSVEWWokBW3ubIzuYZGzuKGzFhteA2p01s0uzxvJaQ2dK8UAjZuaJuR125VUzyEg",
+        "author": "Todd Miller",
+        "authorURL": "http://lh3.googleusercontent.com/-McW9f3v3M_Q/AAAAAAAAAAI/AAAAAAAAABY/wUA-0MskbuQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-McW9f3v3M_Q/AAAAAAAAAAI/AAAAAAAAABY/wUA-0MskbuQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1376431515485",
+        "starRating": "5",
+        "title": "Rad",
+        "comment": "Its the best remote app not hard to use at all I really love it",
+        "commentId": "gp:AOqpTOHqLmrv11K_BjC6vS-OMDOoavtn6jpvKt59LJsmB2KxEtx-wA5uTqGakYo-du8l6N5JPJZiFUqpmgeqPw",
+        "author": "Samantha Rodriguez",
+        "authorURL": "http://lh3.googleusercontent.com/-V4ebCUNIRek/AAAAAAAAAAI/AAAAAAAAAKQ/78EF5G19QLg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-V4ebCUNIRek/AAAAAAAAAAI/AAAAAAAAAKQ/78EF5G19QLg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1374734915934",
+        "starRating": "5",
+        "title": "Better and better",
+        "comment": "I love this app. I\\'ve had it now for almost a year and as every update is released, yeah keeps getting major improvements. this is 1 of the few apps that I frequently brag about having to iphone users. It does everything I could ever dream of it doing and it keeps doing them better and better.  To the developer, thank you for supporting your app with frequent and noticable updates.",
+        "commentId": "gp:AOqpTOEfctT3Y8I10tKpaSJWk1nq2c5TIwIopvCFKx0YfSEJvTlUUAnDlAJmzBaO4Bzg45K2Vbr7gXE_31fr9Q",
+        "author": "Nick Hahn",
+        "authorURL": "http://lh3.googleusercontent.com/-P2D-rqPJstY/AAAAAAAAAAI/AAAAAAAABOo/wcXhJArNKJk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-P2D-rqPJstY/AAAAAAAAAAI/AAAAAAAABOo/wcXhJArNKJk/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1375207974613",
+        "starRating": "5",
+        "title": "SWEET!",
+        "comment": "This is not just fantastic. It\\'s something more! Very cool app and easy to use, and packed with features.  Thanks!",
+        "commentId": "gp:AOqpTOGVovnP6Q0AGqix2SDvwBNVLvuWDZPKe0l5tL-_7QKA0NMNW9A_jmB7xMVvY03H9AvUenjpH7NFs73EkQ",
+        "author": "Aron \\303\\223skarss",
+        "authorURL": "http://lh5.googleusercontent.com/-cN4v9tzb4qA/AAAAAAAAAAI/AAAAAAAAASI/G7ik_B4noDY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-cN4v9tzb4qA/AAAAAAAAAAI/AAAAAAAAASI/G7ik_B4noDY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1376482646732",
+        "starRating": "5",
+        "title": "LOVE IT!!!",
+        "comment": "Came across it on the google play store thinking this can\\'t be real, Spotify would not let someone make a app after them  to let people control there pc\\'s on there own androids. Downloaded it and IT WORKS. pure genius who ever made this I love it great work",
+        "commentId": "gp:AOqpTOHYQhtSTakydUgNn86tgZtRCgDQCakSFelzkWJ-c7lxrdGZj2Cv4wruyvHIptifgPfSwmTw7jJd64z1jw",
+        "author": "sponge bob",
+        "authorURL": "http://lh6.googleusercontent.com/-ztbEzznnIXI/AAAAAAAAAAI/AAAAAAAAADY/43MhLO6OsTg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ztbEzznnIXI/AAAAAAAAAAI/AAAAAAAAADY/43MhLO6OsTg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1375140132026",
+        "starRating": "4",
+        "title": "Some issues, but functional",
+        "comment": "Worked perfectly in every way for about a week. Now, album art, song info, track position and volume control in the Now Playing screen do not load, though the on-screen buttons still work as they should. The Play Queue only shows what songs are coming up, cannot tap on a song to play it immediately. Nothing happens. Occasionally will not load playlists. Otherwise still works well, though I hope to see these issues fixed with the next few updates.",
+        "commentId": "gp:AOqpTOEwI1Z9Wemvi_Yv50cJ4ViMGlrlBAZVw88KDXb-PtlPpp35gzTmopoyhsqU16mzTDpTdL9v4j-laLxosw",
+        "author": "James Smith",
+        "authorURL": "http://lh3.googleusercontent.com/-68v4TUoY2dc/AAAAAAAAAAI/AAAAAAAAABw/0E9M9R69CwQ/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-68v4TUoY2dc/AAAAAAAAAAI/AAAAAAAAABw/0E9M9R69CwQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1373046003597",
+        "starRating": "5",
+        "title": "Works really well!",
+        "comment": "Works! No lags, better solution then the alternati",
+        "commentId": "lg:AOqpTOGkGXsjVAabj0M8aJqmfM8V4RksMpfCnVhbqJPMLdoWM6URmt3_sRDuyyfPA9_x1pobVg7tSBgK6ZxhwA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1376787775456",
+        "starRating": "5",
+        "title": "Works perfect",
+        "comment": "Beautiful app  easy to use  but I can\\'t seem to view my playlist Here\\'s to hoping I can soon",
+        "commentId": "gp:AOqpTOEZoUIC9_O0OWfy3wZU2g7q3SmJ7_XTur9qfVUsM_Zp5mPOuoB_Jab1S0o4R_RSGkZF648q6SHl-jgzWA",
+        "author": "Justin Mullis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1370898351215",
+        "starRating": "5",
+        "title": "Great for controlling spotify outside",
+        "comment": "Use it on the back deck and front porch to control spotify, neighbors love it too... they can control the tunes too.",
+        "commentId": "gp:AOqpTOHVJeHhDptNN6187tChlt8HZZwjR1s0DeRVcCwhOjvw8dH8R8wNAZyI0ECG1HGCfytPi1_ofY7UgZEmEw",
+        "author": "Thomas Smith",
+        "authorURL": "http://lh6.googleusercontent.com/--LdWpQRKwFY/AAAAAAAAAAI/AAAAAAAAOl0/6pienjSlW5Q/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/--LdWpQRKwFY/AAAAAAAAAAI/AAAAAAAAOl0/6pienjSlW5Q/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1371002916167",
+        "starRating": "4",
+        "title": "Awesome",
+        "comment": "Totally love it BUT THE NOTIFICATION CONSTANTLY IS IN MY DROP DOWN MENU galaxy Nexus 4g LTE",
+        "commentId": "gp:AOqpTOFqRLX6AHQDFN37_NCR-jEYlPTR3IvF_zgs3W5_2SYyQAK9zBwAnFcPXKgrjnRK41C6oSnJqjJsMBPycA",
+        "author": "Joseph Heinen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1378970087315",
+        "starRating": "5",
+        "title": "Easy to use!",
+        "comment": "Its a really good app! The thing that annoys me is that when you go on your starred list, its ordered by name not by when added",
+        "commentId": "gp:AOqpTOHTzQnlgbnn9DlU7tT6FVKeVYjmjn4W5i49ulP1VG_LHB1AC9r9kumIBSPNjG3BN5dgCox6GIk6GU1uGg",
+        "author": "Chris Regan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1377895525414",
+        "starRating": "4",
+        "title": "Good over all, needs one fix",
+        "comment": "Its a great app, makes spotify an even better media player. I can control my music from all over the house. Sometimes it take a while to connect. Also thia would be a nice App for pastors too if it can work",
+        "commentId": "gp:AOqpTOEoW7Ys2GKLR8B3a5nwT0oyHlwn71FmjWAMtgEohT1T5CDqVjTTB9cPr4F-6zh7TEGDrZKZK5uFbZPmfg",
+        "author": "Fadi Ghanim",
+        "authorURL": "http://lh4.googleusercontent.com/-o9ROTdT-HfA/AAAAAAAAAAI/AAAAAAAABeM/AzGwQtxMSc0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-o9ROTdT-HfA/AAAAAAAAAAI/AAAAAAAABeM/AzGwQtxMSc0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.6.3",
+        "timestampMsec": "1373042076828",
+        "starRating": "5",
+        "title": "Pretty Cool",
+        "comment": "The setup may be a bit complicated for anyone who isn\\'t good with computers. I would say ask a friend to set it up for you but otherwise great app. No complaints :)",
+        "commentId": "gp:AOqpTOHKakL6Dadhnov2TNMzOVMbRGjqwbgGxjfAFjZnD9xXDtueUzdsL8b47RsRaXby2OKfmsQwO2w__hRYtQ",
+        "author": "Javier Hernandez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.jbl.android.spotimote.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

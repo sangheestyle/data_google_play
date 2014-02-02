@@ -1,0 +1,49 @@
+{
+  "title": "Network Control Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jcandksolutions.networkcontrolfree",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 6, 2013",
+  "version": "2.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "14",
+  "rating": "4.428571",
+  "contentRating": "Everyone",
+  "creator": "JC&KSolutions",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jcandksolutions.networkcontrolfree",
+  "extendedInfo": {
+    "installSize": "2.7M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Network Control is an app that automates networks. You can control Wi-Fi and mobile data. Whether you want to save battery or keep connected as much as possible, Network Control allows you to customize in a flexible way your network connection.Network Control offers these settings:- Control Wi-Fi, mobile data or both with timers (Mobile data only available on Android 2.3 and up).- Make mobile data depend on Wi-Fi being disconnected.- Keep Wi-Fi on if connected (or turn it off even if connected) - Now Available Free!!!- Connect when screen turns on [Pro Version Only].- Set one timer to turn on Wi-Fi and another to turn it off- Set one timer to turn on mobile data and another to turn it off- Sleep mode: disconnects your device at night while you sleep (with customizable times) [Pro Version Only].- Home Screen Widget to enable and disable the app [Pro Version Only].Please read the FAQ to learn how to use the app. If you have any questions, detect a bug, or simply want to say thank you, please do so at the email provided: jcandksolutions at gmail dot com.If you have a problem, please don't rate low. Try contacting us by email to assist you first.If you wish to help translating this app to your language, please contact us, we will gladly add your language.",
+    "reviews": [
+      {
+        "timestampMsec": "1355666792792",
+        "starRating": "5",
+        "comment": "Cool...",
+        "commentId": "gp:AOqpTOGK5zb5v1L-3I28G_OEZVPfBIVCmaOwWPm3nhfLqWtOIRPk_dcfI7p1RuLI_owhIYckyEBLWsbGwMyYar8",
+        "author": "Iko Matijashevikj",
+        "authorURL": "http://lh4.googleusercontent.com/-cKGOjYbBQi0/AAAAAAAAAAI/AAAAAAAAANs/kMrDanGL-NE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-cKGOjYbBQi0/AAAAAAAAAAI/AAAAAAAAANs/kMrDanGL-NE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1354024318921",
+        "starRating": "5",
+        "title": "good",
+        "comment": "good",
+        "commentId": "lg:AOqpTOEOWzO-AyiD0mC73RGVx7Lo1LfWO2IjcseI69boDYiX92PhaXYLwvfzZ-1u0sP33EXzk2iTNXXQ1hdfn7Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET"
+    ]
+  }
+}

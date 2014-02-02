@@ -1,0 +1,30 @@
+{
+  "title": "Spirit Break - Beta",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.javapassionvk",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "November 11, 2011",
+  "version": "1.7",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "VonnieKinsey",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.javapassionvk",
+  "extendedInfo": {
+    "installSize": "110k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app helps us build margins in our schedule for God. He wants to meet with us to let us know how much He cares, what He has called us to do, and answer our concerns. This app helps set meeting notifications with God.God told Moses, 'I don't call who are equipped, but equip those who I call'. Have a better, enriched relationship with Him by meeting with Him. He wants to call on us.~from Marilyn and Sarah ministries and Jack Hayford ministriesWhen we live in faith and grace, we discover how much God is there.This app of spirit breaks notifies at the intervals set by the user. Release the notify events to start up the notifies.Each event topic has edit for requests, issues, journals, etc.Menu items are:-Releases notifies or cancels those already released.-Property to adjust start time from current and interval time between notifies; and a time span not to have notifications.-Export/Import to save or to restore personalized DB items of topics.  The export is a backup and the import is restore function. This is helpful in case the database is deleted or corrupted. This feature requires a sd disk.Under Topics tab, long press a selection to see a full descripton or a sub-menu for full description, for change notify date/time, or for a notify cancel.This app is in beta because it will evolve more. Expect changes to content, although personalized messages are preserved onto the user's database.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

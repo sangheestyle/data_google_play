@@ -1,0 +1,36 @@
+{
+  "title": "The Best Place To Travel",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.thebestplacetotravel",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "December 17, 2012",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Low Maturity",
+  "creator": "HK Nut",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jetsodoor.thebestplacetotravel",
+  "extendedInfo": {
+    "installSize": "4.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "The Best Place to TravelThousand of \"The Best Place to Travel\" and \"The Best Hotel in The World\" Video, Bring you more idea to plan your vacationAlso the \"The Best Place to Travel\" allows you to instantly search and compare room availability and prices from all major travel websites, including Expedia, Hotels.com, Booking.com, Agoda (and many more) all in one set of search results.THis Hotel Search Engine is free to use and is visited by over 100 million people every year. We search over 2 million hotel deals in over 120,000 destinations worldwide. Our website is available in 26 languages and supports 120 currencies.The Best Place to Travel Apps with all the most visited travel websites to build the world's largest hotel price comparison search engine. We searches the travel websites listed below in real-time to show travelers availability and the optimal hotel deal, then travelers click directly through to partner websites to book.AccorHotels.com \tAgoda.com \tBestWestern.com Booking.com CarlsonHotels.com ChoiceHotels.com EasyClickTravel.com \tEasyToBook.com \teLong.com \tExpedia.com \tGetaroom.com \tHilton.com \tHostelBookers.com \tHotel.de \tHotelClub.comHotelopia.com Hotels.com Hotels.nlHotels4U.comihg.comInItalia.it LateRooms.com Marriott.comOlotels.com OnHotels.comOtel.comPrestigia.comSkoosh.com Splendia.comVenere.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

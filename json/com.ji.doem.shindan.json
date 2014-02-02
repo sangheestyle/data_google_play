@@ -1,0 +1,33 @@
+{
+  "title": "Misochism Diagnosis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.doem.shindan",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1659",
+  "rating": "4.444846",
+  "contentRating": "Low Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.doem.shindan",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "ââOver than 220,000 downloads !!ââDiagnose how masochism you are via 30 questions âªYou may be the implicit masochism in factï¼Anyway, let's start to unmask âJust follow your intuitions ï¼¾ï¼¾It would be a key question to determine that you are masochism or not, which looks with no relations.How many questions you check will show you the level of masochism.-------------â Features of Masochismã»Easy to be shyã»Always to endureã»Like someone useless ã»Have no ideas what him/herself thinking about and hate to face responsibilities.ã»Lack of confidence, wanna be popularã»Think negatively when others hope you can do somethingã»Women with large breasts may turn to be masochismã»Low-incomer may turn to be masochismã»Especially O type of blood types-------------â About SMSM is the prefix of Sadism and Masochism.The derivation of pleasure as a result of inflicting pain or be inflicted pain.-------------â Test to recognize S or MClench your fist which a thumb inside your palm.Ask other to put his/her hand on your hand.If others' fist on your fist, he/she might be S.If others' palm on your fist, he/she might be M.\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.doem.shindan.permission.C2D_MESSAGE"
+    ]
+  }
+}

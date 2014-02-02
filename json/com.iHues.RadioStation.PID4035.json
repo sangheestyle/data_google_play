@@ -1,0 +1,48 @@
+{
+  "title": "Radio Eknoor",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.iHues.RadioStation.PID4035",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 23, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "iHues Media Ltd.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.iHues.RadioStation.PID4035",
+  "extendedInfo": {
+    "installSize": "566k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Radio Eknoor broadcasts Guru Granth Sahib ji Paath. Ek-Noor Entertainment presents radio - DIL APNA PUNJABI, a 24 hour channel of the Punjabi's, by the Punjabi's & for the Punjabi's. The show is hosted by prominent punjabi personalities like Tirath Pasla, Parminder Sidhu & Prabhjeet Singh. EkNoor entertainment promotes Punjabi Culture, Values, Traditions and Beliefs. This is a small effort by us to exhibit the Punjabi Culture and its Diversity to the people all over the globe. The word Punjabi does not only feature Sikhs but all the inhabitants of the Punjab whether they are Hindus, Muslims, Sikhs or Christians. This diversity has made Punjabi Culture very rich. It has inculcated tolerance in the people and it is the power which has kept the Punjabis together through thick and thin, whether they are in India or abroad. EkNoor exhibits this diversity and hence can be called a symbol of Punjabiyat. So, be proud and say DIL APNA PUNJABI.Eknoor RadioA latest offering from the EkNoor entertainment for the punjabi's all over the world - RADIO EKNOOR, a radio meant for religious audience. Now you can listen to gurbani any time on this dedicated radio channel. It is a small effort from our side to serve the people.",
+    "reviews": [
+      {
+        "timestampMsec": "1343285779799",
+        "starRating": "5",
+        "title": "Waheguru",
+        "comment": "Waheguru",
+        "commentId": "lg:AOqpTOGpLUPTrfjF9d03KjShlJITSyN6tnbZ8eoNuhtyRVHeOyFOxkYvqwEQB2yJp_l1McxOhif7YuU3fmxMbQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367171405803",
+        "starRating": "5",
+        "title": "*****",
+        "comment": "Great",
+        "commentId": "gp:AOqpTOEcOT1zAbcOpLPGzI_lBmAhoohHcZNe9ejfHX5ZuO_hpjw3nhkRLMyUhJ2Jz8RoHMMJA-Vg8pURIJ-urw",
+        "author": "Mansijaspreet Singh",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

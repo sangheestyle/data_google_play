@@ -1,0 +1,73 @@
+{
+  "title": "Western Security Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.WesternSecurityBank",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "March 22, 2013",
+  "version": "v2.0.1a1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5",
+  "rating": "4.2",
+  "contentRating": "Low Maturity",
+  "creator": "Glacier Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.WesternSecurityBank",
+  "extendedInfo": {
+    "installSize": "2.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "To access mobile banking you must be a Western Security Bank Online Banking customer. To sign up for Online Banking and receive access to mobile banking using your mobile device, customers can enroll by visiting the banks website and using the APPLY NOW drop down.  Sign up for mobile banking through your new Online Banking account.  Click on the Options tab, click the mobile settings tab and activate mobile banking access.  Then, begin browsing on your phone using the app just installed.  Our mobile banking is a solution that enables bank customers to use their Android to initiate routine transactions and conduct research anytime, from anywhere.  Customers can view account balances and transaction history, view account alerts, initiate account transfers and pay bills. Western Security Bank Mobile Banking supports all account types including checking, savings, money market, certificates of deposit, loans and line of credit.Western Security Bank Mobile Banking is a FREE* service that allows you to access your account anytime, from anywhere, using your Android.*There is no fee from Western Security Bank .  Connectivity and usage rates may apply.  Contact your wireless service provider for more details.Western Security Bank - Member FDIC",
+    "reviews": [
+      {
+        "documentVersion": "2.0.1",
+        "timestampMsec": "1365674666756",
+        "starRating": "2",
+        "title": "Hardly an app",
+        "comment": "After a couple attempts to set this up I realized that it has to be activated from the website.   Also it won\\'t save your user name so you have to fully it type out every time.  Using the browser is just easier.",
+        "commentId": "gp:AOqpTOFUM3ymp2Eb5CE-8alli4WbXgZgNcKfANnuIKjyziHY2Zr_3zlvI0zV7l92W0wOd6XJdYm3trqweWoYIoY",
+        "author": "David Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1345595123597",
+        "starRating": "4",
+        "title": "Amazing Support",
+        "comment": "They called me to resolve my problem though.  Thats amazing support.  They looked up my information took initiative and called me. That\\'s amazing support. Cons: its only a mobile website in a frame not a truely native app. That\\'s the only reason its not 5 stars",
+        "commentId": "lg:AOqpTOEvNi1Oi_ZFO2chnvcwDY8QMCIgTdpqMsB3QCDrkk6pOiLaOaTg6sYbVXziCaNneT6GWYi3MZq1G1i6qNo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.6.1",
+        "timestampMsec": "1355780653429",
+        "starRating": "5",
+        "title": "AWESOME",
+        "comment": "Love this app",
+        "commentId": "gp:AOqpTOGdWXqbr64S-pvbuqPJo1Sbnl_ay3_ty_UE0iHa3SYkhpgJZx88Q45qCqTJxV_BXHKdGNfONuUXVwZC0gs",
+        "author": "taylor Jenkins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347318916066",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Waited   long time for this",
+        "commentId": "lg:AOqpTOFdBGrgxzaJKKm0qfU9cSl6lOS3VyySi-SADeC5sAfWuOhOHQjL9QYzN5h6cNML44KfcH3kHQNYLmoAe18",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

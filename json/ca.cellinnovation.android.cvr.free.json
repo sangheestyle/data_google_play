@@ -1,0 +1,176 @@
+{
+  "title": "Call + Voice Recorder Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=ca.cellinnovation.android.cvr.free",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "April 5, 2013",
+  "version": "2.1.1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "72",
+  "rating": "3.7083333",
+  "contentRating": "Everyone",
+  "creator": "Cell Innovation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=ca.cellinnovation.android.cvr.free",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Get the best recording app on Android. Yes, Call + Voice Recorder records both phone calls and general audio conversations.*** Due to the differences in the implementation of recording API on varying Android devices, call recording does not work on some devices. If call recording does not work on your device, try different settings out. First, change \"Audio Source (Calls)\" to either \"Voice Uplink\" or \"Voice downlink\" in settings.  Some devices do not support call recording so no sources will work on those devices.This free version limits recordings to 1 MINUTE. Try out Call + Voice Recorder free on your Android device. If you're pleased with the recordings, Get the Pro app for unlimited length call and voice recordings.***Call + Voice Recorder starts up automatically when you receive or make a phone call and records discretely in the background. You can turn off this feature to record calls when you choose to by pushing the record button. You can also specify the phone numbers for calls you want to record. Features:â® Record all incoming and outgoing calls for selected phone numbers automatically.â® Automatic recording can be turned off so a user can choose to manually start or stop recordings mid call.â® Call service runs discretely in the background. App does not have to be running to record.â® Add number to record calls from your contacts, call log or enter phone numbers manually.â® NO LIMIT on the length of recordings for Pro version: Record a 1 minute call or a 2 hour lecture. This (free) version limits recording length to 1 minute.â® Share your recordings by Facebook, Email, Messaging (MMS), Bluetooth and more.â® Saves recordings to external storage or SD card if available.â® Several audio recoding settings available including audio format and number of audio channelsNOTE:  Due to the differences in Android devices, not all features of this all will work on all devices. Phone call recording has been tested and works on most Samsung, HTC and Sony/Sony Ericsson devices. Voice recording should work on all Android devices with a microphone (all phones and most tablets). You might have to change audio recording settings to get  phone calls to record correctly.If call recording does not work on your device, please do not rate this app down. Let us know which device you have, and we will try to make it work on your device.PERMISSIONSRECORD_AUDIO - Record audio.READ_PHONE_STATE - Detect when a phone call is being made or received.PROCESS_OUTGOING_CALLS - Used to start recording phone calls when calls are made. READ_CALL_LOG - Allows user to add phone numbers to record from call log.READ_CONTACTS - Allows user to add phone number to record from contact list.READ_EXTERNAL_STORAGE - Save recorded audio to external storageWAKE_LOCK - If recording is in progress and user hits the power button, keep recording while in the background, even if the screen is turned off.WRITE_EXTERNAL_STORAGE - Save recorded audio to external storage.CHECK_LICENSE - Check app license.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1374456356571",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "I like it",
+        "commentId": "gp:AOqpTOFSyDsYYzUK6ZisNDR0w3XNyMozDR-PVb-ZGygEDZ_sUi7vgTUkNQ_gIinLG8oB_UQ-MOGlG5LtdSv-BA",
+        "author": "Jeremiah Collins",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1375571417718",
+        "starRating": "5",
+        "title": "Kamal ahamed",
+        "comment": "Rudra%\\342\\231\\241",
+        "commentId": "gp:AOqpTOH0oN5Ck_0BdJJef-BpeKRlOR73rrTKgUWcPWxpBkLgvn93mvcphqlnb3Vgd8QkAMT9ok6dsEK4TT5zbg",
+        "author": "Welcome Salma",
+        "authorURL": "http://lh4.googleusercontent.com/-qJJfsnDCjbU/AAAAAAAAAAI/AAAAAAAAAA4/5ioI7EevM8s/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qJJfsnDCjbU/AAAAAAAAAAI/AAAAAAAAAA4/5ioI7EevM8s/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1376221809490",
+        "starRating": "5",
+        "title": "Alright",
+        "comment": "Alright",
+        "commentId": "gp:AOqpTOFFTj_o4FR2Xygc1jx5mcJUeOU8SvYBiK84D18HwkQuySYqj9wFza6tfhaRbo-GrgaFjZ9XbPRYLokOmw",
+        "author": "Jordan Mcknight",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.1",
+        "timestampMsec": "1368446151717",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Nice app.",
+        "commentId": "gp:AOqpTOFq7_TVxviwk5tYZieIFSuJqC2r1lx4Py4b1wJERazFHg7ms2SpJj-3Ka2ijK_8H93KfYHcbSgaZZBYZw",
+        "author": "vijay shukla",
+        "authorURL": "http://lh3.googleusercontent.com/-s5JDFKOQnGg/AAAAAAAAAAI/AAAAAAAAABo/BOiA2J7Kv30/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-s5JDFKOQnGg/AAAAAAAAAAI/AAAAAAAAABo/BOiA2J7Kv30/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1354731365188",
+        "starRating": "2",
+        "title": "good for recording",
+        "comment": "Needs to be very quite your surroundings. But I can hear myself just fine.",
+        "commentId": "gp:AOqpTOFdKq0tnVohHwJdR1VFuN_HCZuVvXWtSd6qvK0cCk9vr8MHmfQyk0KdTvFbDGjUZfjVn5zXhGseFoUcYA",
+        "author": "Danielle Butler",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1351160248994",
+        "starRating": "1",
+        "title": "Does not work",
+        "comment": "Like everythink else I\\'ve encounted",
+        "commentId": "lg:AOqpTOFa00m9PglMo7uzEAwBtbNOjscHEevEpJ2yG93IS5zaTRNHihcSbyMH2JraCU8V0jYbsG50XjU0QqWlKw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1349171877903",
+        "starRating": "1",
+        "title": "No",
+        "comment": "Recoding time is very short  not ful fil your requerment",
+        "commentId": "lg:AOqpTOEZz5uDt-m4r7gMsMrjyITTH4oGuFewHwTZ65M53O3YLS7StJ7NEZc11RIZWIo90CtHWnpasA9-1GPsBA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1349220109664",
+        "starRating": "5",
+        "title": "laura",
+        "comment": "good app",
+        "commentId": "lg:AOqpTOGSmNsiX5wf4Ng47RrALes9WDi67J9dOtlsCJufPEASly1nWfVTwC3202EmG0Yen2KY6pgQPX-cad2V9w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1361242891457",
+        "starRating": "1",
+        "title": "Waste of time",
+        "comment": "Maximum recording per phone call is 60mins",
+        "commentId": "gp:AOqpTOGBdCIGZ9_Jp7Hi0v5MrGyY3DjJ2hO6QUWDvnKz-CUmzniguOK4A1avYRZIkmowPLiC3phZfWhsC5AlBQ",
+        "author": "Stacy Dash",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1353769061981",
+        "starRating": "5",
+        "comment": "To mush",
+        "commentId": "lg:AOqpTOEuauJNHl2WwUwvCj6NjxCGRDI3oLZfntYzm-aCjldInFn2kVMCOxF0mmI8iGdJoQjfoSDsxOjWIQFiPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365788294465",
+        "starRating": "1",
+        "title": "Doesnt work",
+        "comment": "Dont download",
+        "commentId": "gp:AOqpTOG1KgZhrN3H61CMwxH4Lut_Ce-jM1Euvu_BspP0KZF8WO9STLcwnHMDll_h9JbKjPkyHllcQ7cKaVpbHw",
+        "author": "Raymond Gates",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358347289231",
+        "starRating": "5",
+        "comment": "GOOD",
+        "commentId": "gp:AOqpTOHIkVuBkrN1rGrX1Bs44nF8KC9ecY31J__HZydj4RRDN02f7L2c_Fg3tij9vdvE2NGzL-yn26D0MKIEmw",
+        "author": "Jasmeet Kaur",
+        "authorURL": "http://lh4.googleusercontent.com/-2TWJZCw7sg0/AAAAAAAAAAI/AAAAAAAAAB0/GHlu-ExkErA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-2TWJZCw7sg0/AAAAAAAAAAI/AAAAAAAAAB0/GHlu-ExkErA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377197406050",
+        "starRating": "1",
+        "comment": "Do not work for HTC",
+        "commentId": "gp:AOqpTOFyTKFKIvq2zFmKm4f74hPpjP0cRArPmkR90hfeM63GLYple7bGYdycD-MxtIHKaxmU3Te9eA8LTGKulw",
+        "author": "aditya rathor",
+        "authorURL": "http://lh4.googleusercontent.com/-se260a7Uuuw/AAAAAAAAAAI/AAAAAAAAAmw/snMsAX3-BGw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-se260a7Uuuw/AAAAAAAAAAI/AAAAAAAAAmw/snMsAX3-BGw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369325134304",
+        "starRating": "4",
+        "title": "Good",
+        "comment": "I like it",
+        "commentId": "gp:AOqpTOG0BIrCuO6VYj-I2l8lh38vua6P6Sy_iKA571HPGTDM8-y0c6yjSx5e2KHf1sNPNc-HHVBfKTLnQ4mCUQ",
+        "author": "israt rahman",
+        "authorURL": "http://lh4.googleusercontent.com/-GvGV773V5wU/AAAAAAAAAAI/AAAAAAAAABg/iGL5YuyC_pI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-GvGV773V5wU/AAAAAAAAAAI/AAAAAAAAABg/iGL5YuyC_pI/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

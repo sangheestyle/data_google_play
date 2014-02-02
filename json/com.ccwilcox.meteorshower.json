@@ -1,0 +1,242 @@
+{
+  "title": "Meteor Shower Calendar",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ccwilcox.meteorshower",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "1.7.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1184",
+  "rating": "4.4070945",
+  "contentRating": "Low Maturity",
+  "creator": "ccw",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ccwilcox.meteorshower",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Would you like to know when the next meteor shower is? This app will display a list of upcoming meteor showers and the approximate date in which they will peak with specific details on each.Features:- A reminder system to automatically notify you when the next shower is coming up!!- Expandable notifications on 4.1+ devices- Share this app with a friend on both Android and iOS- Widget for your home screen to show the number of days until the next shower, your location's sunrise/sunset times, and the current phase of the Moon! (widgets use very little battery and don't connect to the internet)- LockScreen widget on 4.2+ devices- Share details about an individual meteor shower- Choose to sort the list of meteor showers by peak, start, or ending dates- Swipe left/right to see next/previous meteor showers when viewing the details page- The upcoming sunrise or sunset time is shown at the top - Enable the \"Auto theme\" feature and the theme will automatically change to day and night mode before and after sunrise/sunset!- 4 color themes to choose from: Light, Dark, Daylight, and Night- Conduct a Google Search within the app to read even more about each meteor shower such as its origins and many, many other details and share it with your friends via SMS, Email, Facebook, Google+, Twitter, or any other social network!- View a Sky Map search to point you approximately where in the sky to look for the meteor shower when it peaks. Compatible with SkEye and beta support for Google Sky Map- See current Weather Forecast to get ready for the the upcoming conditions- Shows the Phase of the Moon on the approximate meteor shower peak date!Go out and enjoy looking at the sky!Ad supported. To remove ads and support development, please purchase the Meteor Shower Calendar Key Permissions:- Internet needed to show ads- Coarse location needed to calculate sunrise/sunset time - Automatically start at boot needed for the notification system",
+    "reviews": [
+      {
+        "documentVersion": "1.7.2",
+        "timestampMsec": "1377216137741",
+        "starRating": "4",
+        "title": "Pretty good app.",
+        "comment": "It could be better, in a few ways. But, for free you can\\'t demand too much. Overall, this app is useful. One of the best features is its ability to work with other apps. In particular, Skeye, Meteor Shower Calender will open Skeye and direct you to the source of the meteor shower.",
+        "commentId": "lg:AOqpTOE6x6N-wEe3o_mJSTfy51XpypdCrCBgPjlt4d1JDmI5RM3DZLgWjg_mDF5nNHta9CuSWK2kLcNwzkUltqk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.2",
+        "timestampMsec": "1377171301707",
+        "starRating": "5",
+        "title": "Nice & handy",
+        "comment": "I\\'m a first time user & I\\'m hooked on it :-)",
+        "commentId": "gp:AOqpTOE55g33-KrZHOt3K0JG6r0iyAEKPl1a9EDQpaZ5w03ziqle-OpPcyWEtwZCbpYcc7kYoL1lRnvhr4oIAXk",
+        "author": "John Fothergill",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.2",
+        "timestampMsec": "1377906340305",
+        "starRating": "5",
+        "title": "I love this app.",
+        "comment": "The calendar alarms are great at reminding me to look up and watch the greatest show, not on Earth!",
+        "commentId": "gp:AOqpTOHNXSDmSU7_p29JA6OIMVv4kOzLhnJZQIz9io_4qVTZSw0lwCzXu3WQuISUxgWqJ5fC2GmkC_7agbqg8Bs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.2",
+        "timestampMsec": "1377281060893",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Makes meteor viewing a doddle.",
+        "commentId": "gp:AOqpTOEhQdiE7kYjEFtCelfKr3_FeA8yrjb5em3p_XBkyeoYMd9TeizuN8tnJpcvYTJaw_Yy_DQjxGO2InsAQYY",
+        "author": "Donald Morse",
+        "authorURL": "http://lh6.googleusercontent.com/-tadqH7OrF0A/AAAAAAAAAAI/AAAAAAAAAL0/cCR5WU5OEjE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-tadqH7OrF0A/AAAAAAAAAAI/AAAAAAAAAL0/cCR5WU5OEjE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.2",
+        "timestampMsec": "1377879863136",
+        "starRating": "5",
+        "comment": "Great way to quickly find events",
+        "commentId": "gp:AOqpTOEBF__B_W3PwzAVr2kBbbPXCF_SJNSK9laVUTpyBYTRz9dIpfTK1RO0DiASI7d5jcm4Wyf66EADd04v-B4",
+        "author": "William Speaks",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1377137807194",
+        "starRating": "4",
+        "title": "good VHF / UHF ham radio op tool",
+        "comment": "besides *watching* them, we like to bounce radio signals off of the ionized trails !",
+        "commentId": "gp:AOqpTOHQ1F-0Cqy-EGBKGCqRZZJJB1nnu8Y_wNt1VwaVVsEtGoF9xTOAMLUc0fflP8lHdw4CCUNrZcUo_SfoK8k",
+        "author": "But Wheat",
+        "authorURL": "http://lh5.googleusercontent.com/-EktBEd01tHs/AAAAAAAAAAI/AAAAAAAABJ0/-Bv_alawswA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-EktBEd01tHs/AAAAAAAAAAI/AAAAAAAABJ0/-Bv_alawswA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376980040402",
+        "starRating": "5",
+        "title": "Sam. S4",
+        "comment": "Absolutely the best.. does  everything you expect of it...the adds are a little bother but it\\'s just 1 more button",
+        "commentId": "gp:AOqpTOGYD0Gwkj_C86bCePUVIJG2Dse2D8xvRhTlu4bKgn7bDh2ogXK2SfQFg6wZLbe08VeTUaZKGQqabm9B4cE",
+        "author": "roger mcquaid",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1375206812796",
+        "starRating": "5",
+        "title": "I love this AP!",
+        "comment": "We\\'ve been following the meteor showers for years, and it\\'s never been this easy. The settings are easy to understand and set, and the notifications are awesome!",
+        "commentId": "gp:AOqpTOHTIO-P8QhpLtqjatNrTzNT1Wt_Y1Mz0zh8JajVTn4KnatVo4sD7JNkC8MXNUtnm5H37DumzcY7PEGtP9o",
+        "author": "Debby K",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376400345633",
+        "starRating": "4",
+        "title": "Great app",
+        "comment": "It\\'s an amazing app, however it would be even better if it show also the time of night when the highest amount is seen. For example, with the Perseids Meteor Shower the peak is today, but the peak time is between 3 to 5 am this morning. So, it would be great to know not only the date, but also the time too. :-) Overall, great app and I look forward to the meteor showers.",
+        "commentId": "gp:AOqpTOFAi7ZtjAeDSVgJQS9H9SxhRNO6LnW8iOZ1s5dUZKAsPm4JvNYb_YAMqBtGxe6KON1XkaG6TZEjaKd2i7w",
+        "author": "Courtney Stallings",
+        "authorURL": "http://lh4.googleusercontent.com/-mDSDij3BHv8/AAAAAAAAAAI/AAAAAAAAAD4/bTrYkSjC-zM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mDSDij3BHv8/AAAAAAAAAAI/AAAAAAAAAD4/bTrYkSjC-zM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1375544914092",
+        "starRating": "4",
+        "title": "Where?",
+        "comment": "I\\'m not sure if it tells you where you can see it; is it your current location?",
+        "commentId": "gp:AOqpTOHiemsomFkrEa7TdFTkETzcbMgx8W2mV7jMISEAoNuMBUT5yFX-BkKXU6V8V_nsithReda4_-SYEi_jtGQ",
+        "author": "Stephanie Hance",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1377095568770",
+        "starRating": "2",
+        "title": "Notification doesn\\'t work right",
+        "comment": "Very nice app. However, the notification tool doesn\\'t really work. I got no notifications for a year (and yes, I had it set correctly) until after the peak of the Perseids.",
+        "commentId": "lg:AOqpTOFDy4KZAAh7ywP5_aG6Prg8ZKrGHFxWKEjv-943NU0ajBug5fIOF4fWR88_eD-mWiIYtCeZxtCI2Xnu5I8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376153249619",
+        "starRating": "5",
+        "title": "Wonderful",
+        "comment": "Great app with tons of well-thought out features.",
+        "commentId": "gp:AOqpTOFXx0V5rJ1EfnCEr7K-X3NDMaaIcocwx_PmRHkFYd0ikB748eLJJ4EJKdnu_dMw7XebEIbfI8UD7QsuVLo",
+        "author": "Dan D\\'Eon",
+        "authorURL": "http://lh3.googleusercontent.com/-ExmLee5N44w/AAAAAAAAAAI/AAAAAAAAAJ0/oixAIcPJnM0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ExmLee5N44w/AAAAAAAAAAI/AAAAAAAAAJ0/oixAIcPJnM0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376367979923",
+        "starRating": "5",
+        "title": "AWESOME  APP",
+        "comment": "This is a must have app for stargazing.",
+        "commentId": "gp:AOqpTOGxavl0TUiWTHhXWwCSzWGHwmKJjMG6mjkRkwDcS5qMxR1-ropKQ6ypxtsiKkAmebxs0z3ADDhTq2ZT_y8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1374925861874",
+        "starRating": "4",
+        "title": "Not bad",
+        "comment": "I definitely urge you guys to remove the refresh arrow circle from the widget, it throws off the sleekness.",
+        "commentId": "gp:AOqpTOERR2kmOGu6td_xusJ_JSikxanB99NiW2_-eWaXwgjoj3MgIn0cHxH8DSZ020VC_CN8qLwheepzSqXCOPI",
+        "author": "Justin Ballensky",
+        "authorURL": "http://lh6.googleusercontent.com/-q0P2pXNBhqM/AAAAAAAAAAI/AAAAAAAAAEw/1y1dsxPQh8Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-q0P2pXNBhqM/AAAAAAAAAAI/AAAAAAAAAEw/1y1dsxPQh8Y/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1377204092652",
+        "starRating": "4",
+        "title": "Very good",
+        "comment": "Like it a lot sun rise as well as moon rise",
+        "commentId": "gp:AOqpTOH0B1Li12zvW4NAY_HsxAFk30iUwCEs6AKiXjr0FsqIlqd9NAP4ucCsEP_wwePkBw8_9-sVNjROsVXHRjQ",
+        "author": "geoff davis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1375175719757",
+        "starRating": "5",
+        "title": "An absolute must have any star enthusiast",
+        "comment": "I love that I do not need to pay attention to any dates this app automatically update me on when a meteor shower starts and when it\\'s going to peak and shows you what kind of level and the name of the meteor shower it\\'s going to be an absolute 5 stars a must have",
+        "commentId": "gp:AOqpTOFsDEdijqdI6TGE8RNN6CKUGU8JcJd4Nja8R5BQ0U1KbvCViXIAsPzs_vh0i88o6ZIvxb6X_A3iq8XEzsA",
+        "author": "Adam Lavoine",
+        "authorURL": "http://lh6.googleusercontent.com/-n5i1B8mNGMc/AAAAAAAAAAI/AAAAAAAAAAA/4fvnmRnvpiY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-n5i1B8mNGMc/AAAAAAAAAAI/AAAAAAAAAAA/4fvnmRnvpiY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376433114393",
+        "starRating": "4",
+        "title": "Needs just a little tweaking.",
+        "comment": "Easy to use and helpful but it needs to allow some sort of notification when the stars  peak.",
+        "commentId": "gp:AOqpTOGEN6Ai8JLxGFYx-YxDXlx5kQXoLA0Cx3HnP9igcqv8Q6wbehoX-D_oeYGvfa31eZP2lV1wlYgJsQff0tY",
+        "author": "Jessica Troutman",
+        "authorURL": "http://lh6.googleusercontent.com/-8Y2-k96HqKs/AAAAAAAAAAI/AAAAAAAAAEI/NecYWGrm-1Q/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-8Y2-k96HqKs/AAAAAAAAAAI/AAAAAAAAAEI/NecYWGrm-1Q/photo.jpg"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376479625834",
+        "starRating": "5",
+        "title": "great",
+        "comment": "love it. also can set reminders. thanks",
+        "commentId": "gp:AOqpTOHeTgKUeFb3nMsUES7KtIJw5072pIH2KMTFM8tt_rhABR8pmYwp-k5mz-_Mm7GRpU57jaLEoaKc3zMbZlQ",
+        "author": "Ingo Sandner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1376102471085",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Great app love that it is so easy to use! Thanks will recommend to everyone!",
+        "commentId": "lg:AOqpTOEu1RtlG9OUBh_Y1GwmZxLkW3EGxlsBwIT-ySYJnMEeAWHUPqSFV9uvtldM02kxQtuaO9G4KIhtlRuqweo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.7.1",
+        "timestampMsec": "1375963736351",
+        "starRating": "2",
+        "title": "Ok",
+        "comment": "Not bad but it takes forever to load",
+        "commentId": "gp:AOqpTOFVDuSudtTTM7TRYxS_UMEGRihq28AWgVLnPgzVSS7saJPnK7VL7db8OJs_qEuKk4iFvUECghWAr2cvzfA",
+        "author": "Ray Vidales",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

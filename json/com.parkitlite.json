@@ -1,0 +1,83 @@
+{
+  "title": "Park.IT - SF Parking EZ",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.parkitlite",
+  "category": "Transportation",
+  "price": "Free",
+  "datePublished": "July 8, 2013",
+  "version": "1.05",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "8",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "General Eyeballs, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.parkitlite",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Park.IT SF works only for San Francisco.ParkIT SF - A FREE mobile parking app helps you find parking you could use. It interprets the parking rules by sending alerts if you are about to violate it, thus saving money.The App shows, where you can park on street [free or paid (cost/hr)] or Garage.  ParkIT helps you understand the complicated street parking rules laid out by SFMTA. ParkIT SF takes into account all of San Francisco city (SFMTA) street parking regulations, including: No Parking zones, Street Cleaning, Metered parking, Tow Away Zones, Inclined parking and Residential parking limits.ParkIT SF helps you find parking either around where you are at or near your driving destination in the following manner,â¢Specify a parking duration (30min to 3 days)â¢Enter your driving destination address (Type or Speak) OR select current locationâ¢Choose to display only what is desired: Street parking, No parking areas, Parking garagesAdditional supported features,â¢In-phone notification in case the specified parking duration is exceeded or instant alerts like active tow away, street sweeping, or incline parking. This saves you getting parking tickets from PEO (Parking Enforcement officer).â¢For metered street parking or parking garages, the cost per hour is shown. â¢If SFPark metered spaces with sensors are available, the live number of open spaces are displayed.â¢Whether street parking or parking garages, detailed information can be seen by clicking on the street parking or parking garage icon.â¢Displays (Red hat Pin) your parked spot in case you have forgotten.Note: â¢The legend on the bottom right corner of the screen describes the iconsâ¢ParkIT SF Smartphone parking App works only for San Francisco as of now.Get parking in San Francisco,SF Sunday StreetsSan Francisco Dragon Boat FestivalSan Francisco LGBT PrideAnnual North Beach FestivalSan Franciscoâs Union Street FestivalAmericaâs cupSF Theater FestivalSan Francisco trip advisorSan Francisco traffic and weatherSF Muni bus & trains",
+    "reviews": [
+      {
+        "timestampMsec": "1367609878139",
+        "starRating": "4",
+        "title": "Handy but limited",
+        "comment": "Helpful but not totally reliable. Wish I could tell it I DO have a parking permit; that would make it awesome!",
+        "commentId": "gp:AOqpTOERsc5ey4LAERnjtZjyC6QvF1fYivzY44shvM90pYjqzYhsmjUNvTIuVe6Kh2RtGS0HVe4pv2HvwyF87A",
+        "author": "Jennifer Erickson",
+        "authorURL": "http://lh3.googleusercontent.com/-0f2nkYTkh9I/AAAAAAAAAAI/AAAAAAAADj8/4XlnlMkiHJw/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-0f2nkYTkh9I/AAAAAAAAAAI/AAAAAAAADj8/4XlnlMkiHJw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370285876761",
+        "starRating": "2",
+        "title": "Remote location resets",
+        "comment": "This app seems to work fine for the area you are in, but if you are looking ahead and trying to determine if there will be parking, it doesn\\'t work.  It accepts the text for the address and then resets.",
+        "commentId": "gp:AOqpTOEcb6uB8Hh4SX8xh2gCnbEJrThRk5sf32-nESvBcS3Oxyf9TIx54NAzOcsc0gWO04lenjvZ9zqOwT0-SA",
+        "author": "Jeff Spirer",
+        "authorURL": "http://lh6.googleusercontent.com/-f8IgU0CEa-4/AAAAAAAAAAI/AAAAAAAAAa0/2I29ko8k3X4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-f8IgU0CEa-4/AAAAAAAAAAI/AAAAAAAAAa0/2I29ko8k3X4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366597637973",
+        "starRating": "5",
+        "comment": "Very useful",
+        "commentId": "gp:AOqpTOFvANPHKDHafgXHaf1X_xdrOlADTIFjX1loHRyyF9-bEC9hI_sGVtxpaBr51aG5QEBqbV3im08fvsR_og",
+        "author": "Chirag Kathrani",
+        "authorURL": "http://lh5.googleusercontent.com/-TMoHtRMr3Rk/AAAAAAAAAAI/AAAAAAAAEPw/BYhWIYifKFs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-TMoHtRMr3Rk/AAAAAAAAAAI/AAAAAAAAEPw/BYhWIYifKFs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362866963214",
+        "starRating": "3",
+        "title": "Still in diapers but already useful",
+        "comment": "I saw a sign for this on the side of the road at 101\\'s 4th street exit and figured I\\'d give it a try. Really nice idea and I love that it hooks into real-time smart meter data. This being a brand new app, the UI is understandably horrendous and almost unusable, but I\\'m sure it\\'ll improve with time and I can already tell this will be a helpful little app.",
+        "commentId": "gp:AOqpTOFgTJ9pVTXHIMu7jMJ1aBhGDHF0nwSEnv75NgbLST31vjcse91dTrib1dciNWaMz75d5Sg_IlLrXZWuPQ",
+        "author": "Afik Cohen",
+        "authorURL": "http://lh4.googleusercontent.com/-4wvlz4Rpm6E/AAAAAAAAAAI/AAAAAAAAAJw/Q4gZmVmoi38/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4wvlz4Rpm6E/AAAAAAAAAAI/AAAAAAAAAJw/Q4gZmVmoi38/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377976415966",
+        "starRating": "2",
+        "title": "Stays open in the background",
+        "comment": "Stays open as a background process. Drains battery.",
+        "commentId": "gp:AOqpTOGXLcqDTdwajcewHKGg52Z9c_0WFl_x8paVTzQo4N6iZl-WN2O5TTa0zF7cHw5rACq12ey55i7WSuUWDg",
+        "author": "Anand Chhatpar",
+        "authorURL": "http://lh4.googleusercontent.com/-7yMvc2hfrls/AAAAAAAAAAI/AAAAAAAACE0/spOq48RU0uY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-7yMvc2hfrls/AAAAAAAAAAI/AAAAAAAACE0/spOq48RU0uY/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.android.vending.BILLING",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE"
+    ]
+  }
+}

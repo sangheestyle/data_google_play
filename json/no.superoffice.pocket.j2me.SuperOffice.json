@@ -1,0 +1,47 @@
+{
+  "title": "SuperOffice",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=no.superoffice.pocket.j2me.SuperOffice",
+  "category": "Business",
+  "price": "Free",
+  "datePublished": "July 5, 2013",
+  "version": "7.2.11",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "11",
+  "rating": "4.818182",
+  "contentRating": "Everyone",
+  "creator": "SuperOffice AS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=no.superoffice.pocket.j2me.SuperOffice",
+  "extendedInfo": {
+    "installSize": "3.6M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "SuperOffice Pocket CRM enables you to access your SuperOffice CRM information on your Android smartphone or tablet. Keeping you: Always in touch - Always informed - Always updated - Always available.This app requires that you already are a user of SuperOffice Sales & Marketing with version 7 or newer and that you have access to a Pocket CRM server.Key features:- Full access to all contacts, activities, projects, documents, e-mails and opportunities in your CRM system.- Opportunity and pipeline management for you and your team.- Access the calendars of all colleagues and make, edit or accept appointments directly.- Get alerts of new invitations or overdue sales- Archive e-mails and images from your phone or tablet directly to your CRM system.SuperOffice CRM is EuropeÂ´s leading CRM software and is a highly effective and user-friendly solution that helps businesses find, catch and keep more customers. The SuperOffice CRM software runs in a browser on both Mac and Windows PC, as a client/server software on Windows and is available as an on-premise solution as well as online in the cloud. SuperOffice CRM is award winning software; including 3 times test-winner by PC World largest test of marked leading CRM software solutions, twice winner of the Rosing award for best software usability, awarded the Norwegian Design Council award for Design Excellence, and most recently recognized as one of the âTop 20 appsâ by âInitiative Mittelstandâ in Germany.",
+    "reviews": [
+      {
+        "documentVersion": "7.2.11",
+        "timestampMsec": "1377499142779",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Best version so far.",
+        "commentId": "gp:AOqpTOFqRrmBeRcIovjBz6gIfBgJhzTe_M_LEUcN3SxnCpx3-UeASKiLU3ft6bDQo-1EwAwqNJL6Bf5DpUXAlzE",
+        "author": "Hans Wilhelmsen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.SEND_SMS",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Conservative Mega Feed",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.blog.mvavCMF",
+  "category": "News & Magazines",
+  "price": "Free",
+  "datePublished": "May 28, 2013",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "4.6",
+  "contentRating": "Everyone",
+  "creator": "reinforcedtv",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.blog.mvavCMF",
+  "extendedInfo": {
+    "installSize": "357k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This app pulls all the news headlines from the top conservative news sites and puts them right at your finger tips. No one else can gather this many headlines in one simple to use phone application.News from: The Drudge Report, Breitbart.com , The weekly Standard, The Heritage Foundation, Townhall.com, National Review, The American Spectator and The Spectacle Blog, RedState.com, HotAir.com, Michelle Malkin, Hit and Run + Reason.com, Twitchy, Real Clear Politics, and Human Events.This app is ad supported to keep it 100% free. If you press the home key to \"Exit\" the app will show an ad.  If you agree to the license you agree to the advertising. The permissions required are for the advertising and storage of the news stories raw data.  We do not collect any information about your phone or you PERIOD.If you have a news feed you would like added send us an email contactus@reinforcedtv.comThis is a must have for all patriotic conservatives. No matter if you are a Republican, Conservative, tea party member or a conservative NRA member this app has the news you look for over dozens of sites.The first tab shows an \"OVERVIEW\" of the feeds individually so you can select each one to see just that one sites feed.  The middle tab \"ALL\" mixes all the news stories together based on the update time.  The first time you load the feeds they will all be separated. The \"FAVORITES\" tab shows you any story that you touched the star to set as favorite.  Its a great place to put all the stories you want to read later or reference later.There are tons of ways you can personalize the say the app works in the settings menu.We provide the headline and a small summary of the story with a link that will take you to the news story you select.  The app pulls from publicly available RSS feeds and shows a very minimal amount of the summary so the reader can go to the link if they choose to or not.",
+    "reviews": [
+      {
+        "timestampMsec": "1377955019163",
+        "starRating": "3",
+        "title": "Just a link to the websites",
+        "comment": "If I ever find a decent web browser this will be a great app, but I haven\\'t so it\\'s not useable to me",
+        "commentId": "gp:AOqpTOHf6xq-AtuR4WvDovwwyoCZKSc6po6A1k8OvJhWF03-xNBPySZjkpeaxFJ51Nckrg9v8aVt0oFVq9PBV_M",
+        "author": "andrew t",
+        "authorURL": "http://lh3.googleusercontent.com/-ffYQoN0ZwF4/AAAAAAAAAAI/AAAAAAAABxY/EFmE_Oah7b4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ffYQoN0ZwF4/AAAAAAAAAAI/AAAAAAAABxY/EFmE_Oah7b4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371916340495",
+        "starRating": "5",
+        "title": "Five star But",
+        "comment": "Please get  Glenn Beck \\'s The Blaze thank you",
+        "commentId": "gp:AOqpTOGnhcwx28JR5Z-dm80_JZC_7dWld84bVPvDp_4wX7aC5t5UYb8BwdBqSfGYgZ4Et7WIJofP97AS4Iq4aOE",
+        "author": "James Harris",
+        "authorURL": "http://lh6.googleusercontent.com/-cSSCJ_tpl_w/AAAAAAAAAAI/AAAAAAAAAJo/6fyOqKwIa4Y/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-cSSCJ_tpl_w/AAAAAAAAAAI/AAAAAAAAAJo/6fyOqKwIa4Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369272098083",
+        "starRating": "5",
+        "title": "Like It",
+        "comment": "Great selection of feeds",
+        "commentId": "gp:AOqpTOEFpC4GuEk3d_qFhDo_S3QKliOezEMqZqQsCxY182Cpe775omOsYInlCsCMpO3ZYjuoKSsAKkumNgJGIk8",
+        "author": "M Vav",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.GET_TASKS",
+      "app.wordpress.READFEEDS",
+      "app.wordpress.WRITEFEEDS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "title": "Light Meter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bti.lightMeter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 1, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "527",
+  "rating": "3.523719",
+  "contentRating": "Everyone",
+  "creator": "Borce Trajkovski",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bti.lightMeter",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "_âââ_ Light Meter _âââ_ââââââââââââââââââââProfessional light intensity (lux) meter for your device.It measures illumination levels in lux.Features:ââââââââ  direct reading in luxâ  0 to 1000lux in 2 rangesâ  automatic range changeâ  support for neutral filtersâ  more range by using filtersâ  more range by using dividersâ  5% max error (device dependent)â  predefined and custom calibrationâ  sensor linearity correction valueâ  alternative display in fc (foot-candles)â  realistic vintage analog lookâ  18 case skinsNOTE:âââââThis app requires devices with a light sensor. It uses native light sensor data acquisition that gives accurate and instant light intensity reading. This type of native data acquisition is available only for:â  HTC (Hero, Magic, MyTouch, Legend, Desire, Wildfire etc.)â  Samsung (SGS, SGS2, SGS3, SGS4, Vibrant, Epic, Captivate, Fascinate, SGTab, Note, Note2 etc.)â  Sony Ericsson (SE X8i, X10, XT etc.)â  Asus (EeePad, Transformer etc.)Other devices are also supported by the built-in compatibility mode but the accuracy and the speed of light intensity reading may be limited and custom calibration is required for correct reading under compatibility mode.Also, on some devices the light sensor may not be linear, not continuous and measuring errors will occur or the maximum measuring range may be limited. This is not app's fault.",
+    "reviews": [
+      {
+        "timestampMsec": "1377261922386",
+        "starRating": "5",
+        "title": "Nice app",
+        "comment": "The only light meter (out of almost 10 I tested) which seemed to work on my Galaxy S. Other apps gave values at only 0, 1000 or 5000. This one did it properly.  Interestingly, it doesn\\'t use the front or back camera for sensing, but rather a sensor I didn\\'t even know existed - it\\'s at the top left of Galaxy S, you can just about see it.",
+        "commentId": "gp:AOqpTOFbfwyFy4Ye_z7dLtGbuqzBQFT5VPpZv29xNuFMLwVu6cu-96M6e4HgOWrTQirOvd1DDWTaKZnZSKqqsw",
+        "author": "Daniel White",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377186694073",
+        "starRating": "5",
+        "title": "S4",
+        "comment": "Compared side by side on job with professional meter and was almost spot on with a variance of less than 5 fc. Layed down flat next to meter. The closer I put my censor ( at top on front) the closer the reading were . Both meters were very sensitive and even an inch can create a  difference.",
+        "commentId": "gp:AOqpTOErasfWAgFXFA0yeJ6MdY7v7NwBYN1BpE61ODdnxNVmDlogxJc8oV8mtQP2sTgp5MIyM0iyK6A5iYXM-w",
+        "author": "Jim Egert",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378046304486",
+        "starRating": "4",
+        "title": "Does it affect other apps using the light sensor?",
+        "comment": "I set calibration to preset Samsung Note.   Suddenly the Auto brightness setting of the phone is way off.  Display is too dim under all lighting conditions.",
+        "commentId": "gp:AOqpTOH6Wq0KifMxcsx6i9CQmnhEVEqw8HzXbictftedHX_IMLUIjZ6xeUDOiG-DBaDaIIFXUT8lwPR0UssyRA",
+        "author": "King Kong",
+        "authorURL": "http://lh4.googleusercontent.com/-MoKH4T77JrY/AAAAAAAAAAI/AAAAAAAAA_A/O355tRbHa-w/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-MoKH4T77JrY/AAAAAAAAAAI/AAAAAAAAA_A/O355tRbHa-w/photo.jpg"
+      },
+      {
+        "timestampMsec": "1378313527797",
+        "starRating": "1",
+        "title": "On s4",
+        "comment": "Doesn\\'t work.",
+        "commentId": "gp:AOqpTOH3vdSVt9kTEDZCLKUDj12kQQBIvolnMCPJdFV6c2D_whNIh00UEeIUSuw9wM0efGGou9fTv52ELZjC5Q",
+        "author": "Naveed I",
+        "authorURL": "http://lh6.googleusercontent.com/-T352nr3EzxY/AAAAAAAAAAI/AAAAAAAAAIs/xCildsuZguw/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-T352nr3EzxY/AAAAAAAAAAI/AAAAAAAAAIs/xCildsuZguw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375620252564",
+        "starRating": "5",
+        "title": "Custom calibration for Jiayu G3",
+        "comment": "Calibration value 9, linearity 0.6.",
+        "commentId": "gp:AOqpTOHincpUjDXpZHCtJh-OBw2NSBKO8f4BN_kPbpZLe1bYaZAS9tB17FCboSCKwJfIVF_O-8E9Jqhr7RdEtg",
+        "author": "Igor Yanyutin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377752728745",
+        "starRating": "5",
+        "title": "Worked every time",
+        "comment": "Yea",
+        "commentId": "gp:AOqpTOF8JdrMLReFNQCy37fmgxF_FzVPDZgbp_HBBsoufsZUoTYgBzY0SeQ_BnerfZCB_R_j-BSWMf8KefxE-Q",
+        "author": "Adam Holloway",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366672137784",
+        "starRating": "1",
+        "title": "Good troll",
+        "comment": "Professional you say? C\\'mon. It shows random values, is ugly and has ads. What could be done worse, one may ask? Shame I can\\'t give zero.",
+        "commentId": "gp:AOqpTOFj5W4PBSx9oN84gLdLzVr2TawdRtszBbINIT7pI4QLa-_FJmWVeSAd2YNt1G1UWnGsY--NA9D5cNtt_Q",
+        "author": "Ond\\305\\231ej Hru\\305\\241ka",
+        "authorURL": "http://lh3.googleusercontent.com/-LZLbMOMmpXg/AAAAAAAAAAI/AAAAAAAAABk/6eGIM9PeOLc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LZLbMOMmpXg/AAAAAAAAAAI/AAAAAAAAABk/6eGIM9PeOLc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371685551019",
+        "starRating": "5",
+        "title": "Works Nice on my S4",
+        "comment": "Works fine on my Samsung Galaxy S4.  I used it to compare two fluorescent bulbs and it seems to give repeatable readings.  I love the retro look of the analog meter but not sure why it doesn\\'t have an autorange above 1000.  But maybe having the meter pin in bright light is more authentic, and it\\'s just eye candy anyway - the digital readout works fine.    It would be nice to be able to use either the front or rear camera.  As is, it always uses the front.   Thanks for the app.",
+        "commentId": "gp:AOqpTOEln3L3A_yhcS9l6lxucjj7ozBvirvvy1EbWoisK80duO_RZCFsraqgwuUEmYEbuO4KGoQ9Jri8FshzWA",
+        "author": "Walt Bilofsky",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374154552108",
+        "starRating": "5",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOH4qetJUGC5fsbqkl1lOcqWmG5IWH2m1HrVG75G6e_vP1GGjpKE20orKVrDT5wG_IhbAoGFhz3rjQWpeQ",
+        "author": "Ishak Patel",
+        "authorURL": "http://lh5.googleusercontent.com/-udralXO2vOc/AAAAAAAAAAI/AAAAAAAAAZ0/qJkKXpQQYJQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-udralXO2vOc/AAAAAAAAAAI/AAAAAAAAAZ0/qJkKXpQQYJQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369714410861",
+        "starRating": "1",
+        "title": "Poor",
+        "comment": "Dont download it,it doesn\\'t do anything",
+        "commentId": "gp:AOqpTOGQm4Eevg0uNG6flrVt_nVNjReE-WMTC30QiOo5I1sSGbvrovmz1pkSIRb9Ty8UnrCLxKbQtxJGBe4J6w",
+        "author": "Marconi Harshad",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368259698159",
+        "starRating": "1",
+        "title": "Absolute rubbish.",
+        "comment": "Shows the same reading when room light is on or off.",
+        "commentId": "gp:AOqpTOGg5T48rHxturSP2XLKuo3q5SiQhP5kopsyrJIFOCL6yloHCIy8_iXJ7EDX0oWJkH_ACgG72LslZpLolg",
+        "author": "Dipesh Ghimire",
+        "authorURL": "http://lh4.googleusercontent.com/-tD3DSw8CjB8/AAAAAAAAAAI/AAAAAAAAAXk/U9uVv6G-uC0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-tD3DSw8CjB8/AAAAAAAAAAI/AAAAAAAAAXk/U9uVv6G-uC0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370688521681",
+        "starRating": "3",
+        "title": "Not working HTC Wildfire S",
+        "comment": "sensor maxes out with any light source and calibration",
+        "commentId": "gp:AOqpTOFJw_hdozhIZ2YP9_MxNCNHxE_tno6g4ScHRzPxC4GeSRz3VNx6Jy9FKx-LCdPOlN6eNf9Qdg5_uCvXpw",
+        "author": "Zac S",
+        "authorURL": "http://lh3.googleusercontent.com/-jwUml7wNuaY/AAAAAAAAAAI/AAAAAAAAAD4/Fond0KR_gNA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-jwUml7wNuaY/AAAAAAAAAAI/AAAAAAAAAD4/Fond0KR_gNA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366151086124",
+        "starRating": "4",
+        "title": "Note2",
+        "comment": "Please, calibration for NOTE 2",
+        "commentId": "gp:AOqpTOHAny_qEmIhfBgyQYZbX8X87c-fqynl5vZohd7R2hmPpdclndffctrZek2uZ5hVNvpA893jS1ncAQAWHg",
+        "author": "Monzer Ghandour",
+        "authorURL": "http://lh3.googleusercontent.com/-wxI96ShVgvc/AAAAAAAAAAI/AAAAAAAAAAA/vKPsQOzWyKc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-wxI96ShVgvc/AAAAAAAAAAI/AAAAAAAAAAA/vKPsQOzWyKc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366751036961",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Works well",
+        "commentId": "lg:AOqpTOGY2GJqMiBjatG3_cP4Ddb_ZzqKtY437sQEN8WTkKsj3ovTaqQYdA5x0CZP11ocGxlp_41o85dSjTyY4w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345658248928",
+        "starRating": "3",
+        "title": "I don\\'t know",
+        "comment": "I like the presentation: the skins and the realistic meter are really cool.  Also, the pre-programmed calibration is extremely helpful.    However, I am beginning to question the accuracy, since there are only about 6 figures that show up.    No matter what room I enter, or what light source I use, or what the distance I just keep seeing the same 6 readings.  It does not change incrementally.  It just goes from one figure to the next and back.",
+        "commentId": "lg:AOqpTOEk7fdc6HJROOLXQt-hkHXVikCq-4GNjoHl5WgaUG5csT7Vko0E6Yadn5l3lDXt0Yy4ITwpIqyytRY48w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357297973550",
+        "starRating": "5",
+        "title": "It works!",
+        "comment": "Good looking and works well. I didn\\'t understand the \\\"predefined and custom calibration\\\" at first - it should be highligted or changed to instruct user to choose his/her phone model from the settings! It could even ask if on the first run.   I didn\\'t know S2 (ICS) has a decent light sensor. Another app only displayed values 0, 1, 10, 100 and 1000. Maybe the system uses it like that. This is a great tool!",
+        "commentId": "gp:AOqpTOGkDFt1EX2NyAID8rbU5NwHl2PAVEOMQf7SJHoWplX3R0ik5b2FuALtM_GC7rUUG7TK79YttnUJdmzTTw",
+        "author": "Sami Jumppanen",
+        "authorURL": "http://lh6.googleusercontent.com/-1X17X0do3Uw/AAAAAAAAAAI/AAAAAAAAOjY/hbNzPAEzwDM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1X17X0do3Uw/AAAAAAAAAAI/AAAAAAAAOjY/hbNzPAEzwDM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1342565313243",
+        "starRating": "5",
+        "title": "Works perfectly",
+        "comment": "Don\\'t mark the app down due to the hardware limitations of some of the devices it runs on. Does exactly what it should with highly flexible calibration options. Top marks.",
+        "commentId": "lg:AOqpTOFhrcbZKlmH-Chlgy9bayH00BrPWOSZeMuRaJ69lrBEBXJK1yNb5LFtTcEawnXC0ShGpDSf03qvjJ7WqA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350485285001",
+        "starRating": "1",
+        "title": "Pretty, but useless.",
+        "comment": "First of all, it measures footcandles, not lux (about a 10:1 difference) when compared with an actual handheld light meter.  Secondly, it was off by about 8 FC anyway.  Found a different light meter app that works better.  Uninstalled",
+        "commentId": "lg:AOqpTOHRAGWBrqvb3Y60mp5pGi7a25iXazBmytpABfEN7_fQRJYn_EATxS0rx5agw8FcIIeQRYu56Y6ZbOpnqg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338590237659",
+        "starRating": "5",
+        "title": "works like a charm.",
+        "comment": "I really don\\'t understand those negative ratings. It clearly shows what the compatible devices are; if your device is not on the list, don\\'t install it. This app is probably the only working and free light meter app in the Play Store and it works just fine if you calibrate it well. It even comes with calibration presets, what more could you ask for? It\\'s impossible for the developer to calibrate all Android devices. Just borrow a light meter and calibrate it yourself and you have a handy pocket light meter!!",
+        "commentId": "lg:AOqpTOHT1zy1LOIVzR91eLzL3mxWXYeDZ_r-kioT4VgbKEAT55K8Y4QUlfqONcM1oCg6MLW76LNIp2FoH5QXag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348148883773",
+        "starRating": "4",
+        "title": "It works!",
+        "comment": "Good work. Good use of hardware. Cheers!!!",
+        "commentId": "lg:AOqpTOEwK4H0Hwrj58pOLnr4UUYg8DeZZfTO8kTCVwuWAvAwenxfZB-XoeuMr9oSitIPURU_RrSbd8qU3CeQaQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Meghan Fox App Games + Social",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.meghanfoxgame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.meghanfoxgame",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Meghan Fox?  If so you need to get this app so you can play fun games featuring her as the star.  With this app you will also be able to connect with Meghan on social media as well.Megan Denise Fox (born May 16, 1986) is an American actress and model. She began her acting career in 2001, with several minor television and film roles, and played a regular role on the Hope & Faith television show. In 2004, she made her film debut with a role in Confessions of a Teenage Drama Queen. In 2007, she co-starred as Mikaela Banes, the love interest of Shia LaBeouf's character, in the blockbuster film, Transformers, which became her breakout role. Fox reprised her role in the 2009 sequel, Transformers: Revenge of the Fallen. Later in 2009, she starred as the eponymous lead in the film Jennifer's Body. Fox is also considered one of the modern female sex symbols and has appeared in magazines such as Maxim, Rolling Stone and FHM.Fox was born in Oak Ridge, Tennessee, the daughter of Gloria Darlene (nÃ©e Cisson) and Franklin Thomas Fox. She has stated that she has Irish, French, and Native American ancestry. She was raised \"very strictly Pentecostal\", but later attended Catholic school for 12 years. Fox's parents divorced when she was young. Fox's mother later remarried, and she and her sister were raised by her mother and her stepfather, Tony Tonachio. She said that the two were \"very strict\" and that she was not allowed to have a boyfriend or invite friends to her house. She lived with her mother until she made enough money to support herself.Fox began her training in drama and dance at age five, in Kingston, Tennessee. She attended a dance class at the community center there and was involved in Kingston Elementary School's chorus and the Kingston Clippers swim team. At 10 years of age, after moving to St. Petersburg, Florida, Fox continued her training. When she was 13 years old, Fox began modeling after winning several awards at the 1999 American Modeling and Talent Convention in Hilton Head, South Carolina. At age 17, she tested out of school via correspondence in order to move to Los Angeles.Fox has spoken extensively of her time in education; that in middle school she was bullied and picked on and she ate lunch in the bathroom to avoid being \"pelted with ketchup packets\". She said that the problem was not her looks, but that she had \"always gotten along better with boys\" and that \"rubbed some people the wrong way\". Fox also said of high school that she was never popular and that \"everyone hated me, and I was a total outcast, my friends were always guys, I have a very aggressive personality, and girls didnât like me for that. Iâve had only one great girlfriend my whole life\". In the same interview, she mentions that she hated school and has never been \"a big believer in formal education\" and that \"the education I was getting seemed irrelevant. So, I was sort of checked out on that part of it\".",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.meghanfoxgame.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Soulja Boy Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.souljaboy",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "April 10, 2013",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacob Jetts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.souljaboy",
+  "extendedInfo": {
+    "installSize": "1.6M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Yule crank dat!!! Crank dat Soulja Boy in this free LWP, featuring the one-hit wonder himself! DeAndre Cortez Way aka Soulja Boy Tell 'Em aka Soulja Boy, is an American rapper, record producer, actor, and entrepreneur.In September 2007, his single \"Crank That (Soulja Boy)\" reached number one on the Billboard Hot 100. The single was initially self-published on the internet, and it later became a number-one hit in the United States for seven non-consecutive weeks starting in September 2007. On August 17 Way was listed at #18 on the Forbes list of Hip-Hop Cash Kings of 2010 earning $7 million for that year. Soulja Boy has currently released three studio albums and one independent album: his debut studio album Souljaboytellem.com (2007) was certified platinum by the RIAA. However, his next two albums, iSouljaBoyTellem (2008) and The DeAndre Way (2010) did not match the commercial success of his debut, the latter only selling 100,000 copies, despite the success of several singles across both albums, such as \"Kiss Me Thru the Phone\" and \"Turn My Swag On\" and \"Pretty Boy Swag\" (The DeAndre Way), This was mainly due to negotiation problems with Interscope records which meant a limited amount of records were made available to the public.****************************************************************************Please show support by posting comments and ratings! Thank youThis app contains ads that may appear in the notification tray or homescreen as an Icon. You can optout the ads from the links below:Leadbolt Optout: http://opt.leadbolt.com/To delete the icons just hold your finger on them and drag to the trash can to delete.****************************************************************************Tags: clown, rap, pop, hip hop, SUPERMAN, Riff Raff, moneyKey Words: LWP, custom, background, SD card, Jets",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

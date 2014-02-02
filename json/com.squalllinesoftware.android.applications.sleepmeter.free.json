@@ -1,0 +1,242 @@
+{
+  "title": "Sleepmeter Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.squalllinesoftware.android.applications.sleepmeter.free",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 22, 2013",
+  "version": "2.3.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "419",
+  "rating": "4.157518",
+  "contentRating": "Medium Maturity",
+  "creator": "Squall Line Software, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.squalllinesoftware.android.applications.sleepmeter.free",
+  "extendedInfo": {
+    "installSize": "829k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This application tracks your sleep habits and presents statistical and graphical analysis thereof for your amusement and enlightenment.Features:* over twenty five graphs* more statistics than you probably care to look at* cumulative sleep deficit/surplus* sleep credit/debit calculation suitable for pilot use* create screenshots of graphs and statistics for sharing with medical professionals, pals, and random strangers outside of the app* debt notification* 1x1, 2x1, and 3x1 widget to assist with data entry* widget allows automated sleep period logging based on device charging* handles nightly sleep periods with holes* track sleep aid use and analysis* track sleep hindrances and analysis* define your own sleep aids* track dreams and analysis* track sleep quality* import SleepBot data* can get sleep periods from Gentle Alarm app* more configuration options than you probably care to configure* supports installation on SD card on capable devicesThis free version will never expire is not crippled in any way.  It does contain ads at the bottom of the screen to help support development.  A version called \"Sleepmeter\" is available on the market that will cost you a few coins but doesn't have ads.Go ahead and post whatever nonsense you want in the Android Market comments, but I've given up on reading them.  If you want to get my attention, send me an e-mail.  I usually answer them promptly.Explanation of required permissions:WRITE_EXTERNAL_STORAGE: This permission is used to export history, graph screenshots, and statistics screenshots to the SD cardRECEIVE_BOOT_COMPLETED: This permission is necessary for the debt notification to work properly.  Without this the debt notification would not work after a device restart.VIBRATE: This permission is used to optionally make the debt notification vibrate your device.INTERNET: This permission is solely used to fetch ads.  The paid version of this app does not require this permission.ACCESS_NETWORK_STATE: This permission is also required to fetch ads.  The paid version of this app does not require this permission.",
+    "reviews": [
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1378374582827",
+        "starRating": "5",
+        "title": "Sorry, but it\\'s 5 stars!"
+      },
+      {
+        "commentId": "gp:AOqpTOHA0j3DubkCiCTbR_9bUw_xu8QFqBJsJBbNjzJSSYz9FX2Oefu9ELsVy6vMwVq55ojyWsQ9ZPN4tCyNRxs",
+        "author": "Robin Markowitz",
+        "authorURL": "http://lh6.googleusercontent.com/-61HcVrpgSPM/AAAAAAAAAAI/AAAAAAAAACs/FZuAQD5np0g/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-61HcVrpgSPM/AAAAAAAAAAI/AAAAAAAAACs/FZuAQD5np0g/photo.jpg"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1363270209018",
+        "starRating": "1",
+        "title": "A stats package with no realtime data collection.",
+        "comment": "The app is a statistical package and faulted for the poor overview in Google Play.   You get more explicit information about that after you load the app and read the notice about what it does.  At the very end of the notice it tells you, paraphrasing, \\342\\200\\234the app does not collect actual data on its own and if you want that get some other app.   This one is not for you\\342\\200\\235.  From what I could tell the app will run stats from two sources, user hand entered, or side loaded/downloaded from Sleepbot.   You can hand qualify your input with tags related to dreams, aids (like alcohol, pills &etc.), hindrances (like caffeine, dog barking, bathroom break & etc.), tags (like hotel, school night, work night & etc.), and add notes and comments.  It will then run stats on the above.  No so useful for me but might be a replacement for doing your own monitoring with Excel.   It might be useful for evaluating Sleepbot data.  Given the developers comment of, \\342\\200\\234Go ahead and post whatever nonsense you want in the Android Market comments, but I\\'ve given up on reading them\\342\\200\\235, I doubt if they would be any good.  Cranks can be discounted but dismissing feeback is not a good developer strategy.",
+        "commentId": "gp:AOqpTOEpCLffi4POK6IIrmtbp9rhUDUwjhMUREc1IOZdM4ukB12LfI8D4LA6s__6MuDZbMmpszSH0TCr4w73BUs",
+        "author": "David Kirkpatrick",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1361652382804",
+        "starRating": "5",
+        "title": "Remarquable work",
+        "comment": "The most useful app in the market to improve your sleep. It allows you to identify sleep patterns and correct them. Easy to use and very adaptable to your own needs. A life savior app. for the strong insomiac I was. Thank you.",
+        "commentId": "gp:AOqpTOGvkJsQ2FtrwXLNIyVxgHwdzdZstYZRUDs8G-7l7RYJnPKRIyUpFIP9x_3ihPoZjXbyEImVYuH_sa3UNrA",
+        "author": "william paul",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1373951550053",
+        "starRating": "4",
+        "title": "Well thought-out app",
+        "comment": "The developer has a droll sense of humor which made it enjoyable to read the instructions. I\\'m looking forward to giving this app a good workout.",
+        "commentId": "gp:AOqpTOHS94y0YyZcZ7CTNOL0qSS32jj7dvEKq0ydmqEfgN8xngpFxNBfqTENdEOByXlurjBR4FHyXEVvdLmbqnk",
+        "author": "G Good",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1367528049502",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "I look forward to using it each day to keep track of all the nuances of my sleep patterns including what I dreamed about.",
+        "commentId": "gp:AOqpTOGqPh-qPjoobAKHXYzNBe_OrHh1kheeqF4jwT9m3JmjmDDVYvIcynf3LBCcwrsIKTtbGYAPZ3PF491gn8Y",
+        "author": "Michael Nolen",
+        "authorURL": "http://lh3.googleusercontent.com/--X3OEVPByTc/AAAAAAAAAAI/AAAAAAAACCI/wsv6xZtPA8Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--X3OEVPByTc/AAAAAAAAAAI/AAAAAAAACCI/wsv6xZtPA8Y/photo.jpg"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1361759053454",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I love now being able to change the font size for the graphs! Thanks for the update. I love this app.",
+        "commentId": "lg:AOqpTOFiOOqa8MdvXAe8NZUuODXjdR-TCQkjLOhcRFhOs_Qwsgj0niJ61VU7cUBA7JZ3rbJ3Ku34sw1TOZWBv3I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.3.0",
+        "timestampMsec": "1367573525442",
+        "starRating": "4",
+        "title": "Fun app",
+        "comment": "Installs app just for fun and am enjoying very much.",
+        "commentId": "gp:AOqpTOGeMX4ArUNTNVJxV2NlbuBTAlk4b7wkcumoQRHdw4sKJsmmWdBwQjPx0dLtiMWc3KW2cY-rn1ggObqPqaY",
+        "author": "mary valdes",
+        "authorURL": "http://lh4.googleusercontent.com/-RExUiHNHgXA/AAAAAAAAAAI/AAAAAAAAA2k/KZ9s7_XEGQ0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-RExUiHNHgXA/AAAAAAAAAAI/AAAAAAAAA2k/KZ9s7_XEGQ0/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1356052055756",
+        "starRating": "5",
+        "title": "Good, funny app but",
+        "comment": "It keeps insulting me cos I can\\'t see the ads :-p I have no home internet and a very expensive limited data package so my data is ALWAYS off when using apps. Whilst its slightly amusing now, in a few days it could be the reason I don\\'t buy it - and I buy a lot of apps. But I\\'m not gonna rate it down, cos this is probably unique to me... Wait a minute, that makes it personal...",
+        "commentId": "gp:AOqpTOHpOJljkK-tK1E8zZ91XQsq5_jA7b5HETRBOxVjqRoNuFkzq_Iqme1aIUdFSjpBb5JY968O_yjQAPNQcnU",
+        "author": "Joy Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1350454262582",
+        "starRating": "5",
+        "title": "Best app",
+        "comment": "I love the humour and actully shows me how much I sleep. No congusin graphs just simplym if I could give ten stars I would",
+        "commentId": "lg:AOqpTOH6ERRxkSpVy4yUf04JK8nxKW2ROtY7NKujeQ1Um6pO6_97tTRss3jw6ICvxMT91AbdIMqNUPO-gNVQnmw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1344859092524",
+        "starRating": "5",
+        "title": "Rare Rater",
+        "comment": "The opening remarks upon launching the app prompted this comment. Very clever & if the app is like the opening, I\\'ll enjoy this app.",
+        "commentId": "lg:AOqpTOGR5y_dSASA2fyN63KG22qf8ByRWjhxN41lhwX3nZNJt7x54XWfzyVtE9VzlPDprOAhLQATAvimEDaCDrY",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1351854264542",
+        "starRating": "5",
+        "title": "I would give it seven if I could.",
+        "comment": "One for the attention to detail, and another for the sense of humor of the author.  This app is not a movement tracking app, (I use both), it\\'s a log used to track the who, what, where, when, and why of your sleep.  With a little input, it calculates your data and allows you to easily identify any patterns causing sleep problems.  It doesn\\'t run overnight so it won\\'t drain your battery.  And definitely read the introductions at the beginning,  really funny! Happy logging.",
+        "commentId": "lg:AOqpTOH7EdHdDcxpkJUxbggvxaK-XjugHn_nb9Ws7Byv5gcAHZOUryVo5UCg3cNVAduR0y-hwExTlSokT7JmCZI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1348482238411",
+        "starRating": "5",
+        "title": "very useful app",
+        "comment": "Maybe the graphs deserves a more detailed description because sometimes it\\'s hard to figure out what all those letters in the axis descriptions means... and maybe a different color for the interpolating line (or at least for what I think is an interpolation line) would help. Other from that it\\'s an excellent app! great job!",
+        "commentId": "lg:AOqpTOGJGb-7ECLelgwQOrFi9Bkrb3vd9wKsM1vCk048bezXYiHoTiq8TGd5hrpR9BhxzyFxluwkuLxvKLyL9wI",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1347041530683",
+        "starRating": "5",
+        "title": "Love this app!",
+        "comment": "It works perfectly.  It\\'s been an eye opener to see my sleep habits.  My doctor really likes this app.  The developer(s) also have a great sense of humor, LOL!   I have only one complaint, how to delete some options that are listed in AIDS.  Other than that, perfect app!",
+        "commentId": "lg:AOqpTOFp4rjpKS2AH79BUrS9FWczfuH0Rarf8KyqDCEz3HkcXIHbtFuN03iOycH3OLx8Kf4SqeuLu17U4eu0HIM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1346454037766",
+        "starRating": "5",
+        "title": "Made me uninstall adfree",
+        "comment": "Excellent piece of software, will probably take some time to get used to though, as I find myself thinking about what hindrances I will need to log in the morning.   Authors sense of humor is very much appreciated :-)  Will give the free version a couple of weeks before deciding to buy or not.   I used SleepBot for a while but I often found myself forgetting to punch in, which screwed up the statistics.",
+        "commentId": "lg:AOqpTOEOBYgDZ_JbhpxB1qdSY4gekgP8D4eQWIZIV8zTysCCDR2SmpHBNJh9ZncBdLq_TpkxO9n66a8Eu1HwqmU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1348857724692",
+        "starRating": "5",
+        "title": "GREAT SLEEP ANALYSIS",
+        "comment": "Very useful and exactly what I was looking for. Once I\\'d got the hang of this app I realised what a complicated app it is squished into such a simple UI, generating many more reports and graphs than I need! I have terrible pain at the moment and I\\'m just not getting enough sleep. This app helps me communicate with my doc and we\\'re sorting it out using some of the data and reports the app provides. I like it so much I will continue to use it once I\\'m all fixed up.  PS love the humour!",
+        "commentId": "lg:AOqpTOFpsR3X1fPrTMdyMIhTSZ41DDhXWW1JxMd1XmWFh8OjLqfJSewF_uLQ8tYTdYfM_hfjQj6Lrl_u1R9-khU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1357795065002",
+        "starRating": "1",
+        "title": "Superfluous Text"
+      },
+      {
+        "commentId": "gp:AOqpTOFrUbcMXtw-DuLs8gaCJRhBomKZ94RDNlcyQslOL50pbxLF2Eyhs2YvRdUf4sSWIdjZM0WMQ0qbcDJ-8xg",
+        "author": "James Wilkinson",
+        "authorURL": "http://lh3.googleusercontent.com/-zRxDumeBY0c/AAAAAAAAAAI/AAAAAAAABRg/_pD6aGXbDYM/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-zRxDumeBY0c/AAAAAAAAAAI/AAAAAAAABRg/_pD6aGXbDYM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1360735916874",
+        "starRating": "5",
+        "title": "Great as a dream diary",
+        "comment": "I love this app, particularly the dream-tracking options. I wasnt good at remembering to punch in my sleep times though, but now i use the sleepbot going to sleep/waking up widget for more accurate sleep times, then export the data to my sd card and import to sleepmeter for analysis.",
+        "commentId": "gp:AOqpTOFwy7Zq9bpFE3a4JR-QRUASVeBu1v2QkExhXbFzz3HLsb0-d8PSg6eDjuDS-30w4geMjGkhuzRiTWCveKU",
+        "author": "Maeghan Good",
+        "authorURL": "http://lh4.googleusercontent.com/-QnTM5fce-dM/AAAAAAAAAAI/AAAAAAAAAD0/BQySzfb_JNY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-QnTM5fce-dM/AAAAAAAAAAI/AAAAAAAAAD0/BQySzfb_JNY/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1354820942998",
+        "starRating": "5",
+        "title": "Love this app...",
+        "comment": "But I barely use it. Not because it isn\\'t great, but because I barely use my phone, anyway. Great humor on the creator\\'s part. Definitely would recommend it to anyone.",
+        "commentId": "gp:AOqpTOFlI1FzGwGSoYhzTcZMj-U9Av2V6d-O5-PnYwAt_fTv69quu6SdJssAnUgSuMOzlQSGzaEwbxAAxsa8Ov4",
+        "author": "Emily Moore",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1345983361360",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Sleep holes.  Simple recording.  Assisted recording if you want.  Quality rater.  Better than Sleepbot for me.  Just right for me.",
+        "commentId": "lg:AOqpTOFULtUtw1J022gAglYS3RJq3Tys_vPhFj2W_zq_l7ujbo6tGH2aoeFkHqYDwhL3wr71Z4GaOjY6dUhnqcs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.1",
+        "timestampMsec": "1342195825351",
+        "starRating": "5",
+        "title": "Addition to hindrances",
+        "comment": "Could you add to hindrances uncomfortable bed?",
+        "commentId": "lg:AOqpTOEksCuOMIjz4ZPULR-NxjUyLDwQolbfXzDwqQ8r0yCt8m6aElvvapBpgTBK4ULjxObVw-dUqHd8y7IlKVE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

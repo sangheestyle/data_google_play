@@ -1,0 +1,162 @@
+{
+  "title": "GPS Location Recorder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.blogspot.solheimsoftware.gps.location.saver",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 22, 2013",
+  "version": "0.784",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "36",
+  "rating": "4.2222223",
+  "contentRating": "Low Maturity",
+  "creator": "Solheim software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.blogspot.solheimsoftware.gps.location.saver",
+  "extendedInfo": {
+    "installSize": "281k",
+    "downloadsCount": "5,000+",
+    "downloadsCountText": "5,000 - 10,000",
+    "description": "GPS Location Recorder is easy to use, small in size, battery efficient, and works like a charm.Easy to use:Saving and sharing a GPS location/waypoint or a route has never been easier.Small:The app is small, and takes up less than 10% of storage space on phone compared to many top apps used to track running, walking, cycling, biking, skiing, hiking etc (app is less than 0.3 MB).Battery efficient:By using advanced algorithms, operations that consumes battery is kept to a minimum.By using the GPS in your Android phone you can track all your outdoor distance-based activity.----------------------------------------------------------------------------------------------------------PS! Please send us an email if you experience errors or have suggestions to improvements (email: solheim2000 (a) gmail.com) ----------------------------------------------------------------------------------------------------------Features:- Save GPS location/waypoint (longitude/latitude coordinates)- Save route while you walk/run/hike/cycle/drive etc.- Show your speed as Km/h, Mph or knot- Show distance as meter and kilometer, miles or nautical miles- Shows average and max speed of a route- Shows max and minimum altitude of a route- Get list of saved GPS locations and routes.- See your route in a map in the app.- Get voice feedback (in english) during your activity about distance and time.- Send saved GPS locations and routes in email (either as plain text or in KML-format).- Share your saved location on Facebook/Twitter/Google+ etc. (depending of which social apps are installed on your phone).- Show your saved location or your route in Google Maps or Google Earth (by importing generated KML-file from email).- Shows your speed as you moves, works as a speedometer (select between Km/h, Mph or knot).- Get map of current location if your phone are connected to internet. (Map may also show when not connected to internet if map is cached earlier on phone. Caching is done automatically. This is called offline maps.)- Text in english or norwegian.Works fine without internet connection. Also map may be shown without internet connection, ie offline maps(depending if map tile is already download on sd-card, this is done automatically).  PS! If your GPS signal is poor, the distance in a recorded GPS route or GPS location may be inaccurate.The better GPS signal you have, the more accurate distance and location you get.Example of use of GPS Location Recorder: - As a GPS tracker that tracks all your distance-based activity using the GPS in your Android phone.- As a  sports tracker when walking, jogging, running, hiking, cycling, skiing etc.- As a training log for all your outdoor distance-based activity.- As a ski tracker and snowboard tracker to keep track of your ski and snowboard runs- As a sailing tracker, a GPS tracker for your sailing tour- As a way of locating a secret spot you find (blueberries spot, metal detector spot. fishing spot).- Simply as a GPS speedometer while you drive, sit on the bus, train etc.- As a way to measure distance between two points.|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=Do you have questions or comments please send an email to solheim2000 [at] gmail.com|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=",
+    "reviews": [
+      {
+        "timestampMsec": "1378048129934",
+        "starRating": "2",
+        "title": "Good but",
+        "comment": "I used to use this apk, it was nice but after updating now when i click on show on map it doesn\\'t take me to Google maps but to a different map",
+        "commentId": "gp:AOqpTOH1eSTcwtDYDE3oDFQtzsgUbX6VeDYLTgq2IKpLK75QSEJAQxfdgR0A5AfdRLLZmhiFzMw1xlwb7tZLghM",
+        "author": "Hamza Zain",
+        "authorURL": "http://lh3.googleusercontent.com/-cJ1nwPmuN3Q/AAAAAAAAAAI/AAAAAAAAAeg/zipQVPTHROA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-cJ1nwPmuN3Q/AAAAAAAAAAI/AAAAAAAAAeg/zipQVPTHROA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377028380207",
+        "starRating": "3",
+        "title": "Will not connect to GPS dignal",
+        "comment": "Using my Nexus 4 with T-Mobile. This app was not picking up a GPS signal even after performing a force stop. I had to turn off my GPS completely then start it back up so the phone would run a quick check for a signal, that time this app finally picked it up. There needs to be a refresh command or this app needs to activity search for a signal when you start it up. Very frustrating.",
+        "commentId": "gp:AOqpTOGEEsG629AWpUFCp60365aAZGZxrCeAA55wmpUv4TquskXb65ws7xuyUdInmdqpQaSUB8N-eRa7QdffxlU",
+        "author": "Aaron Shaub",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376713685379",
+        "starRating": "1",
+        "title": "App crash",
+        "comment": "The app suddenly crash after going into option",
+        "commentId": "gp:AOqpTOEoSCUbHclGu3kvZJQ8z6HA0ej4gzmiTlPXc9vRmuEfv9JgN4hwrLS3-lW2BFnl5XbG3OxnJbWinLTa3yM",
+        "author": "Herman Shah Abd Rahman",
+        "authorURL": "http://lh5.googleusercontent.com/-H-5C6CXmxyY/AAAAAAAAAAI/AAAAAAAABzg/jdSfFRsw4sQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-H-5C6CXmxyY/AAAAAAAAAAI/AAAAAAAABzg/jdSfFRsw4sQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375698702901",
+        "starRating": "1",
+        "title": "Does not work as expected. Does not record trip locations.",
+        "comment": "Trying to record trip from Chicago to home (800 miles). After 100 miles only one location existed. Not working as expected.",
+        "commentId": "gp:AOqpTOEpUd9MOXgWi974QRggpPCvNHFk8-8fRbY8zv4FeMaK2eORi0hMaTACpL7GvXacr1GJQuSK3bomuOK0ii8",
+        "author": "Bertram Moshier",
+        "authorURL": "http://lh5.googleusercontent.com/-A-ktCb1qGAs/AAAAAAAAAAI/AAAAAAAAAAA/EEFr93Zp0rs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-A-ktCb1qGAs/AAAAAAAAAAI/AAAAAAAAAAA/EEFr93Zp0rs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375936935239",
+        "starRating": "4",
+        "comment": "I used it for work. Very accurate and reliable",
+        "commentId": "gp:AOqpTOFCTyMYr5Y-aNcV3t9kMpUGpwFovZUGshXL4NV848UeJ7xf9xyADZ9XzZqdbsi8a2XTGmPf_Y7WYDYcC4U",
+        "author": "Julio Castro",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370786017225",
+        "starRating": "5",
+        "comment": "Great",
+        "commentId": "lg:AOqpTOEvO22HzWuS43NIWvovSA6602YzsItYe0-WWO9e2p3niqNAws1X-c_555IrlQZ_vTXMC40qEz31ex3Gw6s",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368619152504",
+        "starRating": "5",
+        "title": "Good software",
+        "comment": "But there\\'re some crash ....",
+        "commentId": "gp:AOqpTOHvgmhwecDj8p3B1kCGfaCqa6ErE0DVQfOzmme0BPnkM9Kt14eL0Nq5qxAeg-8bCpRYo1TmDTTkFvlUJjU",
+        "author": "Tuan Hoang",
+        "authorURL": "http://lh4.googleusercontent.com/-F_kv-xRrdGg/AAAAAAAAAAI/AAAAAAAAAZA/CGiF57jMFt4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-F_kv-xRrdGg/AAAAAAAAAAI/AAAAAAAAAZA/CGiF57jMFt4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367935147995",
+        "starRating": "5"
+      },
+      {
+        "comment": "I downloaded this app before going out on a trip to the jungle. I needed an app which would record my trail and do it in an area without mobile reception.   Since it was a Free app with hardly any reviews, I just downloaded it but didn\\'t expect much from it but boy was I wrong!   I got a 3hr 18m recording in an area without any mobile reception and in 1 click exported the KML file to my laptop to track the route.   I have to hand it to the devs, would\\'ve paid ANYTHING for this app. Fantastic work. Thank you so much!",
+        "commentId": "gp:AOqpTOECKlORWp10lfj61JheV701aDMz0xvE1g8Ci3gay-ygZXYEP_zKmZIcPka0SVJUN3uE6tJa5rgIzYP6qNM",
+        "author": "Shaunak B Modi",
+        "authorURL": "http://lh5.googleusercontent.com/-Hk885fd44Us/AAAAAAAAAAI/AAAAAAAAFm0/qiY1HB116GI/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-Hk885fd44Us/AAAAAAAAAAI/AAAAAAAAFm0/qiY1HB116GI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358625821814",
+        "starRating": "5",
+        "title": "LI",
+        "comment": "En fantastisk app. F\\303\\266rutom att man ser sin position, kan man \\303\\244ven spara sina wayponts koordinater och s\\303\\244nda dem som text till sin e-post. Ett stort tack!",
+        "commentId": "gp:AOqpTOGlbgqYzKVkdrj66CGpz9Bt9Lv_5eDoFC3J4VLkiDN9k26W5TcTL0drIdHFYoBGDhEp9YH3OMJwzNbOWSs",
+        "author": "Leif Ingmarson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349290893636",
+        "starRating": "5",
+        "title": "Exactly what i needed",
+        "comment": "Small app to mark points using GPS, looked for one very long time. Perfect to mark trees in garden, for example, and latter check points on google earth.",
+        "commentId": "lg:AOqpTOEiEzQfJ-ZN0sA6ANSQVsIb3e3A9dnibnNEtlKGIsC437uMNv5ojVofSdQzwJEktro9C4IaYgI_yjeqm-A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373896298413",
+        "starRating": "4",
+        "title": "GPS Location Recorder",
+        "comment": "Good!",
+        "commentId": "gp:AOqpTOF6IrWCP4GoQoZTahv5K0GKa2njMlg8VYsCD9k0J6lGfzw0C7E5pX-maGyMiDoPNxl0z2Z56e3aX-ga5M4",
+        "author": "Louis.R. Tai",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373494257523",
+        "starRating": "5",
+        "title": "I love it",
+        "comment": "Great for walks",
+        "commentId": "gp:AOqpTOGV-X-oTre_KHmTN153U8MiAlvGkz-TgIknoGp6s52Jzolwm_vhChQJVzhaj_fM7XUx7qkm-zQbeIgrVU8",
+        "author": "TheMadgeographer Kemp",
+        "authorURL": "http://lh4.googleusercontent.com/-wPVBCdc8v_g/AAAAAAAAAAI/AAAAAAAAAH4/N9VjGSV8xFg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-wPVBCdc8v_g/AAAAAAAAAAI/AAAAAAAAAH4/N9VjGSV8xFg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369292173276",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "GPS is \\341\\200\\231\\341\\200\\275\\341\\200\\224\\341\\200\\271\\342\\200\\213\\341\\200\\201\\341\\200\\272\\341\\200\\204\\341\\200\\271\\342\\200\\213\\341\\200\\220\\341\\200\\262\\341\\200\\267\\341\\200\\201\\341\\200\\253\\341\\200\\231\\341\\200\\275\\341\\200\\224\\341\\200\\271\\342\\200\\213  \\341\\200\\231\\341\\200\\275\\341\\200\\254\\341\\200\\270\\341\\200\\201\\341\\200\\272\\341\\200\\204\\341\\200\\271\\342\\200\\213\\341\\200\\220\\341\\200\\262\\341\\200\\267\\341\\200\\241\\341\\200\\201\\341\\200\\253\\341\\200\\231\\341\\200\\275\\341\\200\\254\\341\\200\\270",
+        "commentId": "gp:AOqpTOEfIBBX9hbIJXSygHP7gbOFOQ_WtAlmqwzj5y8VPE3pkUbN_o28fe8ph_DvHjHx7zY6F8G6WwsA2345X7Q",
+        "author": "Myat Thu",
+        "authorURL": "http://lh3.googleusercontent.com/-CagDD-bIfYs/AAAAAAAAAAI/AAAAAAAAAZU/oIYoXVypQFE/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-CagDD-bIfYs/AAAAAAAAAAI/AAAAAAAAAZU/oIYoXVypQFE/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.blogspot.solheimsoftware.gps.location.saver.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

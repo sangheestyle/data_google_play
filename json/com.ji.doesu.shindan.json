@@ -1,0 +1,40 @@
+{
+  "title": "Sadism Diagnosis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.doesu.shindan",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 22, 2013",
+  "version": "3.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1582",
+  "rating": "4.456384",
+  "contentRating": "Medium Maturity",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.doesu.shindan",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "ââOver than 250,000 downloads !!ââDiagnose how sadism you are via 30 questions âªYou may be the implicit sadism in factï¼Anyway, let's start to unmask âJust follow your intuitions ï¼¾ï¼¾It would be a key question to determine that you are sadism or not, which looks with no relations.How many questions you check will show you the ï½ï½ï½ï½l of sadism.----------------â Features of Sadismã»To realize what people wish, becomeing activeã»Be mature generallyã»Taking actions makes people gladã»Lack of confidence, wanna be popularã»Taking actions aloneã»Do not care about others' complaintsã»Indicting your thought and opinion clearlyã»Showing no suggestions to comething uselessã»Do not come into contact with whom is not interested inã»Be amiable to something you like----------------â About SMSM is the prefix of Sadism and Masochism.The derivation of pleasure as a result of inflicting pain or be inflicted pain.-------------â Test to recognize S or MClench your fist which a thumb inside your palm.Ask other to put his/her hand on your hand.If others' fist on your fist, he/she might be S.If others' palm on your fist, he/she might be M.",
+    "reviews": [
+      {
+        "timestampMsec": "1378331554957",
+        "starRating": "3",
+        "title": "English",
+        "comment": "Is there an English version",
+        "commentId": "gp:AOqpTOExp94ibkyPhtLU89afL5oBuh3jjoGGQv7JCGgGHoDX4-VFT_HhtYmcRCtLjNpSNaZKVJiw_yh8qgYsj0M",
+        "author": "Brandielle Smith",
+        "authorURL": "http://lh3.googleusercontent.com/-58ShjOYUBvc/AAAAAAAAAAI/AAAAAAAAAEY/6b5Wo-I2Zc8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-58ShjOYUBvc/AAAAAAAAAAI/AAAAAAAAAEY/6b5Wo-I2Zc8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.doesu.shindan.permission.C2D_MESSAGE"
+    ]
+  }
+}

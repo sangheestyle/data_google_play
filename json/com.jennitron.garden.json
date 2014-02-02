@@ -1,0 +1,53 @@
+{
+  "title": "Garden Tender",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jennitron.garden",
+  "category": "Lifestyle",
+  "price": "$0.99",
+  "datePublished": "August 9, 2013",
+  "version": "1.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.6666665",
+  "contentRating": "Everyone",
+  "creator": "MakeThisApp, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jennitron.garden",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Manage all aspects of your garden with this app by logging expenses, work effort, plantings and harvest output. Clearly see the cost and effort you put in and the yield you get out. Yield is tracked by weight, value and quantity.  Easily navigate between screens to see plants, harvests and activity reports.Supports any size garden, any climate, any location, any growing cycle and any type of plant -- vegetables, fruits, flowers, herbs, perennials or annuals. Includes bar charts showing total yield or a daily history.Organize your plantings by garden and year. Record expenses, effort, notes or plantings per garden per year. Record harvest events and notes per plant. Any number of gardens, years, plants, harvest events, expenses or notes may be added. A ledger provides an expandable detailed or aggregated summary of activity.  Sort, search, view and edit events on the Notebook screen. Add or edit any type of plant, expense or work item. Copy plantings from one garden to another or from one year to another, especially useful at the start of the season.  Export data to csv files to your computer.Perfect companion for organic growers or hobby farms -- or just one plant -- any size is supported. By tracking your work, costs and plantings, the reward of fresh, home-grown and hand-picked vegetables, fruit, flowers or herbs is much more rewarding.A free trial version is available under app name Garden Tender Free Trial.",
+    "reviews": [
+      {
+        "timestampMsec": "1375813563308",
+        "starRating": "5",
+        "title": "Very helpful, good design",
+        "comment": "Provides a high level of detail if you need good records. The ability to maintain multiple gardens is especially helpful, as well as number of beds and rows. Lots of potential in this app and very useful in the current version.",
+        "commentId": "gp:AOqpTOF1hB0G0bmkP7u4xVh7YiVKLgveRlkGGaYyegZWItaBSdK0i6wT1n5ScJGEnG0_o1UwhTgvzMX3dSgJjjY",
+        "author": "Myra South",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317613753257",
+        "starRating": "4",
+        "title": "I love this app!",
+        "comment": "It\\'s goes in the garden with me every day!  It works well and the developers are responsive to suggestions.",
+        "commentId": "lg:AOqpTOEreZtitnj4BUUtpKwU2e613UkO0p_sKRUL5_OuViHaNNinUznB2pOgi2V2gCxw6bvt5P3CZLger3X6Wik",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311436888225",
+        "starRating": "5",
+        "comment": "This is really excellent app now that a few things have been tweaked. Really useful.",
+        "commentId": "lg:AOqpTOG-GOy8MThY-jq5V-XeM8oxUMjZ0b7rjF60-i7MDHWWOkFLQsxnZng3z9kFXg8QbTgsNIQ5KS9VvaTaCw0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

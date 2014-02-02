@@ -1,0 +1,42 @@
+{
+  "title": "GPS timing return system",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jh.getgpsreturn",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "May 22, 2013",
+  "version": "1.0.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Low Maturity",
+  "creator": "Ching-Han Mobile Device Technology Workshop",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jh.getgpsreturn",
+  "extendedInfo": {
+    "installSize": "133k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Open tailored version1. Installation is complete, the will not be displayed in application menu.2. Set for specified telephone or mail (SMS Please note network within the free)3. Can be set to return time4. Reboot automatically performNote: This version can not be modified, If to modify the phone or mailboxIf necessary please and Contact with the developers, thank you!Use the following steps:(1) software must be installed in the target audience who(2) the setting to open the SMS or mail service(3) Set their own phone number or mailbox(4) Set a few seconds return report message(5) Return home open service(6) Close softwareTurn on the GPS positioning and network location, then the above steps.Using the object1.Memory degradation in the elderly, need to pay attention to shape track in the home.2.The other half often disappeared.3.The child is often running around.4.Friends often find people to.5.Often lost, don't know home whereabouts6.Play hide and seek to find peopleEtc ... Software Essentials:1.Need to have wifi or 3G.2.Need to have SD card. The software features are as follows1.GPS orientation, position and address display2 Setting  (1) Set newsletter open  (2) Set the phone number of the notification object  (3) Set each time return time (in seconds)  (4) Set each time whether the returns to storage SD card  (5) Set to open or close the service  (6)Clear Data (SD card, temporary files, location /mnt/sdcard/gpslog/gpslog.text)4.Set to open or shut down the service  Note:If there is no free send MMS/SMS, don't open the timing MMS/SMS notification service.If open this MMS/SMS notification, there may be a large text messaging charges.Timed to clear SD card, Avoid the SD card storage is full",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gm.permission.AUTO_SEND",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

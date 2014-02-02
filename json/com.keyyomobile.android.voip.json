@@ -1,0 +1,222 @@
+{
+  "title": "Keyyo VoIP",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.keyyomobile.android.voip",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "March 27, 2013",
+  "version": "0.03-01",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "215",
+  "rating": "4.083721",
+  "contentRating": "Everyone",
+  "creator": "Keyyo",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.keyyomobile.android.voip",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Utilisez votre compte SIP / VoIP Keyyo avec votre mobile Android. IntÃ©gration complÃ¨te Ã  Android et optimisation pour la plateforme Keyyo VoIP. Support multi-comptes, filtres avancÃ©s, SMS SIP. Supporte les codecs G711, G722 (VoIP HD), G729 (sous rÃ©serve de lâacquisition dâune licence), AMR, SILK et d'autres ...Cela fonctionne avec les comptes Keyyo Home. Vous tÃ©lÃ©phonez Ã  coÃ»t rÃ©duit depuis votre mobile Android partout dans le monde. Vous pouvez gÃ©rer plusieurs comptes avec l'assistant automatique ou manuel.Les filtres avancÃ©s vous permettent de gÃ©rer un seul carnet d'adresse avec votre ligne GSM, votre ligne VoIP interne. Les numÃ©ros peuvent Ãªtre rÃ©-Ã©crits, prÃ©fixÃ©s, suffixÃ©s, forcÃ©s sur une ligne ...Supporte Android 2.1+. Faites nous vos retours via l'e-mail. Nous ne pouvons rÃ©pondre aux commentaires. La VoIP (Voix sur IP) requiert un accÃ¨s au net et au micro. C'est la base de la fonctionnalitÃ©.La page du projet open-source GNU-GPL V3 http://code.google.com/p/keyyo-mobile-android-voip basÃ© sur CSipSimpleAlternative Ã  Skype, Tubaloo, Truphone, Google Voice, Ippi, Nimbuzz, Fring, Bria, SipDroid, 3CXPhone, Linphone",
+    "reviews": [
+      {
+        "timestampMsec": "1361653039158",
+        "starRating": "5",
+        "title": "Works great on Galaxy S2 with headphones",
+        "comment": "I\\'ve tried pretty much all SIP/VoIP clients on Android. CSipSimple is among the best in terms of functionality and integration, but it has problems with the headphone mic sensitivity (too low). Even after tweaking the CSipSimple settings mic gain/volume is not acceptable on my Galaxy S2. Keyyo is based on CSipSimple, but seem to be improved in multiple ways. The mic sensitivity can be reliably increased to a point where the volume is now adequate. Also, the user interface is a bit cleaner than CSipSimple. Dialer integration works just as well as CSipSimple. Overall, this is the most reliable, best integrated SIP/VoIP client and the only one where headphone mic gain works reliably. Thanks!",
+        "commentId": "gp:AOqpTOGrqvfrMaa-7ctVHLw8M73kDgQinqobWHNBfLJtyjOLp5NRwtVb0Msdkbxwn9bYUr9-3fCQhqp83UJV7w",
+        "author": "Terrence Barr",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375438330520",
+        "starRating": "4",
+        "title": "Love this APP!!",
+        "comment": "Not a 5* because its crashed 2 or 3 times.",
+        "commentId": "gp:AOqpTOHCR6X8ATTYKYm0wj2BCkBFD_ExTsKLel9ynCWVfSnb54TGXTxEr_0aJNrkv2XfLss0pbdY3u2aCd2B8Q",
+        "author": "Zac Grimm",
+        "authorURL": "http://lh4.googleusercontent.com/-PtwSEG5oVds/AAAAAAAAAAI/AAAAAAAABbk/_sQHkPrCT6k/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-PtwSEG5oVds/AAAAAAAAAAI/AAAAAAAABbk/_sQHkPrCT6k/photo.jpg"
+      },
+      {
+        "timestampMsec": "1326875176413",
+        "starRating": "5",
+        "title": "Cool",
+        "comment": "Exactly what im looking",
+        "commentId": "lg:AOqpTOGYCCyXEzZMWxjSXsUeFfZCnNPP6n3JGZhAVbcc_xN_hIqY2S7d7e1_XY8xlvGykPqRrwhCQaL_ZmB-Uw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1353176010862",
+        "starRating": "4",
+        "title": "Naseershaa",
+        "comment": "Very nice very clear no waiting voice....",
+        "commentId": "lg:AOqpTOFeJ1ja_39sE6-c5KsHwtFx7rrBs66aH6777zaEnPtp8-OZHNVNLsPvu_mWp37OszLuBbO9ghbt355itQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376531844809",
+        "starRating": "2",
+        "title": "Galaxy s4",
+        "comment": "Calls won\\'t connect,  address book doesn\\'t tell you which # is movie,  home etc so you have to guess.",
+        "commentId": "gp:AOqpTOGYaJnIQXGzRBAAorRQPUVIuV1wWZK_FONXWdn8iu8_jxrIzUoBjsmirJGyHORM1yXmRay7i3RwD-pgZg",
+        "author": "Alan J",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344173617555",
+        "starRating": "5",
+        "title": "Very nice",
+        "comment": "Very nice app it will acpt all sip cards and without delay voice.",
+        "commentId": "lg:AOqpTOHqXtvq7FDe8-m4qJVp4zjWG-vMfZONJwo4I8BXRcaxELz5gbW-pqTZMcXb17nv49Au0G2Q2MPO0-L5zA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335118635936",
+        "starRating": "4",
+        "title": "Am",
+        "comment": "S",
+        "commentId": "lg:AOqpTOEGqQDcLv7fIMcMdPKC744E9fcwIRa-qJ25cojSL88GSLGQ2YdCOO7rVxAmb_9lICewQgQjKmIml4FOSg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1317827474881",
+        "starRating": "2",
+        "title": "Imposible to disable dialer selection",
+        "comment": "I will uninstall because I only use voip for 1:100 calls or less. Extra step to select which dialer is annoying",
+        "commentId": "lg:AOqpTOGw5a8UcdiaaRZT4sIH8CKmp8Qh1Sdmk0VlbPwIUG2SDuRjtEOAe2G6m7rz-M4z4IiO2xWIcQ30IbIpig",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1310603196375",
+        "starRating": "5",
+        "comment": "Now that I can select contacts from address book is a great app.",
+        "commentId": "lg:AOqpTOHSvcftnBaRaiN8szlgWnCTDCG0ZHz7q7lTq8AA5je9h8iUZ929mVJYV-yw45e4gDPaCqDeObksZJ_zaQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311645849120",
+        "starRating": "4",
+        "comment": "This app is not free, however if you change the setting for another voip provider than it will be free))",
+        "commentId": "lg:AOqpTOFKCOppzzfJXdj5YJetD1NKAqh4NChlkWAR5SJcJgvtVJFA-aRi1pNqmwvSSHk0i-_8gC36azLNUFG69w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320104818248",
+        "starRating": "5",
+        "title": "The best Sip client",
+        "comment": "Excellent application works 100% with Elastix Asterisk or FreePbx Distro, the best with WiFi",
+        "commentId": "lg:AOqpTOH3JelJ37dWihH5tI7Y2pByDnpVSbCeB5khECr3zO7JW6OICtbxaJUJUeK-kAiNa-YslKjj6riU_Ipfog",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1318705865154",
+        "starRating": "4",
+        "title": ".",
+        "comment": "Good.",
+        "commentId": "lg:AOqpTOGP79zD-mappqdbKk3Vmy9X3fZh6LVtY148Rl_ESBzy87uggBGxa1d8Uqc_Bq41A24H4UVA5x_AQ35Oww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1311133921322",
+        "starRating": "1",
+        "comment": "Its not free.",
+        "commentId": "lg:AOqpTOHCiLEHDDYN0uI1jh0xWGv8vUYmt3BVg6rVez3rE87PJXOuiuD5wHTQBLtY1sOEDLycWh6BIQr5LNOAPg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309850287163",
+        "starRating": "1",
+        "comment": "POFS",
+        "commentId": "lg:AOqpTOG54cyAHbzjeLMhvg1_6k1zzxKOJfNvOCAP4M5mWmZbb18FkpYZp6BP651ciiefyYgxKY_4jUlsVIrYqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1304601889340",
+        "starRating": "2",
+        "comment": "takes veryyyy long time to open n some times just hangs.m gonna uninstall.Galaxy S (froyo)",
+        "commentId": "lg:AOqpTOE168aoResW-kwXRJNgCbC0wZPzCU2aQyeriovQLf8UaXAtoaLn1Kt2KVrh48ODIKaue7G3TWKI8iZHOQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1309617437105",
+        "starRating": "5",
+        "comment": "This is the best Voip app ever But few things missing like my balance, some echos in other end And my headfone And mic doesn\\'t work for A5it",
+        "commentId": "lg:AOqpTOFrBLNzo8k1AR3p4wColUiQ8eZUGki6mBvvD0zLpBBVMVXt9YZuLb2AxPeVfSS6fPVRR43qhPGJQWBxXQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1308405142394",
+        "starRating": "5",
+        "comment": "Great app, easy to configure with justvoip account. Works fine on wifi!",
+        "commentId": "lg:AOqpTOHvczvn2VBQr_x0icE47U0va1bvWwNyd_FsFB2NvfPd6nZkxZcohpZCNryBT519TF1D7x415QP1QJ-Zdw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1307642413582",
+        "starRating": "5",
+        "comment": "Great and easy configure",
+        "commentId": "lg:AOqpTOHAO-FpjzfL-nU6oBop17KfLVpXV0LQt9H2aP5NpfgWkl-Rk5lwy8nXigrHenIQxc_idf82AEyC9HD5xw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1305134996663",
+        "starRating": "5",
+        "comment": "Works with 3cx pbx. Better than their own client...",
+        "commentId": "lg:AOqpTOFeGLYbLwcs92qUOtMcP_34AArvhDht34eGM88v44H0CRfUyToJzlK7TnhI09U4qI2WGx0TSM4uxAaecw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1294267452375",
+        "starRating": "5",
+        "comment": "Cool app",
+        "commentId": "lg:AOqpTOH862J6bMNTc117A6_L4T1LbAqwR2LOMWqChsAr_RaAB7dEcTKpVpHLxXQQQUkOMczFZBjva_lceloDCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.USE_SIP",
+      "android.permission.CONFIGURE_SIP",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

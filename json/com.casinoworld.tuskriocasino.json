@@ -1,0 +1,38 @@
+{
+  "title": "Tusk Rio Casino",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.casinoworld.tuskriocasino",
+  "category": "Cards & Casino",
+  "price": "Free",
+  "datePublished": "August 7, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "4.25",
+  "contentRating": "Medium Maturity",
+  "creator": "CASINO CITY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.casinoworld.tuskriocasino",
+  "extendedInfo": {
+    "installSize": "9.2M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "âââââ\"Tusk Rio Casino is Excellent So much fun.\" - Chris Sony Xperia Ionâââââ\"This is the best Love it YOU have two get it.\" - TOBY Samsung Galaxy S3â â âââ\"Tusk Rio Casino is Cool Like it..\" - Cipriano HTC ONEâ $1,000 slot machine credits as a daily FREE bonus!Tusk Rio Casino by Casino City now plays, feels and sounds like your in a Las Vegas Casino sitting on a real Slot machine betting huge $100 hits and Winning JACKPOTSCreated by EnlightenedApps.com Australia's largest mobile application development company with over 200 applications being used by over 1 million people worldwide daily.Now its time to start betting, winning and risking your huge jackpots for a chance to gamble and HIT BIG with a x4 suited slots WIN!Play the No# 1 Rated Deluxe Slots game as an App, you can play amazing video slot machines at home, at work, on the bus, anywhere!Welcome to the best place to play Slot Machines Online for FREE!Earn Coins and bonuses while moving up in experience rank, as you level you can bet larger amounts. Level, play, compete and shoot to fame with your Friends on Facebook all while enjoying hours of pure entertainment.Win tons of coins and become a high roller with Jackpots, Features and Slot Royal WILDs.Bet more then your willing to risk at a casino, are you willing to risk $1,000,000 on a 1 in 4 Suits Gamble? The only slot machine with a realistic gamble feature that keeps going till you decide to take it all home.The only Slot Game with a running MMO Leveling experience, every time you play you gain experience points unlocked higher bet amounts, for an all new gaming experience.Enjoyed by millions worldwide Tusk Rio Casino is the favorite social slots game online providing unlimited FREE entertainment, top-tier graphics, and high-quality sound effects.App features:â The Worldâs GREATEST Double down or x4 Suite GAMBLE FUNCTION on Android & iPhone â BIG WIN JACKPOTSâ JAW DROPPING WINSâ Hit a feature and win FREE SPINS!!!â The 1# Slot machine game with a popular Vegas Theme â WILD Cards mean more chance of Winningâ 15 Lines means 15 times your chance of winningâ 5 amazing reels spin featuresâ Instant accessibility anywhere, anytime, from any deviceâ Sign in with Facebook and beat them with your highest scoreâ Invite friends to play and get $200 bonus slot machine credits per person invited share on Facebook, Instagram, Twitter, SMS, YouTube, Skype, Viber, Snapchat, Google+ and Gmailâ Bonus games â Leader-boardâ In-app purchasesâ Save to SD cardOur slot games have large reels and exciting bonus rounds. We have designed our slots full of colourful graphics and impressive slot machine sounds to make your playing experience as realistic as possible.â Created by one of Australiaâs Leading App Development Companiesâ Become a fan! Get exclusive rewards and stay up to date on our latest news.For technical problems or issues please email us at any time. We are listening to user feedback and we will certainly keep improving features so stay tuned.Thank you.Support@enlightenedapps.com",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

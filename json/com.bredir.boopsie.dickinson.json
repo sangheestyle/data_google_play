@@ -1,0 +1,41 @@
+{
+  "title": "Dickinson",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.dickinson",
+  "category": "Education",
+  "price": "Free",
+  "datePublished": "August 28, 2012",
+  "version": "4.5.87",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "2",
+  "rating": "2.5",
+  "contentRating": "Low Maturity",
+  "creator": "Boopsie, Inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bredir.boopsie.dickinson",
+  "extendedInfo": {
+    "installSize": "2.1M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Welcome to Dickinson Mobile!From daily menus to Compass announcements, from sports updates to thelatest news and events, Dickinson Mobile offers information tools theentire campus community can useâall at your fingertips.Features:â¢ College Directories: Search for students, faculty or staff or getinformation on academic or administrative departments. A tap of thefinger lets you call or e-mail.â¢ Campus Locations: Search for buildings or places on campus usingthis interactive map and GPS.â¢ Emergency Contacts: Get instant access to the Department of PublicSafety and other emergency phone numbers.â¢ Calendar of Events: Find out whatâs happening on campus. Search bydate or event type.â¢ News: Read the latest campus news stories and see recentannouncements from The Compass.â¢ Dining Menus: Check out the daily specials and find out which diningvenue is serving whatâfrom the Dining Hall to Union Station.â¢ Athletics: Get Red Devil news, scores and schedules.â¢ Social Media: Join the conversation and check out Dickinson onFacebook, Twitter and YouTube.",
+    "reviews": [
+      {
+        "documentVersion": "4.5.42",
+        "timestampMsec": "1347671124615",
+        "starRating": "1",
+        "title": "did anybody test this first?",
+        "comment": "campus maps = dead links, no dickinson news at all.   just go to the web page instead.",
+        "commentId": "lg:AOqpTOEwzRiSM2NUg5-a4v10vBC1LCc_3qc0QL2mzHPxhNzyPW3efmoHLvMzF5ZNukfxU2-AXjwXeYY4uNVsrKc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Add to Skritter",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jernung.addtoskritter",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "July 9, 2012",
+  "version": "1.05",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "6",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jernung",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jernung.addtoskritter",
+  "extendedInfo": {
+    "installSize": "56k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Quickly add characters and words to your Skritter account on the fly.Benefits:- load fewer browser pages- can add a nice icon to the home screen- slightly faster than using a webpage bookmark- simple and clean user interface- voice recognition (requires recognition engine)How to use:Type in a word or character (no pinyin) and then click add. It will open up a browser window in the same way the desktop bookmarklet works. If in China change the domain on the bottom to CN. To quickly add word another word use the device back button.Voice recognition:If your device has voice recognition support (Google voice search or others) then a microphone icon should appear next to the green add icon. It'll only give you results from the language you have chosen. The language can be changed anytime using the menu button and clicking on the language  button.Auto-paste:This feature can be turned on or off using the device menu button. When turned on it automatically pastes previously copied Chinese or Japanese text into the field. It's handy when copying words from a dictionary or website.The Skritter team has given permission to release and use the all the artwork in this app.Feel free to send any questions, comments or concerns to the provided e-mail.*Requires a valid Skritter account (http://www.skritter.com)",
+    "reviews": [
+      {
+        "timestampMsec": "1348406858198",
+        "starRating": "5",
+        "title": "\\345\\244\\252\\345\\245\\275\\344\\272\\206\\357\\274\\201",
+        "comment": "Very useful little app. Does what it says. Just wish Skritter could make an Android app! Down with iPhone!!!",
+        "commentId": "lg:AOqpTOGTIxWoUz7Y7fu23ZVV16wDf9dOqzZ2AgFd8_kFJ3PfjQJmS3rnFhflmIfpeHU-uBAeBhSC-1Ynx-fuMg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367205912120",
+        "starRating": "5",
+        "title": "I love it!!!!",
+        "comment": "Works perfectly, every time",
+        "commentId": "gp:AOqpTOFcXUMXXxz-lB6hpxKPWbt7mAKspLojfuYHDi17bHbwNZR_mzGupi1zDxuBqBzlckvJ7MeqXW6URjwdmg",
+        "author": "Carl Fischer",
+        "authorURL": "http://lh4.googleusercontent.com/-y4xxmD3Tkj0/AAAAAAAAAAI/AAAAAAAAF8o/kG0ZE_s5jdY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-y4xxmD3Tkj0/AAAAAAAAAAI/AAAAAAAAF8o/kG0ZE_s5jdY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1335887616052",
+        "starRating": "5",
+        "title": "Nice to have a Skritter icon",
+        "comment": "Thanks!",
+        "commentId": "lg:AOqpTOGTAWR9bPOE3aASqoyvDKUsOBkCW0qO44HEM3B74RSUyHgJF0MTSO65hVo_qL9hH9NeG0xvxyEbgs_QgQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

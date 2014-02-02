@@ -1,0 +1,45 @@
+{
+  "title": "Member barcode manager system",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jh.zxing.client.android",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "April 7, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Ching-Han Mobile Device Technology Workshop",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jh.zxing.client.android",
+  "extendedInfo": {
+    "installSize": "502k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Member barcode management systemGeneral stores, usually use member management system, usually just using the computer input data, then issued membership cards on the end of the future will need to present their membership card, but some stores I need special provisions limiting, produce membership cards heap of trouble operation, example: develop photos, making identification membership cards, etc., these are all the more waste of resources, so I introduced a set of effective control member of the bar code management mechanism allows you to re-enter the Profile, can directly use the camera phone directly from the management system is selected, you can choose after phone direct filing, membership card businesses define their own membership number where the bar code, and then directly on the membership card on OK, the next times will be original when brush barcode will be able to see the customer's basic information and photos, so that we can determine whether I also know the timeliness of the membership card and the last consumer with date, and will continue after another update you can transfer the data into an electronic file, such as allowing you to easily put into a computer directly to the server, you can also do link to other related functions (future trends, the server-related negotiations with the studio).",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.INTERNET",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.VIBRATE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

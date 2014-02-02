@@ -1,0 +1,244 @@
+{
+  "title": "Gentle Alarm (TRIAL)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mobitobi.android.gentlealarmtrial",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 26, 2013",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "2603",
+  "rating": "4.142528",
+  "contentRating": "Everyone",
+  "creator": "mobitobi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mobitobi.android.gentlealarmtrial",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "*** FREE VERSION DOES NOT RING ON WEDNESDAYS ****** AD SUPPORTED, OTHERWISE SAME AS FULL VERSION ***Languages: ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸, Äesky, Danske, Deutsch, English, FranÃ§ais, Magyar, Italiano, Nederlands, Norsk, Polski, PortuguÃªs (do Brasil), Ð ÑÑÑÐºÐ¸Ð¹, ä¸­æ(ç®ä½)Full explanation of all permissions given below.- most feature rich alarm clock on the market- on newer devices, use can use Google Voice \"set alarm at 7am\" or \"remind me to buy milk at 10am\"- speech input and output- choose own colors, font size, backgrounds- night display with customizable font color- flashlight- dock support- tries to you wake you up during light sleep (optional, see below)- music, playlists, folder, can create own playlists by choosing an artist or genre...- uses own media player for super-gentle fade-in of music- silent alarm with slowly increasing vibration- large button mode for users with glasses- flip to snooze- puzzle or math tests if you are awake- Tasker and SleepBot supportAn alarm clock shouldn't shell-shock you out of your dreams. That's why I created Gentle Alarm which tries to wake you up during light sleep using an optional pre-alarm. Alarm clocks can't know if you are in light sleep or deep sleep (those movement based alarm clock don't work) but they can play a very quiet pre-alarm which you will only hear if you are in light sleep. If you are in deep sleep, you will simply sleep through the pre-alarm.The pre-alarm plays 30min before you really want to get up (you can change that). If the pre-alarm wakes you up, you will be more refreshed than if you had slept until the main alarm because at that time you would have fallen back into deep sleep. Give it a try and I am sure you won't want to miss it anymore.Of course, the app has all the usual features of a great alarm clock:It can switch to a night display automatically when docking the phone. It can automatically shorten the snooze time with each time you press snooze. It can automatically create playlists of your favorite artist or genre. And it allows you to change colors, fonts, and backgrounds.PERMISSIONS:* RECEIVE_BOOT_COMPLETED: So it can activate an alarm after you reboot the phone. After reboot, all alarms of all apps are cancelled by default.* WAKE_LOCK: So the phone can stay on while playing an alarm or while displaying the night display.* DISABLE_KEYGUARD: When the alarm rings, you don't have to unlock the phone to be able to turn the alarm off.* VIBRATE: obvious* WRITE_SETTINGS: It adjusts some system settings such as airplane mode, silent mode, etc.* WRITE_EXTERNAL_STORAGE: It logs some data on your SD card.* READ_PHONE_STATE: So it can turn off the alarm when the phone rings and prevent an alarm from ringing while you are talking on the phone.* READ_LOGS: So you can send me debug data (if you choose to)* INTERNET: So that I can display ads (trial version only). Also, if the app crashes, it offers to send me a debug report directly to my servers. The app will politely ask you if you want to send that data or not. If you do, it needs an internet connection. If not, it doesn't but I still need the permission in the app because you may want to send the debug data.",
+    "reviews": [
+      {
+        "documentVersion": "8.7.1",
+        "timestampMsec": "1370193990124",
+        "starRating": "5",
+        "title": "Best android alarm",
+        "comment": "I\\'ve tested out all major alarms, and this one is the best.  The pre-alarm is great.  UI is very nice.  Great support from developer as well.  And has the best alarm widget, it\\'s a small widget with next alarm on it, that I could not find with other alarms.",
+        "commentId": "gp:AOqpTOEg0eEJygSYbtSsSdpYQL2dS2TTp6os85f0lT17g24gqIE-NzqUZ_M0VAV9Ys5GSJoaxl6UGo0dsAuUpgk",
+        "author": "Gus Pappas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "8.7.1",
+        "timestampMsec": "1378409997784",
+        "starRating": "5",
+        "title": "Been using this for years and love it.",
+        "comment": "Hard to imagine, but I\\'ve been using Gentle Alarm for years-- I bought the paid version 3 years ago almost to the day, and used the free version for months before that. Excellent use of three bucks.   This thing has a TON of options that I\\'m sure I don\\'t utilize in the best possible way. But, this app reliably wakes me up each morning without anything blaring or disruptive.   What\\'s super great about this is the support. Any time you have an issue or questions about GA, contact the developer, and they\\'ll get it sorted. They\\'re really on the ball.",
+        "commentId": "gp:AOqpTOHrNEuiLC5wLfoRPFcr9f1ahwN3jsKykhanjOHUr0ZT0VvgS2Y0vKEBBFuwDHQP_W4P89U37o3NfpbAF60",
+        "author": "Michelle Tomlin",
+        "authorURL": "http://lh3.googleusercontent.com/-LuWbqDmFvjw/AAAAAAAAAAI/AAAAAAAAEmY/T5ImwTQfKU0/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-LuWbqDmFvjw/AAAAAAAAAAI/AAAAAAAAEmY/T5ImwTQfKU0/photo.jpg"
+      },
+      {
+        "documentVersion": "8.7.1",
+        "timestampMsec": "1375155153517",
+        "starRating": "4",
+        "title": "Awesome.",
+        "comment": "I just love it...",
+        "commentId": "gp:AOqpTOHk8aHt1ODWiKVoxDvzAlv4Yes2vVSbt0Lp0NMp27_9qb1HJZA8ZB1mW0bT9-tneKmfqPy0BseqQA43Wts",
+        "author": "Allie Collins",
+        "authorURL": "http://lh4.googleusercontent.com/-yPkVMwGpaOA/AAAAAAAAAAI/AAAAAAAAAxg/MAr6Ucel4Og/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yPkVMwGpaOA/AAAAAAAAAAI/AAAAAAAAAxg/MAr6Ucel4Og/photo.jpg"
+      },
+      {
+        "documentVersion": "3.8.5",
+        "timestampMsec": "1368455427183",
+        "starRating": "5",
+        "title": "Makes waking easier & certain.",
+        "comment": "Well designed and works very well. Let\\'s me have loudness to wake, snooze for laziness, will not let me over snooze, and awakens me naturally on most mornings. Clock lighting is not a concern for me, but this has multiple options for being dim as you need it.   Excellent alarm app--no sense looking any further!",
+        "commentId": "gp:AOqpTOGo2PcMoIQCs9QJL2qc2-K3-B70S9ayeQSTYUWGpnfHkL8SVd6JhVj5Cw25ygmuHDic4Jya5AWdY1uErgs",
+        "author": "John Elder",
+        "authorURL": "http://lh5.googleusercontent.com/-lb_UdDjlGxY/AAAAAAAAAAI/AAAAAAAABD4/iQu5UYu0g68/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lb_UdDjlGxY/AAAAAAAAAAI/AAAAAAAABD4/iQu5UYu0g68/photo.jpg"
+      },
+      {
+        "documentVersion": "3.8.5",
+        "timestampMsec": "1366170873393",
+        "starRating": "3",
+        "title": "Not great",
+        "comment": "Works but I am certain there are better",
+        "commentId": "gp:AOqpTOHOM8P2rvFBOpPCYTOmmti9J-d1m3f3X9tN1KW6aqcYI3zxSx5qOBzVmL5MH6sMPu4NcxBFmW0d1Gjc-cM",
+        "author": "William Hendricks",
+        "authorURL": "http://lh6.googleusercontent.com/-X7mHSwBFMqA/AAAAAAAAAAI/AAAAAAAAEHw/bm8HxNHcq0A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-X7mHSwBFMqA/AAAAAAAAAAI/AAAAAAAAEHw/bm8HxNHcq0A/photo.jpg"
+      },
+      {
+        "documentVersion": "3.8.0",
+        "timestampMsec": "1358628222220",
+        "starRating": "2",
+        "title": "Need improve",
+        "comment": "The menu is a mess. And the alarm icon in the status bar bothers me, Uninstalling.",
+        "commentId": "gp:AOqpTOGLXC2ENyobQhz8Css4kzb-t06jld0ggLNlQEei6jUdwXLHr8-Y9NbBq1mupa0Wm8GcGZ9NZE3LrP03urA",
+        "author": "Gustavo A",
+        "authorURL": "http://lh3.googleusercontent.com/-JVslqkg4PZM/AAAAAAAAAAI/AAAAAAAAAAA/lT1L_GXur80/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-JVslqkg4PZM/AAAAAAAAAAI/AAAAAAAAAAA/lT1L_GXur80/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1347174464493",
+        "starRating": "2",
+        "title": "It\\'s ok, but...",
+        "comment": "3 annoying things: Font is very small on alarm set up screen (plenty of space on the screen to make it bigger). Phone vibrates when in/out of night screen. Call/notification sound gets switched to vibration mode automatically when in night screen mode...",
+        "commentId": "lg:AOqpTOEDccAnCDgBaQTWb4T3wWMj9KG4p1h-waze6EcGuhbULuq5S4NCWjtFXrynLWTU71uHUba32jz4r9LCamo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1353158206389",
+        "starRating": "5",
+        "title": "Excellent feature set",
+        "comment": "Great design and layout, offers everything the stock alarm lacks.   Follow instructions and disable auto updates and you will have no issues with lost alarms.",
+        "commentId": "lg:AOqpTOFMveRjyvZjTIipa_n31jRBF4OGVg_7v5PwK78i1qb8uC6eGoDjSAu_6g_EC72FFEtd77InRmeeLKQGhIU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1345442465188",
+        "starRating": "4",
+        "title": "Great, bit could use an update to the UI",
+        "comment": "Try it. You won\\'t be dissapointed. I\\'ve purchased the full version.",
+        "commentId": "lg:AOqpTOEJ8iHxhHIcU2GYGSRO25b7Q7-RpQWcdgO9J6n1KVwYI3iQ02Yx_tVbWdZ4qZH7V3SOli7jw67IEczLBqw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1346009976581",
+        "starRating": "2",
+        "title": "Volume Bug",
+        "comment": "I really want to like this application. It\\'s king on features. But, there\\'s a big problem when using music from sd card, alarm is ALWAYS played at max volume with no fade, regardless of settings. Ice cream sandwich on Samsung galaxy S2.",
+        "commentId": "lg:AOqpTOGi76RBd74pAwZvO_RmdJNAx4xEVdJEyL8GsVqngU9D7MJv2PSZ1u40veTgoSbX6AhQ1EnjGACRhjjGBE8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1345707336471",
+        "starRating": "2",
+        "title": "Not for HTC One V",
+        "comment": "I wanted a night-clock app but on my HTC One V the return, home, and recent buttons at the bottom remained lit when the clock was active.  They were actually brighter than the clock! Thus uninstalled.",
+        "commentId": "lg:AOqpTOFAEr2iNJflz7C5JQrxsx7o729CSFEE-5bSiBEDYJzrkTSDGGC6U0EgIJecOAY47Ns6jv5rr1V40wFOh0Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1343480208623",
+        "starRating": "5",
+        "title": "Wow",
+        "comment": "I\\'m a really heavy sleeper and always thought I needed loud alarms but this one is amazing! It wakes you up gently and you wake up faster because if it. I might actually buy the full version. Love it!",
+        "commentId": "lg:AOqpTOGPfjJNb9KExS1tSJORmXtEofOU_qHxKGYFGlT-4Y5cOyltHFyF0t8A8OG8S7ugIXM-C-pvOlpYfrMXrfg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1342624928077",
+        "starRating": "2",
+        "title": "Stopped all other alarms on Wednesday",
+        "comment": "Didn\\'t set it on Wednesday, set alarms that came with the phone, 9 of them (i have issues waking up) nothing no sound, had no issues with the Wednesday thing until I woke up 40 mins late.",
+        "commentId": "lg:AOqpTOHW4agsT_BBegrqF_tq9eNwYfq2fN9if9YBl1K5rOPJh3jjrpYAUOSfuhYpkauTCkH-8ufW8f3CWGKOPYU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1349473882262",
+        "starRating": "5",
+        "title": "Works great! (LG Optimus Elite)",
+        "comment": "The pre-alarm is where it\\'s at.  I have a quiet white noise tone that starts playing 15 minutes before my regular alarm.  It\\'s set to fade in over a period of 5 minutes that starts it out too quiet to hear.  Most days I wake up before the regular alarm goes off and it feels like I woke up naturally.  Using it in conjunction with Sleep Cycles (Ambiate) to figure out when I should be getting to sleep and the two go very well together.",
+        "commentId": "lg:AOqpTOEvDVTCkhjTsy0dh0PLS6xusF-XckDxarwiNmmmIz1zKUy6yD9K4Mngm7Nrc0F_OTKqmRGplCKIj9d9Nd4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1346468461062",
+        "starRating": "5",
+        "title": "Morgan",
+        "comment": "Excellent alarm clock. Requires a little effort to learn how to use it. Lots of options and things to play with. The pre- alarm is pretty cool.",
+        "commentId": "lg:AOqpTOFqWkswQyKY0gVnM2hjMjwjJ8-otmHfN9gp2_smzYQDlXlekiJ_Us7x5vHJygNO9WQ_Mfv5ckN1QP2zttg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1344612128702",
+        "starRating": "1",
+        "title": "Fail",
+        "comment": "Alarm stays silent, app looks horrible.",
+        "commentId": "lg:AOqpTOE6zGqMBjQBHQ6Gj-iYsZcV8xW5N3Vvc5Z4xSmjjuhmlO1DTrkPP-etyP7mf_sgzoMKALFj_Z4s0tkh9ko",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1344358600342",
+        "starRating": "1",
+        "title": "Not good",
+        "comment": "The menu is complicated and confusing.. I woke up today and clicked on the \\\"off\\\" button.. It gives me a confirmation yes/no option.. Lol",
+        "commentId": "lg:AOqpTOEs-INYuFbUt8-evBvTSBt4qGE8UHgJV_gUkNR4CvI1Dv2ZgSiE2g-UkfNxupHsrzcesleZC0ax_Kz3GTo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1357655427609",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "Needs more alarms features. I like the blinking screen light alarm of alarm clock plus. More app settings. Trial App sucks though... way to many pop up messages!!! One is to many this has like 4-6",
+        "commentId": "gp:AOqpTOHImt4c9gLn6dfPYtH7viFzGM9lT-DSfc0IhPH7nR14wgH1G4WRStSBFgqeUuXgU8JK5mxT0lIF6Wj_jh8",
+        "author": "troy olson",
+        "authorURL": "http://lh4.googleusercontent.com/-LNCgrPen2Fw/AAAAAAAAAAI/AAAAAAAAEK8/55EKEW81WzU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-LNCgrPen2Fw/AAAAAAAAAAI/AAAAAAAAEK8/55EKEW81WzU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1354406292987",
+        "starRating": "3",
+        "title": "Great App, too complicated",
+        "comment": "This App does the Job, but It would be easier to hack into the FBI mainframe than setting an alarm on this app",
+        "commentId": "gp:AOqpTOEC3zXXFXgzmFJxiv5PAvuBIimFjAHthk--8MDuktFVM5jMpbc5O6Q5CSf1KLngx4mvBseUDynN9Xssjo8",
+        "author": "Daniel Gaitz",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.7.4",
+        "timestampMsec": "1349748992549",
+        "starRating": "2",
+        "title": "Much potential",
+        "comment": "Looks great with loads of customisation...only problem is that it makes my S2 run very hot, so can\\'t use",
+        "commentId": "lg:AOqpTOF4KxTSBOVtZQC0R8LK4OR28DV6TY1qZ9viednleY0xp_amz9m9q54RVJyFKBU9LQBFLT1jvFtipJZQ4Bs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "com.android.alarm.permission.SET_ALARM",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

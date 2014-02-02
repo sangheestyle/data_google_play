@@ -1,0 +1,45 @@
+{
+  "title": "Sea Surfers:Marine Subway",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jp.seasurfersgamefree",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "August 12, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Joshua Poon",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jp.seasurfersgamefree",
+  "extendedInfo": {
+    "installSize": "10M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Sea Surfers:Marine Subway Game Free is a one of the best Android mobile games out there right now on Google Play. Filled with action packed multiple games, it is a MUST DOWNLOAD app game for EVERYONE!!! Best of all, itâs FREE. Surfing is a surface water sport in which the participant, referred to as a \"surfer\", rides a surfboard on the forward face of a wave, which is most often carrying the surfer towards shore.Surfers surfing on the sea gives more excitement than travelling on subway.This is a new addictive and full of excitement game app full of the most beautiful high quality videos and HD pictures you can share with your friends and set as wallpaper.---There are 3 FUN games here!Game 1 - Memory Game.  Memorize these beautiful photos? Look closer and pair them to win the game.Game 2 - Puzzle Game.  Piece together these outstanding photos. Drag the pieces into the right place to recreate the correct image.Game 3 - Block Game.  Move blocks to fit each other. It is a 100 level of block game. Once you complete each levels, you will love this game very much.Once you have completed each levels, you will love this game very much.Tip on Scoring:---------------The more blocks you clear, the more score you will get.Other features:---------------You can pause the game and resume later.How to Play:- Change the block so that it can fit each other..- There is no time limit, but each stage has target points to proceed to next stage.DISCLAIMER: All names, trademarks and images are copyright of their respective owners. The use of any names, copyrights, trademarks or photos have been used for Descriptive Purpose only and not to show endorsement or permission of use. This is completely unofficial, and created for fans.This app is made by fans for fans, and it is for entertainment and personal use or purpose only.DOWNLOAD NOW and enjoy our wallpapers and jigsaw puzzles!",
+    "reviews": [
+      {
+        "timestampMsec": "1375661951257",
+        "starRating": "5",
+        "comment": "Nice",
+        "commentId": "gp:AOqpTOFI4RAQopfhdteolRUfB7S1ABqFj_fe92YhEM7CX_plNNagBlLDL8lNPh0LPO3eP_7YZDBmYxDsovI3",
+        "author": "Joshua Poon",
+        "authorURL": "http://lh4.googleusercontent.com/-gIc6974oZrQ/AAAAAAAAAAI/AAAAAAAAAAA/nwC0aCzMGI8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gIc6974oZrQ/AAAAAAAAAAI/AAAAAAAAAAA/nwC0aCzMGI8/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.jp.seasurfersgamefree.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

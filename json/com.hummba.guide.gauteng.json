@@ -1,0 +1,67 @@
+{
+  "title": "Gauteng Travel Guide",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.hummba.guide.gauteng",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 30, 2013",
+  "version": "2.9.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Advanced Science Applications",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.hummba.guide.gauteng",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The Gauteng Travel Guide contains detailed travel information about more than 350 Points of Interest (POIs) across Gauteng, South Africa. This includes approximately an hour of audio content on some of the provinceâs most popular tourist attractions. Get inspired by the many museums, nature reserves, art galleries and cultures of Johannesburg, Pretoria and surrounds. Discover some of the best shops, restaurants, adventure and leisure activities; as well as a comprehensive list of entertainment, accommodation and conference venues.Youâll also be able to take advantage of some great GeePee discount deals!Gauteng Travel Guide Features:â¢\tSetup the Gauteng Travel Guide once online and the map become available to use completely offline â NO data costs while youâre out exploring!â¢\tHigh quality audio information, voiced by localsâ¢\t350+ POIs across Gautengâs five regions, including the cities of  Johannesburg and Pretoriaâ¢\tDetailed information about each POI, including contact details, opening hours, prices and links for more informationâ¢\tBuilt-in search and category filter functionality, as well as detailed maps of areas around Gauteng for ease of travelPerfect for the independent traveller, the Gauteng Travel Guide is fully produced by the Gauteng Tourism Authority and Tourism RadioÂ®, and encourages you to explore the province for yourself, whether you are an international visitor or a local traveller. Go where you like and the guide goes with you, drawing your attention to attractions, venues and activities, no matter where you are.Disclaimer:While every effort has been made to ensure that the information contained within the Gauteng Travel Guide was accurate at the time of publication, we cannot be held responsible should this prove otherwise or should changes occur. By downloading the Gauteng Travel Guide, the user agrees that no responsibility for the consequences resulting from any inaccurate information shall be incurred on the application or guide publisher and their clients, or on the third parties mentioned therein. All information are subject to change and users are further encouraged to check information directly with the third party establishments should they wish to make bookings. Terms and conditions apply to the GeePee programme and the GeePee specials and these are available on Gauteng Tourismâs website.",
+    "reviews": [
+      {
+        "documentVersion": "2.9.1",
+        "timestampMsec": "1371591067880",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "A must have for locals and tourists alike.",
+        "commentId": "gp:AOqpTOEu3IsWV9q9JVoImdJ1V16TYBkEDYcE3q9-KUXsVCCqeBOlF68C_taecv5sNNQpmeyV2gVvo5AetgLDSkY",
+        "author": "Jonathan Bucke",
+        "authorURL": "http://lh3.googleusercontent.com/-OCTUO8R_pzk/AAAAAAAAAAI/AAAAAAAAABo/fF_94FxgsiA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-OCTUO8R_pzk/AAAAAAAAAAI/AAAAAAAAABo/fF_94FxgsiA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364373460233",
+        "starRating": "5",
+        "title": "Amazing App",
+        "comment": "As a frequent traveler to Gauteng - this app is amazing at helping me find restaurants and places of interest while I am there",
+        "commentId": "gp:AOqpTOGjM0S2jPr4Bzs6nNkMFvAKcXNvZK2YoxefYvWvgS7tXocc18ONA1pCi3UyQj0X7t_ie2mrl46i-oGTFr8",
+        "author": "Katie Stuart",
+        "authorURL": "http://lh3.googleusercontent.com/-Fwk92aiDXLk/AAAAAAAAAAI/AAAAAAAAJfQ/fGgf2OcONwU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Fwk92aiDXLk/AAAAAAAAAAI/AAAAAAAAJfQ/fGgf2OcONwU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364372897350",
+        "starRating": "5",
+        "title": "Great app but a lengthy download time with all POI",
+        "comment": "App takes a very long time to download the offline version with all maps and POI\\'s.",
+        "commentId": "gp:AOqpTOHoRLarh1w74IiuYhITr0fmKDLeCDSzOFLrhwlGdWVDZqYZ9Y97LZOvEK8EVlkbKEr6VvgztX4cunWtzR4",
+        "author": "Stefan Claassen",
+        "authorURL": "http://lh6.googleusercontent.com/-dWTH_08HMIs/AAAAAAAAAAI/AAAAAAAAAgo/VaLIMEp9TzQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-dWTH_08HMIs/AAAAAAAAAAI/AAAAAAAAAgo/VaLIMEp9TzQ/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

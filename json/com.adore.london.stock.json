@@ -1,0 +1,98 @@
+{
+  "title": "London Stocks",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.adore.london.stock",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "January 15, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "13",
+  "rating": "3.3076923",
+  "contentRating": "Everyone",
+  "creator": "Stocker",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.adore.london.stock",
+  "extendedInfo": {
+    "installSize": "159k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "London Stocks brings you streaming quotes from London Stock Exchange with some defined delay.It synchronizes with different sources i.e. Google Finance & Yahoo Finance, It allows quick access to charts, portfolio management & a close eye on World MarketsTrack your portfolio with shares and costâ¢ Stock with real time tickersâ¢ Manage portfolio and save all your transactionsâ¢ Manage Multiple portfolios (Click on Menu Button)â¢ Manage Multiple Watch List for better Tracking (Click on Menu Button)* Live News for your watch list and portfolio.* Backup/Restore to Google Account Docs (To do backup and restore click on top right icon on your screen.)This application is supported by Ads, if you need a ad free version, let us know.Disclaimer:This application is a stocks viewer with no warranty.It fetches data from Google Finance APIs from Google Inc (http://www.google.com/help/stock_disclaimer.html) and Yahoo FinanceWe assumes all information to be truthful and reliable, however, we cannot and do not warrant or guarantee the accuracy of this information.All information provided must be understood as information purposes only and not investment advice.",
+    "reviews": [
+      {
+        "timestampMsec": "1366098831704",
+        "starRating": "1",
+        "title": "Basic Flaws",
+        "comment": "Two major flaws.  First when the app restarts all stocks in the watch list are lost. Secondly, not all stocks are listed which makes it rather useless at the moment. Fix these and this would be a good app",
+        "commentId": "gp:AOqpTOGqwjczIKU-q16sd8stNf2mcWRM3qQl7XWsG-hxO_7lePSmD-BeLdzp-ytRNNhz_b_X_CaA6NW7VPvVUw",
+        "author": "Malcolm Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360765402173",
+        "starRating": "1",
+        "title": "Wrong values",
+        "comment": "Market values of London stocks has decimals in the wrong place in the calculation. Not good for something called \\\"London stocks\\\"",
+        "commentId": "gp:AOqpTOGuEXpMj9Uv58rTYg_PR17XQx23yexa0F-O1Si9Arbd_yaSxNlI95CWnnSMbtG4vmoCOGxNpz9Tt40wKw",
+        "author": "Adam Bridger",
+        "authorURL": "http://lh6.googleusercontent.com/-TKoq6iApRdM/AAAAAAAAAAI/AAAAAAAAAPI/8Nvr4e_9wxk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-TKoq6iApRdM/AAAAAAAAAAI/AAAAAAAAAPI/8Nvr4e_9wxk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1331827220971",
+        "starRating": "3",
+        "title": "Fix this please!",
+        "comment": "Thought it was good at first but now it deletes all the shares i\\'m keeping tabs on every time i close it.  I\\'ve given up using it now until this is fixed. Also on a side note, the data and charts of each share is minimalistic.  Good for keeping track of things but no good for research or analysis. Still worth downloading despite this.",
+        "commentId": "lg:AOqpTOEBKZooKqU45Gm0sX7WRotFouNL-jgSXHUzEbqppHUX3QuifIooRrDbgjA81swpQ4P2RvjuPLbCC8BSzQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1333363517281",
+        "starRating": "1",
+        "title": "Useless",
+        "comment": "Useless",
+        "commentId": "lg:AOqpTOGeXYXyXRXis4y7SDTKI4akLqXNuw5pIuCtCCq5ohADcHmHRVlV3FwdqC7KPjWdhUB93ex63W-ruPBBBw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1337672335527",
+        "starRating": "3",
+        "title": "Nice but",
+        "comment": "It can\\'t find any companies beginning with g or h so no Halfords, nice feel to the app but if it has bugs that\\'s irrelevant so will go back to Stock Watch.",
+        "commentId": "lg:AOqpTOGYM5ebFOg4_Er-p0EmMzH_4TOUN9FmSBC2otNL5xsKhnaU-fgdoY_WiQfEneAtUg_EK0PkzdWbMX3Yxg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330428603850",
+        "starRating": "3",
+        "comment": "Some stocks have their value incorrecty valued by 2 decimal places which is a shame as its a nice app. whether you enter the transaction in \\302\\243 or P",
+        "commentId": "lg:AOqpTOHLCubnbCNucCnoE3BVE33bKTvsuOQIiD28bUXoCWkbl9EZ4SrwK2NKe2cCUMIfzdMf33jY4fH3Hf1t3w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1332516093631",
+        "starRating": "3",
+        "title": "No BT Group ??",
+        "comment": "Good app, but doesn\\'t seem to recognise British Telecom Group, (Code - BT.A), Shame, its found the others I like to view.",
+        "commentId": "lg:AOqpTOEKzl6JN1m9Deu3uecRQgpTiM1FNz6TKg5b3_vU59uaizA5LLyrWqTfBuJI4YyiP4oqFSPQj4SgZ_W8fg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330016028898",
+        "starRating": "3",
+        "comment": "Great app real time stock updates. Down side thirsty on data and battery",
+        "commentId": "lg:AOqpTOGY7ctNNL6ZZIbw6V4-KI6IWy522E5-UlQvHTj4yJYLicWrh7S4gPUXzsuc_bJZjs8_TiNYVQE0eaFRBw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

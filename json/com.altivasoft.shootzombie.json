@@ -1,0 +1,41 @@
+{
+  "title": "Political Sniper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.altivasoft.shootzombie",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "August 20, 2013",
+  "version": "1.02",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "13",
+  "rating": "3.6153846",
+  "contentRating": "Medium Maturity",
+  "creator": "altivasoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.altivasoft.shootzombie",
+  "extendedInfo": {
+    "installSize": "4.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Political Sniper is an addictive shoot politicians who have become zombies, this game will activate your maximum joy, watching politicians fall that have been infected by the zombie virus.Political Sniper has several game modes ranging from freestyle where you kill mercilessly looking for the highest score to the story mode where you have to kill every zombie politician in his country to a maximum of 6, in subsequent updates, will politicians infected new.You have to help save police, fire, medical and bite of these politicians, from your sniper position, you can shoot them in the head and end his agony.Political Sniper is a highly addictive arcade game and exciting that will make you laugh without thinking about tomorrow.In political Sniper, you visited Russia, Spain, USA, Germany, North Korea and Bolivia as its presidents have been infected and you must rid humanity of this disease.Tags: free game, extreme, warrior game, free game, best games, free game, punter, sniper game, sniper, free sniper game, sniper zombie, free xtreme game, soldiers, war game, free war, dutti, duty, sniper, COD 2013, black, ghost, sniper, sniper games, sniper ghost rider, political sniper, sniper 2013, duty sniper, shooting, shooting game, call duty, duty ghost, sniper classic game, classic game sniper 2013.",
+    "reviews": [
+      {
+        "timestampMsec": "1375448208259",
+        "starRating": "5",
+        "comment": "Really Good",
+        "commentId": "lg:AOqpTOFu0Ice_GFtpPdZhlNWCMkZh3_GYe68biLSLEVGbfy2f6IR2yJTGBKPB6VAk8iZXQEkrKyzlG3RYQPrwI4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.ACCESS_WIFI_STATE"
+    ]
+  }
+}

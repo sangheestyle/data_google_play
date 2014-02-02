@@ -1,0 +1,39 @@
+{
+  "title": "Hepatitis",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bawidgets.hepatitisa",
+  "category": "Medical",
+  "price": "Free",
+  "datePublished": "February 20, 2011",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "4",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "BAWidgets.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bawidgets.hepatitisa",
+  "extendedInfo": {
+    "installSize": "9.7k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Hepatitis (plural hepatitides) is an inflammation of the liver characterized by the presence of inflammatory cells in the tissue of the organ. The name is from the Greek hepar (á¼§ÏÎ±Ï), the root being hepat- (á¼¡ÏÎ±Ï-), meaning liver, and suffix -itis, meaning \"inflammation\" (c. 1727). The condition can be self-limiting (healing on its own) or can progress to fibrosis (scarring) and cirrhosis.Hepatitis may occur with limited or no symptoms, but often leads to jaundice, anorexia (poor appetite) and malaise. Hepatitis is acute when it lasts less than six months and chronic when it persists longer. A group of viruses known as the hepatitis viruses cause most cases of hepatitis worldwide, but it can also be due to toxins (notably alcohol, certain medications, some industrial organic solvents and plants), other infections.AcuteInitial features are of nonspecific flu-like symptoms, common to almost all acute viral infections and may include malaise, muscle and joint aches, fever, nausea or vomiting, diarrhea, and headache. More specific symptoms, which can be present in acute hepatitis from any cause, are: profound loss of appetite, aversion to smoking among smokers, dark urine, yellowing of the eyes and skin (i.e., jaundice) and abdominal discomfort. Physical findings are usually minimal, apart from jaundice in a third and tender hepatomegaly (swelling of the liver) in about 10%. Some exhibit lymphadenopathy (enlarged lymph nodes, in 5%) or splenomegaly (enlargement of the spleen, in 5%).Acute viral hepatitis is more likely to be asymptomatic in younger people. Symptomatic individuals may present after convalescent stage of 7 to 10 days, with the total illness lasting 2 to 6 weeks.A small proportion of people with acute hepatitis progress to acute liver failure, in which the liver is unable to clear harmful substances from the circulation (leading to confusion and coma due to hepatic encephalopathy) and produce blood proteins (leading to peripheral edema and bleeding). This may become life-threatening and occasionally requires a liver transplant.[edit] ChronicChronic hepatitis often leads to nonspecific symptoms such as malaise, tiredness and weakness, and often leads to no symptoms at all. It is commonly identified on blood tests performed either for screening or to evaluate nonspecific symptoms. The occurrence of jaundice indicates advanced liver damage. On physical examination there may be enlargement of the liver.Extensive damage and scarring of liver (i.e. cirrhosis) leads to weight loss, easy bruising and bleeding tendencies, peripheral edema (swelling of the legs) and accumulation of ascites (fluid in the abdominal cavity). Eventually, cirrhosis may lead to various complications: esophageal varices (enlarged veins in the wall of the esophagus that can cause life-threatening bleeding) hepatic encephalopathy (confusion and coma) and hepatorenal syndrome (kidney dysfunction).Acne, abnormal menstruation, lung scarring, inflammation of the thyroid gland and kidneys may be present in women with autoimmune hepatitis.",
+    "reviews": [
+      {
+        "timestampMsec": "1354842599686",
+        "starRating": "1",
+        "title": "Useless & worthless app...",
+        "comment": "Useless and worthless app...doesnt work at all...",
+        "commentId": "gp:AOqpTOFsqV4ElO6_nzaa2S6cKOZP85bef6AoW070FpTXIUpOOCb--oFOQACb2GGl51GqQGMW4x66zwwzNU3yQA",
+        "author": "Jean Harrell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "title": "V4N - Whatsapp Viber Line",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.pacosal.accnew",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 5, 2013",
+  "version": "2.12.1",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "102",
+  "rating": "3.6568627",
+  "contentRating": "Low Maturity",
+  "creator": "pacosal",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.pacosal.accnew",
+  "extendedInfo": {
+    "installSize": "823k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This App will read by voice the notifications you want to hear.*WARNING: IF WHEN YOU ENABLE THIS APP AT ACCESSIBILITY YOUR DEVICE STARTS TO SPEAK EVERY TIME YOU TOUCH SOMETHING, THERE IS A PROBLEM WITH YOUR LAUNCHER. IT IS NOT THIS APP FAULT.TRY ANOTHER LAUNCHER FROM GOOGLE PLAY*Ready for this App notifications:- Gmail  - Including notification content (works better with Android 4.1+)- WhatsApp - Including notification content (works better with Android 4.1+)- Line - Including notification content- SpotBros - Including notification content- Viber - Including notification contentand the other you want. When a notification from a new App is read, this App will ask you to read this kind of notifications that you can allow or deny. This notifications are shown at menu / notifications where you can delete them.If your device is with screen on, the App will show you a banner with the content of the notification for 3 secs instead of read the message.*** SEND TO ***- Sony Smartwatch compatible. You will receive notifications at your Smartwatch too.- Pebble Watch compatible.- Mail. you can receive all your notifications in a mail account too.**** Samsung device Users: Samsung has a bug in his Android 4.x version. Is not a bug of this App, it is Samsung fault. https://code.google.com/p/android/issues/detail?id=23105You can use Tasker or other App in order to enable or disable Voice for Notifications creating a Intent Broadcast Task with this actions: com.pacosal.acc.action.ONcom.pacosal.acc.action.OFFYou can enable or disable this App with a widget.Requirements:- TTS installed- Internet connection- Enable this App at Accessibility settings- For Smartwatch notifications enable this Extension at SmartConnect App.You can report bugs and follow this project at xda-developer forum http://www.google.com/url?q=http://forum.xda-developers.com/showthread.php?p=38511978Do you know my Welcome Pack for Sony SmartWatch? Search for it ASAP!If you find any bug, please send an email to pacosal@gmail.com in order to correct it.If you have any suggestion, please send an email to pacosal@gmail.com in order to implement it.twitter -> http://www.google.com/url?q=https://twitter.com/paco_salazar_twTags: whatsapp, voice, message, car, hands free, line, spotbros, google mail, sony, smartwatch, pebbleLiveWareâ¢ extension for SmartWatchSmart Connect extension for SmartWatch 2",
+    "reviews": [
+      {
+        "documentVersion": "2.12.0",
+        "timestampMsec": "1376755988176",
+        "starRating": "5",
+        "title": "Zampau",
+        "comment": "Use full",
+        "commentId": "gp:AOqpTOHwIEp3LC45djBiRD8LlwoWhVjiEBJW1MO1kQiVGTKge_83cTmdirifib-xPgaGz5TbYJvOY9kjUllOXB8",
+        "author": "Zam Khan Pau",
+        "authorURL": "http://lh5.googleusercontent.com/-4HlvC6_j0Iw/AAAAAAAAAAI/AAAAAAAAA1A/tOFcyUTRaUs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-4HlvC6_j0Iw/AAAAAAAAAAI/AAAAAAAAA1A/tOFcyUTRaUs/photo.jpg"
+      },
+      {
+        "documentVersion": "2.11.0",
+        "timestampMsec": "1375061311571",
+        "starRating": "4",
+        "title": "Repetitive request",
+        "comment": "Keeps asking the same question about android.systemui even already answered NO and it doesn\\'t register this into the \\\"Denied Notification\\\" list. Pls fix. Thanks",
+        "commentId": "gp:AOqpTOHsyohyJcFPxeDpptUebb8ZSsQBjMfK8M3XmpneoucXcQ1qd07Hxfq0qP7xv0tXZMJk2uq5neyiyboozaY",
+        "author": "Eric Goh",
+        "authorURL": "http://lh5.googleusercontent.com/-SKBzVNfJsnI/AAAAAAAAAAI/AAAAAAAAVes/ozloi1bu51I/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-SKBzVNfJsnI/AAAAAAAAAAI/AAAAAAAAVes/ozloi1bu51I/photo.jpg"
+      },
+      {
+        "documentVersion": "2.10.1",
+        "timestampMsec": "1373647206529",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Gud one",
+        "commentId": "gp:AOqpTOEha8ajA7KivkgV5z0DH52oJ5KprxA0vBmjIK4-9YoIQGbLj1HTQ4ORTFJ8MlHqljVYOuCTDo8ka1vlaYU",
+        "author": "Rahees A R",
+        "authorURL": "http://lh5.googleusercontent.com/-_eUur6ql1YQ/AAAAAAAAAAI/AAAAAAAAAss/xMaG4D4JEC4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-_eUur6ql1YQ/AAAAAAAAAAI/AAAAAAAAAss/xMaG4D4JEC4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.9.0",
+        "timestampMsec": "1373036989694",
+        "starRating": "4",
+        "title": "Nice app",
+        "comment": "Nice app, but it you have trouble with you android system of luncher, thn you\\'re going to have a bad time.",
+        "commentId": "gp:AOqpTOEA2SYiq2EEpGu0glmJINaucRgFFC3qnRJTOIHb_HYE_ojinx8Vez89P12ShXWMwEVyWesGnzYoD6rk1-c",
+        "author": "Jose Carlo Paguada Castro",
+        "authorURL": "http://lh5.googleusercontent.com/-9H6antRpyJM/AAAAAAAAAAI/AAAAAAAAADo/G597twW4jVc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-9H6antRpyJM/AAAAAAAAAAI/AAAAAAAAADo/G597twW4jVc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.8.6",
+        "timestampMsec": "1372207424735",
+        "starRating": "5",
+        "title": "EXACTLY what I needed!",
+        "comment": "I was looking for an app that could read both SMS and Google Voice incoming messages, instead of having two apps installed. Fits the bill perfectly!",
+        "commentId": "gp:AOqpTOHbadbCy8xgR8lTjk8bWN2mUpy4PG8rmj0TvgNq10F-lyloa6vJ3Dx8c4s2nVgLFm0cLLprxAKv_LAgvAU",
+        "author": "Darren MacDonald",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.3",
+        "timestampMsec": "1371507315146",
+        "starRating": "3",
+        "title": "Pretty good but...",
+        "comment": "Voice should be tied to the ringer volume. When phone is silent, it shouldn\\'t read out the notification.",
+        "commentId": "gp:AOqpTOHAEJqClp4RpLdNdqJegIjha-C-b7W3V1Y8j4eBX9JPYF5j7o1wLaov6Z7N1XE_-ARcOpK0cijeIxLRNcc",
+        "author": "Derek Browne",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.3",
+        "timestampMsec": "1371592685672",
+        "starRating": "4",
+        "title": "excellent",
+        "comment": "I love this app Good job on creating this app",
+        "commentId": "gp:AOqpTOHeGRqGSzcSZEpOjKohEmHH1As4kDUPdPSqFl6ldK00gLJ4ImI9s6fmfNC2hZzEEzMcgrU5GLxf1QvsRu0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.8.1",
+        "timestampMsec": "1370820824717",
+        "starRating": "5",
+        "title": "Very good app",
+        "comment": "App works well, and the developer is constantly working on it an comunicating with users",
+        "commentId": "gp:AOqpTOGg6d_QnIvO2LOJoBBVZAP_6UzusAYrRg8Uc7TcRmJ0Cwo4eTsS6lI2IjFe0Yz4Glyc1oRMpxgcIiHb3qY",
+        "author": "Roberto Cocchiararo",
+        "authorURL": "http://lh5.googleusercontent.com/-OLwXjt_Nd8g/AAAAAAAAAAI/AAAAAAAAHAc/VBQiYuuKXoM/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OLwXjt_Nd8g/AAAAAAAAAAI/AAAAAAAAHAc/VBQiYuuKXoM/photo.jpg"
+      },
+      {
+        "documentVersion": "2.7.0",
+        "timestampMsec": "1370567121294",
+        "starRating": "3",
+        "title": "Can\\'t get it to work",
+        "comment": "I would love to use this app but it just won\\'t work for. Adding apps I wanted was a breeze and so was activating it. It even notifies me  but it just doesn\\'t read it to me or use the voice. I\\'m pretty bummed! :[",
+        "commentId": "gp:AOqpTOGZOSQ07DAIO42P9hF1wjMyoVMx-RqmBTBLaBoblwzJO4ytRa9JbNbTGIBK7qNtHeRXaAQKruqkn846Cag",
+        "author": "Travis Budke",
+        "authorURL": "http://lh4.googleusercontent.com/-rVM20eOQcP8/AAAAAAAAAAI/AAAAAAAAA_g/cCBXjtTpbiE/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-rVM20eOQcP8/AAAAAAAAAAI/AAAAAAAAA_g/cCBXjtTpbiE/photo.jpg"
+      },
+      {
+        "documentVersion": "2.0.2",
+        "timestampMsec": "1368418875751",
+        "starRating": "1",
+        "title": "Absolute piece of junk",
+        "comment": "I know it\\'s free but seriously no one will trust your apps if you put junk like this out.",
+        "commentId": "gp:AOqpTOH6cCYC7xt_-AwIQpI1afB1hsBH3QZXSRaJzvhntOvU3h1KlNwCNzgP7dQC1xeAnKjVM3KYHpjKAcFRQFQ"
+      },
+      {
+        "author": "Adi Koni",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1367356987273",
+        "starRating": "1",
+        "title": "Awful spam Shiite",
+        "comment": "Awful app took over my phone disabled it had to for hard rest to remove it - don\\'t bother",
+        "commentId": "gp:AOqpTOE8rr51P0-cREAeeB1ZrUejFfwhLM0H7Wtu6gfGwg7K40x1poUA0QgCeTQQ45eC5Rcis9SNal-e2yeycSs",
+        "author": "gary fowler",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375283328923",
+        "starRating": "1",
+        "title": "It doesn\\'t work with Sony smart watch",
+        "comment": "I\\'m using Android Version 2.3.4 and installed this app to check my notification for Whatsapp and viber. but it\\'s not working.",
+        "commentId": "gp:AOqpTOHyIJUNWavnG-Q6MgBYT_UxDBCyM0n8BWA4WXWVQ_hX3XbozKUTjEo3xsGJMScBQkcYhL6FNH3XgFqY62s",
+        "author": "Jaz khan",
+        "authorURL": "http://lh4.googleusercontent.com/-Jwl2PN_5Ofc/AAAAAAAAAAI/AAAAAAAAAHw/-nOVCg528aA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-Jwl2PN_5Ofc/AAAAAAAAAAI/AAAAAAAAAHw/-nOVCg528aA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371498250850",
+        "starRating": "4",
+        "title": "Works",
+        "comment": "It is a little annoying at first, asking if you want to enable reading of notifications for every app, that makes one, but after spending some time with it, it does what I need it to do.",
+        "commentId": "gp:AOqpTOHJb-rMymlkusVaL5ngMUQfUPCBzXFCwp4U-v6_TIktmgz_JYoPpvikE-WHIZL0XIf6Z02t63iw0gxcxxw",
+        "author": "Logan Arias",
+        "authorURL": "http://lh4.googleusercontent.com/-NayClwfxGDA/AAAAAAAAAAI/AAAAAAAAAi8/elJ-nNvt5V0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-NayClwfxGDA/AAAAAAAAAAI/AAAAAAAAAi8/elJ-nNvt5V0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373636467815",
+        "starRating": "1",
+        "title": "Bad",
+        "comment": "Not working !!!!!!!??????",
+        "commentId": "gp:AOqpTOF3NScYtxT5M_LHWkSIWFEri06tfqWAp-526HrFbVWA8kUbrVTWqV8yjayYZeZqG64-idP4mdOpaoWqLvc",
+        "author": "Hguldad Hguldad",
+        "authorURL": "http://lh5.googleusercontent.com/-lxZtFs54p48/AAAAAAAAAAI/AAAAAAAAAC0/_lquCV8r4WE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lxZtFs54p48/AAAAAAAAAAI/AAAAAAAAAC0/_lquCV8r4WE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367876220767",
+        "starRating": "1",
+        "comment": "doesnt work",
+        "commentId": "gp:AOqpTOGNY8dP1XsVGPGeHN8E8hESwzBw_JyHe-UzwfJL3xeTjLSivpOvfRdPgq4n2UKU9yfCuQ2p_WB3cSJfjVk",
+        "author": "SUHAS MAZKAR",
+        "authorURL": "http://lh4.googleusercontent.com/-WgQ281coiT0/AAAAAAAAAAI/AAAAAAAAdUY/FOPgA7XF3Vc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-WgQ281coiT0/AAAAAAAAAAI/AAAAAAAAdUY/FOPgA7XF3Vc/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.sonyericsson.extras.liveware.aef.EXTENSION_PERMISSION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

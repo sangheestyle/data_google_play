@@ -1,0 +1,225 @@
+{
+  "title": "Missed Call Reminder",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=idv.wangyik.MissedCallReminder",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 9, 2011",
+  "version": "2.1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "1623",
+  "rating": "4.1047444",
+  "contentRating": "Everyone",
+  "creator": "Andromax Development",
+  "creatorURL": "https://play.google.com/store/apps/details?id=idv.wangyik.MissedCallReminder",
+  "extendedInfo": {
+    "installSize": "51k",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "Just find there is no build-in missed call reminder after buying an android phone?Did you ever miss important calls while you left your phone outside the meeting room?This is the must-have app for you.Whenever you have a missed call or unread message, this app will remind you by sound, vibration, LED, or lighting up your screen,for every 10 minutes, or other interval you set.Reminder continue to work until: (a) you open the call log screen or message box(b) you turn reminder off manually(c) exceed the max reminding time you setFeatures:* any combination of reminder target: call, sms, or mms.* any combination of reminder type: sound, vibration, LED, or screen on.* preference options include: reminder interval, reminder duration, max reminding time, reminder tone.* Auto silent when you set your phone in silent mode. (Itâs an option)* Using ringer volume or media volume as your choice.* This app does not show up any visible message while working.  So check the 'Screen On' is helpful to see what event occurs on system bar.  This is an add-on to system function, not replacement.* Support app2sdChanges in version 2.0:* [Quick Stop] to stop reminder easily.* Add LED as reminder option. (LED may not work on every device)* Now you can set different tones, different LED colors for call and message, to distinguish what you received.* Auto silent and vibrate off when you set your phone in silent mode.* Build-in simple HELP document.Other notes:* Though this app works as a resident service, it does not consume your valuable power when standing-by in background. No any polling code inside. It works only when specified event occurs. For example, an incoming message received.Known issue:* If you have missed call from viber, opening viber's call log can not stop the reminder. You need to open original system's call log.",
+    "reviews": [
+      {
+        "timestampMsec": "1369446373180",
+        "starRating": "5",
+        "title": "Like it",
+        "comment": "It would be really nice to have 2 min remind interval... 1 min is a bit too often and 3 min is a bit too long. Im looking forward to see 2 min remind interval :) good luck!",
+        "commentId": "gp:AOqpTOFM2EupgcJp1daydJS6rabKYqF_by9lBj0dcr_ECzINbm3gNXQHLt4ogYM5HyXQfIyLMJmDAxYpXwfSdA",
+        "author": "Arnes Mehinovic",
+        "authorURL": "http://lh6.googleusercontent.com/-93Zu5dXGCUM/AAAAAAAAAAI/AAAAAAAAADg/SzkaSTfuHIs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-93Zu5dXGCUM/AAAAAAAAAAI/AAAAAAAAADg/SzkaSTfuHIs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368693169906",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Works great. But is it possible to have an option to configure the blink rate? On an S3 with a custom kernel that supports LED fading, it looks a bit strange as it blinks too fast.",
+        "commentId": "gp:AOqpTOH4lMDTRD-Pfv88zFe9ZAZXGsuMXM-quNxFXSaM5FHtP2Kqly6NP-UNojsqlnSeNaB8QKrHYw-FP0Z3mQ",
+        "author": "Ravin Perera",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363878638183",
+        "starRating": "5",
+        "title": "Just the Best!",
+        "comment": "Have used this app for 3 years. Not a battery hog. Reccomend because it always captures messages/calls. Who can watch & listen 24/7.....waiting for the cell\\'s single notification?! No more missed stuff. I am way too busy for all that.",
+        "commentId": "gp:AOqpTOFL4PgUJqXI1HAkiJ2WscYKKa9VP4lZkfHGZUBd3sLbZ8Acpszz-GLgbCFDdtyzK0rJ2l4Sm9tJd6IcsQ",
+        "author": "Sherryl von Glahn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370883720644",
+        "starRating": "5",
+        "title": "Good on VS870 (Lucid 2)",
+        "comment": "Used for years on my old Optimus S.  I can confirm it works on Lucid 2, except for the LED notification which I don\\'t care about anyway.   I\\'ve never understood why Android doesn\\'t have this functionality built in.",
+        "commentId": "gp:AOqpTOEsESMGmV4bc7fZwgJHuDUhFVveeB5LSn86g2CqDCf7vLItytNK_pWA4Jj7P_JSdwq8thixNgpZkFodJw",
+        "author": "J Miller",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349250649658",
+        "starRating": "1",
+        "title": "Not on Skyrocket..",
+        "comment": "I loved everything about this app, except that it doesn\\'t work on the Samsung Galaxy S2 Skyrocket. No amount of ker-jiggering ever got it to work. If the author fixes this, I will download this again. Until then, I will look for other software that DOES work on Skyrocket.",
+        "commentId": "lg:AOqpTOH3anJsP3BJ3fcM6Km5L4ZS0EqryfuhFb8jJC6T-SSzO4pJRmzd2bSqbrHNOsAzKC7owgQeQQREsyLDoA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366111981598",
+        "starRating": "5",
+        "title": "Works perfectly",
+        "comment": "Needed it to beep when I had a missed call as my phone does not have LED indicators. It also works for texts but I use Handcent for that side of things.",
+        "commentId": "gp:AOqpTOEWZ0KvMspHqbw5J0yBI8PN7fL0YRcgDVmHRbpEgppjGncTOECLrTwXDmEbvWxMJQtkoL1wdgc6kwIvyQ",
+        "author": "Kim Wood",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368918897228",
+        "starRating": "3",
+        "title": "Pretty good but....",
+        "comment": "I like this app - it is similar to most others like it, but allows for LED also; however, you indicate \\\"*Auto silent when you set your phone in silent mode. (It\\342\\200\\231s an option)\\\" but I have not found that option choice??  Also, I only want 1 quick vibration not the multiple vibrations that seem to be the only choice - is there a future plan to allow one to select vibration?  If this could be an option I would change my rating to 4.  Last and MOST important, I was previously using an app that ALSO reminded on UNREAD E-MAILS, but that app stopped the reminder when you turned your screen on - NOT when you looked at your e-mail..so what was the point?  I notice there aren\\'t many E-Mail alert/notification reminder aps - not sure why, but would give a full 5 AND donate (if possible) if that could be added!!",
+        "commentId": "gp:AOqpTOHIVh1-Kb5W0y0_6g81deTAwvABhDDbiPWgg_m5dcHpqnYQ47DxJuH03fTNa9eNVQEprsnWjLYAMMRSmQ",
+        "author": "Valerie Lemon",
+        "authorURL": "http://lh3.googleusercontent.com/-hktMbAIOdNg/AAAAAAAAAAI/AAAAAAAAB8I/XNKzD6reY6Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-hktMbAIOdNg/AAAAAAAAAAI/AAAAAAAAB8I/XNKzD6reY6Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1335006999230",
+        "starRating": "1",
+        "title": "Random behaviour",
+        "comment": "Reminds only after a random while, regardless of the settings. For missed calls it didn\\'t remind at all several times.",
+        "commentId": "lg:AOqpTOFIiA373iMHdH3WVQRiEPkR6MftCQad4ZSCVxibvrAim38mCnPIXIRF1Kd-p7HM993mxVhejagI6pph2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1323313900859",
+        "starRating": "1",
+        "title": "Samsung transform problem",
+        "comment": "Kills custom ring tones. Most of the time kills ring on calls. Instead of reminder, I don\\'t even get first ring. Found no other way to give feedback.",
+        "commentId": "lg:AOqpTOEkjSrk75TOamTksY8UH3egZyGYOFo-osHs3L93AOs_E0ntcCxr7hHDEmme2GgrLgChnlMzO5Nva5wf1w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1325927991603",
+        "starRating": "4",
+        "title": "Good.",
+        "comment": "But LED not working in SGS2. I still use it all the time. Very flexible. The only one I use and I tried most",
+        "commentId": "lg:AOqpTOHV7iAolePk3t-iqrhv4M3iUu12ztXRpOYsrslr82ymY8oWIA7L4vhQA7gYoS05pkJXAbFiDtaq1fEZhA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1320069057984",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Please add option for email reminder as well, and consider adding a quiet time feature.  Thanks!",
+        "commentId": "lg:AOqpTOHZmxUcG5nvURCIFIi71gpYdQ8gecINUvCbFdepz_xt0Hxve1kqalO4f7eFoNFnIvGof_tQNnFIhhiN8w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371282930770",
+        "starRating": "5",
+        "title": "Jellybean",
+        "comment": "Works well so far, seems dependable. Used light flow before but doesn\\'t work well on jb. Thanks a lot because the stock LED notification sucks",
+        "commentId": "lg:AOqpTOEAPecJxwjMi0hP9_003lfIYrcCl6FXTfY0XFInmd5OUEvQJHVTW51v7-RUIWxL69fxjC4KnHtGJcd3ag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1324742235267",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Just what I was looking for.   Can the next version also have the option to flash the camera LED? I\\'m still used to my old Nokias that light up like Christmas trees when they want your attention and not the feeble notification LED most Android phones use.",
+        "commentId": "lg:AOqpTOEENLYls8ACsZDENCOf1oiWFnfryx1DpluigFAhAlSYgE4Ni4ha7FVgoXz9uoViN804QOojxYKK4Ydq-Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358639799442",
+        "starRating": "5",
+        "title": "Great App!!! Works on Samsung Galaxy Note 2.",
+        "comment": "Just tried this on my Samsung Galaxy Note 2 and it works great. I\\'ve tried No LED Notifications and Light flow LED and Notifications and had too many problems with them. Use this together with Light Manager for the perfect combination. Would like to see more Reminder options in future updates.",
+        "commentId": "gp:AOqpTOHbt5hh_yUzNpSd0KbM2DOmikpLc_Qs5_P07pEQ59CQMi0RoWq7bE6pRmuxhU4HDJd9A4jmvdd3AyjkUg",
+        "author": "Abdur Roap",
+        "authorURL": "http://lh3.googleusercontent.com/-RP0WclAFcYg/AAAAAAAAAAI/AAAAAAAAAIA/1JF31S_Erjs/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-RP0WclAFcYg/AAAAAAAAAAI/AAAAAAAAAIA/1JF31S_Erjs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370888792535",
+        "starRating": "5",
+        "title": "Must have app",
+        "comment": "I\\'ve missed so many calls and texts due to the single reminder built into stock android. This simple program has completely fixed the problem. Works simply and flawlessly. Would happily pay money for it.",
+        "commentId": "gp:AOqpTOHoY93zyW6j2y42Any34i9aaLUaoX7wuRtsHaEdGAburGxisexjDgEHN7dezLLB2BBu4RQPqQLfyLrBww",
+        "author": "Roger Donald",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352683927270",
+        "starRating": "5",
+        "title": "Great app, does what it says it does!",
+        "comment": "Does exactly what it\\'s supposed to, has all the features of a paid app for free!",
+        "commentId": "lg:AOqpTOEtvLryFKCCuYQLUcaQRmnuljWxfbDPZWYfMrTVq1xD2WHBBSTICkpF5Qu46kNqmVsAfXjtzq_N6PB1uA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1356305386578",
+        "starRating": "5",
+        "title": "Just need only this!",
+        "comment": "Currently on nexus 4 and I just need only missed call and SMS reminder. Your app work well and not annoy another notification setting like another app. That\\'s five stars!",
+        "commentId": "gp:AOqpTOFyI7O-Z5Jsp6wucNF-3Y9YJmFiZ7x8l9NnKSg-EAPesBFEr4kQAqEwh1HZU3TpjMNivE3JJrD-N1k56A",
+        "author": "Ratawit Chaikamolwiwat",
+        "authorURL": "http://lh6.googleusercontent.com/-Ku4oT2SWbjg/AAAAAAAAAAI/AAAAAAAAAVA/445cRE0_7KQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Ku4oT2SWbjg/AAAAAAAAAAI/AAAAAAAAAVA/445cRE0_7KQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1336559221490",
+        "starRating": "2",
+        "title": "Downgraded",
+        "comment": "What happened to custom vibration patterns, and different notifications for sms and mms!?",
+        "commentId": "lg:AOqpTOEILW2BliLMZ5wWtnWRnuyZ1v-xsR3sb-eKPHtdukRfMLaAzbSyHmjC37U8Q7jWtDRxMiciBpPtklpyPw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344384510426",
+        "starRating": "1",
+        "title": "battery hog",
+        "comment": "The app is well designed, works well, but drains 50% of my battery in just 3 hours Maybe it is version/device dependent... I ran it on Nexus S/android 4.1.1",
+        "commentId": "lg:AOqpTOGG6NXzmVnS0zQ-EHBH53YXytKFlbkSSNnV1gccLZR7gBcPBs4iwIpAxr9xGpXPeuMbMZvXZg3B6uapDw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1329711052201",
+        "starRating": "5",
+        "title": "DROID BIONIC..!",
+        "comment": "Thanks to the ICS, owner, nevah\\'s, sugestion on settings...my Droid Bionic is responding to MCR. Still maybe the rest of the bugs will be corrected in future. Thank you for this App. If not for it I\\'d still be missing impt calls and texts. One would think alerts for missed calls or missed text would come already installed on $$ phones such as Droid Bionic!",
+        "commentId": "lg:AOqpTOEv8y2CRAhN9VDJPMhRP5hWShYUVP04dP6w_MJsvg0bC4xccER9T8L7rqwEsSyRrlsl0fu9QX3xmPvwyg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.RECEIVE_MMS",
+      "android.permission.READ_MMS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DEVICE_POWER",
+      "android.permission.HARDWARE_TEST",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

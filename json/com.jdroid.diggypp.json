@@ -1,0 +1,38 @@
+{
+  "title": "Diggy Simmons Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jdroid.diggypp",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "August 27, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "TheLiveWallpaper",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jdroid.diggypp",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Please note that this is a Live Wallpaper and therefore it could not have an App Icon. Please kindly fellow the steps below to activate the wallpaper. Hope you enjoy the wallpaper and your feed back will be appreciated. Thank You very much.YOU CAN CHOOSE TO EITHER HAVE SLIDESHOW OF IMAGES OR JUST KEEP ONE STATIC IMAGE AS YOUR WALLPAPER. 1. Download live wallpaper and install. (if download from Google, automatically installed)2. Long press home screen3. Select Wallpaper and then select Live Wallpaper4. Select \"Diggy Simmons Live Wallpaper\"5 Press Set As Wallpaper or tap SETTINGS to see more options.Daniel Dwayne Simmons III (born March 21, 1995),, better known by his stage name as Diggy, is an American rapper and the fourth child of Joseph \"Rev. Run\" Simmons of Run DMC. He, along with his parents and five siblings, were the primary subjects of the MTV reality television show Run's House. Diggy is also the youngest member of the hip-hop collective All City Chess Club.Diggy Simmons released his debut mixtape, The First Flight , in 2009.[1][2] More than 100,000 people downloaded the album from Simmons' blog. Following the album's release, according to Simmons, five record labels showed interest in signing him; he chose Atlantic Records. Early in 2010, Simmons uploaded a video of himself freestyling over the Nas song, \"Made You Look\". The video became a viral hit and garnered praise from Kanye West, who responded on Twitter: \"I knew this kid was [going] to be fresh. I knew it!\"Airborne, Simmons' second mixtape, was released in 2010. It was preceded by the leak of the song \"Oh Yeah!\", which featured Pharrell Williams and Lupe Fiasco. Album track \"Great Expectations\" was featured that year in a national AT&T television commercial. Simmons released his third mixtape, \"Past Presents Future\", in December. The album, hosted by DJ Premier, features samples of songs from the 1980s and 1990s by such artists as Nas, A Tribe Called Quest and Rakim. A video was released for the track \"Shook Ones\", which samples the Mobb Deep song of the same name.Early the next year, Simmons was named one of Billboard's \"Artists to Watch 2011\" and was selected to XXL's annual Freshmen list. \"Click Clack Away\", a song featuring Bruno Mars, leaked onto the internet in May. Simmons noted that the track would not be included on his debut studio album, set to be released by the end of the year. He released his first major-label single, \"Copy, Paste\", soon thereafter. The song's video was directed by Phil the God, who previously directed Simmons' \"Made You Look\", \"What They Been Waiting For\" and \"Shook Ones\". Simmons performed the song during the pre-show for the 2011 BET Awards. \"Copy, Paste\" peaked at number 29 on the Billboard Hot R&B/Hip-Hop Songs chart in September. That month, Simmons released the song \"Just Begun\" however Simmons tweeted on Twitter it was not going to be on the album. Simmons is featured on the singles \"Like 'Em All\" by Jacob Latimore, \"Mrs. Right\" by Mindless Behavior and \"Yeah Right\" by Dionne Bromfield. \"Yeah Right\" reached number 36 on the UK Singles Chart in April 2011. On October 24, 2011 Diggy released \"Do It Like You\" as the second official single from his debut album, Unexpected Arrival a music video has been released with the song's featured artist Jeremih appearing in the clip. Also on February 24 the song \"88\" was released as the third official single. The song features Jadakiss and a viral music video was released for the track.Simmons has cited many rappers as his influences including Jay-Z, Nas, Kanye West, Lupe Fiasco, A Tribe Called Quest and Wu-Tang Clan. He has also expressed an interest in alternative music, including such bands as Maroon 5, Passion Pit and Arctic Monkeys.Tag:- Diggy Simmons Live Wallpaper, Diggy Simmons Wallpaper, Live Wallpaper, Diggy Simmons Ringtons, Diggy Simmons Fan App, Diggy Simmons Fan, Diggy Simmons, Singer, Images, Background, HD.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    ]
+  }
+}

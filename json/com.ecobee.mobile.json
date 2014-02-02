@@ -1,0 +1,238 @@
+{
+  "title": "ecobee",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ecobee.mobile",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "June 28, 2012",
+  "version": "2.2.3",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "132",
+  "rating": "4.030303",
+  "contentRating": "Everyone",
+  "creator": "ecobee inc.",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ecobee.mobile",
+  "extendedInfo": {
+    "installSize": "2.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The ecobee Smart Thermostat is a WiFi enabled programmable thermostat that has a full-color LCD touch screen and easy to use interface. To take a demo of our product go to http://www.ecobee.com/product/smart-thermostat-features/The ecobee android application allows you to control all your Smart Thermostats from anywhere at anytime. It looks and operates just like your ecobee Smart Thermostat at home. You can use this application to remotely adjust the thermostat's temperature, schedule or update a vacation event, change the system and/or fan operating settings and receive important alerts. Load the application and when prompted use your existing ecobee user name and password to log in.ecobee's mission is to help you conserve energy, save money and reduce your environmental impact. Our green automation platform site at the convergence of energy conservation, green technology, the networked home and consumer electronics. Our Smart Thermostat simplifies energy conservation, making it easier to save on energy costs without sacrificing comfort.",
+    "reviews": [
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1344912617160",
+        "starRating": "1",
+        "title": "won\\'t remember login on android nexus LTE",
+        "comment": "This app is useless if you have to keep logging in to use it.  Reinstalled a few times, doesn\\'t help.  I have the latest version as of 08/13/12.   Maybe there are settings I can\\'t find to tell it to keep me logged in?",
+        "commentId": "lg:AOqpTOHEznrBcnFLc43WvpMi0wb5HU1mMyAbiMoVaKi61TqOba7dvaLZ6__UIBCVfttsT8LT_Vcn5GISS3Z4aQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1351993356260",
+        "starRating": "4",
+        "title": "Needs an update",
+        "comment": "They need to update this to make it more functional.   Won\\'t work in portrait,  the ems business app has bubble view but this one doesn\\'t?   Why are they different?   Would be nice to see outside temp and inside along with system mode on main screen",
+        "commentId": "lg:AOqpTOEehXIn2bTRuKvTHw2XfqxuvnFQnUlkC0Ywf4NFLMDCPGo4hzsQnhW5o-UbbahNLKArhiAEMk_5monseg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1378070777384",
+        "starRating": "2",
+        "title": "Works when it wants",
+        "comment": "Right now it just says select temp and you can\\'t use the app and my bfs iphone says the same thing and I\\'m android s4. The eco bee in general was a waste of my money.",
+        "commentId": "gp:AOqpTOHI_KXe9BgO3UkU3WcATtuqsxz4vOihQR8YWbbGRh3YrGuA3mpGg3GZaLDwVr7PZ3MvoSPSxKofSuHaKw",
+        "author": "Mary Taylor",
+        "authorURL": "http://lh5.googleusercontent.com/-OOkwiDcW99M/AAAAAAAAAAI/AAAAAAAAABA/Np7UmHxqFPo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OOkwiDcW99M/AAAAAAAAAAI/AAAAAAAAABA/Np7UmHxqFPo/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1372986709864",
+        "starRating": "3",
+        "title": "Works but missing smart plug functionality",
+        "comment": "I emailed the company about the lack of support for the smart plugs.  It would be awesome to be able to turn plugs on and off with this app.  Other companies have such devices, why can\\'t Ecobee?",
+        "commentId": "gp:AOqpTOFTvpMuRIzKeQwZgFP2du8PfjPLwn8oYlnXcSIgd7LmSnGAROs1bpWRPdYu3uAWXfLQji5QVXFvmglp4g",
+        "author": "Andrew Hunter",
+        "authorURL": "http://lh4.googleusercontent.com/-lKwe4_S7bpI/AAAAAAAAAAI/AAAAAAAAAyo/VVnX56hiuMA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-lKwe4_S7bpI/AAAAAAAAAAI/AAAAAAAAAyo/VVnX56hiuMA/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1341068832259",
+        "starRating": "5",
+        "title": "new update fixes login / password issues",
+        "comment": "Thank you EcoBee for the new version which fixes the login and password (remember) issue!! Now every time I launch the app I don\\'t have to enter my lengthy email address and password! Please keep up with the updates... I\\'d like to see an indication of the system running at the time I login, or how long it was running since the last time it was on... The graph at the bottom of the app that shows run time is a bit hard to read even using a browser interface.  Maybe a daily chart of how much run time would really be nice to glance at.  Great work!",
+        "commentId": "lg:AOqpTOF3YKOm2TTJyCG62CgCnL6L73bGXcbkEYnHelqOX3Zhk13qQHjhOpxM73AaPbyj3kDBkNFqm1Z6asjPOg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1378072634466",
+        "starRating": "1",
+        "title": "Doesn\\'t work!!!!",
+        "comment": "Stupid update not working now!!! I must say I am disappointed as its stuck on select thermostat wtf  I only have 1!!! Oh well I guess thats what I get from canucks!",
+        "commentId": "gp:AOqpTOGulp3Js10mrNfVcJGQCreKTfl_1pXWsJbT6RXrnqtaa0ywHNVhVkQuSISbg6N4VC9fK-6QjhlFTFa_eA",
+        "author": "Andrew Kereluk",
+        "authorURL": "http://lh4.googleusercontent.com/-gWlaPhle3pY/AAAAAAAAAAI/AAAAAAAAAEw/2_gxEbF47vo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-gWlaPhle3pY/AAAAAAAAAAI/AAAAAAAAAEw/2_gxEbF47vo/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1350920307116",
+        "starRating": "5",
+        "title": "Nice program",
+        "comment": "Seems to work good for the short time I\\'ve owned it. It sure of nice to be able to adjust ac/heat while not home. I\\'d like to see a simple refresh button and an indication of what system is running and how long it\\'s been running.",
+        "commentId": "lg:AOqpTOFV5JOcgaCKCPYsR6-_ff0J7YC8L-2tyjSz8kx1BLqJIzN8UbrAUyBk19Wtvf8AUjNA46DkEIWl_nVPcg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1376696769602",
+        "starRating": "2",
+        "title": "When it works",
+        "comment": "It\\'s great. But it doesn\\'t remember login. Very annoying.",
+        "commentId": "gp:AOqpTOHJ3XC9CZxx0035ozyS69rUjI1T1ygfB8AQefgs8qmT-GzVDfl_MSEmVXu4AjwOvexSPbJTjPDKY-fmRQ",
+        "author": "Matthew Davis",
+        "authorURL": "http://lh3.googleusercontent.com/-sE5Pj4RG_9E/AAAAAAAAAAI/AAAAAAAAE7Q/zCNT-hfN6Og/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-sE5Pj4RG_9E/AAAAAAAAAAI/AAAAAAAAE7Q/zCNT-hfN6Og/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1349105127519",
+        "starRating": "4",
+        "title": "Great but needs more",
+        "comment": "Needs additional program controls for thermostat.  Otherwise, an excellent product.   Our gov\\'t should have a tax rebate on the thermostats as part of energy policy.",
+        "commentId": "lg:AOqpTOFhkA6Z8jc1UWlVpGbW4vkcsXgdhCMnAFaU-ntEhI_O1GKN5Cz-wBNFmd3TsB0LNg3H_9soRD0-fjWoag",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1360426170009",
+        "starRating": "1",
+        "title": "Good thermostats, not so good app!",
+        "comment": "Only works in landscape. Needs portrait mode, even if all it does its rotate the text. Overall it could be better, with more intuitive controls, but I could live with that if it would work in portrait mode.",
+        "commentId": "gp:AOqpTOHC4r-lCKT054zwQia2e9-mueQoWt3_NUXFmMiesniRxDNMhGKxTDaesC_xsejLS0w-ZAU8uuoYuw7ZDw",
+        "author": "Paul Archer",
+        "authorURL": "http://lh3.googleusercontent.com/-9fkZCA5iXL0/AAAAAAAAAAI/AAAAAAAABRI/oZCQr3CtfJI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-9fkZCA5iXL0/AAAAAAAAAAI/AAAAAAAABRI/oZCQr3CtfJI/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1376920290309",
+        "starRating": "1",
+        "title": "SUCKS!   DO NOT BUY!!!!",
+        "comment": "I am a retailer and installer.  This thermostat and app is not reliable!    Reports wrong house temperature constantly and won\\'t always change settings even with a known reliable network. Extremely buggy!   I would not sell one of these to my worst enemy! They tried to repair their server now all I get is either cannot reach server or it changes on phone but not at the thermostat. What a joke !",
+        "commentId": "lg:AOqpTOGyyHga-kCzMDWwax8W7zvEGQTsa2nMoHTxHyXUlSkISUcfiaGk0NhDT-6UTyVtWAbIBL7wwHE6zRV9EQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1364364534250",
+        "starRating": "2",
+        "title": "What a Shame!",
+        "comment": "For the cost of the 2 stats i bought i expected more. App looks just like the stat screen which isn\\'t a bad thing, only makes sense to have the SAME ability\\'s and functions as if your at the stat but it doesnt. Needs to show icons for current status in real time, menus should be available as well but they are NOT.  App does the basics pretty well other than it relies on a web server with no direct connect option available? Cm\\'on! Lastly the UI really needs a tablet update.",
+        "commentId": "lg:AOqpTOFyhY8HtjjdBgaZOwrZ_lH9j-W7sL5nj7oviiOVjHvLG2xYi1UwyeOxSAFTEe3a4wMPANC7UJ6cyPl1iQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1363018475942",
+        "starRating": "4",
+        "title": "Works well, but would love to have a widget.",
+        "comment": "Would like a widget that could display the homeIQ reports widget from the website.",
+        "commentId": "gp:AOqpTOFqTeKMJ8cn9az6q92WDGb-_L0WL-bi0Jid02zK34frmawrom5J3K_sT86ZQCF0tKO4OUZXOfrhWZfz0A",
+        "author": "Jesse Fout",
+        "authorURL": "http://lh5.googleusercontent.com/-0MTjIodjMrQ/AAAAAAAAAAI/AAAAAAAAAAA/RKBk0MDMlvE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0MTjIodjMrQ/AAAAAAAAAAI/AAAAAAAAAAA/RKBk0MDMlvE/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1354107201012",
+        "starRating": "5",
+        "title": "Nice app",
+        "comment": "Working great. Keep up the good work.",
+        "commentId": "lg:AOqpTOEdOI361qNSz2-7nlDLmb_XJY2PzbHCT2IsSx0iO1w9NnclIGxGjTlo0PvzrdORcAdz-pXcLTehUFR-dQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1365215048974",
+        "starRating": "2",
+        "title": "Great thermostat, lousy app",
+        "comment": "Why does the app force landscape mode and not remember login? Come on guys.",
+        "commentId": "gp:AOqpTOHKJvvlW9s1nD_DXfdzdZ_cjyVnSlxuT9oTt23zy4_xWZPr5mp_8U4sGU04PY9Ar99DuPDz2xflkz1Bow",
+        "author": "Chris Brown",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1340970455759",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Works well",
+        "commentId": "lg:AOqpTOGYC_FgLryOkhZd3mMkdBZ3Dd5YtpHNeXXrwt3e7Um0ME1f24MbV7Cgze-5COIoB5OUur1fimqxhXxadQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1350910281031",
+        "starRating": "4",
+        "title": "Awesome, but outside weather is inaccurate\\'",
+        "comment": "Otherwise would be 5 stars",
+        "commentId": "lg:AOqpTOG2bWP0OPjwuvKw6dVVq5l9nX_LY3hR0Gd_VeI_iSC2CTbR1f4fRSEtfrAP8A-gUqFWuLgDAE8dGPeMhg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1363152320244",
+        "starRating": "3",
+        "title": "Provides minimal functionality",
+        "comment": "Would be more useful if you could program the thermostat from this app.",
+        "commentId": "gp:AOqpTOGGhE_nDvGYqfpWriFj5fHMIvZ28bSc1oSIy5DJpwVK5oRzPjtOgoQHrgAY0W_YCMwOEj8iQew7wtHUJg",
+        "author": "Kevin Thom",
+        "authorURL": "http://lh5.googleusercontent.com/--rJfhdOpRfM/AAAAAAAAAAI/AAAAAAAAC-s/OylWOxHa6Ak/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--rJfhdOpRfM/AAAAAAAAAAI/AAAAAAAAC-s/OylWOxHa6Ak/photo.jpg"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1346497537921",
+        "starRating": "1",
+        "title": "Buggy. Needs new dev.",
+        "comment": "Have to put in passcode EVERY time. Uses 9MB of flash and had 4MB of cached data? App is in need of serious improvement.",
+        "commentId": "lg:AOqpTOF5DpNnpg7Z0U2vTYvd48fa00TOF1tMowLweAC6JiN6nJN1qyuBtUTGc4g3YfyunBoW65zKTvz7CimpAQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.2.3",
+        "timestampMsec": "1371219302671",
+        "starRating": "3",
+        "title": "Great thermostat",
+        "comment": "But app needs a toggle widget, and tasker/locale support would be amazing.",
+        "commentId": "gp:AOqpTOGJ8iNQFXNRl1FJgTkOXc434l-F4p1YdEd06hrfoTBpqKq6ST3s94oTwulEYhCn5U-p7vOrKZ-Syl9VOw",
+        "author": "Craig Heimericks",
+        "authorURL": "http://lh4.googleusercontent.com/-QQkVznVC8aY/AAAAAAAAAAI/AAAAAAAADGo/XfXuBNBqKS4/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-QQkVznVC8aY/AAAAAAAAAAI/AAAAAAAADGo/XfXuBNBqKS4/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

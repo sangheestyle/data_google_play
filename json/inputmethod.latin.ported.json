@@ -1,0 +1,234 @@
+{
+  "title": "Ice Cream Sandwich Keyboard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=inputmethod.latin.ported",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "January 8, 2012",
+  "version": "1.1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "5425",
+  "rating": "4.3668203",
+  "contentRating": "Everyone",
+  "creator": "johntanmi",
+  "creatorURL": "https://play.google.com/store/apps/details?id=inputmethod.latin.ported",
+  "extendedInfo": {
+    "installSize": "3.7M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "instruction for installationhttp://bit.ly/tsIB8TThere is also a donation version. Please look in the more apps from the same developer section.Detailed Specifications:Features in Free Version:- Multitouch keyboard- User dictionary, built-in dictionary- Configurable auto correction- Redesigned and optimized keyboard layout and style- Speech to text (select languages only)- Custom vibration intensity (haptic feedback)- Long press \"Enter\" key to bring up smiley alternatives- Long press on \"/\" key in URL mode to bring up domains -Features in paid version- Internal themes, Gingerbread, Basic, IceCreamSandwich and more.- Support of Better keyboard themes.- Custom background image.- Adjust keyboard height (in portrait).- Touch to correct words (GB style, this feature doesn't exist in the original ICS keyboard).- User dictionary editor.- Auto space after punctuation.- Suggestions also in search/URL  fields.- Alternative layouts (AZERTY,QWERTZ,Dvorak).- Gestures.Tips:#About \"collecting data\" warning message:That warning message is a part of the Android operating system, and it appears whenever a third party keyboard is enabled. You don't have to worry because the keyboard don't have permission to internet access.Please report your bugs via email . If you report bugs in a Market comment I CAN'T help you.Supported languages layouts: English, French , Hebrew, Arabic, German, Czech, Bulgarian, Catalan, Spanish, Esperanto, Danish, Italian, Finnish, Georgian, Russian, Ukrainian, Latvian, Swedish,Latin, Dutch, Portuguese, Slovakian, Slovenian, Greek,Serbian, Hungarian,Swiss.Available dictionaries:English,French,Italian,German,Spanish,Arabic,Dutch,Russian,Hebrew,Czech,Slovak,Bulgarian.",
+    "reviews": [
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1330143979627",
+        "starRating": "5",
+        "title": "Best",
+        "comment": "This is the best OnScreen KB I\\'ve used till date for my phone. Its simple, its awesome and I love it!",
+        "commentId": "lg:AOqpTOHmHhdmut7lBnnbtE1MbR888lBkK140lRYL8iyOk6naWMqRxrCx4jciN4CSlGxkgRC-75dMFxjjg2_Yyos",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1333251643743",
+        "starRating": "5",
+        "title": "A hell of a lot of work went into this",
+        "comment": "A hell of a lot of work went into this and I think its just great like everything is just the same as the actual ics kb even the settings are the same auto correct is awesome My recommendation is just get it its amazing and it is a better KB than whatever you go at the moment",
+        "commentId": "lg:AOqpTOEppB-nlBwhcRsXC-1-HTTgvf-yqwK4ZGQMd-o1a21NgKoflOXJnbCX4JXBClH80Skl5I9StUDUe4_aF9g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1334897364098",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "I use this as my default keyboard. Works like a charm. I love it and its accurate. Perfect",
+        "commentId": "lg:AOqpTOGO7eRYvq1BzOiP3F7OyaFUML9G4Mx3c84ZlxscPbNI23UPOcIewbE9Nx9isWmtIWRkcedWtthM07yzEt4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1327898678138",
+        "starRating": "5",
+        "title": "Sweet",
+        "comment": "Best keyboard easy. Fast and accurate plus huge spacebar helps.   EPIC 4G",
+        "commentId": "lg:AOqpTOFpwgXAyJN1-pWM3wSuEFgtBK-XSLZ8a1rf0haNLBSLdcWpOyH-uYVq_UDH0sNCTMDglVTosM_k-m25o6Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1329114927511",
+        "starRating": "4",
+        "title": "Great keyboard but....",
+        "comment": "I mean its a great keyboard. Layout is very nice, the colors are pretty neat although the ability to adjust the heaojt and the key size of the keyboard is only available in the paid app version. I wish they had just put in the extra options in the free version of this app. Other than that its a pretty decent keyboard. I give it a 4 of 5 stars in my book",
+        "commentId": "lg:AOqpTOEa9N-CFTaPUJ9OK5EY33m_mkpkLrqMx_pf9U5f8lPB6BatqkVoJ0dYYgo9-jznuFhlXdipnHuQXqf2P38",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1333826720574",
+        "starRating": "5",
+        "title": "iScream For this Ice Cream Keyboard.",
+        "comment": "Works Great and looks great!! The auto correct is on point and the keys are easy to press..I love it!",
+        "commentId": "lg:AOqpTOEp5AQ52MqP2lH7dxemICEpy8kNSjA2dN_X5dyHNA-VUKAOB4bqTHbJM0MWBCuXDaJNMCPED3iKRflim-4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1326339608514",
+        "starRating": "5",
+        "comment": "Like it very much. I feel like I can almost type anywhere close to the right word and it will just auto correct for me very accurately. Looking forward to more updates to make it even better.\\tThanks for sharing!",
+        "commentId": "lg:AOqpTOFCxid7i7PoGD-sxfLn2VVeyFJf04HTJ--v92T2OKK1ByqlNwINeeyIXiWxiMEeruw9BVEU1ki9REvIHSw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1327415179137",
+        "starRating": "5",
+        "title": "Full version problems",
+        "comment": "For some reason when i try downloading the full version its not letting me.  It say error has occurred, try again later...  Any advice?",
+        "commentId": "lg:AOqpTOHXSzfXvVmLivkb83ES65p5u-ZIiRU6KaM3J4kqu8t3qiOb4hQbWczLTeRjQGAwz3hyize8r5171-9cDm0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1370031548512",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "What I actually love about this keyboard is that it gives you sugestions.. dont change your entre word if you dont want to. Very powerfull. Love it.",
+        "commentId": "gp:AOqpTOF_l_P5Y9iu6EpYTv5Dhd52RYZXPapqZ743_5kQwK5eb-5Cg4Ezq-YdvsXmopDol2fELZkwK7OjYs8Lgs8",
+        "author": "Alexys Colon",
+        "authorURL": "http://lh6.googleusercontent.com/-JsNsOu2ItPY/AAAAAAAAAAI/AAAAAAAAAHc/7JfXXhBiq68/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-JsNsOu2ItPY/AAAAAAAAAAI/AAAAAAAAAHc/7JfXXhBiq68/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1333154137741",
+        "starRating": "5",
+        "title": "STELLAR!",
+        "comment": "The most simple yet smart keyboard I\\'ve ever used. It\\'s fast and incredibly intelligent. Word prediction is never wrong, I type faster than I ever have.",
+        "commentId": "lg:AOqpTOE4aH9IfJA5H88FhbNNDaUggQODnaqawyZzWBqJQPKHxhEy51dfuyBcZV4JTz8qQaWq0IowUneGFifsEUk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1372746515863",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "In landscape mode, seems it work 93% good. The backspace could be a little bigger and a tad more space in between keys, and a bigger space bar. Otherwise it works like a charm. In portrait mode, it works almost perfectly. I love this keyboard. Tis worth keeping :)",
+        "commentId": "gp:AOqpTOEpyW1Oq4pc74HoInJqhYtAXVkoj1nH0yz8ceeuuu4v_i0fFnywqlB5Av0WmRzcPCvuc-bbA1BrlTDjOCA",
+        "author": "Nick Chiaravalle",
+        "authorURL": "http://lh6.googleusercontent.com/-XKCOynpuQ6M/AAAAAAAAAAI/AAAAAAAAAEQ/LOqdRIU0THg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-XKCOynpuQ6M/AAAAAAAAAAI/AAAAAAAAAEQ/LOqdRIU0THg/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1331647807975",
+        "starRating": "5",
+        "title": "Not just the best free keyboard..",
+        "comment": "It\\'s the best keyboard period. Fantastic job dev(s). Epic 4G Touch.",
+        "commentId": "lg:AOqpTOGcz54_8UAo0S7ax6zrCYugRK2v3JTtMy5HvPDE1MagaMAn8j-jcDRXyU6SwlptJWlcakJWD565xaqTiEA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1365665981245",
+        "starRating": "1",
+        "title": "Seriously???",
+        "comment": "You need to check the online Dictionary. Everytime I say the word kant it writes it with a k!! How can you fix that? I just wrote this whole message using the voice function! But it sucks that the word kant is spelt wrong! Also, voice typing in Greek types English for some reason! Fix and announce these problems and I\\'ll donate to get the full version! And fix my rating, promise!",
+        "commentId": "gp:AOqpTOFTlIOv_GsQN0ARxhrq6ju0739rKoKiYpe2jE9mc-l_opRILopCYXLUkYVN2pIs4MFQJH6HV2YsUPnJVNM",
+        "author": "George Paraskeva",
+        "authorURL": "http://lh6.googleusercontent.com/-9cuOi8eQ86w/AAAAAAAAAAI/AAAAAAAAAIo/gUAExOxJHCM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-9cuOi8eQ86w/AAAAAAAAAAI/AAAAAAAAAIo/gUAExOxJHCM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1351283815198",
+        "starRating": "1",
+        "title": "Spyware!",
+        "comment": "This thing collected some of my personal data when i typed it in. Whether your on your banks website typin or typin a text to a friend. Watch out, beware!",
+        "commentId": "lg:AOqpTOEdJgJcoJblQytP5kxo53K8nVpUJfqJnWWQhloY5rKww3x4ClJJSWI-tE3A82Me-R0LrOXR6N7tztlTGfU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1338107663812",
+        "starRating": "5",
+        "title": "Perfect flawless",
+        "comment": "Great keyboard beautiful themes  definitely worth 2 dollars  please recommend and rate the app",
+        "commentId": "lg:AOqpTOGT1WVE2D6oXtuj66javIvqtogaBN9F1RqdqGoyq8I-vKuwPHuPhZhCrXghfQdkhBWv5QB72Qwh02FeTeE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1330089088621",
+        "starRating": "5",
+        "title": "Unbeatable",
+        "comment": "Its unbeatable. my god it is good this keyboard is great. The vibration feels great too. After you adjust it.",
+        "commentId": "lg:AOqpTOGICa2nmdxJzNvC1Jx5w3KsUEKqV8-oNx99PZFwLhnquAy6T1mI1-VWQSqcGQba-1__uVxtuwZS0lAa180",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1339267785716",
+        "starRating": "5",
+        "title": "Perfect",
+        "comment": "Pretty much a perfect port of the stock ice cream sandwich keyboard. Love it! So much easier to manage non dictionary words. Thank you!",
+        "commentId": "lg:AOqpTOEIJ0rthmSYqFwYUqDddsBJIXpF2SU9PFQBvRfr6oMIGnLyjEIQO8cMoN7aO3S3gEC_pWDrLck2RmZ2wEM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1363281067623",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Very nice keyboard! Some battery optimizations would be great, currently using 65% of my battery, also some arrow keys so we can move the cursor would be great. I also wish that it had Swype installed and we could turn it on and off! I liked it so I donated my last 3 dollars!",
+        "commentId": "gp:AOqpTOH9v1IkMdOFHdNd0hb7yuNcGVGb1hSlGBvM-qYOeOVFwaBMCnqs5bNqPrMzcUAMv5PDgGQ2dpMqR6igWkE",
+        "author": "Alex Thomas",
+        "authorURL": "http://lh4.googleusercontent.com/-qf2pdPl_78k/AAAAAAAAAAI/AAAAAAAAABw/m8J0C9AWY6E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-qf2pdPl_78k/AAAAAAAAAAI/AAAAAAAAABw/m8J0C9AWY6E/photo.jpg"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1328402357228",
+        "starRating": "5",
+        "title": "Shockingly good app",
+        "comment": "I won\\'t lie, with such few downloads, I was questioning if this app would be any good. I find this WAY better than GO keyboard which has like millions of downloads. The auto correct is much more intelligent and highly intuitive. Even recognized and splits words when for example you type a \\\"b\\\" instead of a \\\"space\\\". I\\'d buy the paid for the personal dictionary if I didn\\'t expect an ICS update on my Rezound soon.",
+        "commentId": "lg:AOqpTOHt05BI3BGONId6U0NCB4fW8W8cIAEL21am_crE0iJ0itCC9MWz8CQ-B9-OrU3lQ0BlzKZy44vgubGapsg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.1.5",
+        "timestampMsec": "1330783150789",
+        "starRating": "5",
+        "title": "One of the best!",
+        "comment": "I\\'m loving this keyboard! I especially like thee fact that I don\\'t have to switch between keyboards for symbols and numbers. I even like this over the iOS keyboard - my former favourote - and is the best keyboard I\\'ve used so far! You must try it if you\\'re not on ICS.",
+        "commentId": "lg:AOqpTOEskSiAOBAxXdpQN19xYc0FPtJoxgPtGuX1dqVl4Ud8J4GpyxU4E_gsOjjpfame8VfKlYCemzO07uueV-0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_USER_DICTIONARY",
+      "android.permission.WRITE_USER_DICTIONARY",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_CALL_LOG"
+    ]
+  }
+}

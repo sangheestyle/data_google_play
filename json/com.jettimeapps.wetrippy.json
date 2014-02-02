@@ -1,0 +1,37 @@
+{
+  "title": "We Trippy Mane Live Wallpaper",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.wetrippy",
+  "category": "Personalization",
+  "price": "Free",
+  "datePublished": "May 17, 2013",
+  "version": "1",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacob Jetts",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jettimeapps.wetrippy",
+  "extendedInfo": {
+    "installSize": "841k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "We Trippy Mane!  Pay homage to getting bent with Juicy J in this free HD LWP!!  Jordan Michael Houston (born April 5, 1975), better known by his stage name Juicy J, is an American rapper, record producer and Academy Award-winning songwriter. He is a member of the duo Three 6 Mafia and is currently signed to Taylor Gang Records. He has released two solo studio albums with a third, Stay Trippy coming in the summer of 2013.****************************************************************************Please show support by posting comments and ratings! Thank youThis app contains ads that may appear in the notification tray or homescreen as an Icon. You can optout the ads from the links below:Leadbolt Optout: http://opt.leadbolt.com/To delete the icons just hold your finger on them and drag to the trash can to delete.****************************************************************************Tags: swag, legend, 36 Mafia, Juicy J, trip, drugs, psychedlicKey Words: LWP, custom, background, SD card, Jets",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

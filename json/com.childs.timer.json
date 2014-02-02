@@ -1,0 +1,28 @@
+{
+  "title": "SandGlass Timer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.childs.timer",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "November 29, 2012",
+  "version": "1.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Peter Childs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.childs.timer",
+  "extendedInfo": {
+    "installSize": "315k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a very simple Egg Timer / hour glass I wrote, to try and work out how to program for the android platform.Put simply it counts down 30 seconds and then fires a notification when this has expired, there should be an alarm but I've had some trouble getting that bit to work.The program works both as an Application, a Widget and I might get it too work as a notification as well if I get the time.  Its currently very simple and \"unfinished\" and has quite a few missing features, or features I would like it to have. I've put it up on Android Play partly to work out how Android Play works, and partly because I could not find many similar apps and thought others might find it useful.My wife suggested it as I nice simple idea as she had been looking for an app to help her cook, but as I'm sure you'll imagine the possibilities are endless with quite such a reasonable simple app, I'm surprised its not part of the standard app set, (Hundreds of Stopwatches, not no count down timers)To Do:1. Alarm when timer expires2. Improve Graphics and Icons 3. Repeating timer 4. Setting Page so it can time other things than 30 seconds (or multiples there of)",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

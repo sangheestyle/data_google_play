@@ -1,0 +1,47 @@
+{
+  "title": "A SUPER TOY CAR Racing Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.delaparramobilesolutions.supertoycar",
+  "category": "Sports Games",
+  "price": "Free",
+  "datePublished": "May 9, 2013",
+  "version": "4.3",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Low Maturity",
+  "creator": "De la Parra Mobile Solutions Best Free Games",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.delaparramobilesolutions.supertoycar",
+  "extendedInfo": {
+    "installSize": "29M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "\"A SUPER TOY CAR Racing: Top Glory\" Cool and simple free racing game with tilt controls!In this super fun tilt free racing game, you will play as a futuristic auto designed vehicle that is said by many gentleman that it can run faster than all cars ever made! :) An incredible race has just started in the acclaimed top racing city of Gigabit, where many pro drivers gather as bros for the annual psycho hot pursuit race in the desert! Forget about concrete and asphalt surroundings, this free racing game is about a run in the wilderness of the sandy desert where cactus lay down their dusty shadow! :)  The construction of the vehicles you will be racing with have special modifications in a three wheel fashion that will help you you feed your need for speed! You will test your driving skills by taking advantage of the accelerometer features of your device to tilt your way through the racetrack, evading your opponents in the race fo your life!Say goodbye to your free time! :) App features: +4+ obtainable characters in the race! (More to come in updates) +6+ different type of enemies that can destroy your super car +Non stop action and 3 different type of coins in the game that will help you get more characters to race in your style +Killer music & sound effects to blow your mind NEW FEATURES COMING SOON!+Kid Mode +Coin shopOnly the best free and fun games with DE LA PARRA Mobile Solutions. Please rate the game if you like it!!!  It's awesome to get your feedback!",
+    "reviews": [
+      {
+        "timestampMsec": "1364431667475",
+        "starRating": "5",
+        "title": ":-)",
+        "comment": "Love it!",
+        "commentId": "gp:AOqpTOGmyV24koiOWzEnhDplFpcqNXJw6L9ayaynUTB8_vi_hzFgO8t1rOmYOeW3HSJ6DR7MPTFmTPqshCL4RA",
+        "author": "Alex D",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363295828341",
+        "starRating": "5",
+        "title": "Fun game",
+        "comment": ":-)",
+        "commentId": "gp:AOqpTOEp1da0i6vSnsRX-r4K-srBlWB_u7ckZgE5dWggZ4vcv26P7R9ttZCgqzv51jBjxvo4HSnRaLEPm6n19g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Trolling Diver Data Log",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jason.TrollingDiverData",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "June 2, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "MuskyJ Developments",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jason.TrollingDiverData",
+  "extendedInfo": {
+    "installSize": "1.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Throw away your soggy notebook and keep track of your trolling diver data on your smartphone. Published manufacturer or third party data is a good place to start but often gives data for one speed, one type of line and does not account for the additional drag of attractors such as flashers or cowbells. Keeping track of your own data based on your own equipment and setup is the key to precision trolling.Trolling Diver Data allows you to account for all of the variables that determine the actual running depth of your lure. When you determine the running depth of a particular setup simply enter the data and store it for use on your next outing. To retrieve your data, select the desired running depth and browse through all of the entries stored for that setting. Multiple entries can be made for the same depth with different speed, line length etc.The variables stored in each entry and their possible settings are as follows:Line Type - Braid, Mono, Wire (different grades of each type available in pro version)Trolling Speed - 1.5mph to 3.25mph in 0.25mph incrementsDiver Type - Seven different types of Dipsy Divers (Dipsy Divers, Deeper Divers and Deep Six available in Pro)Angle Setting - 0, 1, 2, 3 for planer diversLine Length - 30' to 200' in 1' incrementsLure Drag - Lure only or Lure with attractor (Pro version only)Lure Depth - User entry on keypadThe Basic version is limited to 5 data entries.In the View Data mode the user selects the desired depth from the stored entries and can view all entries for that particular setting. Entries can also be deleted in the View Data mode.The Pro Version has stored depth charts for Dipsy Divers to use as a starting point before you come up with your own data.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

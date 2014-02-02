@@ -1,0 +1,224 @@
+{
+  "title": "Juice for Roku DEMO",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jigawattlabs.rokujuicedemo",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "April 17, 2013",
+  "version": "2.24",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "82",
+  "rating": "3.2804878",
+  "contentRating": "Everyone",
+  "creator": "Jigawatt Labs",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jigawattlabs.rokujuicedemo",
+  "extendedInfo": {
+    "installSize": "3.2M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This is the DEMO version of Juice for Roku.  It has all the features of the paid version, but only lets you send the first song or photo in the list to your Roku.It is strongly recommended that you try the DEMO version first to make sure everything works before buying the paid version. If you have problems connecting, read info in the Help menu or send an email to gregg.reno@jigawattlabs.comNote: For the app to work, you must install the Juice channel on your Roku by going here: https://owner.roku.com/add/juiceJuice for Roku lets you to stream media directly from your Android device to your Roku player: No need for a separate server!Does NOT support YouTube and flash based videos, and does not support Google Music (yet). Also note that videos in any format other than MP4 are unlikely to play. See here: http://support.roku.com/entries/423946-what-media-file-types-does-the-roku-usb-media-player-channel-support.- Send photos, music, videos from your Android device- Send media from the internet to the Roku using the Share functionality or audio and video podcasts (feeds)- Send individual photos or send a complete slide show- Send individual songs or whole albums to the Roku.  Songs can be shuffled.- Background Juice service will continue to serve files to the Roku while you use other Android apps- Use the âShareâ menu from the gallery, browser and other supported apps to send media to the Roku without having to launch the Juice app- No need for a home media server- No need for cables- No need to upload your files to a web server- Fully functional remote control included with the same functionality as the Roku Remote app (sold separately)One of the best things about this app is it's ability to work with other apps.  For example, long press a link to a photo, song or video in the browser and share it to the Juice app to start it playing on the Roku.  Or long press an episode in your Podcast app and share it to Juice to hear it through your Roku connected system.  With the share feature, you can stream almost anything on the internet to the Roku, in addition to streaming what is already on your Android device.Requirements:- You must add the Juice channel to your Roku (https://owner.roku.com/add/juice)- Android device and Roku player must be on the same network- Plugging your Android device into your computer may prevent the app from accessing the SD card.  In general, don't have plug your Android device into the computer when using the app.  Charging is OK.- Not all video formats are supported by the Roku.  See the supported formats here: http://support.roku.com/entries/423946-what-media-file-types-does-the-roku-usb-media-player-channel-support- Some MP4s created on Android devices may not work since Roku doesn't support all codecs. It depends on the Android device. It seems to work fine with videos taken with the Galaxy Nexus.Troubleshooting:- If you notice lag or unresponsiveness, power off your android device and/or the Roku and try again. This resolves nearly all connectivity issues. You should only have to do this infrequently.- Visit http://www.jigawattlabs.com/juicehelp",
+    "reviews": [
+      {
+        "timestampMsec": "1373760955136",
+        "starRating": "2",
+        "title": "Buffers way too much",
+        "comment": "Tried this out and must say I\\'m not impressed.  Video buffers every 5 secs. Totally not watchable.",
+        "commentId": "gp:AOqpTOHsvWeQYvlJPFv1lzEAUv0pU9pCe8fVvKRFGFrgnuz2QZvL6HsRBgoGe2xA7oIGdhwLOB9AB8AyiySEWd8",
+        "author": "Patrick Black",
+        "authorURL": "http://lh5.googleusercontent.com/-BNBkjy3h9JQ/AAAAAAAAAAI/AAAAAAAAAbs/iqgm4K1cMbA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-BNBkjy3h9JQ/AAAAAAAAAAI/AAAAAAAAAbs/iqgm4K1cMbA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375745635116",
+        "starRating": "1",
+        "title": "Blows",
+        "comment": "Cuts out every few seconds. If you\\'re gonna design and release a demo, make sure it works properly.  CHROMECAST FTW.",
+        "commentId": "gp:AOqpTOFuFTFD08DX_bcUfEv2I-dMLZkVji4VjIgCfWo3AeW_SUynoela8TPah47nxnKXqnlDO6xHzFg8CAf696o",
+        "author": "Rich Smiley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376793612772",
+        "starRating": "1",
+        "title": "Crap",
+        "comment": "Says roku not found",
+        "commentId": "gp:AOqpTOHSae2g7W7sHGutH4DTNqrfyawnPUN99jKK3mHnWbV2ENVk0A-gLZeVPRE91OoGNVowPzIq5TYngD1U5N0",
+        "author": "Adam Hammett",
+        "authorURL": "http://lh6.googleusercontent.com/-VPDXCDKGSYM/AAAAAAAAAAI/AAAAAAAAAto/7KyvSj29zHE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-VPDXCDKGSYM/AAAAAAAAAAI/AAAAAAAAAto/7KyvSj29zHE/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368858017606",
+        "starRating": "1",
+        "title": "Junk",
+        "comment": "Doesnt do anythi7ng but tell me that my Roku doesnt exist. Next in the list of beaming apps that are junk. Id pay if they worked.",
+        "commentId": "gp:AOqpTOHLJraSTSYxfGmHrHmvv_b1uOa2EuFSQb1B9yJSSog0MaL6_2dGd3u8OL4m5-ehqBFKpFDBbQawdniwCSQ",
+        "author": "Lewanna Rathbun",
+        "authorURL": "http://lh5.googleusercontent.com/-FR-JLYH9RjQ/AAAAAAAAAAI/AAAAAAAANj4/Njw80xJNySs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-FR-JLYH9RjQ/AAAAAAAAAAI/AAAAAAAANj4/Njw80xJNySs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367113703888",
+        "starRating": "5",
+        "title": "Works where all others have failed",
+        "comment": "This is the only app that has successfully allowed me to stream HD mp4 video from my phone to my roku.  Easy peasy... one click.  Roku\\'s app still does not stream video, PlayTo just sucks...  Juice is the best option",
+        "commentId": "gp:AOqpTOEwmceDqyRBdHpcDE-YMtpOkIhVkiXus4b96up1iBhA6Jh0VxVeCSRfIGoXRhV5qPcTZUkQFXtZ3VqOkLo",
+        "author": "Jason Mancine",
+        "authorURL": "http://lh5.googleusercontent.com/-k5yLtsP0AQA/AAAAAAAAAAI/AAAAAAAAKIU/imyl5UY4Jm4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-k5yLtsP0AQA/AAAAAAAAAAI/AAAAAAAAKIU/imyl5UY4Jm4/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362343831780",
+        "starRating": "2",
+        "title": "Doesn\\'t handle podcasts in any practical way",
+        "comment": "For my purposes, if falls short in a big way and a small way: 1) It doesn\\'t allow me to stream podcasts using my podcast manager. (Asking me for a podcast URL is just silly, since I don\\'t generally have them memorized, and anyhow, I usually have them downloaded.) 2) Doesn\\'t seem to handle Google Music. (Not that critical, because Google music has too many issues to be my main music source.)  I\\'m sure for other use cases it works fine, but for me, there is no apparent value and it will be uninstalled shortly.",
+        "commentId": "gp:AOqpTOEIq4RAmHkWIpsH0eFetO26aeC2lJtZ0n463w0le9qWSI7Wn0NcGdLqdQMfwXF5CsB_PIjkJDiDXSu8Zs8",
+        "author": "Adam Connor",
+        "authorURL": "http://lh4.googleusercontent.com/-oHo3GNf19gY/AAAAAAAAAAI/AAAAAAAAARo/kbXD576aVpY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-oHo3GNf19gY/AAAAAAAAAAI/AAAAAAAAARo/kbXD576aVpY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1361657599763",
+        "starRating": "2",
+        "title": "Keeps telling me it can\\'t find Roku player",
+        "comment": "I\\'m trying out the demo version, and so far, I\\'m not impressed.  Phone app keeps telling me that no Roku is found, yet I can see the display on the TV.  I scanned bit app couldn\\'t fond the Roku npx was two feet away.  I ended up putting the IP address manually.",
+        "commentId": "gp:AOqpTOHuGjW8-HuX3DEVF7QNU-hR0JiCUSfbNpKrAE1WNZGoN329913Tkqdyuo3-fY5bormoAQbPvl2H-GmU9-A",
+        "author": "NJKatwoman Kuppler",
+        "authorURL": "http://lh5.googleusercontent.com/-1878rClAHkM/AAAAAAAAAAI/AAAAAAAAAFc/qD0GA47G4Hc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-1878rClAHkM/AAAAAAAAAAI/AAAAAAAAAFc/qD0GA47G4Hc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356924295371",
+        "starRating": "4",
+        "title": "Needs g music capability",
+        "comment": "Loaded up nexus 1 and a nexus 7 and gs3. All worked fine in preview. Song played a good minute after closing connection on phone. App itself has bug in \\\"no Roku found using previous settings (ip)\\\" on all my devices. Even though connection is stable. I\\'ll contribute 10 dollars of you can get Google music compatibility sooner. Great app I think. Share menu everwhere I looked. Nice!",
+        "commentId": "gp:AOqpTOFSrarYlzav4xnNGM1NvNBS2rwREFZqWB82ESDIN4dLGfLE8iVoNlil_Ycvap9xJv4vfCD2K8UClCXIlZ4",
+        "author": "jerry brinkley",
+        "authorURL": "http://lh4.googleusercontent.com/-0BBCvNdOhPE/AAAAAAAAAAI/AAAAAAAAEHs/za40QJqFE44/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-0BBCvNdOhPE/AAAAAAAAAAI/AAAAAAAAEHs/za40QJqFE44/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355634279348",
+        "starRating": "1",
+        "title": "So close... Yet so far",
+        "comment": "Installed easily, found my roku right away, and i sent a song with no problem. But wow, this is terrible with video. Videos shot on my phone play, but the audio sounds like a zipper constantly being zipped and unzipped. Want to play a movie you downloaded or made from a DVD? Forget it. It didn\\'t even show up on the screen.  I really wanted this to work so i could stop using the annoying hdmi cable on my phone, but no luck :(",
+        "commentId": "gp:AOqpTOFLbdR1lJiZ_ZVIW8HH8e_M5N1C5Zu4AfTkAjIJYZwsGzVn6KRZeR6Zq03hqv0suXY1skSrIn4NngCpxjo",
+        "author": "Joe Reilly",
+        "authorURL": "http://lh4.googleusercontent.com/-17eINIojlZI/AAAAAAAAAAI/AAAAAAAAAYY/NPX4SEl0j7E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-17eINIojlZI/AAAAAAAAAAI/AAAAAAAAAYY/NPX4SEl0j7E/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355493692834",
+        "starRating": "3",
+        "title": "Photos not oriented",
+        "comment": "Would be nice, but photos and videos are not oriented correctly.   Not much good as is. Could be 5 stars if this were fixed.",
+        "commentId": "gp:AOqpTOHPwLpJG3ANyk9trvOvsDNow-orE2PIDN_KjP9gwraJ7iSI9H-ph_biGC4BqlV2KRsvOpn7NHRZdv5_RAM",
+        "author": "Al Levesque",
+        "authorURL": "http://lh6.googleusercontent.com/-e7PX_WLQPJs/AAAAAAAAAAI/AAAAAAAAAAA/2ALNCddH0ZM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-e7PX_WLQPJs/AAAAAAAAAAI/AAAAAAAAAAA/2ALNCddH0ZM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355886250508",
+        "starRating": "1",
+        "title": "Does not work - frustrating :-/",
+        "comment": "Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading songs ... Loading",
+        "commentId": "gp:AOqpTOFf1THqF8AaNgLr_oEyr4GC4bk-eci1D-CNsGxOouUc-UYsG8JTZDaSsGaXRBuz1fBR8Hz3ZebgUC5DnGw",
+        "author": "Jeff Z",
+        "authorURL": "http://lh6.googleusercontent.com/-DmwzDrBSsfo/AAAAAAAAAAI/AAAAAAAAITA/i4k4hz4dsVc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DmwzDrBSsfo/AAAAAAAAAAI/AAAAAAAAITA/i4k4hz4dsVc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350367289309",
+        "starRating": "2",
+        "title": "IT\\'S OK.",
+        "comment": "I wouldn\\'t pay for this application because I installed the Roku  Application remote and logged in my Roku account and some updates have been added you can view photos and music from your Android device to your Roku to your T.V. Plus videos and the remote is free don\\'t waste your money on this. Application you\\'ll regret it later.",
+        "commentId": "lg:AOqpTOEJvGPpvX_m2_hpb2vHsJP90L2n0buJ6rBGvuquNHZNeSRJc3BPNNfbBQgtSowDMoPaA6S3Vhaav_LM6sk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342302642557",
+        "starRating": "5",
+        "title": "Fantastic",
+        "comment": "First I think you mean the following in the requirements:  SD card must BE mounted while playing media from that SD card.  This is so amazing thank you for making this and adding the UK roku channel.",
+        "commentId": "lg:AOqpTOFQaqfqkArll5IzG-uf3ylHG3_MWAV2IwDzu7ybhvhKMEuieKRv-D-P6WzowI_xgrIaB8HATDD2P8Ux-6c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341208801242",
+        "starRating": "1",
+        "title": "Almost worked, but didn\\'t.",
+        "comment": "Was able to find my Roku. Sent one photo, then became unresponsive when I tried to send a song. Wasn\\'t able to get anywhere after that.  Great idea, but not ready for primetime. HTC One S.",
+        "commentId": "lg:AOqpTOHIn6IYe5TLAJ_TplzGCaSUtJ-fKc7yIv5rTmxwjLYduflNO2zXbGtcJnMFwkdvpr_BW45z3oiTCslMRz0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1343789338959",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Cool concept. Not ready for primetime.",
+        "commentId": "lg:AOqpTOHIXs2VsygFeYEngvvh_fYLET9hGN-rnIgHqeOJ7WSdim0psopvq3NR_hEEOsRHKhs9qtM9l6pw2S_agl4",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1342672479066",
+        "starRating": "5",
+        "title": "The Best",
+        "comment": "It clearly states that you can only send 1 VIDEO in the demo version. Want more? Pay for it.",
+        "commentId": "lg:AOqpTOFN1VVfb5jSTh0GFeZVkMdesda-k7TNS-OfGC6hFKPhJNVk_nuDSpFc25YJCR4-8mGNQRH3nxeTV_UPSJ8",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344218002459",
+        "starRating": "5",
+        "title": "This app ROCKS",
+        "comment": "Perfect. Buying full version now. THANK YOU DEV!!",
+        "commentId": "lg:AOqpTOHCvTz93SV6XkCEWddwXvhBnfzEHt2XhI0eeCLts98l6PfBxw_fBgiMLvdVPLVJFtjogyoVtmfDjLCuPfA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350758265779",
+        "starRating": "1",
+        "title": "Uninspiring...",
+        "comment": "Doesn\\'t find any pictures or video on my phone (Galaxy Nexus).  Doesn\\'t allow me to stream any pictures or audio from the cloud or from my local DLNA server.  Doesn\\'t provide play/pause option in notification drop down.  When playing and in the app, to get to play/pause controls you have to initiate a drop-down, and close it to do anything else.    This is not worth much at the moment.  I\\'ll check back in a month or so to see if there is anything worth using here....",
+        "commentId": "lg:AOqpTOHIA7nYQnOZ9YzBMGOhPVzd--rtqsaolOdY2anxkcI0ZkYJ8LUz3mNiYftTURA0KfBzWw9RZ4fDcTogRSs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341547397816",
+        "starRating": "5",
+        "title": "Speechless",
+        "comment": "Acer iconia 500  Took a little restarting stuff, I think my router Linksys e2000 was the issue but it works flawless. Kudos to the dev. I owe you a beer",
+        "commentId": "lg:AOqpTOEDMz5SiPbhOUSu1YFNKSuFpDakZ4tE1uVn41gcM6Z2B0MUZy3jA15CnnrFesModula_zrIy1LuQHizsds",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1344527447501",
+        "starRating": "4",
+        "title": "Works great",
+        "comment": "Great demo, and easy to use, only problem I had was it crashing so I uninstalled and reinstalled and haven\\'t had a problem since.",
+        "commentId": "lg:AOqpTOFohes7Ir1ZqQdAUjg6-ZztESUYIXVLbahXun4Rml6Vud6OEHw3OdFLEUoH8fNG8rYj12w26Ov2g17yiS0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

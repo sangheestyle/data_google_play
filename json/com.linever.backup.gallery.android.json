@@ -1,0 +1,56 @@
+{
+  "title": "Quick picture backup to SDcard",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.linever.backup.gallery.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "September 2, 2013",
+  "version": "1.0.6",
+  "operatingSystems": "2.3 and up",
+  "ratingsCount": "13",
+  "rating": "3.6153846",
+  "contentRating": "Everyone",
+  "creator": "Linever Corporation",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.linever.backup.gallery.android",
+  "extendedInfo": {
+    "installSize": "528k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "It is an application to back up pictures to the SD card preparing for terminal failure/loss or change model.Do you have a solution of backup of pictures in your terminal in preparation for affairs such as a terminal failure or mode change?Recent terminals have an internal SD with the large capacity in the body for pictures, but built-in SD can not be removed. So when you change the terminal, you need to back up your important pictures.1)Haven't you experienced some trouble when you change the terminal?*It is difficult to distinguish between internal SD and external SD among album in the gallery.*For ordinary people, the folder management application is too confusing.*If you are convinced that you finished to backup data to SD, the external SD has no data.2)This simple application can solve such problem.  *The pictures showed in the gallery can be saved to external SD by only one touch. *The pictures saved in external SD can be restored to internal SD by only one touch.Let's back up to avoid losing your precious pictures.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.4",
+        "timestampMsec": "1377542716537",
+        "starRating": "5",
+        "title": "SAmsung galaxy s2",
+        "comment": "Great App",
+        "commentId": "gp:AOqpTOH8s-Ts7Vzrzg-m6ulBeZEThgPGJeJTmfvc_mm13httneFKoAHi8cExHmtmt6w6JbQmqWhzNDmTxGY3WA",
+        "author": "Brian Hopkins",
+        "authorURL": "http://lh5.googleusercontent.com/-PgARYk_6hkQ/AAAAAAAAAAI/AAAAAAAAAYw/QsEgn3eFd9s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-PgARYk_6hkQ/AAAAAAAAAAI/AAAAAAAAAYw/QsEgn3eFd9s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376618941568",
+        "starRating": "1",
+        "title": "No good",
+        "comment": "need to get this fixed....as soon as you open it ...it closes",
+        "commentId": "gp:AOqpTOGlVzy0rJ1PIvzNgkNrxFDTAhSL9_X8QULhXRAKI3Xd_2Ap_R060kLygbss9zcD83fqFzGCJFcEEOfF4Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376483977417",
+        "starRating": "1",
+        "title": "DOESN\\'T EVEN WORK...",
+        "comment": "ON MY NEXUS 10 !",
+        "commentId": "gp:AOqpTOFSMBfvzSgwTNSgWEgHUa-AqWrQNRBhgWVeXKV8DjzopjiG9IEmR3wo9zJNoP6iw11qIjuBm85Oce1Y7Q",
+        "author": "jose serrano",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

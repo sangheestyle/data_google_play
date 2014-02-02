@@ -1,0 +1,77 @@
+{
+  "title": "IMGuest - Hotel Social Network",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.imguest.android",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 18, 2011",
+  "version": "1.0.1",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "11",
+  "rating": "3.6363637",
+  "contentRating": "Everyone",
+  "creator": "IMGuest.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.imguest.android",
+  "extendedInfo": {
+    "installSize": "21k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "IMGuest is the first and only Hotel Social Network worldwide.IMGuets is a must have cool app when traveling the world on business or vacation.IMGuest helps you connect, interact and meet with other guests at your hotel and hotels around you.Hotels are fascinating venues. A lot can happen between their walls exploring thrilling interaction between guests like business savvy that travel around the globe or even entire families on their exciting vacation.IMGuest diminishes the boring and upgrade your stay at any hotel in the world by making it much more productive, socially, engaging and interesting.Features:Check in to your hotel.Share your purpose of checkin and look for other interesting purposes.Search and find like minded hotel guests at your hotel.Look for other guests around.Find out who checked out your profile.Add interesting hotel guests to your favorites.Send private messages directly to guest's email to engage.Setup face to face meetings with other guests.Get notified regard new guests at your hotel.Get notified regard nearby favorites guests.Explore hotel specials, benefits and announcements.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1351711057931",
+        "starRating": "5",
+        "title": "Excellent tool for travelers",
+        "comment": "Finally I can meet intersting people around me while traveling. A++",
+        "commentId": "lg:AOqpTOGwgV-djfNPq42VwkMjvrKv4UzxOIiB2tOrLNHGFcoM-oRm42HeKl5aXwldkQ5KAdrrkqk-Bps9hD6eJg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1331745671690",
+        "starRating": "3",
+        "title": "Has potential",
+        "comment": "Def be handy when traveling if they bump add the lbs",
+        "commentId": "lg:AOqpTOG85UyQRz7QFljYjknNg03GuZeMkpLWiTSxxpoOsOSywzyiMPRaiDJkSR2ara8F4wnS4XT-ddAmUyEuqQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1355973398827",
+        "starRating": "1",
+        "title": "Horrible",
+        "comment": "Waste of time.  Couldnt even enter my hotel in the search.",
+        "commentId": "gp:AOqpTOHUaMXad07fUTnrW2B2SeMe5XrhHSHGkGcpS4sZJfj6pyU9kQOOePA97nf-rnrkPAr8Mfb_2IsvM_HNWw",
+        "author": "John Rogers",
+        "authorURL": "http://lh4.googleusercontent.com/-YZDl16D-NUw/AAAAAAAAAAI/AAAAAAAAAO8/Aj2iRpVz9uY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-YZDl16D-NUw/AAAAAAAAAAI/AAAAAAAAAO8/Aj2iRpVz9uY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.0.1",
+        "timestampMsec": "1322161885010",
+        "starRating": "1",
+        "title": "Terrible",
+        "comment": "Trying to search for a hotel is the worst. Why not use a location based search?",
+        "commentId": "lg:AOqpTOFr-pWtAJOSWClD3WCN_j-QlI5LnRvKA3kgxc_jiIX8S-vMotF_lrHrPAdF8me8c4QwrLD1IW0_hw06ww",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1312915968123",
+        "starRating": "5",
+        "comment": "Great app for business travel...way to go!",
+        "commentId": "lg:AOqpTOHq5ykdYob76dwjvhuRSd77GwCwxReGJW759nxv-E7p_yx85v_0i-r5-ckEuJBrU3qNBZOdnlB7sJ2eTw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

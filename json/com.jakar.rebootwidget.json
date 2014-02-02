@@ -1,0 +1,217 @@
+{
+  "title": "Reboot Widget (root)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jakar.rebootwidget",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "October 25, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "327",
+  "rating": "4.293578",
+  "contentRating": "Everyone",
+  "creator": "Jakar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jakar.rebootwidget",
+  "extendedInfo": {
+    "installSize": "148k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "This app is a widget for your home screen. It works on rooted phones only. If you don't know what \"root\" is, then your phone is not rooted. You can check out my website android.jakar.co/rooting to find out about rooting.You can reboot into:â¢ Recovery Modeâ¢ Download Modeâ¢ Bootloader Modeor you can:â¢ Reboot Normallyâ¢ Power Off your phoneThe pro version ($1.00) also includes:â¢ Ad Freeâ¢ \"Ask\" option, so that each time you click the widget you get an option of Recovery, Download Mode, Bootloader, Normal Reboot, or Power Off.Most phones use 'bootloader' mode, but some phones use 'download' mode. It is essentially the same thing, but you generally have one or the other.Note 1: This may not work for all phones because the methods to reboot are not \"supported\" by Google/Android. If it doesn't work, please email me at support@jakar.co and I will look into other solutions.Note 2: If you try to do a reboot that your phone doesn't support, then it will likely just reboot normally. For example on a Samsung Captivate \"Reboot Bootloader\" just does a normal reboot.Note 3: Permissions are used for ads.",
+    "reviews": [
+      {
+        "timestampMsec": "1340932501237",
+        "starRating": "5",
+        "title": "Best ever",
+        "comment": "Very useful for my rooted galaxy s2",
+        "commentId": "lg:AOqpTOGd-FnSvhUHiYEnq_g_hi-3peEYOpPZFlBefzwlukamEaVPzRL2i0kR37v8umwpcczN5m58uLFNTyc3_A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362060428650",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Works great, quick and fast, esp when my phone freezes",
+        "commentId": "gp:AOqpTOHbS8bjDgPvZbMoxAzQo6KtO9DEL-ytJcaMa8UfvQNtvSZRD-bneYVh4D0TUYBtX3tVEXFBV3H8fdn9Sw",
+        "author": "Ji Carlson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335453519803",
+        "starRating": "5",
+        "title": "Works just as described",
+        "comment": "This is a very useful application and the only one I\\'ve found to actually work on my phone. Thanks.",
+        "commentId": "lg:AOqpTOF7N5I8QG1IcraLtuSZVd0usPzn2dui5wZdMGPceq05KeIbdLeq1CaF_o2aIktFRj5OqKt3Wo8nT2_znQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370054891366",
+        "starRating": "2",
+        "title": "Doesn\\'t work - htc evo 3d",
+        "comment": "ICS. Clicked recovery and normal widgets, superuser would prompt me, then nothing would happen. Looks cool though.",
+        "commentId": "gp:AOqpTOElBUagckTKrokFB_0c46ZtSXMspSXl3Lznl0-iwzZHYzX_9pKUzYuqUT8vh0PK9TSkU2UYcEojdA3ZDg",
+        "author": "Ma S",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355715971370",
+        "starRating": "5",
+        "title": "Reboot app",
+        "comment": "Just what I need, my phones power off not working   now it powers off nicely!",
+        "commentId": "gp:AOqpTOG_eOWqxZ10pZOVNBubLxakKFJ5qeKhgfgJnovIWS1QGu3dp_D0fDez9CRMzVvd6h8Bp_QQw4bvuYmyEQ",
+        "author": "Hector Davila",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372550138414",
+        "starRating": "5",
+        "title": "Sweet",
+        "comment": "Thanks for this. Now i dont gotta pressure my Power Button for Recovery menu.",
+        "commentId": "gp:AOqpTOGiMuI6yXn0ZIaZV95upx25YeFs1TOaDhkMmUijJFGdubnuXs0q60TjHrAi43omIQUxYRN_fFNCTCn5UA",
+        "author": "Anna Kay",
+        "authorURL": "http://lh5.googleusercontent.com/-ta9qIWhrL1o/AAAAAAAAAAI/AAAAAAAAAJs/YSZ0IFfWfpU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-ta9qIWhrL1o/AAAAAAAAAAI/AAAAAAAAAJs/YSZ0IFfWfpU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1347429723527",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Great helpful app",
+        "commentId": "lg:AOqpTOFkb9nQ2yffgcxHAvT-TLaeqFg2tJ35mzV5IMbmcsfzjHchupd3AkBsozgepfvBtRvuDKGaDRzNFDTYkg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1334584277664",
+        "starRating": "5",
+        "title": "Excel button alt",
+        "comment": "My buttons are worn off this help should of done it ages ago",
+        "commentId": "lg:AOqpTOG-XZqVRLzJAzwbCMU6m0vFwn5JO2iezEIiSAIGl88V_RUzZM8cDGzYRHl08fPtTzdCFGKtSG5cPexTdA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373736974474",
+        "starRating": "5",
+        "title": "great app!!!!!!",
+        "comment": "great app!!!!!!",
+        "commentId": "gp:AOqpTOEHsbZyMzP6HcKchMlv79PHSlOuI-WkmbbFv75Ho8fHyUhkiJfEHJqkBKnn_sHUZWBwcBeLjiI8ZYmFWA",
+        "author": "julio pena",
+        "authorURL": "http://lh3.googleusercontent.com/-oO5n5WABLoA/AAAAAAAAAAI/AAAAAAAAArc/Mk1OuzrnnV8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-oO5n5WABLoA/AAAAAAAAAAI/AAAAAAAAArc/Mk1OuzrnnV8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1358984138828",
+        "starRating": "5",
+        "title": "Picked up, where others have failed.",
+        "comment": "This app worked to reboot my phone into recovery and regular reboot where others could not do either!!!",
+        "commentId": "gp:AOqpTOEw40cCUIduNZmblQzS7t1mEnoLM6ZRuP-PUGFkS-oZAT2XmV1m_FD-COU2R2i542wVNgxkrMYuc2E_aQ",
+        "author": "Kyle Barnard",
+        "authorURL": "http://lh5.googleusercontent.com/-RoBHh-lSkRA/AAAAAAAAAAI/AAAAAAAACdM/iK2a4Au6Jwo/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-RoBHh-lSkRA/AAAAAAAAAAI/AAAAAAAACdM/iK2a4Au6Jwo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1348425184111",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Great app!!",
+        "commentId": "lg:AOqpTOEV-rtZ0BAUHiVfT-alFxe1ggwOFgsBLkJhUfDRE6q4H6l0tV5T6XDap4ybY16pVbDE-o7ICHxc9Oe-sQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1358388200428",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Fast reboot",
+        "commentId": "gp:AOqpTOGzQAZommFvVcG7FtEMNKH0D98Y0sH0ioO4casimTEr5Y8cYSsGflmQ1tkxhOwUYrJC2_ngogz-h2vXoQ",
+        "author": "Afian Permana",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1335651270852",
+        "starRating": "5",
+        "comment": "Cool",
+        "commentId": "lg:AOqpTOFObnP-jcsv0aNdyWYa38dKxMeV-krVasxsnkEs7n4ckeFp8J0eOAaoLeJM7KCFPZ_7tMLBirs0icCDrA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350073340773",
+        "starRating": "5",
+        "title": "Simple and rediculously good looking",
+        "comment": "Less is more. Nothing too complicated, just works very well. And looks nice, too! Samsung GTab2 7.",
+        "commentId": "lg:AOqpTOEU0xVXK9lXOvm432FutTYFYG5VSsfUBGSLCHs1iezwi2WzQBX1zhxb4Ei-deFa7HdtXzj2Rfpie7sJiA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357728055241",
+        "starRating": "1",
+        "title": "Doesn\\'t work on xperia neo",
+        "comment": "It never boots into recovery. Tried all options. Uninstalling.",
+        "commentId": "gp:AOqpTOG8eBhkusofr4lInd7JgZShD8CrvTEI7bDqQr1i3hRixzDhyHDDDHnJALASVTKdkKc4H5XniM3HFrSnqQ",
+        "author": "Robert Key",
+        "authorURL": "http://lh4.googleusercontent.com/-WJ78v6w0Vt4/AAAAAAAAAAI/AAAAAAAAAHI/Ime13oGhzkQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-WJ78v6w0Vt4/AAAAAAAAAAI/AAAAAAAAAHI/Ime13oGhzkQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353919878726",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Does what i need it to do.",
+        "commentId": "lg:AOqpTOFZ5GEoUqwjX_GqoEKBNbQoP2-EeKYeZA61A5KbWfAR4V66tvNF13IwaOWfd0mV8AeyLtN-M6-k56WPzw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1341262708286",
+        "starRating": "5",
+        "title": "Love it!",
+        "comment": "I have been looking for this app for a long time, very handy! Thank you!",
+        "commentId": "lg:AOqpTOFP3PGRlqGFk-AVMQB3VOATQkkXoTAPDnX0zO7mRUKMs_sijPxA26lizv4sAWpziUpEafv0iF-guQRrPQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362694190383",
+        "starRating": "2",
+        "title": "LG US5670",
+        "comment": "Keeps sayn. Reboot Fail. None of the options work for me.",
+        "commentId": "gp:AOqpTOE41TU-4D4SUcul6AJCNkmGBFaXkDw7ZLNV75I91po08V1ak7pw1g7G3vtTzdqrJhg9Vu0dKkIyUh9Rvw",
+        "author": "Jimmy Bean",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378415993216",
+        "starRating": "4",
+        "title": "Works well",
+        "comment": "It\\'d be great if it also appeared as an app, so Tasker could schedule launching it. Otherwise no complaints, works fine.",
+        "commentId": "lg:AOqpTOG_6sSamO0JJ-eweqrlocfshe8WhhnI9TYJXpMmTNjv4GpUx8wNuRkx8vlplvQbDwPz0tq6EPQPFIk6mw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360417508057",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Best one yet",
+        "commentId": "gp:AOqpTOHg5cs8WD-K7EoQhMCkvFop9WE5R0-15QhvQO5Od4wy6GoWzcAN7xyrhhiLBhWcxVqijhfQQK9HLyIbjg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

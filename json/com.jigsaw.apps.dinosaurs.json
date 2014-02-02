@@ -1,0 +1,36 @@
+{
+  "title": "Dinosaurs Jigsaw Puzzle",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jigsaw.apps.dinosaurs",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "June 15, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Jigsaw Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jigsaw.apps.dinosaurs",
+  "extendedInfo": {
+    "installSize": "8.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "DINOSAURS, the most deadliest creatures of the world, longtime gone, but lots of research and interets among us to understand its world better.Did you know Dinosaurs first appeared approximately 230 million years ago, and were the dominant terrestrial living beings for 135 million years, from the beginning of the Jurassic (about 201 million years ago) until the end of the Cretaceous (66 million years ago).Did you know the CretaceousâPaleogene extinction event led to the extinction of most dinosaur groups at the close of the Mesozoic Era.They are the very interesting creatures to know. Here we bring the various dinosaurs and their unique pictures in Jigsaw puzzles, a photo matching puzzle where in you are supposed to align the various parts of the dinosaurs images to align and bring it to proper image. This will exercise your brain, especially the picturing storing memory.Below are the list of dinosaur puzzles you will be resolving,Bactrosaurus dinosaur\t\t\t\tBalaur dinosaur \t\t\t\tCamelotia dinosaur \t\t\t\tCardiodon dinosaur \t\t\t\tDakotadon dinosaur \t\t\t\tDilong dinosaur \t\t\t\tElaltitan dinosaur \t\t\t\tErketu dinosaur \t\t\t\tFruitadens dinosaur \t\t\t\tGastonia dinosaur \t\t\t\tGobititan dinosaur \t\t\t\tHippodraco dinosaur \t\t\t\tHylaeosaurus dinosaur \t\t\t\tIguanodon dinosaur \t\t\t\tInosaurus dinosaur \t\t\t\tJeyawati dinosaur \t\t\t\tJobaria dinosaur \t\t\t\tKritosaurus dinosaur \t\t\t\tLabocania dinosaur \t\t\t\tLatirhinus dinosaur \t\t\t\tLoncosaurus dinosure \t\t\t\tLusotitan dinosure \t\t\t\tManidens dinosure \t\t\t\tMegalosaurus dinosure \t\t\t\tMicroraptor dinosaur \t\t\t\tMussaurus dinosaur \t\t\t\tNambalia dinosaur \t\t\t\tNeosodon  dinosaur \t\t\t\tNuthetes dinosaur \t\t\t\tOplosaurus dinosaur \t\t\t\tOviraptor dinosaur \t\t\t\tPakisaurus dinosaur \t\t\t\tParalititan dinosaur \t\t\t\tPeloroplites dinosaur \t\t\t\tPolyonax dinosaur \t\t\t\tPteropelyx dinosaur \t\t\t\tRapator dinosaur \t\t\t\tRinchenia dinosaur \t\t\t\tSanpasaurus dinosaur \t\t\t\tShixinggia dinosaur \t\t\t\tStruthiosaurus dinosaur \t\t\t\tTornieria dinosaur \t\t\t\tSo what are you waiting for, go ahead and download this unique jigsaw puzzle game and get yourself lost in Dinosaurs world. And please do not forget to leave your rating and of course, your valuable comments and suggestions.",
+    "reviews": [
+      {
+        "timestampMsec": "1369866379393",
+        "starRating": "5",
+        "title": "Cool.",
+        "comment": "Cool.",
+        "commentId": "gp:AOqpTOEC9YCLs8dzP8xBYpXcbq_yNMofG3DQbfloPXuY-3O8tK3ftHJi1JCO9HWYzikJviYufDXqTFLWJTCuxdg",
+        "author": "Hayden Dunn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

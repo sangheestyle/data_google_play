@@ -1,0 +1,216 @@
+{
+  "title": "Malayalam Bible",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jeesmon.malayalambible",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "February 24, 2012",
+  "version": "1.3",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "848",
+  "rating": "4.731132",
+  "contentRating": "Everyone",
+  "creator": "Jeesmon Jacob",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jeesmon.malayalambible",
+  "extendedInfo": {
+    "installSize": "6.5M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Malayalam Bible for AndroidFirst Unicode Malayalam Bible for Android with English KJV and ASV versions.NOTE: ICS+ users, please change Menu -> Preferences -> Unicode Rendering Fix to \"Alternate Fix\" to get good rendering.Version 1.3/1.2==========Copy/Share/Bookmark verses. Swipe left/right for chapter navigation.Version 1.1=======NOTE: Please uninstall (Home -> Settings -> Applications -> Manage Applications -> Bible -> Uninstall) and re-install if you have trouble updating to new version. Contact developer for any issue.For devices with Android v2.2+, preferred location of the app is SD card. Content database will be installed in SD card, if SD card is available. So app now requires permission to write to SD card.Now you can customize the app through preferences menu available under device menu button.Available options are:Languages - Select primary and secondary languages to displayDisplay Layout - Choose one of the three layout options for displaying multiple versionsFont Size - Increase/decrease content font sizeTheme - Select one of five background colorsUnicode Rendering - If your device (e.g: LG Optima) does't display Unicode characters properly, try \"Alternate Fix\" or \"No Fix\"Malayalam content for this App is obtained from \"The Complete Malayalam Bible In Unicode Ver 2.4\" encoded by Nishad Kaippally. It may have minor errors. Any help in proof checking will be greatly appreciated. I will push updates to the content as a new version as it is available.English content for this app is obtained from public domain.Disclaimer: As Android doesn't support complex text layout for Malayalam unicode characters yet, there were some non-standard ways used to get the rendering (Like reordering the unicode characters on the fly, etc.) as a temporary solution due to Google's total disregard for incorporating the scripts of over 1.2 billion people. Author of the Malayalam content for this app doesn't endorse any non-standard implementation used in this app as it is counter productive to the objective of the project.",
+    "reviews": [
+      {
+        "timestampMsec": "1370138362993",
+        "starRating": "4",
+        "title": "Good app",
+        "comment": "Its really nice but in my 5\\\" screen the text gets cut on the right. Tried adjusting d fonts as well but still it cuts. please fix this.",
+        "commentId": "gp:AOqpTOG54Qsfq9XH_wePee4DFnPVf7qCSJ8T-l2sXhEXG4maiGjOKPdwvPU4Da0rdE4nq3hveLIS3C8CQKAp81s",
+        "author": "SHEENA CHACKO",
+        "authorURL": "http://lh4.googleusercontent.com/-pSEU8Ym0Rxk/AAAAAAAAAAI/AAAAAAAABeU/l-XwmjlTJ8s/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-pSEU8Ym0Rxk/AAAAAAAAAAI/AAAAAAAABeU/l-XwmjlTJ8s/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357973711974",
+        "starRating": "5",
+        "title": "Nice bible..",
+        "comment": "I can\\'t believe a full bible have only a 6 mb size..  No words for this app... Nice interface too...  Love it....its the 1st app I downloaded in my new mob....  :)",
+        "commentId": "gp:AOqpTOGx48iYRtBgDYoqTaUKMYslZHjM8qG3NPq1tYRysqi_IkVLkxCPtxZMjLESB9Zw5Yw31nKdeoLKg4VxfmA",
+        "author": "Sajin Varughese",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1338669936502",
+        "starRating": "3",
+        "comment": "Good. But Please proof read Malayalam text again. Pls check Psalm 137. Ver. 7,8 with same text",
+        "commentId": "lg:AOqpTOEUxLXFf0iXPY7gF43sfRdeSv0jKSDgrrWzr6ehL37mz4EdEka65PWr2nYeCUmAg7Eg-TeqFX2y221j1-U",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375997928734",
+        "starRating": "5",
+        "title": "Very helpfull and handy",
+        "comment": "Its easy to handle a e-bible at churches, prayers and even in ur job.. soo helpfull ... god bless you.",
+        "commentId": "gp:AOqpTOGZjKCDjSK_6jvoQHqFpDOZMKSO-LelPEo4EgHPgJlaYg9HW7wXXAGBNEFNmHyrDNQzrghx2CrXb2YOzA0",
+        "author": "Jerin G",
+        "authorURL": "http://lh5.googleusercontent.com/-BM00er9PSas/AAAAAAAAAAI/AAAAAAAAAPk/ej2lfxixArk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-BM00er9PSas/AAAAAAAAAAI/AAAAAAAAAPk/ej2lfxixArk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1336985887718",
+        "starRating": "5",
+        "title": "What a blessing",
+        "comment": "Thanks so much for this great Malayalam Bible app. I particularly love the Malayalam & English language side by side function which makes reading, translating & sharing the Word so much easier. Praise God for all your efforts.",
+        "commentId": "lg:AOqpTOGnytintP2nrYIYkgcQ_x7UzYSBphQYNvn2MBHQqkcGmushQZ3D8lk8CQtCdOcZi0mrO2mT_Mb1A9PKuAM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1330890535487",
+        "starRating": "5",
+        "title": "Great job...",
+        "comment": "Updations are so nice & useful... God bless u and heartily wishing u all the best & success in if whole life.  Emil",
+        "commentId": "lg:AOqpTOGeWuxEenByctMu04MkDI1t1WbBa2vKVSEko4jnIfimstxDh58Bva2DegNyETTOl2kEgN2agFrxZ5OXQCo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350022758981",
+        "starRating": "5",
+        "title": "Plz make it available for galaxytab p1010",
+        "comment": "Very nice sw.God bless for ur hardwork. Help me with downloading it on my gtp1010",
+        "commentId": "lg:AOqpTOELdDxaPb0Tnk0aKz4YW1utpLWNJ2ARniZ-6G426UcMF3xTNNo6O14h1K3Pk9LJ00DYfn2Dx-39E9dOaSA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1374846934087",
+        "starRating": "3",
+        "title": "Text/Font Issues",
+        "comment": "Hi, I have some issues in the texts.There is a \\\"o\\\" after each letter. Installed in HTC one. Anybody has the same issue?",
+        "commentId": "gp:AOqpTOEUTmwJlWnfSy-8kN6YlpkQPW8aFusfAV2JqZqVjcnGbfkULFPwGlsY5zw81j4pY_yEasTOWb8Qa72cuxo",
+        "author": "Aravind Mohan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350390400586",
+        "starRating": "5",
+        "title": "Sebu",
+        "comment": "Br.Jeesmon may our Lord JESUS CHRIST bless you abundantly from the throne of grace for all your efforts.",
+        "commentId": "lg:AOqpTOHrGG0iACuH5IsCMOQwBFyb1IcMXDrfJWq9VyTb_z_Nbs716WB3McQBefE67GUD6h7ckPFOYFekqyXQeOA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375623484143",
+        "starRating": "5",
+        "title": "Easy navigation",
+        "comment": "This is quite a good application. Please develop an option to add notes to verses and backup those notes. Also tab wise listing of Old and new Testaments on choosing \\'Books\\' will be better. Side by side view of Malayalam an English versions is very nice.",
+        "commentId": "gp:AOqpTOEb7u_A5nMPBttHT3iRdMSno7szNKOXLayCNn45Me5EbuA-3A4hYxH158kWxAOrAG27ogDVcEQ4D-GdO8g",
+        "author": "Sen Jacob",
+        "authorURL": "http://lh5.googleusercontent.com/-KEjqLJrRkNI/AAAAAAAAAAI/AAAAAAAABQw/QSG-BP863EA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-KEjqLJrRkNI/AAAAAAAAAAI/AAAAAAAABQw/QSG-BP863EA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366990421774",
+        "starRating": "4",
+        "title": "Search facility needed",
+        "comment": "The best app ever for a Bible lover...Lacks word search facility. Hope it will be added in future releases. ....god bless you. ..",
+        "commentId": "gp:AOqpTOFv6Ink2htyO5runyVoMdvqG70V6jNEFHOkhMHFzzIDmgreWouEtoavfJ98IoXRClz0fMGaluexCpe29Jo",
+        "author": "Benson Abraham",
+        "authorURL": "http://lh5.googleusercontent.com/-rUDBtlBYZGs/AAAAAAAAAAI/AAAAAAAAAAA/RA1-wBWQJgk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-rUDBtlBYZGs/AAAAAAAAAAI/AAAAAAAAAAA/RA1-wBWQJgk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375887547425",
+        "starRating": "5",
+        "title": "AWESOME JOB..!!!!",
+        "comment": "MY DAD JESUS CHRIST BLESS YOU IN EACH SECONDS OF YOUR LIFE..!!!",
+        "commentId": "gp:AOqpTOEK3OMRsKH08C07Hz3oKmQsuLSKV0ODSi6x1ESOS79IVgOdVMJEsb3VP1WC7e4sfp9A0nl67Issk0um1D8",
+        "author": "Prince Jobi",
+        "authorURL": "http://lh6.googleusercontent.com/-eSQ3jR51m1o/AAAAAAAAAAI/AAAAAAAAAFU/hPRkKQsW3QA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-eSQ3jR51m1o/AAAAAAAAAAI/AAAAAAAAAFU/hPRkKQsW3QA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1368702297970",
+        "starRating": "5",
+        "title": "Samsung GT-I9100G",
+        "comment": "This is really good with English & Malayalam interface at the same time. Please add an option to keep the screen on. Thumbs up to the dev.",
+        "commentId": "gp:AOqpTOFhLfXVLhm27qKmHBml6syH-9Cth9h3daM40t5UEY8osfxfd4g2-JgEpwPmPb9XmwqjbbTjpRNF36zO_IQ",
+        "author": "Lithin P. George",
+        "authorURL": "http://lh3.googleusercontent.com/-aBv9yKyX42M/AAAAAAAAAAI/AAAAAAAAAYQ/vbyuFpQ_OjA/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-aBv9yKyX42M/AAAAAAAAAAI/AAAAAAAAAYQ/vbyuFpQ_OjA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367299372075",
+        "starRating": "4",
+        "title": "Good can be better",
+        "comment": "The app working fine Samsung galaxy but in my Sony Xperia some text is missing and it is not fittings in the screen. I hope the developers will fix this issue. No alternatives apps for Malayalam bible so it deserves 5 star.",
+        "commentId": "gp:AOqpTOEfOyrl5F9bVaNe1zbDva62OtYKm-6JfU_ehh4WTR0Zp3hZo7-d7xu4krRI2zK3gjXWtACGRbtuLI7bpwo",
+        "author": "Benson cs",
+        "authorURL": "http://lh3.googleusercontent.com/-NWCfcPnd5ss/AAAAAAAAAAI/AAAAAAAAB20/N5exN2DRt3Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-NWCfcPnd5ss/AAAAAAAAAAI/AAAAAAAAB20/N5exN2DRt3Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1349890498518",
+        "starRating": "5",
+        "title": "Very very good...",
+        "comment": "Its a very good application.. A must need applicatin for a mallu.some of the portions are missing.but overall very nice application...love this..thanks...",
+        "commentId": "lg:AOqpTOGvuLTLeO26sVAnjqFXc12xMsUc5_5vAyRm9im-nZ6DDQgOMLpE2YspseCyMOdy7hX3csTDQw85zHDSdK0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378310190923",
+        "starRating": "4",
+        "title": "Good...",
+        "comment": "I would like to rank this app 4/5. Some of it\\'s fonts r missing, hence malayalam letters and signs are found in disorder. Word of God should b accurate, henc no gramatical or clerical errors r allowed on it. Makers kindly improve it....congrats",
+        "commentId": "gp:AOqpTOHnskQRy2egMvNKPnBF8t9RP6fiRIvKCpNCIiGaz5-jJwS67U3QRwzHYJK83Y6wXSFg5iYQ2AxUXvBxCKE",
+        "author": "Adv. Shaiju",
+        "authorURL": "http://lh5.googleusercontent.com/-lXDCFBl_hC0/AAAAAAAAAAI/AAAAAAAAAHY/JMlCNB681Ao/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lXDCFBl_hC0/AAAAAAAAAAI/AAAAAAAAAHY/JMlCNB681Ao/photo.jpg"
+      },
+      {
+        "timestampMsec": "1339920864184",
+        "starRating": "5",
+        "title": "Excellent Bible",
+        "comment": "I Love this application very much, it was also a reason to buy samsung galaxy. God bless your dear Jeesmon.",
+        "commentId": "lg:AOqpTOF5aCCVqdZyaey9qNLEyFc24MULoSpFpRsqISaeQyrlLBkivLi5V22Wpyc5eSG92gX7PY2rKk6lbmeqsoE",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349865914961",
+        "starRating": "4",
+        "title": "Works good. little change",
+        "comment": "Dear,  Good work. I am using this on Galaxy s2 and Tab 2 10.1.  In S2, it works perfect. No complaints.  But in Tab, many times the words are not wrapped or displayed full.  Since it is left aligned, the word has to be pushed to the next line, if there is no space for it. But it doesn\\342\\200\\231t happen in some cases. It is shown in the same line with the last 2-3 letters hidden.  Could you please fix it?  Thank you very much for the great work.",
+        "commentId": "lg:AOqpTOFQGN_1mlM8vOAw6FzFFdI8WhKiszuscTeyTKRbP5S2M7qQDePJ8O5Y77VmuZxBBVPv2zYhqa9cFX9whVc",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1360533324618",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "I love this app. Only one issue: a dotted circle appears before  vowels.  Can you please tell me how to get rid of these circles? Please write back to kayvarghese@yahoo.com. Thanks a lot.",
+        "commentId": "gp:AOqpTOHP2q38BezFfOk6joSHY1C3WxwL7lnquMgBwe6AC3gX9PZxJWZAYIgrz_tN0SIhXJwm4p1Fu_Ezk1QgHS0",
+        "author": "Varghese Kay",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1339851858860",
+        "starRating": "5",
+        "title": "Good one",
+        "comment": "Like it really a blessing 4 those who reads BIBLE.....",
+        "commentId": "lg:AOqpTOE8yW1ALiAOY7bL7TTQXLeBUz-ERdo5WTW_PwfHn1iK0spGmXFtci3RXF6P66yB3-t4Znx7cmPc6j6RpAQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Fly Fishing Encyclopedia",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jazz.flyfishingencyclopedia",
+  "category": "Sports",
+  "price": "Free",
+  "datePublished": "July 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Dick Wildblood",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jazz.flyfishingencyclopedia",
+  "extendedInfo": {
+    "installSize": "493k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Everything you wanted to know about fly fishing - but didn't know who to ask! Where, when and how to wet your fly. Why the fish do what they do and how you can take advantage. With articles, pictures, diagrams, image galleries, videos and maps this is the only teaching aid and reference source on fly fishing you will ever need! Rods, reels, lines, leaders, knots, accessories, bank fishing, boat fishing, casting, fly tying - it's all here!It took five years to write and present this work and now I offer it free so you can share all the tips and tricks I learned - tips and tricks which put fish in my bag and trophies on my shelf. This is NOT a game or a toy! But if you are serious about your fly fishing this is the app for you! Download it - explore it - share it with your friends. I guarantee you will find information in here which will leave you saying \"I never thought of that\"!Most people get out fly fishing once or twice a month if they are lucky and never have the time to discover the techniques I perfected over the years. This app will give you the edge and save you hours of frustration. After all, fly fishingâs meant to be fun... remember? I spent a lot of time and effort trying out different ideas so now you don't need to. I'll tell you how to recognize the best method for a particular time, season and weather conditions.There's are galleries of flies so you can see what it looks like when someone mentions a fly you haven't heard of before. There's a section to introduce you to fly tying and dressing - and I'll show you the only three flies you're ever likely to need. I developed them from other patterns and can honestly say that I caught many, many fish using them. I couldn't buy these flies in the shops at the time so I developed some easy ways to tie them for myself and I'll show you how to do that quickly and easily. I even got into the habit of tying up a few flies over a cup of coffee just before I went fishing. That's how easy they are!There are maps for major fly fishing countries containing a wealth of information about their fly fishing locations, including a picture of each site and important details such as names, addresses, telephone numbers and relevant websites. The information on these maps is constantly being updated to give you a great reference source for your next fly fishing adventure!There's even a section of recipes to help you work out what to do with your fish when you've caught it - everything from a quick snack to a formal dinner!And if you do find this App helpful please leave a comment to help others make up their minds! Tight Lines!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

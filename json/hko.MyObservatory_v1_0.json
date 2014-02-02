@@ -1,0 +1,252 @@
+{
+  "title": "MyObservatory (我的天文台)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=hko.MyObservatory_v1_0",
+  "category": "Weather",
+  "price": "Free",
+  "datePublished": "August 14, 2013",
+  "version": "3.0.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "7084",
+  "rating": "4.11773",
+  "contentRating": "Low Maturity",
+  "creator": "Hong Kong Observatory",
+  "creatorURL": "https://play.google.com/store/apps/details?id=hko.MyObservatory_v1_0",
+  "extendedInfo": {
+    "installSize": "6.3M",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "The MyObservatory mobile app was developed by the Observatory to enable members of the public access to the latest weather information anytime and anywhere.  The app provides personalized weather services, thereby allowing users to obtain the latest weather information specific to their locations.  The app also comes along with a suit of services from the Observatory such as 7-day forecast, forecast track for tropical cyclones, world major city forecasts, imageries for radar, satellite, lightning locations, etc.  By activating weather warning notification service, alert messages would be delivered to userâs smartphone automatically whenever there is any change in weather warning signals. The \"Location-based Rain Forecast\" service was recently introduced, through which users could easily get hold of the rainfall forecast in the coming two hours specific to their actual or selected location. Please note that:1. Although âMyObservatoryâ is a free application, user will be charged by their mobile network service provider on the user of data service. These charges can become very expensive on roaming. Please ensure that the option of âData Roamingâ have been disabled in the Settings of your Android.2. The estimated location provided by the mobile device may be deviated from your actual location. Meanwhile, owing to the dissimilarity in altitude and topography between your location and the reporting weather station, weather information displayed may be different from the actual conditions.3. Use of location-based rain forecast notification will increase the battery usage and data download.Should you have any queries, please email us at hkowm@hko.gov.hk",
+    "reviews": [
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1365814212748",
+        "starRating": "5",
+        "title": "Great !",
+        "comment": "If you look for HK weather, it is the right choice ! One minor thing I want to comment. Most weather apps use light and bright background colors, but this one uses black, which gives always a negative image about weather. Would recommend to use bright color.",
+        "commentId": "gp:AOqpTOEQsVk59E_I1Cgwuq1c6NS_iaEIoIa3bWSSffkwmvFWSAUb530nrb_Sz_OmHhm18Y8ylqKn8rZl_VnTX3U",
+        "author": "B. Kay Lee",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1365717406258",
+        "starRating": "4",
+        "title": "Good. Useful.",
+        "comment": "Thanks for fixing the problem for xperia z. Now working just fine! Keep up the good work!:-D",
+        "commentId": "gp:AOqpTOFYrBg7z8_POWahX6YRpuyvy_ej56TqnI5_XT0DqkrKuVEwSf_KPd24JcMHNgj0X3T68mS4YZ90EzXy-Xo",
+        "author": "Kin Lee",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1368113092401",
+        "starRating": "3",
+        "title": "no longer have widget",
+        "comment": "I liked this app since it had widget before.Every mornibg I can check weather conveniently. By after updating, widget is not available. very disappointed.",
+        "commentId": "gp:AOqpTOHCmyT25qd2d9MdKfO0EjEjN25P5W3YqfZomwC3K8JqEyQb5RE0i9fdVeOmG-b7MSxgKQXRFDZRJztnVCo",
+        "author": "Cathy Li",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1372743025587",
+        "starRating": "3",
+        "title": "Ok,  but",
+        "comment": "I have seen a lot of better weather apps,  with more user friendly UI. A better UI will be better for this app.",
+        "commentId": "gp:AOqpTOGNBZAcHcUsi53gXbZ6OEp8Jpd-ZKnbSWMr8dn5jnkVxKTTKxBnVndAS0vVYaguNR8K0Xa4IM53pz1Lyog",
+        "author": "Timothy Chan",
+        "authorURL": "http://lh5.googleusercontent.com/-lIKpVJNihPE/AAAAAAAAAAI/AAAAAAAAAUY/Y_jAbdMG4Wk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-lIKpVJNihPE/AAAAAAAAAAI/AAAAAAAAAUY/Y_jAbdMG4Wk/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1376453341227",
+        "starRating": "1",
+        "title": "Telemarketing issue",
+        "comment": "Why every time I check my weather with your apps, within 15 min I will get a telemarketing call from my cell?? Is your apps spying on me?? The only time won\\'t happen is when Typhoon signal 8 been issue, no soul is working, the telemarketing will stop.",
+        "commentId": "gp:AOqpTOHagSaPhGpCDgFFa2Z1zYRw40LYn9jvKhBNx3BQfiYiVov-Lw9W0N3AJMTZUcOtgOSa-6kb_O1YCElHTFE",
+        "author": "Lawrence P",
+        "authorURL": "http://lh4.googleusercontent.com/-5Bsd04zB_Mo/AAAAAAAAAAI/AAAAAAAAAMQ/CLQ-2uQ_mHw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-5Bsd04zB_Mo/AAAAAAAAAAI/AAAAAAAAAMQ/CLQ-2uQ_mHw/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1376456423365",
+        "starRating": "4",
+        "title": "Useful app but ugly design..",
+        "comment": "Really useful when you trying to know hk weather. But the UI really not gd. Try to use Holo theme. Anyway good weather app.",
+        "commentId": "gp:AOqpTOGjHnJ2uAzv1qSl-BLVI0Cp0GYncEJmA8HMYCfDXVvNz4l5QvdouvkmE_L5rIi_eIkMhFWmzeKFdARIAVA",
+        "author": "Alex Cheng",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1370350492140",
+        "starRating": "1",
+        "title": "Can somebody reply?",
+        "comment": "The apps force closed everytime I opened it recently.  Have tried to uninstall and reinstall but no success.  A number of error reports have been sent but it looks like nobody will reply and care about it. New HTC One",
+        "commentId": "gp:AOqpTOHVTspVASgHw4q1_YH04A65YuVZIfvZJEL_l4DLKn3-3qkBjiHmZ3RrqLRIpBqjHBHOkyKW6xvevujw1yk",
+        "author": "J Chung",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1368337344930",
+        "starRating": "1",
+        "title": "The slowest app ever written?",
+        "comment": "Super slow app. It can take more than a minute to start up once you tap the icon (1:05 in my case), and tapping anything after it finally starts running takes even longer -- 2 full minutes if I try tapping the \\\"weather tips\\\" icon. It takes less time to open the browser and just search for a forecast that way.",
+        "commentId": "gp:AOqpTOFl5-c1z39avhwtP7J-RNzTY1L3hBp4cr6yEpniAn4eqvWdblFPANXlH4SldFUOnDpBSejrt73ZHi1ayFI",
+        "author": "Gerald Tomyn",
+        "authorURL": "http://lh5.googleusercontent.com/-o3nibI9KSdk/AAAAAAAAAAI/AAAAAAAAABM/cFLdRhcCRSU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-o3nibI9KSdk/AAAAAAAAAAI/AAAAAAAAABM/cFLdRhcCRSU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1366689003709",
+        "starRating": "2",
+        "title": "Not working anymore",
+        "comment": "Widget with forecast used to work, now just keep showing update error. please fix. galaxy note user running on jelly beans",
+        "commentId": "gp:AOqpTOFtg0Yxj5JShsNMLrkOq8mu7UBms0Ef7EGJLn1YuTyXBGiCt9rcqnT3dMUL6t6Db7aYQ6--THRDWl8bUqo",
+        "author": "Bryan Chan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1369199961528",
+        "starRating": "4",
+        "title": "Any pop up notification?",
+        "comment": "It will be great if it can have pop up notification when typhoons signal and rainstorm warning signal is hosted",
+        "commentId": "gp:AOqpTOEskXr2Dew8E_UvIQl8guZ79AZE_ojePqkc9CzbtYnE_Iyn9Nm2bywT-ulOmxnG2YXWMtoU6lb3lygosJ4",
+        "author": "Winnie Lau Wing Yi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1374034667542",
+        "starRating": "4",
+        "title": "Good but can be better",
+        "comment": "Widget hangs occasionally, needs to work out some bugs. Android HTC One.",
+        "commentId": "gp:AOqpTOERRDCEozfnLCM032_LQjeUDPsEksOQPZTL_aD75eVtU3UDuhh5wBXg__r5QTH5bb1RpB4Cth_IJoAPBEk",
+        "author": "joel Lu",
+        "authorURL": "http://lh6.googleusercontent.com/-76zLiPFhFMU/AAAAAAAAAAI/AAAAAAAAAB4/tY9NB4XpBFU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-76zLiPFhFMU/AAAAAAAAAAI/AAAAAAAAAB4/tY9NB4XpBFU/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1372684472477",
+        "starRating": "3",
+        "title": "Needs better push notifcations",
+        "comment": "Uses a ton of battery just for weather notifcations. Needs to use Google Cloud Messaging to enable battery-efficient push notifications.",
+        "commentId": "gp:AOqpTOHUBasLOwjII3yyZi0eNaD3Ah_20JNxasKlrkoYfuOu7YTqf4MfP8nqu1MPlVIuBstXbo0PzzMdsKTd-4s",
+        "author": "Derek Chan",
+        "authorURL": "http://lh6.googleusercontent.com/-EhQEWqArbAA/AAAAAAAAAAI/AAAAAAAAFK0/E5OyTHJyuBA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-EhQEWqArbAA/AAAAAAAAAAI/AAAAAAAAFK0/E5OyTHJyuBA/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1376303982504",
+        "starRating": "5",
+        "comment": "Informative. Efficient to know current weather status and forecasts.",
+        "commentId": "gp:AOqpTOEpsuN49RW9m7eQg3DTCuge6u0M7KRBN0iLw4VBe23ksw_fMpAUNN60YiEacXMgVE66wa-JRdI6bk-f3NM",
+        "author": "may cho",
+        "authorURL": "http://lh3.googleusercontent.com/-UopMEfsVn2w/AAAAAAAAAAI/AAAAAAAAAAA/ycr0ZNStq20/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-UopMEfsVn2w/AAAAAAAAAAI/AAAAAAAAAAA/ycr0ZNStq20/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1370785317415",
+        "starRating": "5",
+        "title": "So great!!!",
+        "comment": "\\347\\224\\250\\345\\277\\203\\344\\271\\213\\344\\275\\234\\357\\274\\201update\\345\\244\\251\\346\\260\\243\\350\\263\\207\\346\\226\\231\\345\\244\\240\\345\\277\\253\\345\\217\\210\\346\\245\\265\\344\\271\\213\\350\\251\\263\\347\\233\\241\\357\\274\\214\\344\\273\\262\\346\\234\\211\\345\\245\\275\\345\\244\\232\\345\\257\\246\\347\\224\\250\\350\\263\\207\\350\\250\\212\\357\\274\\214\\346\\230\\257\\344\\275\\206\\345\\222\\201\\345\\220\\223\\351\\203\\275\\346\\234\\211\\346\\216\\222\\347\\235\\207\\343\\200\\201\\346\\234\\211\\346\\216\\222\\345\\255\\270\\357\\274\\201 like\\347\\210\\206\\357\\274\\214\\345\\257\\246\\350\\200\\214\\344\\270\\215\\350\\217\\257\\357\\274\\201",
+        "commentId": "gp:AOqpTOEBuDJuKb8s_0q8EQctZ4YVkdMoEbt5nRGmgfxNwUtfviRtaaLZ5L83SufwJVZhdKE07qhbHdicbPrBFlI",
+        "author": "Winter mui",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1371323597521",
+        "starRating": "3",
+        "title": "Needs a facelift",
+        "comment": "The interface is ugly and confusing. A redesign is desparately needed to conform itself to the holo design language. The 4 stars rating is given to the breath of info it has.",
+        "commentId": "gp:AOqpTOHwU7FPmg85-Q6OCjSzfOJ5UwJM4f_iLroBNAwXKd_N2xUpcypCvj9QCJaHDlT3Xvgzh6bWWOkHs4iWbIc",
+        "author": "Jack Lau",
+        "authorURL": "http://lh4.googleusercontent.com/-OK6dI3uohbE/AAAAAAAAAAI/AAAAAAAAC_w/mw-PPMniuzA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-OK6dI3uohbE/AAAAAAAAAAI/AAAAAAAAC_w/mw-PPMniuzA/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1372668322848",
+        "starRating": "4",
+        "title": "UI not good.",
+        "comment": "The UI looks bad.",
+        "commentId": "lg:AOqpTOG7rbBw-Ti6NT23xDKXCxkv2wTNTsUqnk-wUaASDxUORWKjojmEM-UcvVqbs7CroMFjO-rPsU_XKYB7upo",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1365815410185",
+        "starRating": "4",
+        "title": "Finally...",
+        "comment": "Finally supports full hd screen",
+        "commentId": "gp:AOqpTOHtXrZK_2Zt7sTi8cqTmjlcwC7tmgXhh0ixQE9uxFIcYSFMvX-aQ_mtpRHi9OnO0FSaZDZlU39IRsLrO2M",
+        "author": "Ruby Li",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1372666068132",
+        "starRating": "4",
+        "title": "Excellent",
+        "comment": "Nothing I can complain... Except the colo theme of the app. Just not attractive enough...",
+        "commentId": "lg:AOqpTOHLh2CzTBevOjMfsuXrHPO4DcN0VR4i1AiTpcOJUl-VGomnLJK1tM61JsnEt7NktpmKtYDzwY9lw4wAXVk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1375966989666",
+        "starRating": "4",
+        "title": "Very functional but a minus at the widget",
+        "comment": "Generally it\\'s very detailed, accurate and comprehensive. But, the current weather of the widget only remains in TST whenever I have been moving from HK to the NT. Can\\'t it locate my recent locaton?",
+        "commentId": "gp:AOqpTOHf8KeQc7dRqms2IGbYjJVhqoNu--kT3Yyo5BTl5hVacFgeYPEmGFus7dLkJQgeViGPyzeJOUvKWYMmR6U",
+        "author": "Jim Roar",
+        "authorURL": "http://lh6.googleusercontent.com/-gEvKx96yr3o/AAAAAAAAAAI/AAAAAAAAABY/3BvBmm44aQE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-gEvKx96yr3o/AAAAAAAAAAI/AAAAAAAAABY/3BvBmm44aQE/photo.jpg"
+      },
+      {
+        "documentVersion": "3.0.2",
+        "timestampMsec": "1368167608245",
+        "starRating": "4",
+        "title": "Great and helpful",
+        "comment": "I especially like the radar images, but the notification doesn\\'t work well on Meizu MX 2, can you look into it?",
+        "commentId": "gp:AOqpTOHcYc4S0GiMzR5oNZ7c8VGpRr8T0B2Ntf2UQHrou6mmFdQQ4pClyN-H70caVczVo_UNApJXSujS8wqnJGk",
+        "author": "CHUN NGAI, KELVIN Lee",
+        "authorURL": "http://lh4.googleusercontent.com/-KJaeVKmNR2o/AAAAAAAAAAI/AAAAAAAABCE/EiqrN5VM6Zo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-KJaeVKmNR2o/AAAAAAAAAAI/AAAAAAAABCE/EiqrN5VM6Zo/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

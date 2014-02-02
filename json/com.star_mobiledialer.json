@@ -1,0 +1,52 @@
+{
+  "title": "St-t Mobiledialer",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.star_mobiledialer",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "January 13, 2013",
+  "version": "0.03-02",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "4.142857",
+  "contentRating": "High Maturity",
+  "creator": "Starlighttelekom",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.star_mobiledialer",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Starlight Telekom has come up with \" SIP Client for Android (Voip)\" for android based Mobile phones. Android VOIP Mobile dialer lets the callers make VoIP calls through their standard Mobile phones. The Android Softphone is meant for service providers who can use this Softphone and get it integrated with their existing SIP servers. It works just like standard SIP app for Android i.e. it gets registered on the SIP server and then let the authentic caller makes calls. The biggest advantage that this Android voip provides is the huge base of potential customers who can now make calls using their standard mobile phones. The mobile phones need to be connected to the internet either through GPRS/EDGE/Wi-Fi/3G.Features:-    * Customized with company name / logo    * Unlimited user license    * SIP protocol support    * Making and receiving calls    * Codecs supported: g711,GSM,g722,speex, IlBC    * Phone Book (Synchronize with Phone Address Book)    * Call Log    * Call Status Indicator    * Save / Edit Username & Password    * Work with all standard SIP SoftSwitches    * Android  1.5, 1.6, 2.1, 2.2,2.3,3.0,3.1,3.2    * Silence Suppression    * Echo Cancellation    * Registration Timeout",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.PROCESS_OUTGOING_CALLS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.CALL_PRIVILEGED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_LOGS",
+      "android.permission.USE_SIP",
+      "android.permission.CONFIGURE_SIP",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

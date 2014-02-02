@@ -1,0 +1,30 @@
+{
+  "title": "THE CARNIVAL OF HORRORS",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jazanwild.foh4",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "April 12, 2013",
+  "version": "1.1.0",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "CARNIVAL COMICS",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jazanwild.foh4",
+  "extendedInfo": {
+    "installSize": "20M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "It's the 4TH and final book in the Funhouse Of Horrors Series:It's Halloween again my friends, the Funhouse has opened its doors. Jake Stone is all alone, except for the ghouls crawling beneath the floor.So many scares, so many haunts, so many unearthed fears. No wonder there's no light on, no candy in the bowl this year. Stone's sick of the horrors, he's sick of the ghosts, he's tired of penning them all down. So what's left to do, when you hate Halloween? Why, you send in the clown!!!! That's right Kiddos... in this final issue of the Funhouse of Horrors, the clown is sent in indeed. When Jake Stone \"Ghost Writer\" gets a mysterious letter (postmarked a lifetime ago) inviting our favorite paranormal investigator to look into strange happenings at a Carnival... suddenly a familiar painted face appears. You got it! Jexter and his entire Carnival of Souls make a surprise appearance! Trick or Treat! Two spooky worlds are about to meet... in this Carnival Of Souls / Funhouse Of Horrors cross-over! Get your ticket and Enter if You Dare!!! You for sure will be in for a good scare! Funhouse Of Horrorsâ¢CREATOR and WRITER: Jazan WildPENCILS and INKS: Rudy Vasquez Bonus Rock Track - \"DEAD MAN WALKING\"",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

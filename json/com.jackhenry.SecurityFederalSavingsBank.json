@@ -1,0 +1,53 @@
+{
+  "title": "SFSB Mobile Banking",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.SecurityFederalSavingsBank",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "August 5, 2013",
+  "version": "v2.1.5a1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Security Federal Savings Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.SecurityFederalSavingsBank",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Security Federal Mobile Banking is a smartphone solution that allows you to user your Android device to initiate routine transactions and conduct research anytime, from anywhere. Customers can view account balances and transaction history, view account alerts, initiate account transfers and pay bills (To pay a bill it must already be setup with your eBanking. You cannot setup new Bill Pay payees within the Security Federal Mobile Banking app).Security Federal Mobile Banking supports all account types including checking, CD's, Money Markets, Loans, and Line of Credits.Security Federal Mobile Banking service is a FREE* service that allows you to access youraccounts anytime, from anywhere, using your Android Device.eBanking access is required before using this Android(TM) App. Please be sure you areenrolled for eBanking and have setup the appropriate information for Mobile Banking.*There is no fee from Security Federal Savings Bank.Connectivity and usage rates may apply.Contact your wireless service provider for more details.Member FDIC - Equal Housing LenderAndroid is a trademark of Google Inc.",
+    "reviews": [
+      {
+        "documentVersion": "2.1.5",
+        "timestampMsec": "1374874431026",
+        "starRating": "5",
+        "title": "Great and easy",
+        "comment": "This app pretty much dies exactly what the website does. There are a few limitations like transfers and etc (which might have just changed with the newest update). Being able to check your accounts and transactions on the fly make this exactly what I needed.",
+        "commentId": "gp:AOqpTOGyOkTCiJ4pLJSb08heI0AD4k9-V33kWG5belGCeVhjjQX3JSxF7wT-Ehe2TYLGpKLRtgG778QUbsgMnB0",
+        "author": "Joshua Guilford",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369430347917",
+        "starRating": "1",
+        "title": "Cheaply put together",
+        "comment": "Just like their ebanking site, poorly designed and put together. My Nexus 7 cannot access any transactions, pay bills, or basically do anything. One star for being able to view accounts, that is all.",
+        "commentId": "gp:AOqpTOFO9hwLgkR_MtWpwBPFT6oGWFmVWsakCD4AdU0wmUaGgdjVIpCT5Dc1CDRXhOuHF_NP1BV32VUO2MRF-l0",
+        "author": "Stefan Calisto",
+        "authorURL": "http://lh4.googleusercontent.com/-F32vgvEgW34/AAAAAAAAAAI/AAAAAAAAAE0/Iy6a9VaJ71U/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-F32vgvEgW34/AAAAAAAAAAI/AAAAAAAAAE0/Iy6a9VaJ71U/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "com.jackhenry.SecurityFederalSavingsBank.permission.MAPS_RECEIVE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ]
+  }
+}

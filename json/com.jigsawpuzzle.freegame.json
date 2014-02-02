@@ -1,0 +1,56 @@
+{
+  "title": "Fast Food Sliding Puzzle Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jigsawpuzzle.freegame",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "June 18, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "24",
+  "rating": "4.4166665",
+  "contentRating": "Everyone",
+  "creator": "Fundoo apps centre",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jigsawpuzzle.freegame",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "The best sliding block game for a brain workout with cool attractive graphics. If you want  to have fun while doing some brain training then get this app now that too for free !!Move rows and columns up, down, left or right, and try to achieve the target figure. One block space is left empty for providing movement. Challenge yourself to solve levels faster every day and track your scores.A puzzle game that will provide you with a good time paas whenever you are hungry and want to have some delicious food. The beautiful images of fruits and foods of various types provides a visual treat and fast food nutrition.Features:-Four tempting fast food image puzzles to choose from-Orange, Strawberry, Indian Thali, Burger-Feature to select puzzle image from phone gallery as well .-Six exciting levels offered â 3x3.4x4,5x5, 6x6, 7x7 , 8x8.-You can chose which block position you want to leave empty in puzzle.-High scores and timings are saved for each level so that you can track your progress.-Option to switch game sounds on/off.-Works both in landscape and portrait mode.This addictive app is the perfect fitness exercise for the mind for kids as well as grownups.Playing this grid cube puzzle regularly will help you achieve victory in more difficult levels also. If you are bored of the classic puzzles like Rubics cube  etc then try our cool app and test your intelligence. You will love our clever puzzles since they stimulate  problem solving  no matter whatâs your age.The application has been tested extensively on various models of Samsung galaxy ace, Sony Xperia, HTC One V. The game is also designed for tablets and Samsung galaxy Note. The application works perfect on all mobiles and gives you a thrilling experience on tablets. No internet connectivity is required to play this game.If you like our app, share it with your friends and family through facebook, twitter, googleplus. Stay tuned with us as very soon we will be releasing puzzles and games.We hope you enjoy this funny Android application!!Tags: android app, crazy puzzle, unpuzzle, brain trainer , food puzzle ,",
+    "reviews": [
+      {
+        "timestampMsec": "1376069684620",
+        "starRating": "5",
+        "title": "Thank you!",
+        "comment": "I love all \\357\\273\\277the many kinds of slides and I hope that other people like me give it a try  its a enjoyable game",
+        "commentId": "gp:AOqpTOH-Fdh6mlht_NEUj8ZNAqMJHb6NPjI_226yzKyJNarMMTtgeBFnWr2YxzQFpgXXWYH7OGb4M1keZzOE9io",
+        "author": "Shirley Allen",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1354076842060",
+        "starRating": "5",
+        "comment": "Not to hard but fun",
+        "commentId": "lg:AOqpTOGKVdqxbg-oCKFYHmXKcnJINqKvz4VRxrfS_SJA4WtoO29VZ62Co4bg3ewz1-fKNTfElxmcHmljwAKd_0g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364049121639",
+        "starRating": "5",
+        "title": "Rwdebugger",
+        "comment": "I lyk the way it slide..  Love this app >}",
+        "commentId": "gp:AOqpTOFtUxO2udmU2GHTtFCY3bVvusFJN9C2JhsUapPfkNW5fH-quoctPKvhhqCNMxLuHChCOQY-KzU0X529HiE",
+        "author": "Pankaj Sharma",
+        "authorURL": "http://lh6.googleusercontent.com/-xLFU_N4L3hU/AAAAAAAAAAI/AAAAAAAAADs/_v40UOzZR9Q/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-xLFU_N4L3hU/AAAAAAAAAAI/AAAAAAAAADs/_v40UOzZR9Q/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

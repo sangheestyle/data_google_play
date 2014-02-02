@@ -1,0 +1,39 @@
+{
+  "title": "IDEAdna",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ANDRUDES1",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "May 1, 2011",
+  "version": "1.0.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "Andrudes Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ANDRUDES1",
+  "extendedInfo": {
+    "installSize": "961k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Don't Neglect Your Dreams...As history reminds us, business empires can start on the back of a napkin. Think what you could do with our IDEAdna app leveraging your touch sensitive, internet browsing, image capturing, finance tallying, multi-tasking beast of an Android device. It staggers (and inspires) the imagination !IDEAdna empowers you to take advantage of your moments of inspiration, whenever and wherever they happen. No longer must the fine details of your flashes of brilliance get lost on the way back to your \"workstation\". The WORLD is your workstation as long as you have your Android device, and IDEAdna.Maintaining the clarity of your ideas is CRUCIAL whether it's just over night, or over the years. Not to mention that every specific detail you record when inspired helps to recreate that inspiration when it's time to execute on the idea. That is the reason IDEAdna is designed to enable you to record notes, a quick sketch, a camera image, financial detail, and an internet artifact FOR EACH TASK THAT MAKES UP YOUR IDEA. You may not need all of that multi-media detail for every task, but isn't it nice to know it's there ?",
+    "reviews": [
+      {
+        "documentVersion": "1.0.3",
+        "timestampMsec": "1304717850825",
+        "starRating": "5",
+        "comment": "Great app for planning and long or short term investing plus no account needed",
+        "commentId": "lg:AOqpTOFXbmoT_o8ssTUxYQYllq3Osl_nLdDkOpnFf09ZTBa-_aEp8y7NL6Y_TxrumIovoLdFMW9JryOUmp0cH8Q",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Sense Analog Digital Clock",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jamarfresh.android",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "March 13, 2013",
+  "version": "2.0",
+  "operatingSystems": "2.3.3 and up",
+  "ratingsCount": "4",
+  "rating": "3.25",
+  "contentRating": "Everyone",
+  "creator": "AndroidGenie",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jamarfresh.android",
+  "extendedInfo": {
+    "installSize": "173k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Sense Analog Digital Clock widget with Calendar, Time, System info,weather & forecastSense cross Analog style clock,size 4x2A Digital Clock widget with size 4x2It features:============140 skins12/24 hour + Color choice on all info displayedSystem Stats Info + pop-upMoon phase iconWeather & Forecast2 Weather layouts on clock(user choice)2 Forecast layouts(user choice)Sunrise/Suntime times and calculationsInteractivity=============+tap bottom right->preferences+tap bottom left->system information dialog+tap weather icon->forecast+tap Hour->launch anything!+tap Minutes->launch anything!Widgets General===============Widgets on Android work a bit differently than a normal application. Unlike regular programs they don't just install themselves in the application tray so you have to add them manually. They will not open or launch.Here's how to add a widget on your Android home screen.STEPS HOW TO ADD A WIDGET==========================1.On your Android home screen, tap any blank or âemptyâ area with size 4x2 and hold down your finger.2.An âAdd to Home screenâ window will pop up. From that window, tap âWidgetsâ.3.Youâll be presented with a list of all the installed Widgets on your Android device.4.Select the \"3D Digital Weather Clockâ to add to your home screen by tapping it.Steps how to add a widget (ICS Android 4.0) ==========================================On any Home screen, touch the All Apps icon located in the center of the Favorites tray. Then select the Widgets tab and touch & hold a widget.Drag and drop the widget on a screen with empty space.If the widget is not visible under the widgets tab in the application drawer,restart your phone and it will appear. under the tab widgets. Touch & hold a widget, then drag and drop it on a screen with empty space.Notes=====\"Time frozen/not updating\"-> taskiller killed the clock(exclude it from taskillers)When phone starts, clock starts in less than a min too.ROM users-> make sure the clock is NOT moved on SD card.Widgets are not supposed to be on SD card. Move it back to the phone storage.Weather hint: For world destinations with two words in the name, type in the box the words with a plus sign.For example \"Buenos Aires\" type \"Buenos+Aires\",remember the \"+\" sign -no spaces, don't include the quotes.Email problems/suggestionsCheck our website for more help.EXCLUDE IT FROM TASKILLERS!!!Be polite, this is a free app :-)",
+    "reviews": [
+      {
+        "timestampMsec": "1378377187046",
+        "starRating": "1",
+        "comment": "Wont install",
+        "commentId": "gp:AOqpTOGDd3u-NERwkWzDDx0N0lgsj1ztpO6O_ARBeZGHlsmIhqkFQUvf61WNJugB6vRDfbAC_R3N830q9u1EBlw",
+        "author": "Gareth Owen",
+        "authorURL": "http://lh6.googleusercontent.com/-hhT4JtAwuUs/AAAAAAAAAAI/AAAAAAAAKDI/IUTLqjPSHBM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-hhT4JtAwuUs/AAAAAAAAAAI/AAAAAAAAKDI/IUTLqjPSHBM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362817085587",
+        "starRating": "5",
+        "title": "Great clock",
+        "comment": "Clock works great :-)",
+        "commentId": "gp:AOqpTOHtWBHzqcpbBFn94qq9QpVJwEf8VJaNItNh_GS0-IHsLV7Igt_FW06g6L4B0-6Y-L4FZ_U3VXef-GvXpLY",
+        "author": "Dana Davis",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ]
+  }
+}

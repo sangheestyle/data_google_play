@@ -1,0 +1,53 @@
+{
+  "title": "Strange Brew",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=arbitragemobile.StrangeBrew",
+  "category": "Social",
+  "price": "Free",
+  "datePublished": "May 16, 2012",
+  "version": "1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Arbitrage Mobile",
+  "creatorURL": "https://play.google.com/store/apps/details?id=arbitragemobile.StrangeBrew",
+  "extendedInfo": {
+    "installSize": "884k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Strange Brewing Company is the realization of a dream shared by two out-of-work IT Techs, John Fletcher and Tim Myers. Two avid homebrewers, John and Tim had worked together at the Rocky Mountain News before that newspaper closed in February, 2009. Suddenly unemployed, they needed a Plan B. So with their combined retirement savings, Tim's and John's homebrew recipes, and Tim's 20-gallon homebrew equipment, they set out to open Strange Brew. John started homebrewing small batches in his kitchen in 1989. Most batches were three gallons at a time, allowing John to try many recipes and improve on them. Tim's first batch was for his wedding in 1997. After his third batch boiled over and flooded the kitchen, Tim was moved to the back deck. A chance encounter with a CraigsList ad in December 2005 for a professional brew sculpture lit the flame that eventually became Strange Brew. Strange Brewing Company opened on May 19th, 2010, as a one-barrel microbrewery. Starting out small allowed John and Tim to focus more on the recipes than on running and building a small business. Brewing one barrel at a time allowed them to experiment and tweak, refining recipes for the day when a larger brew system would be employed. This is our app! *Be social and chat about our brewery while you enjoy our beers! *Check out a description of all our beers *Stay up-to-date with our latest events *Read about our press *Check out what everyone is saying about us on Twitter",
+    "reviews": [
+      {
+        "timestampMsec": "1345314630575",
+        "starRating": "5",
+        "title": "Best brewery in colorado",
+        "comment": "Their beers continue to amaze and the staff and atmosphere rock!",
+        "commentId": "lg:AOqpTOFwisUvlVQduJaSkjBQcCYWy2yta8TDtN0JO6pQLO0yF5BY_sMwHg3kJEe12TxIdbQWBGp2Ct53DbKUwQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_SMS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_CALL_LOG"
+    ]
+  }
+}

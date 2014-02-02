@@ -1,0 +1,69 @@
+{
+  "title": "Minecraft Fan App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.holic.minecraft",
+  "category": "Entertainment",
+  "price": "Free",
+  "datePublished": "July 27, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "8",
+  "rating": "4.5",
+  "contentRating": "Everyone",
+  "creator": "isiralane",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.holic.minecraft",
+  "extendedInfo": {
+    "installSize": "5.8M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Minecraft is a sandbox indie game originally created by Swedish programmer Markus \"Notch\" Persson and later developed and published by Mojang. It was publicly released for the PC on May 17, 2009, as a developmental alpha version and, after gradual updates, was published as a full release version on November 18, 2011. A version for Android was released a month earlier on October 7, and an iOS version was released on November 17, 2011. On May 9, 2012, the game was released on Xbox 360 as an Xbox Live Arcade game, co-developed by 4J Studios. All versions of Minecraft receive periodic updates.The creation and building aspects of Minecraft allow players to build constructions out of textured cubes in a 3D procedurally generated world. Other activities in the game include exploration, gathering resources, crafting, and combat. Gameplay in its commercial release has two principal modes: survival, which requires players to acquire resources and maintain their health and hunger; and creative, where players have an unlimited supply of resources, the ability to fly, and no health or hunger. A third gameplay mode named hardcore is the same as survival, differing only in difficulty; it is set to hardest setting and respawning is disabled, forcing players to delete their words upon death.Credit : This is NOT an official but a fan made app. All the logos, trademarks and sources are the properties of their respective owners. We do not endorse in hosting or supporting the channel. If there is any issue, kindly send us an email with full details The content provided in this app is hosted by YouTube and is available in public domain. We do not upload any videos to YouTube. This app is just an organized way to browse and view these YouTube Videos to make it convenient for you, to watch videos,photo and news without browsing in YouTube, flickr and any search engine.",
+    "reviews": [
+      {
+        "timestampMsec": "1377331166831",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Graphic so perfect #lies",
+        "commentId": "gp:AOqpTOEUQSSTv0ikuWZCAvK0PhPRr2Yaw0pm7t3sUu46LrDm3Z5r6yFTjvM8kS1VJ8tM08VMyXBHR5ne0isQA2M",
+        "author": "Satria Resdiana",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1377883480223",
+        "starRating": "5",
+        "title": "Even better than perfect",
+        "comment": "The best fan app for a guy who really loves this game and played it all summer",
+        "commentId": "gp:AOqpTOHf61YPJtXsgtMo4XFA1RJ4bHxJ4amzK3KR4ATpLuEhWtGDzE6bPiRjF90Qkc1TFOlmsujWhJWq68TDRZw",
+        "author": "Zein Zreik",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375879888676",
+        "starRating": "1",
+        "title": "Wont work",
+        "comment": "This pile of rubbish wont tell me where i can play it",
+        "commentId": "gp:AOqpTOGSJpzMLtckQ01cdV9zsttYUEUdDYGf2TmstULUsKDlaCWhVoqCsEIIJEb0_QDRBv-ExkQ7Sn3LzkT9t9I",
+        "author": "Andrew Stewart",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1375737716380",
+        "starRating": "5",
+        "title": "Awesomeness",
+        "comment": "Wow",
+        "commentId": "gp:AOqpTOEAXw4IqLJ8OVOTgENXC8y2Fn5Pj2W3oRrexmzJ_tABw4h0rvyg2KWlg70a4haLTLMY4BvTn_Pd-OQpsrs",
+        "author": "Nate Bell",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.holic.minecraft.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ]
+  }
+}

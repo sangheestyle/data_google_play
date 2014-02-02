@@ -1,0 +1,68 @@
+{
+  "title": "Vitamins for Wellness",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mobyi.VitaminsWellness",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 5, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "6",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Mobyi Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mobyi.VitaminsWellness",
+  "extendedInfo": {
+    "installSize": "474k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The body needs a minimum amount of vitamins and minerals each day to remain healthy and function properly. A balanced diet normally supplies sufficient vitamins. However, serious disorders can still develop if the diet does not meet your body's needs. Symptoms of a deficiency in vitamins and minerals usually appear when the lack is already in a relatively advanced level. The common causes of these vitamin deficiencies include poor eating habits, alcoholism, emotional stress, the improper absorption of vitamins and minerals (usually due to liver or intestinal disorders), the intake of medicines that interfere with the ingestion of vitamins and lack of exposure to sunlight. If you constantly feel sluggish and suffer from chronic health-related inconveniences, you might be short of the vitamins your body needs to function properly.Vitamins for Wellness application provide you best information for all types of vitamins. It will realize you the importance of vitamins for living good life.************Features************1) Great list of Vitamins for Wellness2) User Friendly Navigation3) Email any tip to your friends and relatives.4) No Internet connection required to read Vitamins for wellness tips.",
+    "reviews": [
+      {
+        "timestampMsec": "1372959328072",
+        "starRating": "2",
+        "title": "Good information but...",
+        "comment": "Hardly a \\\"complete\\\" guide. There was a small list of \\\"popular vitamins\\\" and good info. given on those but no ability to search for others. Fish Oil wasn\\'t even on there and I\\'m pretty sure that\\'s a popular one. Maybe it\\'s a work in progress??",
+        "commentId": "gp:AOqpTOFydzWIQ7vojgx5sGbUb1war6wIfnBbbgwlyOtCHy8ksJTonG_xVfKkL6Xv7fhehRdlvuSENrQ4VXtJPRE",
+        "author": "Sara Pope",
+        "authorURL": "http://lh5.googleusercontent.com/-7IvehZxjlZo/AAAAAAAAAAI/AAAAAAAAADY/67HDqIvYlSw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-7IvehZxjlZo/AAAAAAAAAAI/AAAAAAAAADY/67HDqIvYlSw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373045678708",
+        "starRating": "5",
+        "title": "Xperia S",
+        "comment": "Good and valuable feedback",
+        "commentId": "gp:AOqpTOGphJxfnJ6OzZ9QIv5jvHOryM6I1czVNINPv0Dj0O9fvDE2uc7gS3hcN5ync7sZJL4rmidERYDRzgC6qaw",
+        "author": "Chaand DeepBlue",
+        "authorURL": "http://lh3.googleusercontent.com/-65U_MFNrXl0/AAAAAAAAAAI/AAAAAAAAFkc/J9tKCNPIyfg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-65U_MFNrXl0/AAAAAAAAAAI/AAAAAAAAFkc/J9tKCNPIyfg/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360730665039",
+        "starRating": "5",
+        "comment": "Great!",
+        "commentId": "gp:AOqpTOGkWLUT__p1XA96KYjEyqsInP7xes50sUMNOxZqnom-H-fQcuFCo_WmlZS1SOvs-GQg1SWv1TUf31MyI90",
+        "author": "Macie Sinclair",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1364500376592",
+        "starRating": "5",
+        "title": "Great little app",
+        "comment": "Very useful for reference and well set out.",
+        "commentId": "gp:AOqpTOEp7vv0OsGN4knGm1JBDd80Gy_pq8HhFoiDceaxtGulnDatWD5s9NzKReBMFa3ASnxtMrUSZaT7p_SdS9M",
+        "author": "Michelle H",
+        "authorURL": "http://lh3.googleusercontent.com/-ni-ce7SY_uM/AAAAAAAAAAI/AAAAAAAAACc/z73lw5ub4aU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ni-ce7SY_uM/AAAAAAAAAAI/AAAAAAAAACc/z73lw5ub4aU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

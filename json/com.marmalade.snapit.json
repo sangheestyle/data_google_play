@@ -1,0 +1,45 @@
+{
+  "title": "Snap It!",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.marmalade.snapit",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "July 25, 2013",
+  "version": "1.4.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "5.0",
+  "contentRating": "Medium Maturity",
+  "creator": "Made with Marmalade",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.marmalade.snapit",
+  "extendedInfo": {
+    "installSize": "13M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Take photos, trade with your friends and win in Snap It! the picture puzzle game that you create!Use the camera on your smartphone or tablet and take photos of the world around you to send as clues to your friends in this fun guessing game.Challenge your friends in a match to decide the best puzzle photographer! You pick a word, then Snap It!  Your friend has to guess your word, then snaps their own photo to send back to you. Compete to see whoâs quickest, or work together as a team to see how many you and your friends can guess. Invite your friends to play, or choose a random opponent to trade photos with anywhere in the world!Unleash your creativity, photograph the world, play Snap It!Features:- Snap with Friends â Play solo, go online with friends, use Facebook or challenge a random partner- Super Challenges â Can you take a good picture in the dark, or guess an extra-hard word thatâs been through a sci-fi distortion field?- Build your Reputation â get feedback from other players on your pictures and comment on theirs!- Photo Famous - Share your best pictures with the Snap It! Community. You never know whoâs puzzling your pictures!",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SET_ORIENTATION",
+      "android.permission.DEVICE_POWER",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "com.android.vending.CHECK_LICENSE",
+      "com.android.vending.BILLING",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.marmalade.snapit.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

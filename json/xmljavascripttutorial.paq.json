@@ -1,0 +1,72 @@
+{
+  "title": "XML JAVASCRIPT",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=xmljavascripttutorial.paq",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "September 3, 2013",
+  "version": "3.3",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "48",
+  "rating": "3.9791667",
+  "contentRating": "Low Maturity",
+  "creator": "Android mob",
+  "creatorURL": "https://play.google.com/store/apps/details?id=xmljavascripttutorial.paq",
+  "extendedInfo": {
+    "installSize": "103k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "XML is the language of choice for data exchange between web applications.JavaScript is a language widely used language in the web world, you can run tasks in our web browser.If your web browser asks XML data to a web server, you can use the JavaScript language to try and to show the user the XML received.The agenda of this manual XML JAVASCRIPT comprises:1.- XML HTTP REQUEST The XMLHTTPRequest object used to send and receive data from a web server using JAVASCRIPT.2.- XML ANALYZERAn XML parser is used to convert an XML file into an XML DOM object that can be manipulated in JAVASCRIPT3.- XML DOMXML DOM is a standard way of accessing and manipulating XML documents. 4.- External XML web ViewYou can display an external XML5.- Internal XML web ViewYou can also display an XML created in their own website 6.- XML HTML DATAWe can generate a web page with information from an XML file 7.- XML ProgramsTAGS: XML JAVASCRIPT TUTORIAL, LEARN XML JAVASCRIPT, XML TUTORIAL, LEARN DATA INTERCHANGE, XML DATA, LEARN XML.",
+    "reviews": [
+      {
+        "timestampMsec": "1351955371125",
+        "starRating": "1",
+        "title": "B-not Secure",
+        "comment": "Developer has caused the latest \\'update\\' to gather Location and Network Traffic Information.  This is App is a teaching tool if you realize that IT is suspect.  Decline update, remove App and research XML safely.",
+        "commentId": "lg:AOqpTOFGjxnPgc77jzxHnBA1zcqARE6WyzOXVmy6vyUafNVvZ79do_9_r6pze2SWrvf9W-z5nBWNkwjzoKt8r8c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378269593711",
+        "starRating": "5",
+        "title": "Uup cool",
+        "comment": "Yeo nice",
+        "commentId": "gp:AOqpTOHTDeR_2HvHgcLb2cdf9zu0KY4hQYrcVoS60X2eY7etnpmcOeJCPH2QaTghQwPC83C5SmcemLd27oCndrM",
+        "author": "Damon Winfrey",
+        "authorURL": "http://lh6.googleusercontent.com/-_UgZzUC0mpM/AAAAAAAAAAI/AAAAAAAAAC0/etddwq4pGQA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-_UgZzUC0mpM/AAAAAAAAAAI/AAAAAAAAAC0/etddwq4pGQA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1353929595019",
+        "starRating": "5",
+        "title": "BLAKE-VAIO",
+        "comment": "Excellent",
+        "commentId": "lg:AOqpTOH8dpHqXhPNvdBoAlfXn8D0nJiQDBqUeu1MdyH0BV_VckD8UFs5uZqlEsPNhGh__hns8FFiVis3YEun8Bw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369231505738",
+        "starRating": "5",
+        "title": "tierta putraclaloeCyanksahabat",
+        "comment": "Mudh dan sensasi",
+        "commentId": "gp:AOqpTOFYXNjZYgTTolIWCc40__TtpQbqZTSb0rIZroMxSxE97kKAKIYtCFIhk7nsDLsqARUOMlseCiEQtAQLSCg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366160922096",
+        "starRating": "5",
+        "title": "A+",
+        "comment": "Thumb up!",
+        "commentId": "lg:AOqpTOHlayJ5W0trJtFRfYUjhxYLzCpYGNbOulc3DEj5pD9fYC2EHG87NIZLXYhE9Ujd7RYhlx2p6-2ruDkH69c",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

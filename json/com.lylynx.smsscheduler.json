@@ -1,0 +1,233 @@
+{
+  "title": "SMS Scheduler",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.lylynx.smsscheduler",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "December 11, 2012",
+  "version": "Varies with device",
+  "operatingSystems": "Varies with device",
+  "ratingsCount": "3155",
+  "rating": "4.354992",
+  "contentRating": "Everyone",
+  "creator": "lylynx.com",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.lylynx.smsscheduler",
+  "extendedInfo": {
+    "installSize": "Varies with device",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "500,000 - 1,000,000",
+    "description": "SMS Scheduler is a simple tool for automatic sms messages sending with chosen frequency. Have you ever forgotten about sending your mother happy birthday wishes ? Has your love one ever wanted to break up with you after not getting any sweet nothings on your anniversary ? Have you ever hoped for tightening up relations with your business partners by sending them Christmas wishes? Now you can do it in advance and just don't trouble with it anymore.****** Main features ******* recipients can be typed in directly or selected from contacts* multiple recipients can be chosen * flexible scheduling system - you can send sms once, every 5 minutes, 15 minutes, every hour ... * sent sms messages are added to the proper conversation threads* status bar notifications are triggered for sent messages and delivery reports* history of sent and delivered messages is available****** USAGE ******On the main screen you see information about scheduled SMS messages dispatches. Every entry specifies recipients, dispatch frequency and date and time of next sms transmission. You can edit every entry just by clicking on it. To add a new entry use a button on the bottom of a main screen. You can specify as many recipients as you want just by separating numbers with a comma. Remember that to schedule a new sms dispatch you have to provide a phone number and a message - those fields are required. Also if you want to send a message only once choose \"Once\" as a frequency.To see a status of last 1000 sms dispatches and deliveries press Menu button on the main screen and choose History. Every entry in the list specifies a recipient, original date and time on which sms should be sent, real date and time on which sending or delivery occurs and status of the whole operation (\"Sent without problems\" or \"Successfully delivered\" means that everything went well).In the menu on the main screen you can also choose \"Preferences\" option which lets you enable/disable notifications and conversation threads insertion.Now please enjoy!",
+    "reviews": [
+      {
+        "timestampMsec": "1360582372824",
+        "starRating": "5",
+        "title": "Very good, Galaxy S3",
+        "comment": "Nice UI and nice looking GUI. App is simple and to the point. Pleased and impressed.",
+        "commentId": "gp:AOqpTOE7hxrBXXuWlmawedB4NCmboqodLAzOdbfIJliAsYmB19XWBLhRY6oj9cAKzElA5GJXzOqbhZDXFM0LzA",
+        "author": "Jesse Reed",
+        "authorURL": "http://lh5.googleusercontent.com/-z4JtllrXZD8/AAAAAAAAAAI/AAAAAAAAADM/wnKH7oWZL_8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-z4JtllrXZD8/AAAAAAAAAAI/AAAAAAAAADM/wnKH7oWZL_8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369429849028",
+        "starRating": "3",
+        "title": "It works... but",
+        "comment": "It keeps breaking up the texts into 2 messages when its got plenty of room to do it in one with the character limit.",
+        "commentId": "gp:AOqpTOE6kOFeGKif6d47yn-yHCL20CKxdGobAj2mymIvaLoxGBqpmdrbq_I73vN9g0GBIa_Nc3qL6qA5iA1AOw",
+        "author": "Brian Rogalski",
+        "authorURL": "http://lh5.googleusercontent.com/-f6UY1v1nW7g/AAAAAAAAAAI/AAAAAAAAABU/3sACsDa74Ag/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-f6UY1v1nW7g/AAAAAAAAAAI/AAAAAAAAABU/3sACsDa74Ag/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376277681991",
+        "starRating": "4",
+        "title": "Easy to use,",
+        "comment": "and does what it says:  choose a time, for the text to be sent.  Can even repeat.  BUT it has no \\\"move to SD card\\\", and my phone is short on space, so uninstalling. (Also note:  it has no \\\"exit\\\" function, so you have to use a task killer to get it out of memory.)",
+        "commentId": "gp:AOqpTOHeGOV7Dk2qn_tuLTjI6SJY1XuWEEVNIvaf2hm5DHjBYTPtVFUwULmdZSPemSApFqr1ApWxTWNVuCAyBQ",
+        "author": "Doug Ivison",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359103775818",
+        "starRating": "3",
+        "title": "Last update blows",
+        "comment": "Did the developers actually use the new UI? Everything works for me but the new UI is almost unusable.  HTC rezound.",
+        "commentId": "gp:AOqpTOGIxZcz3-Xj4Fk4YZyIC76WuAHyonLycMOSz9pvas1YA4JAu2jgbscqtzdBgl_HjDlqd0HftnuXxUROyQ",
+        "author": "Aaron Wignall",
+        "authorURL": "http://lh5.googleusercontent.com/-GGnEjPcbvfE/AAAAAAAAAAI/AAAAAAAACbg/Y7MPXgOYYz8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-GGnEjPcbvfE/AAAAAAAAAAI/AAAAAAAACbg/Y7MPXgOYYz8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1356977943575",
+        "starRating": "3",
+        "title": "Great App",
+        "comment": "This app needs is a random send time. be able to set random time to send a message between two set times. So that the recipient doesn\\'t receive the message the same time every day.",
+        "commentId": "gp:AOqpTOFkbq6PTHysr1-E2Rxq_x6T74p3y1y3L47kqFLVymp64fGUhJd3Awm9rH0U7pbeFwIbKrutBjAtqdeTsA",
+        "author": "Charles Bauer",
+        "authorURL": "http://lh4.googleusercontent.com/-GTbmacHLSM8/AAAAAAAAAAI/AAAAAAAAAU0/_ZRILp488gs/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-GTbmacHLSM8/AAAAAAAAAAI/AAAAAAAAAU0/_ZRILp488gs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377017138670",
+        "starRating": "1",
+        "title": "Am I doing something wrong?",
+        "comment": "I schedule the smses for the right time and it doesn\\'t send messages at all. This is very crucial for birthdays and anniversaries. Any workaround?",
+        "commentId": "gp:AOqpTOGxmDdKXfFiC3pE-u0qF4mIFDcLUgsJt4ubYObaNyvNqsdtDN0g1ameSaSo40-uZ7myNkLzBtqxZZW8Ow",
+        "author": "Chethan Rao",
+        "authorURL": "http://lh3.googleusercontent.com/-WaGhSZgvpyw/AAAAAAAAAAI/AAAAAAAAALk/skdVyQ8xdBk/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-WaGhSZgvpyw/AAAAAAAAAAI/AAAAAAAAALk/skdVyQ8xdBk/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370542353922",
+        "starRating": "1",
+        "title": "very much limited facilities",
+        "comment": "I installed this Applicaation. SMS can be scheduled to a maximum of ten receipients. The developers should enhance the application utilities with unlimited SMS scheduler facility. Even it is paid one can afford to buy  Provide unlimited SMS schduler facility to sent to unlimited recipients hassle free",
+        "commentId": "gp:AOqpTOEDdOO-LqhlJtdJrA_ccQtlPyyxJMWWz_IDzu2bD6jIgeVS9qj-35wXWZTWOVsovrdEQe3gTiGfPB5Rew",
+        "author": "Sudarshan S",
+        "authorURL": "http://lh3.googleusercontent.com/-v1lsFW9tpUc/AAAAAAAAAAI/AAAAAAAAAAA/koh0RDm3lrI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-v1lsFW9tpUc/AAAAAAAAAAI/AAAAAAAAAAA/koh0RDm3lrI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1355984954345",
+        "starRating": "1",
+        "title": "Not recommended",
+        "comment": "It is not reliable.. I kept two schedules and only one was sent that too half an hour late !",
+        "commentId": "gp:AOqpTOFzOOTBTf-YzpzP9Ku3H6hE-9H79mPpfYxBtIr3jDJaxfDEhIGQjYP-eV2l4faFssI4J1Hq-eRArNUX8g",
+        "author": "vijay varman",
+        "authorURL": "http://lh6.googleusercontent.com/-ydJIdkzYaxE/AAAAAAAAAAI/AAAAAAAAA74/9o4OPSDpazQ/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ydJIdkzYaxE/AAAAAAAAAAI/AAAAAAAAA74/9o4OPSDpazQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377804068500",
+        "starRating": "4",
+        "title": "Works perfectly, interface could be better",
+        "comment": "Please add something like how many times message should be sent aside from just once or assign time when to stop. Aside from that all is perfect!",
+        "commentId": "gp:AOqpTOEuafPfQBLWwwwgM4t6aoXyWSDLDYzWgaNi91gqkVaO-AuKF2Hn-0GCCgLXNWuVZQE3hiWvGKFTRPirOg",
+        "author": "Mark Mayo",
+        "authorURL": "http://lh5.googleusercontent.com/-QJICYICKfa4/AAAAAAAAAAI/AAAAAAAABQE/mybTf_h3Xrc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-QJICYICKfa4/AAAAAAAAAAI/AAAAAAAABQE/mybTf_h3Xrc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1360060582065",
+        "starRating": "1",
+        "title": "Default Timezone?",
+        "comment": "I scheduled an SMS for 10AM (IST). SMS Scheduler promptly sent it out at 7:30PM (IST). I suspect that it actually sent it out at 10AM at some other timezone, which is 9h30m behind IST. Couldn\\'t find any timezone setting inside the app menu. Anyone knows if the app defaults to some timezone without displaying it explicitly?",
+        "commentId": "gp:AOqpTOHpgue4c6MVfM0-aEhk4l7CQdB5lZ99niWq6HHhIYqI3z86LnU8fJpCLW-UWk92Elv32qWlCejDF5OLwg",
+        "author": "Ketharaman Swaminathan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1362139296955",
+        "starRating": "3",
+        "title": "what happened??",
+        "comment": "This app was working perfectly before the update.But now cannot schedule the sms. I mean it is not even adding the entries on my xperia sola",
+        "commentId": "gp:AOqpTOF2FeJGa1PgRhAcFV0tvhiDvuK7Lm5NEozJWaXKOgSMyDo3E10xvXgsdqkTBm-bdbRB6hC5cIw3cnC6mQ",
+        "author": "harsha kumar",
+        "authorURL": "http://lh5.googleusercontent.com/-NS7UBxrTGoc/AAAAAAAAAAI/AAAAAAAAAfg/3gHB-1Ft1Tc/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-NS7UBxrTGoc/AAAAAAAAAAI/AAAAAAAAAfg/3gHB-1Ft1Tc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1357498146132",
+        "starRating": "2",
+        "title": "Still 2012",
+        "comment": "Good app but Tried to schedule a message to be sent on new years day but Can not change the year. Still 2012. Please update this! I need this ap and i use it most of the time... Revise this please.",
+        "commentId": "gp:AOqpTOH9JFkrZFXw1uWz6rbr71c8zsuqCQNUVMdXLy2Lu7zRtWMT7ip_YeJgfffTuiemBzkVWe1KaVSRBZrpSg",
+        "author": "Camille Bayarcal",
+        "authorURL": "http://lh4.googleusercontent.com/-VLLwrXRBwfI/AAAAAAAAAAI/AAAAAAAAAwo/knmJw9TgJpI/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-VLLwrXRBwfI/AAAAAAAAAAI/AAAAAAAAAwo/knmJw9TgJpI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373004727578",
+        "starRating": "5",
+        "title": "Excellent app!",
+        "comment": "This app does exactly what it\\'s supposed to do.  It\\'s an excellent organizational tool.",
+        "commentId": "gp:AOqpTOEIweupOK4aKX5rIbZ1UUvvHst4DfX0xzz5DSmZwrbnIJ1_EPEYNsoeh-sdoiW1Q1-TxGmuIfooP33PXQ",
+        "author": "Ronald Walters",
+        "authorURL": "http://lh5.googleusercontent.com/-WHr4LQDk3Lg/AAAAAAAAAAI/AAAAAAAAAMM/8WWTHJ1JSoA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-WHr4LQDk3Lg/AAAAAAAAAAI/AAAAAAAAAMM/8WWTHJ1JSoA/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373301616270",
+        "starRating": "5",
+        "title": "Nice App",
+        "comment": "It\\'s An Usefull App And It Help\\'s me to Send Sms On Time..",
+        "commentId": "gp:AOqpTOG3_f_s4qaB0kbO5IJIzaqPoFGhqfxPZdWSlC4Aptawba0qWkk6xPVb-DwBZ3KWDGnd5F2XYUygaQxe0w",
+        "author": "Swapnil Waghmare",
+        "authorURL": "http://lh6.googleusercontent.com/-QDajgYpdCDU/AAAAAAAAAAI/AAAAAAAAACU/Sm1NAdWIZBY/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-QDajgYpdCDU/AAAAAAAAAAI/AAAAAAAAACU/Sm1NAdWIZBY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374141385644",
+        "starRating": "5",
+        "title": "Exactly what I needed",
+        "comment": "Free , simple app that does the job perfectly Thank you :)",
+        "commentId": "gp:AOqpTOF4av5A8IlelTAyolsj1OKHIyCuHaXlsUT2yxcOdvUvmlJP5EP_hYEkRP0jVA9Qf8TvDyoVViZdMYkfZg",
+        "author": "Moh\\'d m",
+        "authorURL": "http://lh6.googleusercontent.com/-bm_h3pTt94k/AAAAAAAAAAI/AAAAAAAAAD8/c8d6SeHVlb0/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-bm_h3pTt94k/AAAAAAAAAAI/AAAAAAAAAD8/c8d6SeHVlb0/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376895640997",
+        "starRating": "5",
+        "title": "Fantastic scheduling app",
+        "comment": "This is an amazing app.. I use it very often and am fully satisfied with it. However, it would be an icing on top of the cake if you could add another feature tht on roaming it sjouldnt fire any scheduled sms else there shud b an option while sceduling the sms to enable roaming messages or not. Plz add this in ur nxt release",
+        "commentId": "gp:AOqpTOHuUuN3UmCMALbCdywsLCxb5WfEe-9AWfWKMExInJWDggylESmb8dxarjSK5rEmZ2ZRFtITkOkqnOKHfw",
+        "author": "Gaurav Shrivastava",
+        "authorURL": "http://lh5.googleusercontent.com/-d5-4z7CPyI8/AAAAAAAAAAI/AAAAAAAAK9M/gT0jaM1lKII/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-d5-4z7CPyI8/AAAAAAAAAAI/AAAAAAAAK9M/gT0jaM1lKII/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374952137975",
+        "starRating": "4",
+        "title": "Asus Fonepad",
+        "comment": "How can i import? I see the csv using java datetime format.. can it be simpler like using understandable format like 28/07/2013 10:45 PM e.g",
+        "commentId": "gp:AOqpTOFM4WHwqpfQ1pQux1aSXfb0rOaLtd_7QBo5G-pmX-WlLljUcNPvfsQm-WU-9EQrHxGXVlkTR7ozbvwkHA",
+        "author": "Khamal Abdul Hamid",
+        "authorURL": "http://lh5.googleusercontent.com/-TFDlJS2phLA/AAAAAAAAAAI/AAAAAAAAABc/nvjsfijbgE8/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-TFDlJS2phLA/AAAAAAAAAAI/AAAAAAAAABc/nvjsfijbgE8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1369593705462",
+        "starRating": "5",
+        "title": "Samsung Galaxy S3",
+        "comment": "Really, excellent app. Superb to see that it is working properly. Must download app.",
+        "commentId": "gp:AOqpTOFdvHXtwTfxSt1vAFv2owmRIqcUlcwqn4jYeJpm43nEh6pBbWtaTR_GytXoTAlxErlt1UI1SKrmOmoj8g",
+        "author": "Akshay Tilgule",
+        "authorURL": "http://lh4.googleusercontent.com/-MsvViAStGrI/AAAAAAAAAAI/AAAAAAAAAKU/FUCxMUSHzL8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-MsvViAStGrI/AAAAAAAAAAI/AAAAAAAAAKU/FUCxMUSHzL8/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364163300414",
+        "starRating": "4",
+        "title": "Would pay",
+        "comment": "UI could be improved ie recipient selection, but otherwise great free tool. Would pay for an add free version.",
+        "commentId": "gp:AOqpTOH-G2GR65PLu4b9OOJHzx8m9uNsIOEL25oqOrf2AEcZi-Y9k-cbDjdeCqluKr_vXjfl4vi4RV57vjKtDQ",
+        "author": "Steve Bengree",
+        "authorURL": "http://lh6.googleusercontent.com/-HIB2cSWzlA4/AAAAAAAAAAI/AAAAAAAAAS8/UwHYSWBfDyo/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-HIB2cSWzlA4/AAAAAAAAAAI/AAAAAAAAAS8/UwHYSWBfDyo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1367199854271",
+        "starRating": "4",
+        "title": "Great app!",
+        "comment": "Does just what it says on the tin!   Would be great if you could expand the written text area to read all of the typed text before sending.",
+        "commentId": "gp:AOqpTOE6QTo_y5eOXN3Gl5RCQrgfG5jvVd9LIHYvbA79lZzitq9hrehxWPwbERId3o2jQXQurFYCiwXyDAwg-A",
+        "author": "Richard Jones",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SEND_SMS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SMS",
+      "android.permission.READ_SMS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

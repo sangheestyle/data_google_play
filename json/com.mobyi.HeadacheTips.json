@@ -1,0 +1,32 @@
+{
+  "title": "Prevent Headache",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.mobyi.HeadacheTips",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "February 1, 2013",
+  "version": "1.1",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Mobyi Apps",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.mobyi.HeadacheTips",
+  "extendedInfo": {
+    "installSize": "569k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A great many people in the world have at one point or another, experienced headaches. They may say that they have a migraine or a tension headache. Some people will experience headache problems due to their sinuses. While suffering from headaches is an annoying problem knowing the cause of headaches may help to prevent further attacks. Headaches can be caused by a variety of reasons. They can be simple problems like eyestrain to the sinus cavities being inflamed. They can also arise from life threatening conditions like encephalitis, brain cancer or cerebral aneurysms. Sometimes a head injury will also be the cause of headaches.These types of headaches are easy to find and treat. There are some headaches where the cause is some what elusive to diagnose immediately. Cluster headaches are one type of headache where the cause is a little difficult to state immediately. Cluster headaches are headaches that cause a sharp and very painful headache to the individual.The Application contains basic tips to prevent headache. There are quite a few headaches types that we must deal with in our lives and knowing what the cause of headaches is, can help us to avoid situations that may trigger such painful attacks.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

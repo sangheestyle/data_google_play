@@ -1,0 +1,65 @@
+{
+  "title": "Maze Madness",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jarbull.mazemadness",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "January 30, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.0.1 and up",
+  "ratingsCount": "37",
+  "rating": "4.0540543",
+  "contentRating": "Everyone",
+  "creator": "Jarbull Studios",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jarbull.mazemadness",
+  "extendedInfo": {
+    "installSize": "7.4M",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Use the accelerometer and guide your steel ball through this classic maze game. Try not to fall into holes and reach the finish hole to end the level. Gain awards and try to beat the level designer's time to be the fastest maze player. You can play a previous level over and over to master the maze.The controls are simple: you just tilt the device and the ball starts rolling. Keep the ball rolling and guide it without falling into holes to reach your goal. The realistic physics and sounds feels just like the real thing.Features:-Absolutely free-20 challenging levels-Wide difficulty range, from easy to very hard-Very realistic 3D graphics-Simple to play - hard to master-Time challenges for each level-Awards-Accelerometer supported gameplay-Works both on phones and tablets-Realistic soundsVISIT US: www.jarbull.comFOLLOW US: twitter.com/JarbullLIKE US: facebook.com/JarbullWATCH US: youtube.com/JarbullGamesKeywords: maze, madness, labyrinth, puzzle, classic, addictive, challenge, free, achievement, sanctuary, granniac, hidden files, tÃ¼rkiye, ankara, game, accelerometer, unity, 3d, ball,",
+    "reviews": [
+      {
+        "timestampMsec": "1350673365794",
+        "starRating": "3",
+        "title": "Ummm",
+        "comment": "It is pretty nice but not so good. I played the first one then uninstalled cause it is like a game from the old days",
+        "commentId": "lg:AOqpTOGhbksC0juXQ2TE0BMbL31griS2rrF7Bs2xbXLWd23z9LojWdN01bZSeeSOojh6suZhxWQQHDS4Xa_0xGA",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369028633336",
+        "starRating": "3",
+        "title": "Eh",
+        "comment": "On sansung phones it doesn\\'t vibrate which I think it should . Bury rhetoric graphics are quiet good . Good for phones not tablets .",
+        "commentId": "gp:AOqpTOHof_FWH27hE5L0UVIhjojIoXorES95WtmNUsP3VvAuucQUSpt0_dT9Bd7qOGBOtCqhu2JhUCsBjweHHXw",
+        "author": "Hannah Smith",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350679772396",
+        "starRating": "1",
+        "title": "Virus onfected",
+        "comment": "My AVG virus scanner detected a virus in this app and I immediately deleted.",
+        "commentId": "lg:AOqpTOFCW354cRi9tmflm-XPaO8_6gHJfeNIn_kdsuZomuceq2GXv7zRBYjaYwSDTLV3RbES-C5dR5vAS3K0k6Y",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1347580050428",
+        "starRating": "1",
+        "title": "Lisa",
+        "comment": "Lisa",
+        "commentId": "lg:AOqpTOGSGQMPjw348vS4w1KYxtJWquE1KfJQhmAWosCEe6gSIqmB1Hf9Av-zW6KFI8W8IugpeBuAqtO6-zV2iSk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

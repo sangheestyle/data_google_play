@@ -1,0 +1,39 @@
+{
+  "title": "Reboot Widget Pro (root)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jakar.rebootwidgetpro",
+  "category": "Tools",
+  "price": "$1.00",
+  "datePublished": "October 25, 2012",
+  "version": "1.2",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "9",
+  "rating": "4.5555553",
+  "contentRating": "Everyone",
+  "creator": "Jakar",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jakar.rebootwidgetpro",
+  "extendedInfo": {
+    "installSize": "148k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This app is a widget for your home screen. It works on rooted phones only. If you don't know what \"root\" is, then your phone is not rooted. You can check out my website android.jakar.co/rooting to find out about rooting.You can reboot into:â¢ Recovery Modeâ¢ Download Modeâ¢ Bootloader Modeor you can:â¢ Reboot Normallyâ¢ Power Off your phonePro version only:â¢ Ad Freeâ¢ \"Ask\" option, so that each time you click the widget you get an option of Recovery, Download Mode, Bootloader, Normal Reboot, or Power Off.Most phones use 'bootloader' mode, but some phones use 'download' mode. It is essentially the same thing, but you generally have one or the other.Note 1: This may not work for all phones because the methods to reboot are not \"supported\" by Google/Android.Note 2: If you try to do a reboot that your phone doesn't support, then it will likely just reboot normally. For example on a Samsung Captivate \"Reboot Bootloader\" just does a normal reboot.Note 3: If the app doesn't work, please do not give a bad rating. Just email me at support@jakar.co and let me know the issue and I will work to fix it.Note 4: This app has permissions that are used for ads in the free version. The permissions are not actually USED in this version, but they are still there because it is a replica of the free version. It makes development much simpler.",
+    "reviews": [
+      {
+        "timestampMsec": "1360709967435",
+        "starRating": "5",
+        "title": "Awesome app.",
+        "comment": "I installed this app becouse I needed a 4 way reboot menu for my rooted Samsung Galaxy S3 with a stock rom and no one had one. This app replaces the need to disassemble and recompile the stock files. Just install and you have 4 way reboot menu.",
+        "commentId": "gp:AOqpTOHQae8uU7T7HdpVgbY_2W4vt13wsYTbZCecIzuW3x_j1xoR5KafTOHBltxZvDufr4Dv61kLJiz6ZWS5rg",
+        "author": "Terry Lindsey",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

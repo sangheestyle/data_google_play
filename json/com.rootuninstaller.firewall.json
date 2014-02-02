@@ -1,0 +1,219 @@
+{
+  "title": "Root Firewall",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.rootuninstaller.firewall",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 21, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "822",
+  "rating": "3.922141",
+  "contentRating": "Everyone",
+  "creator": "Root Uninstaller",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.rootuninstaller.firewall",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This is the best choice to ad-blocking, prevent data over-billing, save battery life, as well as protect your privacyFeature:â Block Internet access for any apps: â Separate 3G and WiFi data â One-click widget enabledâ Test blocked app in a touchRequirementsâ Rooted devicesMore detailsâ Block Internet access for any apps: One can select to block a selected application or applications, application running as root. Since it blocks Internet access per application ID (UID in regular Linux system), several applications may be assigned the same ID, you should block all of them or nothing.â Separate 3G and WiFi dataFor each application, you can select to block Internet access via either 3G or WiFi channel. Itâ s extremely helpful if you donât have an unlimited data plan. It saves you from over-billing because of background application accessing Internet such as Google+, Google Play or Amazon Music.â One-click widget enabledOne-click widget is the easiest way to toggle blocking status. Itâs useful when you donât want to use data connection and occasionally turn it on for a while.â Test blocked app in a touchOnce you block an app, tap on it to see if the application can access to Internet or not.Facebook: https://www.facebook.com/pages/Root-Uninstaller/200912803368166Keyword: firewall, internet firewall, ad-blocker, url filter",
+    "reviews": [
+      {
+        "timestampMsec": "1370316737604",
+        "starRating": "5",
+        "title": "Just the best of all!",
+        "comment": "Very useful app if you need block adds in free apps accessing Internet. BUT! The Free version supports 7 apps only.BUt! More than I need... ALSO! Works very well.. OBVIUSLY ! Need root.. IMPORTANT INFO! For people this app not working >>> >>> it\\'s not this app, it is you dear friend!  TO DEVELOPERS!  This app has no an issue at all,works very well, no need for improvement at all. Thanks so much to all developers!  Good luck to all your apps. Regards!   Kayo",
+        "commentId": "gp:AOqpTOGjqP9TD2c6iP3yXbvDz-XJNY2ljCIrXVHYfSKzXKCjZIOJyc0UfWDazup2k22dcuN9NlA8ayTJJ8fTpQ",
+        "author": "Karol Zabelka",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372191603583",
+        "starRating": "1",
+        "title": "Horibble App",
+        "comment": "This app does not work on my rooted phone. I tested several apps after I blocked them with the pro version of this app. Plus  It caused my phone to freeze, after rebooting I uninstalled and the play store wouldn\\'t work because of connection problems when I never even blocked it with the app",
+        "commentId": "gp:AOqpTOGjJKNSt8TYGRCjlHZzG8DWqxZXKnOk28hpqvMfevB_yN7Vqb5HvNkzrpbYd_CS6YRLp8_7pbKnLnMI-Q",
+        "author": "Brach Hendrickson",
+        "authorURL": "http://lh3.googleusercontent.com/-uhmIDgX456w/AAAAAAAAAAI/AAAAAAAADX0/YA8AyBfwOyo/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-uhmIDgX456w/AAAAAAAAAAI/AAAAAAAADX0/YA8AyBfwOyo/photo.jpg"
+      },
+      {
+        "timestampMsec": "1375053290355",
+        "starRating": "3",
+        "title": "Very good but having widget problem",
+        "comment": "Software is very nice but when activating and deactivating with widget, my phone hangs.then i have to manually reboot my phone.one star less for that and one less for restricting only 7 apps in free version.",
+        "commentId": "gp:AOqpTOG0ftnVjCtnxdBdmlUm6yjUulFVqc4_4cEBPI79cR2h2NtW4QV3Gprz02MXv7_FjGE1p2S4QZ708bKj7g",
+        "author": "Rubal Sharma",
+        "authorURL": "http://lh4.googleusercontent.com/-zzG4hnBb0vA/AAAAAAAAAAI/AAAAAAAAAC8/CLDeJ0_tmUw/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-zzG4hnBb0vA/AAAAAAAAAAI/AAAAAAAAAC8/CLDeJ0_tmUw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1374860431834",
+        "starRating": "1",
+        "comment": "This is importand \\nI would like to use pro but the free one seem is not working on me, wont block even one aplication, so sad.",
+        "commentId": "lg:AOqpTOEvPUKc3f521QsSVCHVzEzF1XH6PDCV7yzPwGud6psOFT70hvWLlOYyVGk_EAIFjYDpW41mkdQA-V4DGg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373970637258",
+        "starRating": "3",
+        "title": "Free version sucks",
+        "comment": "It is too restrictive, app seems to be nice through",
+        "commentId": "gp:AOqpTOHWHFbAX8tjuejkuYD3K_jrpkqhKf3I3ILX13Oqvqmt64hzIAlRsVTP2Bvi8nY8zlPZDozydJKYpwgakw",
+        "author": "Tijs Maas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376564729909",
+        "starRating": "5",
+        "title": "[UID in regular linux system)",
+        "comment": "Hi I need help",
+        "commentId": "gp:AOqpTOEQHz6Vbx-GuhvAitH1gilunSpnj7mXI3bqNwJjN5jKhDFf16lkXYyrvpZv76t3WyLihBYcHaiwAxg3_Q",
+        "author": "Aboody Hassan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378227647064",
+        "starRating": "5",
+        "title": "Hey",
+        "comment": "Haven\\'t had a chance to try it out yet",
+        "commentId": "gp:AOqpTOHT-QDJNaJPDLEXYtSC90VIqLbgjCZVlMQ6x1KtSr4oVlXE9OunPO6rG0dyjs6H9PXGErxVjfphMdx-cA",
+        "author": "Faye Brown",
+        "authorURL": "http://lh3.googleusercontent.com/-3tWoY_anASc/AAAAAAAAAAI/AAAAAAAAABg/WZ8lJUZyU-I/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-3tWoY_anASc/AAAAAAAAAAI/AAAAAAAAABg/WZ8lJUZyU-I/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370670401010",
+        "starRating": "1",
+        "title": "Only 7 applications are allowed to edit.",
+        "comment": "Just limited version.",
+        "commentId": "gp:AOqpTOGbTsc7HhAlbe3ZNuP1Yp-A1EtNcvyTDpTcw8fvavLkFdei1Y_Kt7vu68m8iQwKMw1jHs9PqAjLFoI1lw",
+        "author": "lovenish garg",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373776584819",
+        "starRating": "3",
+        "comment": "well blah...",
+        "commentId": "lg:AOqpTOGltOTrjynb-zBohT2ePqEk8SkOEvjIwg2Yc0HgTca3LtdmQp2-tzaT_j5EbUOLW7X1XjzY1c81nGQ6jQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370075339626",
+        "starRating": "5",
+        "title": "Awesome",
+        "comment": "Awesome software",
+        "commentId": "gp:AOqpTOE6QIv3dwcWp1QFCzILmUkn42jbZmSfyBE9nAuZCiYxbJzhiuZ_7FLJaYScQdpMW0hpzilIaIKClLtbHg",
+        "author": "Ganesh Narayanan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363435611659",
+        "starRating": "3",
+        "title": "Used to be five star",
+        "comment": "Used to be able to block unlimited a ops but since a update can only do 7 gutter i used to love this blocker",
+        "commentId": "gp:AOqpTOFRB9g_heWwsvWrV1aHPZdUGjbGhQ5EswsK9Xq-prBDbiSallw4o4BKHywZ23pu_xH1666uh_9NFSYBEg",
+        "author": "John Brooks",
+        "authorURL": "http://lh3.googleusercontent.com/-rTb7yN0qN7A/AAAAAAAAAAI/AAAAAAAAAJw/klbjexshT_Y/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-rTb7yN0qN7A/AAAAAAAAAAI/AAAAAAAAAJw/klbjexshT_Y/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364395781753",
+        "starRating": "3",
+        "title": "ONLY 7 APP BLOCK",
+        "comment": "thumbs down ever since app provides only 7 / 8 application block",
+        "commentId": "gp:AOqpTOGRrQUyuf9j_j93U2kdiEt_mmTzMoLrKi-VDjS3S3qJzVJXhwpxLutBbNOe1dOTs22lvMJMBP3FFGB3Bw",
+        "author": "Saurabh Bhalla",
+        "authorURL": "http://lh4.googleusercontent.com/-1iwca9q8XJ8/AAAAAAAAAAI/AAAAAAAAEdU/ONg9rXL2mkY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-1iwca9q8XJ8/AAAAAAAAAAI/AAAAAAAAEdU/ONg9rXL2mkY/photo.jpg"
+      },
+      {
+        "timestampMsec": "1366136104177",
+        "starRating": "5",
+        "title": "Excellent app!!!!!!",
+        "comment": "Works great!!!",
+        "commentId": "gp:AOqpTOG9yWOL3pf-DkkLWZmIf0mAwZhYlpLpAhoWa287Pf7XDBK0YiAQD2OIfJyVP7LkJ_mgQFSayerjUXaqCQ",
+        "author": "Steve Barham",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368157090674",
+        "starRating": "5",
+        "title": "Good",
+        "comment": "Thanks",
+        "commentId": "gp:AOqpTOGl8ctLxbTRZTb8ft6McVqLyhiMxsVS-3o92JbwrSES4ScjoXFarTUVFq9VZ9WXHaLNaGfZsLxRkPaGww",
+        "author": "Berry Hadi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1359156666936",
+        "starRating": "3",
+        "title": "mr droid",
+        "comment": "its ok but there are certain apps that show up on tor client app list that dont show on the app blocking list in this firewall. they seem to be a crutial part of stopping android os hacks.",
+        "commentId": "gp:AOqpTOHV4tQ8up4APaug38I_TAeh1j-ZrUccUl9XS1xM_As3LpapvbmybjJ7CaVW0FjXeWsWCmCUQK_Op2rslg",
+        "author": "ninos binno",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1352474989377",
+        "starRating": "5",
+        "title": "Awesome App which I was looking",
+        "comment": "I searched to block apps accessing Internet and found this App. It\\'s Super cool and I rooted my Phone just to use this App. Recommended for Tech Savys. +1  -Venkatx5",
+        "commentId": "lg:AOqpTOGmLI55EMZcwkMv0xlsYQSR855FWClWqsjey9FJv-EEEc6ARqJf_LQMHwY2rDjWnQRHJiPM-EM5uZPT2g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350769961331",
+        "starRating": "4",
+        "title": "Blocks new apps",
+        "comment": "On my galaxy s2 if i download new apps the internet access is blocked unless i either restart phone it block and unblock with this app. Would prefer if this allowed apps by marking instead of blocked by marking. Or even better if i could add apps as they request internet access.",
+        "commentId": "lg:AOqpTOEVvZ2huP6rEG0Hsws9WKbs_-ntnl-Wy9ZD6lvWunmTvV_UOppm79QQGyXYPQFUvhsmRnqpmkNaLXsXfQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1351232420397",
+        "starRating": "2",
+        "title": "good concept but...",
+        "comment": "all applications are blocked whatever the selected applications, even after cleaning the data, and re-installing the application, it doesn\\'t work on my phone.",
+        "commentId": "lg:AOqpTOH54LzvbO05QlvgfyT6aNjwNkBB4XsuirYLjlVPGaZWOPo61pnw_RLl-Oq4skOIfxRz6XdT7eOfOPztUg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1345075360014",
+        "starRating": "4",
+        "title": "good app",
+        "comment": "someone wrote this is a copy of droidwall , thats rubbish , i\\'ve tried both and this is easier to configure and works better! works well for 2g/3g and wifi   , on alcatel with 2.3.5 , but needs to be converted to system app (by link2sd)",
+        "commentId": "lg:AOqpTOEG_Hxi5vqLsBujFj3zvMaD8ickImB1Fi9r1bLnwOptMgF7wiJJjDlfF1_BfOuaRE8kfX0A1SAWz7p06w",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1340198315599",
+        "starRating": "1",
+        "title": "FU",
+        "comment": "It\\'s just a copy of DroidWall, even messages and errors are the same.",
+        "commentId": "lg:AOqpTOEYrWahUVPsKAR8Zr2LQeaB7YkdJYMFoBLlNlXGt9Jm4UqXLFAckKGliff0Cx2fPVpNNxs7odAnxIm33A",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

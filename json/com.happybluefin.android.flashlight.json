@@ -1,0 +1,50 @@
+{
+  "title": "Simplest Flashlight",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.happybluefin.android.flashlight",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 4, 2013",
+  "version": "1.0.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "36",
+  "rating": "3.7777777",
+  "contentRating": "Everyone",
+  "creator": "HappyBluefin",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.happybluefin.android.flashlight",
+  "extendedInfo": {
+    "installSize": "749k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Use your device's camera flash as a torch.Simple and very useful flashlight app. The simplest and most practical flashlight app, helping you out of the dark in one second.Can't see the road clearly when you going home?Can't see the hole when you open the door?Get up to go to the bathroom at night?Things fall to the ground at cinema?Use me, the simplest flashlight app, only 500kb.Features:- Fastest startup.- Easy to use.- Optimization for battery lasting time.Flashlight app for your device! Incredibly simple and yet very useful flashlight application. Will use your device's camera flash as a torch.Uses your phone's camera flashlight to emit bright light. Note that some devices don't have a camera flashlight. In this case the led flashlight option will be disabled.Best Flashlight app when you need reliability, functionality, and lights diversitySimplest Flashlight is one of the few applications on the android market, which is free and has different widgets to choose from when the device has an option for a led flashlight. Recently Tested Flashlight Configurations:Samsung Galaxy S4 FlashlightMotorola DroidX FlashlightSamsung Galaxy S FlashlightMotorola Droid2 FlashlightSamsung Fascinate FlashlightSamsung Epic 4G FlashlightMotorola Droid FlashlightMotorola Defy FlashlightT-Mobile G2 FlashlightLG Optimus FlashlightLG Ally FlashlightSamsung Galaxy Note Flashlightcontact us: happybluefin@gmail.com",
+    "reviews": [
+      {
+        "documentVersion": "1.0.7",
+        "timestampMsec": "1368983992840",
+        "starRating": "5",
+        "comment": "Vishangajora",
+        "commentId": "gp:AOqpTOFyl7YxYyFZSErpOgbPniozMUg5JCR3Td8B5N1zD1vPTxZSHyAeQ9f6DpmQiwuo7FlZHVt_rlpzMvPkGA",
+        "author": "Vishan Gajora",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1369549185930",
+        "starRating": "5",
+        "title": "Latasha",
+        "comment": "Awesome",
+        "commentId": "gp:AOqpTOFS4b2PJKYMnBS0lB8kh2GlkkY-NQDvFj6KxscvHxI7wYAXYlbmHOYKeqQYqfmswg8hzCeFhJPhojCY7Q",
+        "author": "Latasha Ramphal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_LOGS"
+    ]
+  }
+}

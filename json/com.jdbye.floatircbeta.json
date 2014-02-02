@@ -1,0 +1,215 @@
+{
+  "title": "FloatIRC Beta - Floating Chat",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jdbye.floatircbeta",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "October 21, 2012",
+  "version": "0.25a",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "34",
+  "rating": "3.3235295",
+  "contentRating": "Everyone",
+  "creator": "Jdbye",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jdbye.floatircbeta",
+  "extendedInfo": {
+    "installSize": "494k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "The ONLY floating window IRC chat application for Android. Perfect for tablets!Chat on the go while reading email, browsing the web, watching a video or playing a game, like a real PC.Note: This application is still under heavy development, so there will be frequent updates and new features.For help and support, you can visit the IRC channel #floatirc on irc.stormbit.netNote: SSL option is not working yet!If you have any issues with the app, submit a bug report and email me before you rate the app, so I can try to help you. Features:  - Floating IRC windows that can be minimized to the notification tray.  - Supports multiple servers at once, each in their own window.  - Notifications on nick highlight.  - IRC color and formatting code support, including background colors.  - Multiple channels per window, easily switchable with a drop-down menu.  - Collapsible nicklist to maximize screen real estate.  - Default settings for new servers, making server setup quicker and easier.  - Automatic crash reporting, meaning most bugs should be fixed quickly. No personal information is collected.  - Auto-connect to servers on startup.  - Auto-join channels on connect.  - Auto-identify with services.  - And lots more!Permissions required:  - SYSTEM_ALERT_WINDOW: To display floating windows.  - INTERNET: Without this, the client wouldn't be very useful.  - ACCESS_NETWORK_STATE: To detect connectivity changes.  - READ_LOGS: To send crash reports. No logs from other apps or personal information is collected.  - READ_PHONE_STATE: To include the device ID in crash reports. No personal information is collected, this is only used in order to know which crashes are from the same device.",
+    "reviews": [
+      {
+        "timestampMsec": "1368155460166",
+        "starRating": "5",
+        "title": "Great idea",
+        "comment": "Cool concept, its not fully polished but its fast and i see potential. Features are great.",
+        "commentId": "gp:AOqpTOGhnTKve0Npi6Ysn0p7V_QShx92W18HTiM1PKPCaFrN40mu92BP2XE4HgowJiUE1pDEjP7cazgmX8-D2EI",
+        "author": "Yalda Kako",
+        "authorURL": "http://lh3.googleusercontent.com/-fm0mGpD7Gwc/AAAAAAAAAAI/AAAAAAAAAno/cQTCWfIm1mU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-fm0mGpD7Gwc/AAAAAAAAAAI/AAAAAAAAAno/cQTCWfIm1mU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1364133686895",
+        "starRating": "1",
+        "title": "Just won\\'t work.",
+        "comment": "I put the server info in,  same info works in AndChat,  but even after connecting I can\\'t join  any channels and I ping out soon after.",
+        "commentId": "gp:AOqpTOEekt9rZjChUo9zmpfndEPYDhffiJsFWUE5oLR7YL9tFIHJj5NjVUwj4aBq73Q7sBjIvrfhhRsw_DHpkqU",
+        "author": "Matthew Welch",
+        "authorURL": "http://lh5.googleusercontent.com/-0gBroV-krv4/AAAAAAAAAAI/AAAAAAAAGGQ/Pr3pnFQ0MjQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0gBroV-krv4/AAAAAAAAAAI/AAAAAAAAGGQ/Pr3pnFQ0MjQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376363858848",
+        "starRating": "5",
+        "title": "Almost perfect",
+        "comment": "Just needs an ad free version and a transparency option (like Ninja sms!  :D) others great app.  P.s. me thinks once its all squared away.. some users might want themes.. not me, I just want transparency..but some might",
+        "commentId": "gp:AOqpTOG8Yog9PJefK9-9J2s6yNpqDuRkdTKIHnrvR46rsM_I516rSAR48Xf2qMEAPnvQm8jzNgdJcReNyAYjCFw",
+        "author": "Emily Allard",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373040221955",
+        "starRating": "2",
+        "title": "Can\\'t join channels",
+        "comment": "I either cannot join channels or this doesn\\'t show them. Its a nice app but as it doesn\\'t seem to work its a bit useless hopefully it gets fixed soon :)",
+        "commentId": "gp:AOqpTOG9_Bo_CQV9NAQz_z5SzZ1vd59yNrimlfHa5Urek44FkO1VinE7AvYC_wxHeWEQwno5YQN7xy9F4uyBWUY",
+        "author": "Mike H",
+        "authorURL": "http://lh5.googleusercontent.com/--t7CK0K69xw/AAAAAAAAAAI/AAAAAAAAAW8/SPUuwIruGss/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/--t7CK0K69xw/AAAAAAAAAAI/AAAAAAAAAW8/SPUuwIruGss/photo.jpg"
+      },
+      {
+        "timestampMsec": "1350307263798",
+        "starRating": "3",
+        "title": "No SSL support",
+        "comment": "Can\\'t connect to any of my IRC bouncers as there is no option to accept an SSL connection",
+        "commentId": "lg:AOqpTOF6V_trIjtrK6eClvQc6IkkCqWfdjdFXoHy2wl6CmGyDTDk4NqhCN9o2XpHzWIngoGwzYxz0ftOel1uemw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349476108854",
+        "starRating": "5",
+        "title": "Great mobile IRC client!",
+        "comment": "This IRC client works remarkably well, and is the best IRC client out right now for Android. It has a few bugs and glitches, but that is to be expected for a beta.",
+        "commentId": "lg:AOqpTOG3Qlj8BeDQFoyFBT-Pt0oKdsdbOacHdn3dZFRUQqyLgE9o55nTlUGwMW6tt3XecgwQIFDeoWmWWC-VcNU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348205675759",
+        "starRating": "5",
+        "title": "Brilliant",
+        "comment": "A very special app, it may be in early days, but a real one to watch.",
+        "commentId": "lg:AOqpTOE5s70EfFcfW93XV7Zq3ybAher1X6AvjlqxoPtQGILki9xLVJ81y6qCLMOcU2Sc9XVoKELzF3MC6krLQS0",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348235449418",
+        "starRating": "5",
+        "title": "Excellent IRC Client!",
+        "comment": "This is almost like a full fledged desktop IRC client, and beats the competition. I\\'m surprised that this is listed as a beta because it\\'s perfect, even though it\\'s in its early stages. In my opinion, this is the best mobile IRC client right now. Minimalistic, easy on the eye - and most of all, simple to use. 5 stars!",
+        "commentId": "lg:AOqpTOGTUExumGkqckLT6JZEiK0HQYk_DBEh4gO3Bl73oCeoNuZETs6Pf0ZTYkiGmYCULsQslUt6PZGZmWSULdw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348181108439",
+        "starRating": "5",
+        "title": "already spectacular",
+        "comment": "Initial release is better than most irc apps I\\'ve ever used on mobile devices, and things are only gonna get better from here with this developer.",
+        "commentId": "lg:AOqpTOHJsusuE29rAGTGZL-lPKWZtBmRQ-8t40TyjDbfpoC9KlCtSNIl3PgDpliukexgnEbYdTc6P7dJioJWdMM",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348180630550",
+        "starRating": "5",
+        "title": "Superior.",
+        "comment": "I must say, I\\'m astonished at the rate in which this application has been developed. Only days ago, Jdbye had been talking about the lack of any floating IRC clients for Android, and since then he has built it up from scratch to it\\'s current state. For a beta, it\\'s as fully featured as anyone could ask for, indeed it certainly exceeds the quality of nearly every mobile IRC client I\\'ve ever used. However, I digress. Simply put, it\\'s a windowed IRC client for Android. One that can be run on top of (in parallel) to other applications. Needless to say this is a godsend for tablet users, who previously were forced to run painfully stretched (and yet still somehow cramped!) clients full-screen.  All basic IRC tasks are achieved, it can connect to multiple servers and join a multitude of channels on each. Every aspect of your IRC \\'identity\\' is configurable, et cetera. Rather surprisingly, it also includes complete colour support - something of a rarity on mobile platforms. Overall I cannot restate the sheer amount of flexibility and convenience that this application affords the end-user. Definitely recommended for usage, and knowing Jdbye\\'s track record, it can only get better. - Alex",
+        "commentId": "lg:AOqpTOFm3AUXBAZFntd_KkRzLHs165kxNvoIFwB88l8LsXerxWfo7_U4k1lnOxME8QWGoUNeRcUwsc7DEXwf_Rs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348235824076",
+        "starRating": "5",
+        "title": "The ONLY floating IRC client.",
+        "comment": "This is easily the most fully featured and intuitive IRC app available on android. I would love to see a full screen option though.",
+        "commentId": "lg:AOqpTOEcsORGoOWNNCX319VgZWI-CsB_lEPs0mevpFz5dHU2Tt06FzUMfcNQZNkTQECjKCXcGc2QZLcuVStk_Ic",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1348363433568",
+        "starRating": "1",
+        "comment": "Breaks with bouncers, FC on Nexus 7",
+        "commentId": "lg:AOqpTOFr4yQ61XEfQmsWL9aVjtWolkse7AlYM6NLyT8JhUbQ_THoE_L3r4xsRmTbHjTagGNDdTB3N-f6eJS7tOs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1368062170131",
+        "starRating": "2",
+        "title": "Won\\'t connect properly..",
+        "comment": "The client seems to \\'connect\\' to freenode, but just stays there after 3 lines of status. Usually, I\\'d get further and would be able to join a channel, but it doesn\\'t get there. At least in this version.",
+        "commentId": "gp:AOqpTOGMbEltDf58Mrvg5aNaOyIQtZx5qpTTIvcIoy1gSPsHOPboo_SkYuVn12N6mdyhYdk4lqU8n-gQdq56hfs",
+        "author": "Fr\\303\\251d\\303\\251ric v. Bochmann",
+        "authorURL": "http://lh6.googleusercontent.com/-P14sbP1Phro/AAAAAAAAAAI/AAAAAAAAAGc/Wt4oFA44EBc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-P14sbP1Phro/AAAAAAAAAAI/AAAAAAAAAGc/Wt4oFA44EBc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1348214392427",
+        "starRating": "5",
+        "title": "Glorious client",
+        "comment": "Great client with many features. I\\'ve recently changed to using this client and find it to be much easier to use than others.",
+        "commentId": "lg:AOqpTOHD4lUAkN4zRZDx9nMp4DpwZLn9a4DsPkrK0jcavsRbryX1y_8hFy9IJYbTLG7qhFhqeh1kEnNSA_P8HGg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349571953479",
+        "starRating": "4",
+        "title": "Needs SSL support",
+        "comment": "I need SSL support.  App looks nice.",
+        "commentId": "lg:AOqpTOGML2j-HsvDIMUnVMGBNd1t08svcWLe4A8JB82LWGaaQKPLtzf9o4g3p7zX9Lae27F_TCNZ-9JrPGLrU-I",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357791621827",
+        "starRating": "2",
+        "title": "Disconnects immediately",
+        "comment": "With some error about 127.0.0.1.",
+        "commentId": "gp:AOqpTOFY64_iqGObNMpMiogjMpxR2eDR3iGIMF-fg4dcvLwxJuXyrYI6KHBnnkhvPz4tbPMqADlw0-t7YIm_bz8",
+        "author": "ffolkes Sedneff",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1357655956608",
+        "starRating": "3",
+        "title": "Huh?",
+        "comment": "Pressing \\\"UP\\\" doesn\\'t go to what was previously sent!",
+        "commentId": "gp:AOqpTOEB2ae21O6-walunxwAwQ0kJ5hMvdMHVtjCEb4TFZ0pXFT_wUwC49mIGv2ua6PcGj1jtCwC0nkMBgGF--U",
+        "author": "chris allan",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1365961559399",
+        "starRating": "3",
+        "comment": "Would gladly pay to get rid of the ads.",
+        "commentId": "gp:AOqpTOE8KJHShZDUR2X_Y8WCTQf8DxTcoL-TbccsMx7NFEtjJ2Z2O2oAEZlDs-qnKqfa5QFZZ1wsnXHXHd4LSJo",
+        "author": "Marcus Ouimet",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373374292678",
+        "starRating": "2",
+        "title": "Not my cup of tea",
+        "comment": "Or coffee.... Or anything.",
+        "commentId": "gp:AOqpTOGOpRDYqbl7eZQn7zWNo8dwhqd7eNZiKFbIcSdRlswFeMQATftpsQY3-BrVLb-I02mLeEsuw8DjtLKUT58",
+        "author": "James von Veit",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1350729110462",
+        "starRating": "1",
+        "comment": "Won\\'t even open",
+        "commentId": "lg:AOqpTOHO0ol-3xRjoXRYV31aTyLLYd99whOcp8MZjqZljTesdPV2irXLWXVLPxLWDk9evtasqrqNsVl6gzAxdOk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "android.permission.READ_PHONE_STATE"
+    ]
+  }
+}

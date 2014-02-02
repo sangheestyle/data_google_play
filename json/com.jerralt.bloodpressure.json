@@ -1,0 +1,28 @@
+{
+  "title": "Track Your Blood Pressure",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jerralt.bloodpressure",
+  "category": "Medical",
+  "price": "$2.99",
+  "datePublished": "June 21, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "Gerald Adkins",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jerralt.bloodpressure",
+  "extendedInfo": {
+    "installSize": "123k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "Monitoring and tracking your blood pressure on a daily basis may be the only way that you know if your plan of medical treatment is working. High blood pressure may not have any symptoms, you may not feel any different and you may not know if your blood pressure is too high or not at your goal. Daily monitoring can let you know how youâre doing, give you peace of mind, and help you track your health over time.This tracker will allow you to record your blood pressure and pulse rate readings. You can take this record with you to consult with your health care provider, or easily email your record to yourself or your doctor.The Main display provides a summary of High, Low, and Average of your blood pressure readings and your pulse. Measurements are entered into the three text boxes marked Sys, Dia, and Pls for systolic and diastolic pressures, and pulse rate. All three values must be entered to complete the record. The current date and time is stored along with these three values. The display also provides a Detail Chart, Systolic Bar Graph, Diastolic Bar Graph, and Pulse Bar Graph. These views are displayed by long pressing the Main tab at the bottom of the screen. The ? button provides a reminder of how to navigate between these four views. The Edit tab navigates the app to a display allowing all recorded measurements to be changed or deleted. This tab is not accessible when there is no data currently recorded. All editing is accomplished using standard dialog boxes.The Mail tab provides the capability to email the content of the Detail Chart and data summary. The device being used must be configured for email for this operation. The user only has to enter an email address in the TO textbox and select the mail button.The Color tab allows a choice from twenty-six different color schemes. The selection is made by a simple tap of a radio button on the row of colors desired. This will change the background, borders, and text colors on all four screens of the application, with the exception of buttons and input text boxes.This application does not contain any advertisements.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

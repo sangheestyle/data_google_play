@@ -1,0 +1,35 @@
+{
+  "title": "Garden Tender Free Trial",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jennitron.gardentrial",
+  "category": "Lifestyle",
+  "price": "Free",
+  "datePublished": "April 4, 2013",
+  "version": "1.8",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "MakeThisApp, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jennitron.gardentrial",
+  "extendedInfo": {
+    "installSize": "2.2M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "This is a free trial version of the app Garden Tender.  You can experience the functions of the app, but cannot add or modify data in the free trial version.Manage all aspects of your garden with this app by logging expenses, work effort, plantings and harvest output. Clearly see the cost and effort you put in and the yield you get out. Yield is tracked by weight, value and quantity.  Easily navigate between screens to see plants, harvests and activity reports.Supports any size garden, any climate, any location, any growing cycle and any type of plant -- vegetables, fruits, flowers, herbs, perennials or annuals. Includes bar charts showing total yield or a daily history.Organize your plantings by garden and year. Record expenses, effort, notes or plantings per garden per year. Record harvest events and notes per plant. Any number of gardens, years, plants, harvest events, expenses or notes may be added. A ledger provides an expandable detailed or aggregated summary of activity.  Sort, search, view and edit events on the Notebook screen. Add or edit any type of plant, expense or work item. Copy plantings from one garden to another or from one year to another, especially useful at the start of the season.Perfect companion for organic growers or hobby farms -- or just one plant -- any size is supported. By tracking your work, costs and plantings, the reward of fresh, home-grown and hand-picked vegetables, fruit, flowers or herbs is much more rewarding.",
+    "reviews": [
+      {
+        "timestampMsec": "1366746091920",
+        "starRating": "5",
+        "comment": "Love this. Easy. Love that sample garden has everything in it so I could play with it first without doing all the data entry. Is there a way to also do data entry on computer for when u are doing lots?",
+        "commentId": "gp:AOqpTOHopLrbi9_H4hhh7qmow9lOOk_hMGilIqeC9jSs577GfjdzJ0lYJyMwtqdMnb7-v5EMUlgPxCSy2t_WbQ",
+        "author": "Molly Greenwood",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

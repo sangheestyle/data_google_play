@@ -1,0 +1,37 @@
+{
+  "title": "Search WiFi Hotspot",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.Search_WiFi_Hotspot_1207231",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "August 15, 2013",
+  "version": "4",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Everyone",
+  "creator": "UK HD Hot Video Team",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.Search_WiFi_Hotspot_1207231",
+  "extendedInfo": {
+    "installSize": "731k",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "With the application Search WiFi Hotspot,you could find the WiFi hotspot around .You could use this application to manage your WiFi easily.User Instructions:When you open the application,some information about your WiFi current status will be displayed on themain interface,such as WiFi name,configured WiFi.And some other WiFi will also be displayed below.The name,strength and security of WiFi could also bechecked.If you press the MENU button and you could get more operation.---Allow Clicking.If you enable this option,when you long press a WiFi again,it will allow you to connect,forget and even skipthis.---Clear WiFiDisassociate from any.Skip this.---New WiFiYou could add some new WiFi here.WiFi config.Enter Desired Scheme,SSID and select Encryption.Remember to record the information.---Express ModeThere are two express mode,including full mode and express mode.When you need to uninstall this application,you have to be careful.If you have activated this application,before uninstalling,please go to Settings first--> Location &Security--> Select administrator device-->choose this application to deactivate.Then follow the ordinary uninstall steps.If you don't activate this application,it is easier.Just install as usual.Download this application to your phone.Let it help you to manage  your WiFi.Please support us if you like this application Search WiFi Hotspot.You could rate it 5 stars and share it with your friends to support.++++++++++++++++++++++Attention Please+++++++++++++++++++++++This free application includes some notification ads or icon ads to support us to develop more greatapps,even buy us a cup of coffee.If you don't like ads,please just ignore them.No harm will be done!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Wi-Fi could be less secure than wired connections because an intruder does not need a physicalconnection. Web pages that use SSL are secure but unencrypted internet access can easily be detected byintruders.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

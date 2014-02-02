@@ -1,0 +1,47 @@
+{
+  "title": "Cashtap (Free)",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.btwgames.cashtap",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "December 15, 2011",
+  "version": "1.02",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "12",
+  "rating": "4.5833335",
+  "contentRating": "Low Maturity",
+  "creator": "BTWGames",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.btwgames.cashtap",
+  "extendedInfo": {
+    "installSize": "11M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "An explosive experiment in a renowned science lab blows up a bank situated above it. Now the valuables stored in it have gained mysterious powers and have started to fly around haphazardly. The only way to stop this madness now is to collect as much loot as possible! So, what are you waiting for? Go on and save the world (read \"grab everything you can before others do\") from the invasion of the floating monies!Cashtap is a simple tapping game where you need to tap the items that appear on the screen and get as many points as possible before the timer runs out. It has two game modes, a casual mode and a more challenging extreme mode, to choose from depending on your mood. It also features all-time and daily online leaderboards to keep you coming back and testing yourself against other people.A note on permissions:READ PHONE STATE AND IDENTITY permission is currently required by Scoreloop and Mobclix to give each device a unique ID. Apparently the default method to do this, which doesn't require the permission and uses the ANDROID_ID, is bugged: http://code.google.com/p/android/issues/detail?id=10603COARSE (NETWORK-BASED) LOCATION permission is only used to serve more appropriate ads to the user.INTERNET ACCESS permission is used to upload scores, check leaderboards, retrieve ads.Known issues:*Currently, some Samsung Galaxy S2 phones (and possibly some other phones on Android versions before 2.3.5) may occasionally freeze/crash due to this bug: http://code.google.com/p/android/issues/detail?id=17623Unfortunately this is not a bug in Cashtap but in Android and it also affects many other games as well. The only work-around for this in Cashtap is to go into the options and turn the sound effects (and possibly even the music volume) down to 0. A better solution would be to update Android on your phones to version 2.3.5 or above if possible as this would probably stop any crashes you experience in other games as well.Credits:*Badlogic Games: LibGDX game engine*Scoreloop: Social gaming network*Soundjay.com/Freesound.org: Sound effects*Kevin Macleod (incompetech.com): Music",
+    "reviews": [
+      {
+        "timestampMsec": "1328808058778",
+        "starRating": "5",
+        "title": "$100,000",
+        "comment": "Money playing with money cool dude",
+        "commentId": "lg:AOqpTOGWyny103xPHXzpKCTN5zuIeIGz1Iy0dbqRuEQSZmt7Kbn7uix1YcGRUphgt6XpPrf7oItdPz96Q6t0ng",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1366150961874",
+        "starRating": "5",
+        "title": "Awsome",
+        "comment": "This is a great game worth a million dallers",
+        "commentId": "gp:AOqpTOHmjpynt1LlqW1BjNjYvy643Q0tQdwHv5HUYBQbXDGkBKa3r865KXHWwkDFjq6Vue6fKWW0ZQk2BblFMA",
+        "author": "Jakub Davila",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ]
+  }
+}

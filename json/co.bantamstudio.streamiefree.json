@@ -1,0 +1,246 @@
+{
+  "title": "Streamie Online TV Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=co.bantamstudio.streamiefree",
+  "category": "Media & Video",
+  "price": "Free",
+  "datePublished": "June 19, 2013",
+  "version": "2.1.21",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1526",
+  "rating": "4.159895",
+  "contentRating": "Medium Maturity",
+  "creator": "Bantam Studio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=co.bantamstudio.streamiefree",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "Thank you Reddit community and everyone else for giving Streamie a chance!Streamie Free is an unofficial app that allows you watch all of your favorite Justin.tv AND Twitch.tv streams on your Android device.Streamie features:* Stream all Justin.tv channels* Stream all Twitch.tv games* Search through Justin.tv and Twitch.tv* See your Twitch.tv or Justin.tv favorites! No password required.* Chat overlay: chat while you watch the stream. Swipe left or right to move the chat window or back to hide it* Clean, intuitive interface: easily search or browse to find great content* Filter mature streamsFLASH IS REQUIRED. Streamie will help you install flash if you don't have it already.Please rate Streamie 4 or 5 stars if you feel we deserve it. If not, please contact us and tell us how we can do better. If you have any bugs please contact us directly so that we can quickly support you.Currently only Justin.tv and Twitch.tv streams are available. We are working hard to add other video services to Streamie.KNOWN ISSUES: * The flash player will stop playing if you touch the playing video. This is a problem with the player that Justin.tv provides. We are working on a solution to this.* Sometimes Justin.tv or Twitch.tv will take a long time to respond to a request. Try refreshing.* If you have an ad blocker on your phone, it can take a long time to load the stream. This is because the ad request needs to time out.Terms of Service:Justin.tv allows this content to be available: \"Who can use [our video streams]? Everyone. That's why we're releasing this API so that anyone can customize Justin.tv to work exactly the way they want it to.\" http://www.justin.tv/p/apiAccording to the Justin.tv terms of service, anyone with access to these streams gets \"a perpetual, personal, non-commercial, non-transferable, non-exclusive license to access and view [...] Lifecaster Content.\" http://www.justin.tv/p/terms_of_service",
+    "reviews": [
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1371962076499",
+        "starRating": "2",
+        "title": "What the heck",
+        "comment": "What is this minimum thing to chat? I can\\'t even change the size! I want to chat but this size thing won\\'t let me!",
+        "commentId": "gp:AOqpTOEK2kTcP0DY50sK1An8BnZcNEwjkP0lTFohzosxJHMj5q2X64Kq4DKmxJtddr2L4SDFGGEc6mG6xnUvdg",
+        "author": "Micaiah Reese",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1372721727559",
+        "starRating": "2",
+        "title": "Broken now",
+        "comment": "Won\\'t even load a stream anymore used to run perfectly till the last update",
+        "commentId": "gp:AOqpTOFi74nyp-nhyIzKbJyTSvr83_2nGzKQn-hkCN62WgGQaVXUm8TzXSc2iSKxtUyiQ-eK1ltRfuZXrWizEw",
+        "author": "cubbybaws",
+        "authorURL": "http://lh3.googleusercontent.com/-p8purGJ20QM/AAAAAAAAAAI/AAAAAAAAABY/sV6Cwy1U13E/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-p8purGJ20QM/AAAAAAAAAAI/AAAAAAAAABY/sV6Cwy1U13E/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1378189145802",
+        "starRating": "1",
+        "title": "no display n crashes n cant do any searches",
+        "comment": "video player opens.. sounds plays.. but no display.. just black screen",
+        "commentId": "gp:AOqpTOEua5X3-eTb7lrH0tfS9p5XFRZCCzHICcEnXu32Ep04sdH9MDT5qbka9THyBFPf0G1WT1s4myUnDKYDcQ",
+        "author": "grandpa wong",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1371872955414",
+        "starRating": "1",
+        "title": "Crashes after update",
+        "comment": "When scrolling down the list of games on Twitch it crashes while trying to load the second page.",
+        "commentId": "gp:AOqpTOFXb8sJRnM8y0KmzcImSXFexF-ey-5IZUydc0Dka1SXKBb_yHep2aQCX72WG2vWUdqhpI4UkrmvfBzZBQ",
+        "author": "Aloysius Chow",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1374981781300",
+        "starRating": "1",
+        "title": "Streamie y u do dis",
+        "comment": "You use to be the best streaming app. It used to be amazing. But then you ruined it. I wish my favorite apps got this one piece of advice through there skulls: Don\\'t fix it if it isn\\'t broken. It was working perfectly fine!! Please put it back to normal.",
+        "commentId": "gp:AOqpTOGjuEcLfB_B4vCw6Ns9rrGCYuQKT4tghh-DBvEqroXSemZgSZsyzZPVdcmwONfwIPhEEyXd84LghrZPiA",
+        "author": "Christina Escobar",
+        "authorURL": "http://lh4.googleusercontent.com/-TLr_ZuctrkU/AAAAAAAAAAI/AAAAAAAAAGw/ml1sKiNvqyA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-TLr_ZuctrkU/AAAAAAAAAAI/AAAAAAAAAGw/ml1sKiNvqyA/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1371713370017",
+        "starRating": "2",
+        "title": "Chat and ads!",
+        "comment": "It says \\\"Minimum pixel dimensions required for all chat functionality are 300x400. Please enlarge your chat.\\\" It tells me that even if I have my chat at 100% overlay, and the ad on the bottom take up 50% of my screen! Absolutely ridiculous!",
+        "commentId": "gp:AOqpTOFHhbabSpgOoLK9KlgsA1v4pMo_InWtIVr63j32XtVyaFHdn6WJtyTHrfhoaadLAhwUWPO5sRIipNE-Kg",
+        "author": "Charles Guarisco",
+        "authorURL": "http://lh5.googleusercontent.com/-8zL4sOYDv6E/AAAAAAAAAAI/AAAAAAAAAE0/tYvbpY2DUh4/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-8zL4sOYDv6E/AAAAAAAAAAI/AAAAAAAAAE0/tYvbpY2DUh4/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1372602076309",
+        "starRating": "4",
+        "title": "Great step up from twitch app",
+        "comment": "Why are you all whining about chat and other little things and giving this app a 2 star or 1 star? Coming from the twitch app, this is a major improvement when the two apps are compared side by side. I couldn\\'t even watch the LCS on MLG\\'s channel because it\\'s blocked for mobile. The only issue I\\'ve ran into is that it cannot load streams higher than 720p (some of them are 60fps). I\\'m using a T-Mobile Galaxy S4. Overall, this is a fantastic app (plus you get less delay because it doesn\\'t have to convert!)",
+        "commentId": "gp:AOqpTOHb3DKwmbdcjc-HsufQMZspz_Ofebap0lW8HWl_cWeq2ewIegDwSCY9VOBIoo-y1elCPob1DCakqbMLFw",
+        "author": "Jones Ou",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1375314201257",
+        "starRating": "1",
+        "title": "Broken",
+        "comment": "Won\\'t load manvsgame channel. That used to work, then it worked only via url and now it just doesn\\'t load the channel. Back to official app for me... T_T Nexus 4 here, btw.",
+        "commentId": "gp:AOqpTOGfC6mJ7I3ZXKQpBF2fofahNssXKmjOnzwh_jDqz2QnCeURmYVx71bNoiqNH9r5RbpeKj7F4fAEbpf3fA",
+        "author": "Jan Grilanc",
+        "authorURL": "http://lh4.googleusercontent.com/-QLeBPANXUTg/AAAAAAAAAAI/AAAAAAAABSo/ysPib2zh5yg/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-QLeBPANXUTg/AAAAAAAAAAI/AAAAAAAABSo/ysPib2zh5yg/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1372046070353",
+        "starRating": "2",
+        "title": "Wtf",
+        "comment": "Well I can see videos but I can\\'t load the streams I actually want to watch.  Chat window is pretty awful too.",
+        "commentId": "gp:AOqpTOE0qJtP2lbKqBvcJC2-675iiDA49jjbNxkIsPKFY9NWpk7i2Yt17FW6vTSsMfzBVCH73lbujXw6cKj1zg",
+        "author": "Kirsten Harris",
+        "authorURL": "http://lh6.googleusercontent.com/-5N01LVJNS30/AAAAAAAAAAI/AAAAAAAAAAA/DIOKZppOlJc/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-5N01LVJNS30/AAAAAAAAAAI/AAAAAAAAAAA/DIOKZppOlJc/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1372463901220",
+        "starRating": "2",
+        "title": "Looks good, but isn\\'t working.",
+        "comment": "Is there a reason as to why this app fails to load any stream?  After trying to load one, it basically just stays at an infinite buffering type loop.  As of now, it is the only client where I have experienced this.  However, it does not deserve 1 star.  The layout looks nice and follows the holo-esque theme, as well as providing the option to load all available streams.  Would be nice to get a fix for the issues however. Using an HTC One for further insight.",
+        "commentId": "gp:AOqpTOEn3-K85Z3ZNEXfCfvDRKrcQAPVQA_fiQYMH-XPTSlIPdNXdke_F3qWlMSXcTu0Soc2j8-6XJV6C77Ndw",
+        "author": "Anthony Hartounian",
+        "authorURL": "http://lh5.googleusercontent.com/-OrFZSOUqoqg/AAAAAAAAAAI/AAAAAAAAAI8/0Nu6GaYPqNk/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-OrFZSOUqoqg/AAAAAAAAAAI/AAAAAAAAAI8/0Nu6GaYPqNk/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1376741257217",
+        "starRating": "5",
+        "title": "Best App",
+        "comment": "This app is just amazing.",
+        "commentId": "gp:AOqpTOHcPy_2QZCeg7DxIA_3Jpx7c49OA3EeA45MdQaHzGJRraK6jh8POmJNThroJ1JpnE1E6bK0M_JehAggRA",
+        "author": "Danyil Minenko",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1376728867896",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "This app really works keep up the good work",
+        "commentId": "gp:AOqpTOEfFw1mkDqfP0VO5DCqc4inCiEMP2YjoZdrC44jUl42ZJbTWnCx4E1r-b8P6FvpLds9nXVGzHwPd567CA",
+        "author": "Michael Hudson",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1377899983625",
+        "starRating": "2",
+        "title": "it was good but",
+        "comment": "it was a good app but now it freezes all the time I uninstall it and install back up but still glitchy please fix and I ll  be so happy to give you five  start",
+        "commentId": "gp:AOqpTOHn56uwHHVcWCUSDPWZSppv7grcZtt-YcZfipc1sQae8JHrO1XADUY29_UDWnUzaFGQstgeyx_ljBaeXg",
+        "author": "Inesita Gonzalez",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1376217891788",
+        "starRating": "5",
+        "title": "Awesome app!",
+        "comment": "I normally watch Justin tv streams to fall asleep. Now I can do it from my phone!",
+        "commentId": "gp:AOqpTOGP_xHtZvaSym7IQUwpcaZX5489DHF0oFpz2MZkjNiav6kW7Ex0MfVnV4H9mS331BTHYoWQS34Ru9RrcQ",
+        "author": "Niko Jordan",
+        "authorURL": "http://lh4.googleusercontent.com/-82XUzCVcGec/AAAAAAAAAAI/AAAAAAAAAEE/ygutBhigf4E/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-82XUzCVcGec/AAAAAAAAAAI/AAAAAAAAAEE/ygutBhigf4E/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1374888868623",
+        "starRating": "4",
+        "title": "S3 not working",
+        "comment": "Fixed on S3 - streams great, overheats easy though.",
+        "commentId": "gp:AOqpTOGf9N2C4lGAJcvnUo8FK_Nj54bH21EfiaNaEdy5EHqexi5lBYQxgRTaVrQ6IFJQVNFi0gdKmUwLFEZPFw",
+        "author": "Ash Watton",
+        "authorURL": "http://lh6.googleusercontent.com/-Su29u4aLtHM/AAAAAAAAAAI/AAAAAAAAALA/-RYTrDSDb_I/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Su29u4aLtHM/AAAAAAAAAAI/AAAAAAAAALA/-RYTrDSDb_I/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1376802009581",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Just the ticket",
+        "commentId": "gp:AOqpTOFBW8_LDGhjQ7QiAQEzXDGwtbAR4BYZmRPoRXLfklmn5RWh_YFk1L_ANoptTu9ttLciEakod6AOCD6e3A",
+        "author": "Ava Joncas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1371886654597",
+        "starRating": "1",
+        "title": "Update broke app",
+        "comment": "Recent update broke application entirely.  Now it cannot even start, crashing as soon as it runs.",
+        "commentId": "gp:AOqpTOGXurvUbkI5HHR1Bp0D9ePZE-9gUWTzpCzSCERKj-yYojZVabNeEg0MfIXV1ro5yQSJ6IiVJHRsvW_C5A",
+        "author": "Daniel Bayer",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1376275266868",
+        "starRating": "1",
+        "title": "Not so great.",
+        "comment": "I used to really love this app but now I can\\'t use the chat functionality due to the chat not being large enough. Oh well the twitch app is improving so I\\'m switching back to that.",
+        "commentId": "gp:AOqpTOEegLsBJWPPqc7ONzpcXQ2Sxw-rh8yk_uV-s9KlTvcf4iEza1WvhUiQhY9qpwFBZZ71b_j8x60DtdAHsQ",
+        "author": "Ivan Martin",
+        "authorURL": "http://lh4.googleusercontent.com/-yzvv2QDhTpk/AAAAAAAAAAI/AAAAAAAABFI/CQTCn-8eAhA/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yzvv2QDhTpk/AAAAAAAAAAI/AAAAAAAABFI/CQTCn-8eAhA/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1376551311396",
+        "starRating": "2",
+        "title": "Won\\'t work for me",
+        "comment": "Won\\'t work on my galaxy s4. Wish it did but it won\\'t load the stream, any of them.",
+        "commentId": "gp:AOqpTOE7Q8w54vrhyy5hMDAqJP3BTUPJIuvS66ITIcvjWlp1Fl4OTXIGbtDq3itQieVMk8bip7K_Gx23jPFurA",
+        "author": "Rick Harris",
+        "authorURL": "http://lh4.googleusercontent.com/-yLJjfvsHtlU/AAAAAAAAAAI/AAAAAAAAADM/2LfHvBVsceU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yLJjfvsHtlU/AAAAAAAAAAI/AAAAAAAAADM/2LfHvBVsceU/photo.jpg"
+      },
+      {
+        "documentVersion": "2.1.21",
+        "timestampMsec": "1372970122703",
+        "starRating": "5",
+        "title": "Works great",
+        "comment": "It runs soomthly and it\\'s easy to use. Great app!",
+        "commentId": "gp:AOqpTOH-v7uuNBXVmWDLIDM0BsMxJ_sMxSoqkDNHENDjqWn1CbmSLpnVePPOwIpjQWGRJ7BdaF3sWq5D0Jqeng",
+        "author": "Analia Ingani",
+        "authorURL": "http://lh4.googleusercontent.com/-tJejO8oEv2Y/AAAAAAAAAAI/AAAAAAAAAZ0/y2cFdgiKxAM/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-tJejO8oEv2Y/AAAAAAAAAAI/AAAAAAAAAZ0/y2cFdgiKxAM/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

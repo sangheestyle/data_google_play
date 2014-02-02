@@ -1,0 +1,52 @@
+{
+  "title": "Christmas Free GO SMS PRO THEM",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.Christmas.free",
+  "category": "Communication",
+  "price": "Free",
+  "datePublished": "December 8, 2012",
+  "version": "1.5",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "29",
+  "rating": "4.62069",
+  "contentRating": "Everyone",
+  "creator": "Theme Project",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jb.gosms.theme.Christmas.free",
+  "extendedInfo": {
+    "installSize": "962k",
+    "downloadsCount": "10,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "An Christmas Theme designed by Theme Project Team.This Christmas theme is available for Go Sms Pro! Designed in the style that we all know well from christmas, compiling well with interface of the latest GO SMS Pro version! Yours eyes will be Please with it!Christmas Theme is for you!Important:1. This is not a standalone app, you need to download the LATEST version of GO SMS Pro app in order to apply this theme. (Search âGO SMS Proâ to download)2. To apply the theme within GO SMS Pro,download it from Menu->Settings->Appearance Settings->Theme shop(or Plug-in UI->Theme shop). After downloaded, it will displayed in \"Installed themes\" Tab, click and apply it.GO SMS Pro theme gosmsthemeCheck our developer account often, we will update and ad new themes for GO SMS PRO, Go Locker and Go Launcher Ex.                      !!!Theme created by Theme Project!!!In order to give you a free app and keep developing more free apps in the future, we are integrating a search tool to our application. This will add a few access points to your device (hence the permissions) to direct you to the web search service. Please consider using the search to help us keep creating apps. You may delete the search icon, bookmark and homepage easily. Thank you.",
+    "reviews": [
+      {
+        "timestampMsec": "1353964299536",
+        "starRating": "4",
+        "title": "Spirit of xmas",
+        "comment": "I like to switch my themes and i love the fun xmas colors and graphics.",
+        "commentId": "lg:AOqpTOHMcFRwfdYZ00hfvBSb5TOfe85akH6vJM9OvFU18eoHgG8Yb-uLx24vQRVomvZG6Sd169QSy34MsDgtXw",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.browser.permission.WRITE_HISTORY_BOOKMARKS",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.READ_SETTINGS",
+      "com.motorola.dlauncher.permission.READ_SETTINGS",
+      "com.fede.launcher.permission.READ_SETTINGS",
+      "com.lge.launcher.permission.READ_SETTINGS",
+      "org.adw.launcher.permission.READ_SETTINGS",
+      "com.motorola.launcher.permission.INSTALL_SHORTCUT",
+      "com.motorola.dlauncher.permission.INSTALL_SHORTCUT",
+      "com.lge.launcher.permission.INSTALL_SHORTCUT"
+    ]
+  }
+}

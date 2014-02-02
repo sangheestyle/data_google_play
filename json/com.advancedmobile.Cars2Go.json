@@ -1,0 +1,37 @@
+{
+  "title": "Martin Main Line Honda",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.advancedmobile.Cars2Go",
+  "category": "Shopping",
+  "price": "Free",
+  "datePublished": "September 19, 2012",
+  "version": "2.01.03",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "2",
+  "rating": "5.0",
+  "contentRating": "Low Maturity",
+  "creator": "Advanced Mobile, LLC",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.advancedmobile.Cars2Go",
+  "extendedInfo": {
+    "installSize": "1.5M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Welcome to Martin Main Line Honda where SAVINGS, PERFORMANCE and PREMIUM SERVICE are all available in one place!  Now the good folks at Martin Main Line Honda have made your life easier by allowing you to access all of our information and services on the go from the palm of your hand via your phone!This app allows you to:    â¢ Search our entire new and pre-owned car inventory    â¢ Sort your findings by price and model year    â¢ View complete car details including multiple photos of each vehicle    â¢ Obtain side-by-side comparisons of one car to another    â¢ Save or share your favorite auto search results    â¢ Request a service appointment    â¢ View your service history requests    â¢ View service specials    â¢ Cell-UR-Car - allows you to obtain an estimate on the value of your trade-in    â¢ Maps and directions to the dealer location    â¢ Parking Locator that uses GPS to find where you parked your car    â¢ Parking Timer to alert you when your meter is about to expire    â¢ Easy âclick-to-callâ phone access    â¢ Store hours    â¢ Other cool tools to assist you with your auto buying and driving needs!This is the official mobile application of Martin Main Line Honda.  For more information, visit www.mainlinehonda.com Â© Copyright 2011 Martin Main Line Honda and Advanced Mobile Solutions, LLC. All rights reserved.For our Privacy Policy please see www.mainlinehonda.com/index.cfm?go=privacyMartin Main Line Honda Mobile is powered by Advanced Mobile Solutions, LLC.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "com.advancedmobile.Cars2Go.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

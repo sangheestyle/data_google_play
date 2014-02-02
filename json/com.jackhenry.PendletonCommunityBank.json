@@ -1,0 +1,41 @@
+{
+  "title": "Pendleton Community Bank",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jackhenry.PendletonCommunityBank",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "June 7, 2013",
+  "version": "v2.0.4a1",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "2",
+  "rating": "3.0",
+  "contentRating": "Low Maturity",
+  "creator": "Pendleton Community Bank",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jackhenry.PendletonCommunityBank",
+  "extendedInfo": {
+    "installSize": "2.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "yourbank2go is Pendleton Community Bank's Mobile Banking solution that allows 24/7 Online Banking customers to use their android device to perform routine online banking transactions and research. Customers can view account balances and transaction history, view account alerts, initiate account transfers and pay bills.yourbank2go supports checking, certificates of deposit, money markets, loans, and lines of credit accounts.Prior to downloading the yourbank2go app, 24/7 Online Banking customers need to sign up for the service by going to www.yourbank.com and logging into their online banking account. Once you are logged into online banking, click the \"Options\" tab, select the \"Mobile Settings\" tab, fill in the required fields and follow directions to activate the service with your mobile device.  Please call Pendleton Community Bank at (304) 358-2311 with mobile banking questions or issues.Standard messaging, airtime, and data charges with your cell service carrier may apply. Availability subject to carrier limitations and phone or device capabilities.Android is a trademark of Google, Inc.",
+    "reviews": [
+      {
+        "timestampMsec": "1331473974016",
+        "starRating": "1",
+        "title": "Doesn\\'t work",
+        "comment": "Is not working says I need to provide my phone number and I have provided my phone number. Fixed please!!!",
+        "commentId": "lg:AOqpTOG8SuAwJ8rjiGXJoYMqdL6-GlTr2bezwmEXZggtc9kkldvuSnyCHqWNufGLo3audHeJE1rLFpYg8RqkZso",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_MOCK_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

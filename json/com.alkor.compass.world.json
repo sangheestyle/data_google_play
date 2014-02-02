@@ -1,0 +1,50 @@
+{
+  "title": "Subway Compass",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.alkor.compass.world",
+  "category": "Travel & Local",
+  "price": "Free",
+  "datePublished": "August 11, 2013",
+  "version": "1.9.3",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "142",
+  "rating": "4.753521",
+  "contentRating": "Low Maturity",
+  "creator": "Alexey Korobitsyn",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.alkor.compass.world",
+  "extendedInfo": {
+    "installSize": "1.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Application for quick and easy subway stations discovery. Now is available for Moscow, Sankt-Petersburg, New York, London, Kiev and Almaty.How does it work :- Run Subway Compass outdoors far from large metallic objects- Wait until your location will be found by GPS or wireless networks after that surrounding subway stations will be shown- Select the most suitable for you station - Go towards selected station in the direction provided by compass- Also station may be shown on map - If you are tired and don't want to walk anymore you may get taxi drectly from application (now is available for Moscow only)Adventages :- You need not city map- You need not internet access- Stations are clearly represented with subway lines and distances to them- Usability and performancePermissions :PRECISE LOCATION (GPS AND NETWORK-BASED) - to get your location by GPS or wireless networks and find nearest subway stations (locations don't send anywhere and being used on device only).NETWORK COMMUNICATION (FULL NETWORK ACCESS), NETWORK COMMUNICATION (VIEW NETWORK CONNECTIONS) - for taxi order form and statistic.",
+    "reviews": [
+      {
+        "documentVersion": "1.9.3",
+        "timestampMsec": "1376374082987",
+        "starRating": "4",
+        "title": "Works well in Kiev",
+        "comment": "Once I figured out what things meant, it was useful, but also requires data roaming (or WiFi), since I am just a visitor.",
+        "commentId": "gp:AOqpTOGwpNQZWgUBbRFKCEXFEuX82wW7EY_TB2iq7JKv7PUexqftmqunT7JPIoDtNoibkZJycXL-1k8GGonXSnI",
+        "author": "Lisa Hansen",
+        "authorURL": "http://lh6.googleusercontent.com/-b7LVi4WAjdY/AAAAAAAAAAI/AAAAAAAAAIQ/wNpZrui6tt4/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-b7LVi4WAjdY/AAAAAAAAAAI/AAAAAAAAAIQ/wNpZrui6tt4/photo.jpg"
+      },
+      {
+        "documentVersion": "1.8.0",
+        "timestampMsec": "1364128504001",
+        "starRating": "5",
+        "title": "it\\'s usefull",
+        "comment": "Download it, it\\'s usefull",
+        "commentId": "gp:AOqpTOEhJohKsxzuXOoZJg3I-YEjUjkmj93eQmPp_l7c9_lIvVcUxnc4l-bJf_D_0_c0VGs34z70csKEkuPgHDg",
+        "author": "Alexey Korobitsyn",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ]
+  }
+}

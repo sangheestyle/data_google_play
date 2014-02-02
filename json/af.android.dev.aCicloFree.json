@@ -1,0 +1,52 @@
+{
+  "title": "aCicloFree",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=af.android.dev.aCicloFree",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "December 21, 2010",
+  "version": "1.1",
+  "operatingSystems": "1.1 and up",
+  "ratingsCount": "15",
+  "rating": "1.8666667",
+  "contentRating": "Everyone",
+  "creator": "Alberto Forchino",
+  "creatorURL": "https://play.google.com/store/apps/details?id=af.android.dev.aCicloFree",
+  "extendedInfo": {
+    "installSize": "94k",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Computer software that is able to calculate the fertile period in women through Ogino Knauss method based on the distance of this period than during the same fertile women. Use the software for calculating the fertile period of a woman is very simple, based on the following information:- Average length of menstrual cycle as important to identify the exact period of fertile women. Be provided only once during initial configuration (option \"Configuration\", then it is calculated on the basis of historical data- Date of last period: to have properly calculating the fertile period of women is necessary to include the exact date of the last cycle as a whole mastruale Ogino Knauss method is based on its temporal distance between the menstrual cycle and the alleged female fertile period (to be added each cycle starting with the branding options \"Start\")The app then provides the date of the next menstruation, Determination of the fertile period and the day by far the most fertile.WARNING: THIS COMPUTER IS TO BE USED FOR THE DETECTION OF A PREGNANCY IS DOWN THE DAYS WHEN THE CONCEPTION AND MORE LIKELY IF menstrual cycles are regular. IN ANY CASE unprotected intercourse during DOES NOT PROHIBIT THE OTHER DAY EVEN IF A possible pregnancy are less likely.This is the FREE app and requires access to internet in order to mamage advertising. If you wish to save your airtime and bandwidth, please consider buying aCiclo2",
+    "reviews": [
+      {
+        "timestampMsec": "1293763404586",
+        "starRating": "1",
+        "comment": "It is a black screen with a foreign language and an ad link. UNINSTALL",
+        "commentId": "lg:AOqpTOHDMRUPqv54WJ5NumI5pBonczSb_g0D8peqFHblozjBCQ61TacfhUYQK2unj9VWe_NwelSBMbIC1eCVTQ",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1296594896155",
+        "starRating": "2",
+        "comment": "Everything is in Italian. That would have been good to know before downloading.",
+        "commentId": "lg:AOqpTOE46peMcFDSUrIuck6I8dbMM140yXtHoBx4HM4Dgoe88s1treAz9ZM6uOiU3e4M4cei0eY7Em_V270E-g",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1293422596022",
+        "starRating": "1",
+        "comment": "Needs to be English,,,, waste of time,,,unistalled",
+        "commentId": "lg:AOqpTOHOvuzuVGiGEdV2we-GoSTJdnkzVZRdCcwXUdVNZvtLr069CwFHemrcTgVxxpXn_lYI5uIXpUHlje8_Xg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

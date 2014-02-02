@@ -1,0 +1,47 @@
+{
+  "title": "SlyMoney FREE",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jakob.slymoneyFREE",
+  "category": "Finance",
+  "price": "Free",
+  "datePublished": "April 11, 2013",
+  "version": "1.2",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "3",
+  "rating": "4.3333335",
+  "contentRating": "Everyone",
+  "creator": "Jakob Aungiers",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jakob.slymoneyFREE",
+  "extendedInfo": {
+    "installSize": "416k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Using a PREDICTIVE BUDGETING ALGORITHM SlyMoney allows you to not only track and budget your expenses but predicts how much you're going to spend for the current week/month based on your prior spending patterns!It's been specifically designed for QUICK and SIMPLE use, with the allowance for an unlimited number of categories and statistics associated with each one!NOTE: This is the FREE edition of SlyMoney, which displays Ad's and removes the feature of exporting your data to CSV. If you would like to be COMPLETELY AD FREE and have the option of EXPORTING YOUR TRANSACTIONS then please purchase the full copy of SlyMoney.While other Personal Finance apps are tedious to use and require going through several screens to enter transactions, SlyMoney allows you to enter a transaction with just the click of a button right from the app's home screen! This makes it ideal for use in a nightclub, bar, when shopping or just generally anywhere where you spend money.SlyMoney tracks the expenditure you enter and allows you to set a budget for each of your entered categories (e.g. Food, Clothes, Entertainment...etc.). This budgeting feature is different from your standard budgeter though; it doesn't just tell you if you've gone over your budget, but actually PREDICTS how much youâre expected to spend for the current week or month based on your current spending trends. It can show you this prediction for either a single category or for your combined expenditure!SlyMoney was originally designed for Students in mind as a way of keeping track of their expenses with minimal hassle but has been expanded to suit everybody!The current features of Sly Money are:â¢ Entering expenditure quickly and easilyâ¢ Allowance for an unlimited number of categories to correspond to various transactionsâ¢ Showing statistical information on your expenditure for either a âper categoryâ basis or for âall categoriesââ¢ Options to change currencies between: Â£, $, â¬, CHF, KÄ, kr, RDS, Â¥, Â¢ and Rpâ¢ Export option to save all transaction data to a CSV (Excel) file. This file can be exported to any number of supported applications (e.g. Email Attachment, Save to SD Card, Dropbox...etc)â¢ Statistical information includes: Total expenditure, weekly average, monthly average, total this week, total this month, budget planner (and predicted expenditure this week/month), a graphical view of the history of your transactions and a pie chart detailing the expenditures of each of your categories in relation to each other",
+    "reviews": [
+      {
+        "timestampMsec": "1377549062476",
+        "starRating": "3",
+        "title": "More currencies",
+        "comment": "Nice app but it would be great if it also supports other currencies.. most esp. php, sgd, and krw..",
+        "commentId": "gp:AOqpTOH9FcP_GEyWZn5x5iHmWuG0hlOx62grLvGHISFluqBRxtEhb4Sd5Tz8SO3g_kwbevuZh0j5GLRGFAtKWLU",
+        "author": "Abigail Sy",
+        "authorURL": "http://lh3.googleusercontent.com/--310fbbKA9Y/AAAAAAAAAAI/AAAAAAAAAD4/Reo-TKBwvqI/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/--310fbbKA9Y/AAAAAAAAAAI/AAAAAAAAAD4/Reo-TKBwvqI/photo.jpg"
+      },
+      {
+        "timestampMsec": "1362920419343",
+        "starRating": "5",
+        "title": "Quick and Easy to use",
+        "comment": "Simple to use and really helpful to budget on!",
+        "commentId": "gp:AOqpTOFNjXe9SoCaoE7Yz6JOmvlnp5rPDnGVKPLwOkwBqWitVOxJ3eSRxJnPYYYpFJJxZSRWK0VDu8yicw0WIu0",
+        "author": "Stanislava Aungiers",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}

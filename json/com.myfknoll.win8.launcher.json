@@ -1,0 +1,250 @@
+{
+  "title": "Windows 8 Metro Launcher",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.myfknoll.win8.launcher",
+  "category": "Productivity",
+  "price": "Free",
+  "datePublished": "September 4, 2013",
+  "version": "1.2.3",
+  "operatingSystems": "4.0 and up",
+  "ratingsCount": "469",
+  "rating": "3.965885",
+  "contentRating": "Low Maturity",
+  "creator": "myfknoll",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.myfknoll.win8.launcher",
+  "extendedInfo": {
+    "installSize": "1.7M",
+    "downloadsCount": "50,000+",
+    "downloadsCountText": "50,000 - 100,000",
+    "description": "Windows 8 Metro Launcher now on your Android Device.Features: # Personalize your homescreen with your favourite Apps and Widgets.# Charmbar# Access your main apps via the default shortcuts: Internet, Store, Contacts, etc.# Show your recent opened apps# Customize your background with wallpapers (even live wallpapers)# Change userimage# Customize your launcher with lot of settings Get all your apps by click on \"Start\". If you click long on an app, you can add it to your homescreen with \"Pin to Start\".Free-Version restrictionsThe Free version  is limited to 20 custom Tiles. Widgets aren't part of the free version either. Personal customification can be made, but will be restored after 5 minutes. If you don't want any limitation, please buy the Pro Version which is now available in the Store.Please keep in mind that this launcher is still in developmentStay tuned for upcoming changesFAQ:#How can i start this App? - In fact it's an Launcher, you can simply start it with the home-button and select this Launcher.If you already selected a other default launcher, you first have to clear the default config in your settings.# How can i open Settings of this App? - Open the charmbar and select settings.# And how can I open the charmbar?- Simple slide on the homescreen your finger from the right screen edge to the middle of the screen. Then the charmbar should be appear on the right side.# How i can reach all my apps. - There are some methods:    1.) Click on \"Start\" on the left top corner of the home screen   2.) Open your charmbar and select \"Search\" or \"Start\"# How can i uninstall this launcher?- Go to your settings, select this application and uninstall application If you enabled the device admin, you have to remove the app as device admin in your system settings.# My weather tile has no functionality and cannot be dragged.Until now it's only possible to rearrange tiles with functionality. In fact that the weather tile has no functionality right now, it can't be rearranged.# When are live tiles available? - Soon# Why my selected App for the default tiles won't be stored?- Because it's not implemented right now.# Why this app is not in my native language?- I'm sorry that I can't speak your language. But if you want you can provide me translations.# I have a lot of suggestions and improvements- Please leave a comment our contact me via mail. Meanwhile there are a lot of improvements from users implemented.# Why you don't make it like the original Windows 8? - I don't wan't to clone a Windows 8 for Android, but provide the Metro Interface for your Android Homescreen. There won't be any Desktop implementation. Also, not every functionality can be provided, because this is NOT WINDOWS.",
+    "reviews": [
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1377001838323",
+        "starRating": "4",
+        "title": "Edited review"
+      },
+      {
+        "commentId": "gp:AOqpTOFtbfuHiDpEEXZNGW6YdaxDlV2Ur706XfbKgsaY_G134CXohs1hyuZ7vGiTJc0MkHtwTL7a9ANyPXdQSQ",
+        "author": "Najamul Arfeen",
+        "authorURL": "http://lh4.googleusercontent.com/-i4xcwNQyjdQ/AAAAAAAAAAI/AAAAAAAAAZw/dhnSc6om7Z0/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-i4xcwNQyjdQ/AAAAAAAAAAI/AAAAAAAAAZw/dhnSc6om7Z0/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1378282162831",
+        "starRating": "4",
+        "title": "Looks good",
+        "comment": "Facing a problem here.. sometimes it get stuck to previously launched app.. no matter what tile you click upon.. it take you to the previous app.. mostly happen with play store",
+        "commentId": "gp:AOqpTOFuJ68xuC_RL5-UGwmQJFYLcFKTNHlxhpSNx_jphkc4-2Mkk3v9y2I_xygwJjPPBspaYkFtKmsCJY-n-w",
+        "author": "Ravi Kant",
+        "authorURL": "http://lh6.googleusercontent.com/-PtCfeTSpwYg/AAAAAAAAAAI/AAAAAAAAAQQ/WS84kVnn_rM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-PtCfeTSpwYg/AAAAAAAAAAI/AAAAAAAAAQQ/WS84kVnn_rM/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1377190186517",
+        "starRating": "3",
+        "comment": "cool but it always ask to be launch each time u off ur phone",
+        "commentId": "gp:AOqpTOGkYH4usXuAJUeZKk-JPLrobC1EL86bvz9oaF42cOx_flZQhhhXo1VJV4GaU29wMFwBpxxaIkm-8dJxng",
+        "author": "kennedy odama",
+        "authorURL": "http://lh3.googleusercontent.com/-FYXMjEbrKzw/AAAAAAAAAAI/AAAAAAAAABQ/y2sPfC9OKxY/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-FYXMjEbrKzw/AAAAAAAAAAI/AAAAAAAAABQ/y2sPfC9OKxY/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1378163185572",
+        "starRating": "2",
+        "title": "Too Slow",
+        "comment": "Nice layout. Nice mimicking of the win8 metro UI. But too slow and choppy to be usable for any length of time. Yes, I see that it\\'s a beta, but it\\'s slow even for a beta.  My phone runs pretty lean. It\\'s a Razr Maxx, stock JB 4.1.2. All the Verizon/Moto junk that is usually installed is disabled (MotoCast, VZ Navigator, etc). I have very few third party apps installed: Poweramp, ES File Explorer, Dropbox and Chrome browser.   The initial startup of the launcher after being installed takes so long that the \\'application not responding\\' dialog appears. I\\'ve sent the debug report but who knows if it\\'s useful or not.  From a usability standpoint there are several problems that need addressed:  * while it\\'s cute to see the IE icon on a tile, no self-respecting Android user wants to appear like they\\'re using MS\\'s substandard web browser. The icon should default to the users current browser. * The vertical view of the tiles should expand to fill the entire screen. Horizontal of course can stay the way you initially have it set up but the vertical view is what most people work with throughout their day.  * Automatically create tiles for standard applications .. out of chars!",
+        "commentId": "gp:AOqpTOECRbA1XRobYKJ5A2gMsHSNOqszP34nANgvIVfvzt9Fjp3rQPnOBZGfRHhJsiujrD0hfviefpM223G1BQ",
+        "author": "Rafe Magnuson",
+        "authorURL": "http://lh5.googleusercontent.com/-VuDQ4Q6SFO0/AAAAAAAAAAI/AAAAAAAAJUA/ywOWlEs9OuU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-VuDQ4Q6SFO0/AAAAAAAAAAI/AAAAAAAAJUA/ywOWlEs9OuU/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1378431801807",
+        "starRating": "5",
+        "title": "Its great",
+        "comment": "Its a great launcher. It needs more work to feel like win 8 but still has lots of features. It neds more customization as in how to add tiles aand hoiw big they would be and live tiles would be nice. Also addition of desktop tile that woulkd show androids own desktop will be great. Also the clock is annoying always showing.",
+        "commentId": "gp:AOqpTOHVRH-Fr6Z-n2hc5BR7nTsI4HTd2bz09V47rAG1apiQ28ErdiU0OgRudOvoiXYrbZmtebrqMcOW7a_ZQA",
+        "author": "tommy davachi",
+        "authorURL": "http://lh5.googleusercontent.com/-23vqJzhiqtU/AAAAAAAAAAI/AAAAAAAAAKQ/9CrmmVZR_iE/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-23vqJzhiqtU/AAAAAAAAAAI/AAAAAAAAAKQ/9CrmmVZR_iE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1375118641107",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Really superb work guys...",
+        "commentId": "gp:AOqpTOGDPOrly-vevgsGu09t-XK3ZJ85KsfpsNj80UdZo7dCoGnj5u56IZdsXTjA0RtPoUuu_uc4_q-fkF8_CQ",
+        "author": "Anirban Ghosh",
+        "authorURL": "http://lh3.googleusercontent.com/-tVAR0nrK1cg/AAAAAAAAAAI/AAAAAAAAAKY/d_ce42ghty8/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-tVAR0nrK1cg/AAAAAAAAAAI/AAAAAAAAAKY/d_ce42ghty8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376327386070",
+        "starRating": "4",
+        "title": "Really cool",
+        "comment": "Just little more effort for ur goal good work!!",
+        "commentId": "gp:AOqpTOGrBa_hLZ9qhHjTnFgWSgcNMYLEh4yaWcht5AEECtZVXJolNiTxMCjVJrdV0U0HFyIU-xSYfENZBD86-g",
+        "author": "Alizain Farooqui",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376492626606",
+        "starRating": "2",
+        "title": "Windows8",
+        "comment": "Seems to work but on my Samsunggalaxy S2 tablet it wont give me all the apps I select. Once I\\'ve put on 21 apps it won\\'t go any further. In fact my 22nd onegets addedbut my first selection gets. Deleted. You need to add a how to section or automaticallyy let let it keep adding as you go along. Too bad as I really like the realistic function but I need more apps.",
+        "commentId": "gp:AOqpTOFMpm8UWyMiZluEAB25Ab2VJyPwlU9Ugt_nasPs8hT3Q8zMIrARLBYy3xPWEgAhoGJ7WMP6a7mgy9RsCA",
+        "author": "David Milner",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1378398484320",
+        "starRating": "4",
+        "title": "Ok",
+        "comment": "Cool but when i try to drag an app on home screen,other apps begin to vibrate  and cannot be dragged.",
+        "commentId": "gp:AOqpTOHHnpaqdhF--VgOmgOz20qwMHcDNtz3IKoX9RpLJ2L4PRwTXWoNpYKZJbWq5B0SCcArVSmBxkkiM11qCw",
+        "author": "anis Shady",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376636697891",
+        "starRating": "2",
+        "title": "No widgets",
+        "comment": "May try again after widgets are added. Also seemed slower than other launchers I have used.",
+        "commentId": "gp:AOqpTOEXiL0rK8qcKBBqTpe12rkKpL2LJyP2GlZoTmlBWUwNTvbCCpngjxRS5xWHRc6yrvko7ImLS60K4M2MMA",
+        "author": "Micheal Jones",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1375524620044",
+        "starRating": "4",
+        "title": "Nice",
+        "comment": "It will be perfect when i can make a live tiles.",
+        "commentId": "gp:AOqpTOFxtUl94aux6YsKIeHLqOSQE65bxZD4JTLfIQzJ6WmdqHTsUn6tSh9zE9oUSNHASXE1OSju3Wzg4CczdQ",
+        "author": "disma surya",
+        "authorURL": "http://lh6.googleusercontent.com/-pIQGNxPOfts/AAAAAAAAAAI/AAAAAAAAAEI/DE8v5vsw99g/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-pIQGNxPOfts/AAAAAAAAAAI/AAAAAAAAAEI/DE8v5vsw99g/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1377878541758",
+        "starRating": "4",
+        "title": "Best",
+        "comment": "Nice app",
+        "commentId": "gp:AOqpTOEGzYwt68N9laFGPwnQbJjvjSau_YpkD3GhK2SH4q571QMHnKtiu6-gUgJpuXZX1QLIsmt7GGdEu7kjTA",
+        "author": "Manoj Soni",
+        "authorURL": "http://lh4.googleusercontent.com/-9nU_kTleyPo/AAAAAAAAAAI/AAAAAAAAADM/uZu1HaNuJe8/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-9nU_kTleyPo/AAAAAAAAAAI/AAAAAAAAADM/uZu1HaNuJe8/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376152351654",
+        "starRating": "1",
+        "comment": "How come whenever I try and access apps it goes to the play store. WHAT THE HECK.",
+        "commentId": "gp:AOqpTOGu0FcqCKcvxmReo_mfk3PTXsqGVbIB9WhmGdzk86_79J0wrPOSwDIlFexnVJ9H4RLPbKhxHTtXwZzw2Q",
+        "author": "Mason D\\'Agosto",
+        "authorURL": "http://lh6.googleusercontent.com/-1RRFOrUHDWc/AAAAAAAAAAI/AAAAAAAAACQ/Do6grPXyqgE/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-1RRFOrUHDWc/AAAAAAAAAAI/AAAAAAAAACQ/Do6grPXyqgE/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1375889467843",
+        "starRating": "3",
+        "title": "Cannot remove tiles",
+        "comment": "I will buy the full version once I\\'m able to remove those bottom tiles. I cannot open the menu to change stuff, how do I do that",
+        "commentId": "gp:AOqpTOE9c32dvdJRf1prgE76FJ1ZkH1Oxxpa63bhdrGEcoJZqpBN03DHWkPzM2v6-nMDLtBaCK7m3F1V7SgsDg",
+        "author": "Amman Richard.",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1377748214503",
+        "starRating": "5",
+        "title": "Samsung gallaxy s5",
+        "comment": "Its good",
+        "commentId": "gp:AOqpTOE9f6mquTK5yZtLQ6M2LbOmGAvnPs4HVI1R8Qs3HjOnpTGe81rtHLZGmPSAng2zwGUQLLoDZbSlNhZ2Lw",
+        "author": "Akash Rao",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376689565034",
+        "starRating": "5",
+        "title": "Its that good,install it.",
+        "comment": "Good 4 me",
+        "commentId": "gp:AOqpTOFB5sFvQnD7mr4rMIWit8aD4WR2N9tffQeRZO3q1KiI7ukQ2bVJJeXbaQtoxWAgXMWeytG3K1eFn4-0yw",
+        "author": "Francis LHMawia",
+        "authorURL": "http://lh5.googleusercontent.com/-vyGJrxLQ7Ao/AAAAAAAAAAI/AAAAAAAAABQ/zPltoSlnXtA/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-vyGJrxLQ7Ao/AAAAAAAAAAI/AAAAAAAAABQ/zPltoSlnXtA/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376504824498",
+        "starRating": "5",
+        "title": "Superb",
+        "comment": "Guys keep it up. Great job. Working flawlessly",
+        "commentId": "gp:AOqpTOFKEyvtahH7sVT9N5PR4MkT9eNSEmmclvQr-Ti1tkMXcjD562nIaJRd0iprzgfhGX2l8Db0sbL_dpku2g",
+        "author": "Kanhu Charan Dash",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1374989297733",
+        "starRating": "3",
+        "comment": "Add live tiles please even fake will go and can\\'t yow access Google maps by maps windw\\tGod hacking dhairya s I\\'d",
+        "commentId": "gp:AOqpTOFfwLwq_0tqXKo24ZXuYCNGjCTFQi44FryHte0Djfu8Y2qL7AztXc2CNv_7FOm3hlnY3VihqoHt-LkChQ",
+        "author": "dhairya param",
+        "authorURL": "http://lh5.googleusercontent.com/-f430nlx-JZA/AAAAAAAAAAI/AAAAAAAAAAw/q5wXR6ZhxEQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-f430nlx-JZA/AAAAAAAAAAI/AAAAAAAAAAw/q5wXR6ZhxEQ/photo.jpg"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376035390307",
+        "starRating": "5",
+        "title": "Excellent apps",
+        "comment": "Come on download it",
+        "commentId": "gp:AOqpTOFRGvsoHcze1QqPWXmQrv6WZFm27zh7dDZpWS-F2AzXEnNPplmG0S9CSNUD3mc4pSRlAhpG1bxoKToNHg",
+        "author": "SAGAR RATHOD",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "1.2.3",
+        "timestampMsec": "1376396009672",
+        "starRating": "5",
+        "title": "Nice not bad",
+        "comment": "Nice not bad",
+        "commentId": "gp:AOqpTOHwq_hGXDimcMc9HCswi-yc-AtW88Azm6H3KXm2UnKBnOr6F6XSPFU70aotg__Da3iB5HtgKQXoZ5axYA",
+        "author": "Marc Blanco",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ]
+  }
+}

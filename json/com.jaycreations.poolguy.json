@@ -1,0 +1,39 @@
+{
+  "title": "Pool Guy",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaycreations.poolguy",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "August 31, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "1.0",
+  "contentRating": "Everyone",
+  "creator": "Jayaruwan Mannapperuma",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaycreations.poolguy",
+  "extendedInfo": {
+    "installSize": "1.2M",
+    "downloadsCount": "50+",
+    "downloadsCountText": "50 - 100",
+    "description": "Pool Guy will be your ideal swimming pool service management application. This app will help you to manage your customers' swimming pools easily and you can keep track of the test results of those pools. You can also keep track of the chemicals you applied to each pool and reports will be provided by the app to make sure whether you are in profits. ----------------------------Pool Guy Features:----------------------------1. You can add / edit / remove your customers and swimming pools, they owned.2. You can assign a day/s to service a pool and you will be asked to enter a stop number which is the number of the pool that you are going to service on that day/s3. You will be given your route everyday according to the stop number, you assigned.  So you just have to see your route in the morning and follow the route given by the app.4. You can add repairs or special services to a particular pool on a particular date and the app will take the responsibility of reminding you that event. (eg. Filter Cleaning Services, Repairs etc)5. When you visit a pool, you can add the test results of the water. (eg. Free Chlorine, pH value, Salt Level, Total Alkalinity, Calcium Hardness, Cyanuic Acid, Phosphates, TDS, Filter Pressure or any note) The app will then show you the accepted and preferred ranges of each factor.6. Then you can add the chemicals that you used on that pool. (eg. Chlorine-Liquid, Di-Chloro, Tri-Chloro, Acid Muriatic, Dry Acid, Soda Ash, Tabs, Salt, Water Clarifier, Potassium, Algacide, Phosphate Remover, Sodium Bicarbonatte)7.  The app will generate three kinds of reports. They are test reports, chemical reports and special notes reports+ Test Reports - Test results you entered to the app can be  seen by this. You can filter these reports by particular date range or by customer+ Chemical Usage Reports - You can see the chemical usage and  you can filter the report by a customer to see how much you have used the chemicals for a particular pool+ Notes Reports - You can see the special notes you made for each pool8. There will be a Profit and Loss Account feature. There you can see your income and your expenses monthly or weekly. Also you can see how much profit you gain from a particular customer.So this app will fulfill majority of need of a pool guy. If you are interested on this app and you want a special feature you can always request from the us. If it's a valuable feature we will integrate to this app and you can have it from an update of this app.If you like this app, please don't forget to review it. You can send you suggestions and requests to : mj7007@gmail.comThank YouKeywords : pool management, pool guy, pool service, my pools, monetize, test results, pool maintenance, pool chemistry, pool testing, pool chemicals, spa care, spa maintenance, spa chemistry, spa testing, spa chemicals, simple pool, pool pro, pool care, swimming pool.",
+    "reviews": [
+      {
+        "timestampMsec": "1377897904052",
+        "starRating": "1",
+        "title": "Scam",
+        "comment": "Even when you upgrade to the pro version, you.still don\\'t get the pro features.",
+        "commentId": "gp:AOqpTOEuj5scRCPE-8-Qc1SArPecdKcRiEuA_93Fn30Er_Vh9gKnT3dDxgXpacGvEPFjcf1R7oOKn8EL9hSw7IM",
+        "author": "Karen Jarolik",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

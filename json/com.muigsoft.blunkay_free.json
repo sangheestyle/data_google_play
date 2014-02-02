@@ -1,0 +1,62 @@
+{
+  "title": "Blunkay Jumps! - Platform Game",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.muigsoft.blunkay_free",
+  "category": "Arcade & Action",
+  "price": "Free",
+  "datePublished": "July 28, 2013",
+  "version": "2.0",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "7",
+  "rating": "4.571429",
+  "contentRating": "Everyone",
+  "creator": "David Muir",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.muigsoft.blunkay_free",
+  "extendedInfo": {
+    "installSize": "4.3M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "FREE GAME WITH NO ADS AND NO PERMISSIONS.  It's Bubble Bobble meets Asteroids!  Help Blunkay clear Stomp Island of The Truggles through 20 levels of retro-arcade-inspired mayhem!  Stomp on a Truggle and it splits into 2 smaller ones. Keep stomping and they keep splitting, until loads of tiny Truggles are scampering everywhere, but don't lose hope because with one last stomp a Truggle will turn into a shower of extraordinarily precious jewels.     Control Blunkay by tapping the sides of the screen to jump left or right. Your big advantage over the Truggles is that you can jump higher than them: when you're in mid-air jump again to link up to 3 jumps.â¢     Pick up the coloured stars to get special powers. â¢     Pick up as many jewels as you can, because for every 200 points you get an extra life!â¢     Get BIG points by chaining Truggle Stomps together without touching the groundâ¢     Be ready for a dangerous confrontation with Giant Truggle on the final level!â¢     Try the higher difficulty levels if you want a greater challenge     PS. More influences from a youth devoted to ZX Spectrum and SNES gaming: Super Mario Land / World, Yoshi's Island, Snow Bros, Manic Miner / Jet Set Willy, Horace and more.      PPS.  If you enjoyed the game but think it can be improved, I'd love to hear your suggestions! Have fun!",
+    "reviews": [
+      {
+        "timestampMsec": "1377102753718",
+        "starRating": "3",
+        "comment": "Good game but I dind\\'nt like it 3 stars for this game.",
+        "commentId": "lg:AOqpTOHJ-7DaSKzfVhC-7fVFFuwEmmwX6odPPg3-GOGW_NKgQnOIRrOBAku8HnU4AszgxHuN6iQ4-g81fdtyMUU",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378284509513",
+        "starRating": "5",
+        "title": "Hardcore old school platformer",
+        "comment": "Hard to master, creates some really tricky situations thru clever level design. Play it and tell aaaall your friends about it!",
+        "commentId": "gp:AOqpTOHo2YDs3zmLlR2D9mRjzuYcBqws0D5ow88odehXk249OrVi6907-B0cXokjHlHhhdLkPgAzU7W-QeKJkJA",
+        "author": "andy muir",
+        "authorURL": "http://lh6.googleusercontent.com/-ZbROb7sBONY/AAAAAAAAAAI/AAAAAAAAACI/apPK5vhYCLs/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-ZbROb7sBONY/AAAAAAAAAAI/AAAAAAAAACI/apPK5vhYCLs/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373621958643",
+        "starRating": "5",
+        "title": "The best game there will ever be!",
+        "comment": "I really connected with Blunkay on an emotional and spiritual level. The trials he faces are symbolic of our own struggles against our oppressors, and emphasise the futality of confrontation. The music was also really cool. When with this be enhanced to full hd for tegra devices?",
+        "commentId": "gp:AOqpTOG6SAQ9X35dsXPViO7cxi3tHarVsgTXCAlPgTxpSjXIlcA1X9TjVnGlXGXuIlIGCBb-4dhPuLDGfkACFzQ",
+        "author": "Ewan Stewart",
+        "authorURL": "http://lh6.googleusercontent.com/-Km5f32bO-og/AAAAAAAAAAI/AAAAAAAABsk/Q8AsN3sEueU/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Km5f32bO-og/AAAAAAAAAAI/AAAAAAAABsk/Q8AsN3sEueU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373577113009",
+        "starRating": "5",
+        "comment": "Excellent retro platform game",
+        "commentId": "gp:AOqpTOFSUmoq9DV_MgvAf4l55-z1iD6_luy48PsvZZ3Erg1zLSYa15_VLsjj5f5yiLcCje0qZ-LzazFrMFATS1c",
+        "author": "Gavin Innes",
+        "authorURL": "http://lh5.googleusercontent.com/-0vD3Hs9qEGg/AAAAAAAAAAI/AAAAAAAABgo/N6npOKBx0QY/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-0vD3Hs9qEGg/AAAAAAAAAAI/AAAAAAAABgo/N6npOKBx0QY/photo.jpg"
+      }
+    ],
+    "permissions": [
+
+    ]
+  }
+}

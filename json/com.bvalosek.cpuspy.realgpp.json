@@ -1,0 +1,249 @@
+{
+  "title": "CPU Spy Plus",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.bvalosek.cpuspy.realgpp",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 31, 2013",
+  "version": "0.5.60",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "2094",
+  "rating": "4.683859",
+  "contentRating": "Everyone",
+  "creator": "Giuseppe Baglio",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.bvalosek.cpuspy.realgpp",
+  "extendedInfo": {
+    "installSize": "697k",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "This is a simple app to display the time the CPU spends in each frequency state. This can be a useful tool in diagnosing battery problems or tweaking your overclock settings. It also displays the current kernel information and some other CPU informations. The app is a massive upgrade of Brandon Valosek's version with a bunch of new features.New Features:[*] For devices non compatible: deep sleep info available[*] Swipe gestures: horizontal swipe to show the most used settings[*] Now compatibility with the device can be tested: \"App Test\" menu item[*] Ability to reset/restore the timers when the cable is unplugged/plugged. thereshold customizable[*] Added infos about battery juice lost since last reset.[*] You can group togheter all the stats which percentage of use is under a customizable thereshold of.[*] Lots of UI changes:\t- Swipe gestures: horizontal swipe to show the most used settings\t- 2nd UI layout with buttons for the most used action(start/stop timer, refresh, hide states)\t- infos on both partial and total time\t- timer info: initial battery level and juice lost\t- expandible content in main UI layout\t- row in the graph for all the grouped freqs\t- \"Deep Sleep\" can be showen/hidden [*] \"Cpu Files\" menu item to see the content of the files: affected_cups and time_in_state.[*] UI sounds[*] \"Setting\" menu to maximize the customization experience[*] Available language: english, italian, german, chinese (simplified and traditional)[*] \"Idles states\" informations with timers[*] and more...### PROBLEMS, BUGS, REPORTS ##If you are having issues with this app, please contact me at cpuspy.realgpp@gmail.com! With the comments left in the Market there is no way I can really understand what the problem is and how to fix it.If you are experiencing some problem and you would like to get rid of it, you can enable the verbose option from Settings so that the app will generate a logfile of all the operation it does. Then, when a problem happens, you can send me at cpuspy.realgpp@gmail.com the \"CpuSpy.log\" file stored in the mass storage that contains much more informations than the default android error report procedure. This way it will be easier and faster to solve the bug for me :)!!!!!! IMPORTANT NOTE !!!!!!If you see the message \"No states found\" when the app starts it means the app can't read the file /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state. This IS NOT an app related error. The solutions to the problem is to contact your ROM/kernel developer and let him know about this problem.!!!!!! NON ROOTED DEVICES !!!!!!To have a rooted devices it's not mandatory but however depends by the kernel of the ROM. For example tha app works on Galaxy S3 and Galaxy Ace, both of them on their stock ROMSPermissions explained:android.permission.RECEIVE_BOOT_COMPLETED: to delete the some internal variables on each reboot.android.permission.WRITE_EXTERNAL_STORAGE: used to write log messages to the file CpuSpy.log (if verbose option is enabled)android.permission.BATTERY_STATS: only to READ the battery juice lost when timer is setandroid.permission.INTERNET and android.permission.ACCESS_NETWORK_STATE are used only for the ad banners###### DONATION ###### If you LIKE my work and you think I should keep updating the app with new features, take in consideration to buy the DONATE version of the app like a little reward for my  development efforts.I can't get enough of stress this out. Some user's complaining the app doesn't work for some reason but if you don't send me any reports how can I get a clue of the problem? And most of all, how I can fix it? I'm not Patrick Jane ;)### PROBLEMS, BUGS, REPORTS ##If you are having issues with this app, please contact me at cpuspy.realgpp@gmail.com!",
+    "reviews": [
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1371506217662",
+        "starRating": "3",
+        "title": "Idk about this?",
+        "comment": "Can you do anything as far as fixing logs or preventing or starting an app sleeping? I was hoping it would show me log files that were in the wrong place,  but doesn\\'t look like you can do much with this except reset it ,......help!!!  Also do you know how I can fix server not found in my android galaxy to smartphone? DNS server.",
+        "commentId": "gp:AOqpTOF9mn5h1hHHylPc-P5XNmXOA559TYnRDk_zTiO4f6umbW8WrdY3ihXC8rD-a9pmXKb5fFvUwJboyn-8",
+        "author": "Lisa Lanzo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1371334246083",
+        "starRating": "5",
+        "title": "Excellent app",
+        "comment": "Get a nice history of how often your CPU steps are actually being used :-)",
+        "commentId": "gp:AOqpTOHXOd-F_1oaz6vbu5AEgSyA0QMc7VnppZPaP82dJqJS_uKyJB3D1KzfW2tpgCzxCq1Se6YmOXLOch8t",
+        "author": "Smity Smith",
+        "authorURL": "http://lh4.googleusercontent.com/-I7kCBgUHFiM/AAAAAAAAAAI/AAAAAAAADno/jG97I1ny_oY/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-I7kCBgUHFiM/AAAAAAAAAAI/AAAAAAAADno/jG97I1ny_oY/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1375918078637",
+        "starRating": "4",
+        "title": "Hopeful",
+        "comment": "Still doesn\\'t work with HTC One, but dev is working on it. Sent the log files today, so we should get results soon. Thanks for your hard work. I\\'ll donate if you get it to work. ( Not pressuring you ). 4 STARS for effort. 5 STARS if it works.  Robert",
+        "commentId": "gp:AOqpTOFmnjohzPIcEm3aebVfrnWIe-bmrvABj5Zq6g2afWFUwIGmHdrJAi45Ji_eM11UoT60KLnilLIfiwMK",
+        "author": "Robert Vandal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1378025570471",
+        "starRating": "5",
+        "title": "Accurate!",
+        "comment": "I\\'ve been monitoring the cpu after using \\\"cpu tuner\\\" for a few days and I can only say that the monitoring and setting matches up 100%. I clocked the cpu down to about 500 and the spy even sees minimal 1.5ghz peaks,which should be switched off by cpu tuner. Really really accurate I must say.",
+        "commentId": "gp:AOqpTOFUD1wT1QCs4v6OHy78TkXyDcd_F2qN5zfVjzzJCkKE6qDAFzyIal2noJcs5eThRIdQwovyi818tzNz",
+        "author": "Harris Theloved",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1370440907160",
+        "starRating": "4",
+        "title": "Great little app",
+        "comment": "Just what I was looking for shows you total uptime and cpu frequency usage. Very recommended",
+        "commentId": "gp:AOqpTOHIdmlcGEB8JPct3TL7VS20u5Cis_xe1-PQVe-Vp7qDPhPMGSqoAXE0XBCREDUloGjA8EPaqUND4_dN",
+        "author": "Nick Veronski",
+        "authorURL": "http://lh4.googleusercontent.com/-yGkYkZqVuPY/AAAAAAAAAAI/AAAAAAAAGGs/3ZZw754m6mc/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-yGkYkZqVuPY/AAAAAAAAAAI/AAAAAAAAGGs/3ZZw754m6mc/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1377481935808",
+        "starRating": "5",
+        "title": "One of the best",
+        "comment": "Was having problems with my phone that was draining my battery very fast. This app precisely helped understanding that my phone no longer went to deep sleep. Also there are many other features that you could check out.",
+        "commentId": "gp:AOqpTOFBrjg7cHWcSBLCo-5DoHjQT7alqSy0BBIfVoVm0iYzCD-gUF4jDl-1ntyZz7zlv5iTnPqwXF-qQ1Qx",
+        "author": "Anuj Doshi",
+        "authorURL": "http://lh6.googleusercontent.com/-JRbFcH3z0VI/AAAAAAAAAAI/AAAAAAAAFR8/J99wfOrFL6w/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-JRbFcH3z0VI/AAAAAAAAAAI/AAAAAAAAFR8/J99wfOrFL6w/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1377529213869",
+        "starRating": "5",
+        "title": "this apps + betterbatteryStats = Awesome",
+        "comment": "I use this app to know whats the most used frequency for my galaxy note 2 and detecting deep sleep .. this apps + betterbatteryStats = Awesome",
+        "commentId": "gp:AOqpTOFO8dBl8cEA8VStJibyViIS9O4ieOQ3jdFigvCThprypY0-oKtnQXyjzX9bE4uLg3VChmqWeJa4dAeM",
+        "author": "Rio Husnady Hidayat",
+        "authorURL": "http://lh3.googleusercontent.com/-Dwkd1zlEbb4/AAAAAAAAAAI/AAAAAAAAAjM/nl1vhZJ7Ugg/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-Dwkd1zlEbb4/AAAAAAAAAAI/AAAAAAAAAjM/nl1vhZJ7Ugg/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1375478927036",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Simply great shows my cou usage",
+        "commentId": "gp:AOqpTOG1pzL0GYt4hUkAKYEqZycbA0FcLRzKC3CqiDcqrjX24VZtd9Br159yzuxsfQQoYZvL4tqeLg9cIOkd",
+        "author": "Hasan Sun",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1370852802376",
+        "starRating": "5",
+        "title": "Worked as advertised",
+        "comment": "The app is working great for me, just as advertised. A suggestion though: Maybe under the settings call it charger option instead of cable options since I have a Nexus 4 wireless charger and use that as my main charging device instead of a cable.",
+        "commentId": "gp:AOqpTOF1q-0-98H0mKTFGFy0_x96ALcGN7aGCWfmyLK1jUgO4vvyFYuy9Npruwfe_8_0ctXJAL7JOUccQam-",
+        "author": "Jaime Denizard",
+        "authorURL": "http://lh5.googleusercontent.com/-b7ABZiBnlpU/AAAAAAAAAAI/AAAAAAAABBk/ZPtn15lBi6s/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-b7ABZiBnlpU/AAAAAAAAAAI/AAAAAAAABBk/ZPtn15lBi6s/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1374646359393",
+        "starRating": "5",
+        "title": "Great!",
+        "comment": "Req: add some information about hiberbated apps, how long its been hibernated or anything :D",
+        "commentId": "gp:AOqpTOG8nJGTYU1PXRizVgBQxs0ZGEbM0I-muQj8tGrsBVSrBLZ6qPNLEXwFwFYfr5lPrYIPq_f73mQRfQkg",
+        "author": "vonn velez",
+        "authorURL": "http://lh3.googleusercontent.com/-4ZJpBvNzgAU/AAAAAAAAAAI/AAAAAAAAABc/ftBKY_wM3M4/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-4ZJpBvNzgAU/AAAAAAAAAAI/AAAAAAAAABc/ftBKY_wM3M4/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1374632062990",
+        "starRating": "5",
+        "title": "Great app",
+        "comment": "Works like it should and much better than the other cpu spy.",
+        "commentId": "gp:AOqpTOEQ_DXJIA62zpdIlchgiy31_SI6u5bNGdmiGbuiS9O08gHUEljue6F2NkfA3frlMOLNYehveOe3pgMw",
+        "author": "josh Perkins",
+        "authorURL": "http://lh6.googleusercontent.com/-DRcOv9IGWlU/AAAAAAAAAAI/AAAAAAAAAAA/Q7CUNGbWV7s/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-DRcOv9IGWlU/AAAAAAAAAAI/AAAAAAAAAAA/Q7CUNGbWV7s/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1377341557856",
+        "starRating": "5",
+        "title": "Excellent..",
+        "comment": "Very useful..  Must have..",
+        "commentId": "gp:AOqpTOH5lmBgOy19fhiu8bwywsL76YkhqbROQSGeafTdTqzh0sN6sVSEGPGFb8JR4MyDhTKs_exXsidwKJmZ",
+        "author": "Salman Ali",
+        "authorURL": "http://lh6.googleusercontent.com/-Q3wCtzLd5y0/AAAAAAAAAAI/AAAAAAAAAE0/v0VyY4osVfg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Q3wCtzLd5y0/AAAAAAAAAAI/AAAAAAAAAE0/v0VyY4osVfg/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1374122293692",
+        "starRating": "5",
+        "title": "Great",
+        "comment": "Very usefull",
+        "commentId": "gp:AOqpTOHRRcChxwke0dFkvzQcHQ2WRCE1wX03u7Cwewmpz2ugSIoneRRxMkOap-a-O2VerTKScm0s5iwBI5nV",
+        "author": "Ivo Tadej",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1373453050003",
+        "starRating": "1",
+        "title": "Don\\'t work",
+        "comment": "Doesn\\'t work for HTC one. It can\\'t read the files. Or its in another location.",
+        "commentId": "gp:AOqpTOGuHlePkU2Fu7z-ukBsHtKZcoufMCBn9w6T-iK5NXSouS1JAIvWw-ZVtoT0R1yoi1qTtOkDiOraENX9",
+        "author": "Eugene Teo",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1374539274952",
+        "starRating": "5",
+        "title": "Great App!",
+        "comment": "Easy to understand and works very well. 5 stars :)",
+        "commentId": "gp:AOqpTOFEck0TPlQAn45mKpWQ5HiWIaUh2Cvr9CJH0G2rR-I8AVdgB7EDu5S17aVzCh6WUPj9GWpEeW7AClgh",
+        "author": "Matty Eberhard",
+        "authorURL": "http://lh5.googleusercontent.com/-2KdJJ1qYib4/AAAAAAAAAAI/AAAAAAAAAFQ/GQjesT9rDQw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-2KdJJ1qYib4/AAAAAAAAAAI/AAAAAAAAAFQ/GQjesT9rDQw/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1372805885900",
+        "starRating": "5",
+        "title": "Galaxy s plus",
+        "comment": "Great app! Does what it is meant to do with no lags or errors, at least for me :)",
+        "commentId": "gp:AOqpTOFb76tbzjUufnEfGXyB62ITyQ2LMlEW-QVfAlUG0Jv03Vh7clRdT_3xLjoX13kSjU8_r8QE4uKaKnmB",
+        "author": "Janis Skredels",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1373029159241",
+        "starRating": "5",
+        "title": "Amazing",
+        "comment": "Excellent app",
+        "commentId": "gp:AOqpTOEsTxIuP6Z_7kGzfz6ygbGYLQQ9qcdFjCXCs81p6PecyicrEncO0fWVeTSagUgBhKfoDHGmvokfanKf",
+        "author": "Riccardo Zanotti",
+        "authorURL": "http://lh6.googleusercontent.com/-jDXbdftbUv8/AAAAAAAAAAI/AAAAAAAAAC4/DL8zOi4kgUk/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-jDXbdftbUv8/AAAAAAAAAAI/AAAAAAAAAC4/DL8zOi4kgUk/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1374942823128",
+        "starRating": "5",
+        "comment": "Awesome App!!! Managed to track down my battery draining culprate.",
+        "commentId": "gp:AOqpTOGsBnyANUq42XI7GkfQnPCojJeAHDpq5n9ReN3g60F_M6CtBOdOfOUoX5Lv-H663ZVQbBcM3ybqkDDJ",
+        "author": "Lee Walters",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1377251099831",
+        "starRating": "1",
+        "title": ":\\'(",
+        "comment": "Deep sleep row doesn\\'t show on my x sola :(",
+        "commentId": "gp:AOqpTOH4RM7bwbFDcvMIZNlT9L2jY-GSfa-HRPZhVMZKFLPgpndDD0TfwWhpxQhkY1yh8FYiNwzOLxC5_i-P",
+        "author": "yauman muafa",
+        "authorURL": "http://lh6.googleusercontent.com/-7dtUVZ0u1t4/AAAAAAAAAAI/AAAAAAAAAB0/UVoCirJvByA/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-7dtUVZ0u1t4/AAAAAAAAAAI/AAAAAAAAAB0/UVoCirJvByA/photo.jpg"
+      },
+      {
+        "documentVersion": "0.5.60",
+        "timestampMsec": "1378129920466",
+        "starRating": "4",
+        "title": "A very nice APP.",
+        "comment": "Does what it says.",
+        "commentId": "gp:AOqpTOF50Trubjgr2pkvwlp5h3ChSCldTidNke4AbzMp4CiqNuzt5dGuSDp-XpVZWMnOgrs3UAFzwe6z1ZxA",
+        "author": "Micha\\305\\202 Szeja",
+        "authorURL": "http://lh3.googleusercontent.com/-R7PpeT9rsEY/AAAAAAAAAAI/AAAAAAAAAAA/17XMwRKwdLU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-R7PpeT9rsEY/AAAAAAAAAAI/AAAAAAAAAAA/17XMwRKwdLU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

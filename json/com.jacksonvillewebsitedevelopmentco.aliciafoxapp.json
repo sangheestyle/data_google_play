@@ -1,0 +1,51 @@
+{
+  "title": "Awesome Fun Alicia Fox Games",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.aliciafoxapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "May 15, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "4",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.aliciafoxapp",
+  "extendedInfo": {
+    "installSize": "4.4M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "Do you love Alicia Fox?  Do you want to play games with him as the star?  Well now you can!  With this great app you will be able to play Alicia Fox memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Alicia.Victoria Elizabeth Crawford (born June 30, 1986) is an American model and professional wrestler. She works for WWE on its SmackDown brand under the ring name Alicia Fox.Crawford began her professional wrestling career in July 2006, where she signed a developmental contract with World Wrestling Entertainment, and was assigned to Ohio Valley Wrestling (OVW), WWE's developmental territory, where she won the OVW Women's Championship in October 2006. Crawford was later transferred to Florida Championship Wrestling (FCW) in September 2007. She soon debuted on the main roster in June 2008 with a wedding planner gimmick. In November 2008, Crawford was traded to ECW, becoming a valet for DJ Gabriel. In April 2009, Crawford was drafted to SmackDown as part of the Supplemental Draft, where she aligned herself with Michelle McCool feuding against Melina. Two months later, Crawford was traded to Raw, where she would become Zack Ryder's valet in May 2010, and would later win her first WWE Divas Championship at the Fatal 4-Way pay-per-view in June 2010, holding the title until August 2010 at the SummerSlam pay-per-view. Also in August 2010, Crawford appeared as a Pro on the third season of NXT. In April 2011, Crawford was drafted to SmackDown as part of the 2011 supplemental draft. As of 2013, she is the longest tenured diva currently in the WWE. In 2013, she joined forces with the charity Nothing But Nets to help fight against malaria.In 2006 Crawford signed a developmental contract with World Wrestling Entertainment (WWE) and was assigned to WWEâs developmental territory. She debuted on July 1, 2006, as a special guest referee in a match between Shelly Martinez and ODB. It was not until September 6 that she made her in-ring debut, under the new ring name Tori, in an OVW Ladies Battle Royal which she ultimately lost when she was thrown over the top rope by ODB. She spent the next month competing regularly in both singles and tag team matches, against opponents including Mickie James, ODB, and Katie Lea. In late September, she began managing Elijah Burke, accompanying him to the ring for matches against Chet The Jet. At the OVW television tapings on October 18, having reverted to her real name, Crawford challenged Beth Phoenix for the OVW Women's Championship but lost following interference from Serena Deeb. Two days later, on October 20, Crawford won a gauntlet match at a house show to win the OVW Women's Championship. The following night, however, Crawford lost the championship to Phoenix, who won an eight-woman elimination match. Crawford's championship win is unrecognised by OVW, and the promotion considers Phoenix's two reigns as champion as a single, uninterrupted reign. Crawford continued to feud with Phoenix in early 2007, facing her in several tag team matches, in which Phoenix teamed with ODB and Crawford teamed with Lea or Deeb. Simultaneously, Crawford participated in the \"Miss OVW\" contest, which was won by ODB. Crawford had a series of matches with Milena Roucka in April, before moving onto a feud with Maryse Ouellet. Her final appearance in OVW was on July 21, when she participated in a three-way match for the OVW Women's Championship which was won by ODB.",
+    "reviews": [
+      {
+        "timestampMsec": "1373803512386",
+        "starRating": "5",
+        "title": "I love this game",
+        "comment": "I love this game",
+        "commentId": "gp:AOqpTOGjaauwQNyQjS_dnxgJG6bG9pel-2A-9Y7LG-BEZ3X5OqIEfn0CGx8M9MD-eGzZfzWZx9Wz8GzPljG_haQ",
+        "author": "abed agha",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376555257948",
+        "starRating": "1",
+        "title": "Rt",
+        "comment": "Pls make none puzzle games",
+        "commentId": "gp:AOqpTOFizQ4jTqGzyLavRQ4DXELyc4ck-BMuUwUb1XTEvK8uSo4PPlUqH_6Qsmyf3xre_upxAAPfaD6GJKFR35E",
+        "author": "Geoffrey Flaxman",
+        "authorURL": "http://lh6.googleusercontent.com/-Utb3Jo3oWeA/AAAAAAAAAAI/AAAAAAAAABU/kGfyrYnF9yg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Utb3Jo3oWeA/AAAAAAAAAAI/AAAAAAAAABU/kGfyrYnF9yg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.aliciafoxapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

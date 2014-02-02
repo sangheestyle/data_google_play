@@ -1,0 +1,59 @@
+{
+  "title": "Weight Loss Buddy: RMR BMR",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jasonwebb.wlbuddy",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "August 29, 2013",
+  "version": "1.01",
+  "operatingSystems": "2.0 and up",
+  "ratingsCount": "3",
+  "rating": "3.6666667",
+  "contentRating": "Everyone",
+  "creator": "Jason Webb",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jasonwebb.wlbuddy",
+  "extendedInfo": {
+    "installSize": "6.8M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "A weight loss app for beginners and those wishing to improve their slimming performance and fitness by optimising their nutrition and exercise.Devised by a qualified sports scientist, Weight Loss Buddy, is possibly the most accurate and effective weight loss and fat burning application you're likely to find, offering a body fat calculator, diet and nutrition advice, and fat burning exercise intensity tool.Learn how to adjust your diet and exercise sessions to burn the maximum amount of fat, all tailored to your specific body composition and body fat percentage.Your Weight Loss Buddy focuses on the following areas:-- Body Composition: Weight, Body Fat Calculator, Lean Body Mass CalculatorYou need to know your body fat percentage so that you know how much of your body is fat and how much is muscle.-- Resting Metabolic Rate: RMR calculator (often called BMR Basal Metabolic Rate) and Daily Calorie Calculator for weight loss results.NOTE: This calculator uses the Katch-McArdle Formula, which is based on your lean body mass, to calculate BMR. Unlike the more common Harris-Benedict Equation, which is based on an \"average\" body, the Katch-McArdle Formula also gives accurate BMR values for people with above-average body fat levels, and those with below-average body fat levels. As it uses your actually lean body mass figure, this formula doesn't need your age, gender, or height. This makes this calculator probably the most accurate way to calculate your basal metabolic rate, short of using an indirect calorimeter to analyse your breath.Learn how many calories you should have in your daily diet, and how those calories should be broken into protein, carbohydrates, and fat.-- Exercise Intensity: Calorie Burning Calculator and Exercise Fat Burner advice based on heart rate to help you find your fat burning zone.The correct exercise intensity level ensures that you burn fat to get you in shape fast. Whether you're jogging on the street or a treadmill, riding a bike, or even doing yoga, you can fine tune your exercise intensity to lose weight fast. It's like having your own personal fitness coach to guide you.***The calculations used by this program are only accurate for people of adult age.***",
+    "reviews": [
+      {
+        "timestampMsec": "1373438486362",
+        "starRating": "5",
+        "title": "Very Informative!",
+        "comment": "Gives you loads of info! Easy to use! Love the part where you can calculate calories burned! Highly recommended! I have a Droid Razr Maxx.",
+        "commentId": "gp:AOqpTOH2jfQ21YGn1uXO-NI8UeQrhT2MlGBeAU_kGAEPcjsA7sOW0L9knobRbX-uEr3xfYSNsQVX7SaL49dNxQ",
+        "author": "Holly Mendes",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372102273779",
+        "starRating": "1",
+        "title": "Not happy",
+        "comment": "Loaded it n it didn\\'t response, the screen is too small",
+        "commentId": "gp:AOqpTOH6j3mx9QXTGs14VFfqyLYEzDY74tz48quWYnoKkGC6OyHkgyHdzQXPhoOr23nKpw35qyg7oYB1TmcU7Q",
+        "author": "carla mizzi",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372872280030",
+        "starRating": "5",
+        "title": "Nice",
+        "comment": "Use alittle work tho :(",
+        "commentId": "gp:AOqpTOHfLdltXlaboQnsVT8nzopmenZOFAKnKW8uN-L9O7XCgcRSYGS1Is0a3CvoBO8TEqOxXmGeGiW7bxwZMQ",
+        "author": "Ebube Obi",
+        "authorURL": "http://lh6.googleusercontent.com/-2yDevxM2flg/AAAAAAAAAAI/AAAAAAAAAEc/a8JkGWndHpg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-2yDevxM2flg/AAAAAAAAAAI/AAAAAAAAAEc/a8JkGWndHpg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Fun Britney Spears Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.britneyspearsapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "1",
+  "rating": "4.0",
+  "contentRating": "Everyone",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.britneyspearsapp",
+  "extendedInfo": {
+    "installSize": "4.5M",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Do you love Britney Spears?  Do you want to play games with her as the star?  Well now you can! With this great app you will be able to play Britney Spears memory, jigsaw puzzles, and Tetris.  You will love spending your free time with Britney.Britney Jean Spears (born December 2, 1981) is an American recording artist and entertainer. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, she performed acting roles in stage productions and television shows as a child before signing with Jive Records in 1997. During her first decade in the music industry, she became a prominent figure in mainstream popular music and popular culture, followed by a much-publicized personal life. Spears's first and second studio albums ...Baby One More Time (1999) and Oops!... I Did It Again (2000) became international successes, with the former becoming the best-selling album by a teenage solo artist. Title tracks \"...Baby One More Time\" and \"Oops!... I Did It Again\" broke international sales records. In 2001, Spears released her third album Britney and played the starring role in the film Crossroads. She assumed creative control of her fourth album In the Zone (2003), which yielded the worldwide success \"Toxic\".After the release of two compilation albums, Spears's personal struggles sent her career into hiatus. Her fifth album Blackout (2007) spawned hits \"Gimme More\" and \"Piece of Me\". Spears's erratic behavior and hospitalizations caused her to be placed under a conservatorship in 2008. Her sixth album Circus was released later that year, which included global chart-topping lead single \"Womanizer\". Its supporting tour The Circus Starring Britney Spears was the highest-grossing global concert tour in 2009. Later that October, \"3\" became Spears's third single to reach number one on the Billboard Hot 100. Her seventh album Femme Fatale (2011) became her first to yield three top ten singles in the United States: \"Hold It Against Me\", \"Till the World Ends\" and \"I Wanna Go\". In 2012, Spears was featured on will.i.am's single \"Scream & Shout\", which topped charts in over 24 countries. She also served as a judge during the second season of the American version of The X Factor.Spears was established as a pop icon and credited with influencing the revival of teen pop during the late 1990s. She became the 'best-selling teenaged artist of all time' before she turned 20, garnering her honorific titles such as \"Princess of Pop\". Her work has earned her numerous awards and accolades, including a Grammy Award, six MTV Video Music Awards including the Lifetime Achievement Award, nine Billboard Music Awards, and a star on the Hollywood Walk of Fame. In 2009, Billboard ranked her as the 8th overall Artist of the Decade, and also recognized her as the best-selling female artist of the first decade of the 21st century, as well as the fifth overall. The Recording Industry Association of America (RIAA) named Spears as the eighth top-selling female artist in the United States, with 34 million certified albums. Nielsen SoundScan ranked her the tenth best-selling digital artist of the country, with more than 28.6 million digital singles as of January 2012. She has sold over 100 million albums worldwide, making her one of the best-selling music artists of all time. Rolling Stone recognized her instant success as one of the Top 25 Teen Idol Breakout Moments of all time, while VH1 ranked her eleventh on their \"100 Greatest Women in Music\" list in 2012, and Billboard named her the sexiest woman in music. Forbes reported that Spears was the highest paid female musician of 2012, with earnings of $58 million, having last topped the list in 2002.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.britneyspearsapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

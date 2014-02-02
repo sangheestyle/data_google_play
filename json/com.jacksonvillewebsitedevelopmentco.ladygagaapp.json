@@ -1,0 +1,34 @@
+{
+  "title": "Awesome Lady Gaga Game App",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.ladygagaapp",
+  "category": "Brain & Puzzle",
+  "price": "Free",
+  "datePublished": "April 26, 2013",
+  "version": "1.0",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "0",
+  "rating": "0.0",
+  "contentRating": "Low Maturity",
+  "creator": "Jacksonville Web Design",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jacksonvillewebsitedevelopmentco.ladygagaapp",
+  "extendedInfo": {
+    "installSize": "4.7M",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "Do you love Lady Gaga?  Do you want to play games with her as the star?  Well now you can!  With this great app you will be able to play Lady Gaga memory, jigsaw puzzles, and Tetris.  You will love spending some free time with Lady Gaga.Stefani Joanne Angelina Germanotta (/'st?f?ni? d??rm?'n?t?/ STE-f?-nee j?r-m?-NOT-?; born March 28, 1986), known by her stage name Lady Gaga, is an American singer, songwriter, record producer, dancer, activist, businesswoman, fashion designer, actress and philanthropist. Born and raised in New York City, she primarily studied at the Convent of the Sacred Heart and briefly attended New York University's Tisch School of the Arts before withdrawing to focus on her musical career. She soon began performing in the rock music scene of Manhattan's Lower East Side. By the end of 2007, record executive and producer Vincent Herbert signed her to his label Streamline Records, an imprint of Interscope Records. Initially working as a songwriter at Interscope Records, her vocal abilities captured the attention of recording artist Akon, who also signed her to Kon Live Distribution, his own label under Interscope.Lady Gaga came to prominence as a recording artist following the release of her debut album, The Fame (2008), which was a critical and commercial success that topped charts around the world and included the international number-one singles \"Just Dance\" and \"Poker Face\". After embarking on the The Fame Ball Tour, she followed the album with The Fame Monster (2009), which spawned the worldwide hit singles \"Bad Romance\", \"Telephone\", and \"Alejandro\". The Fame Monster's success allowed her to embark on the eighteen-month long Monster Ball Tour, which later became one of the highest-grossing concert tours of all time. Her most recent album, Born This Way (2011), topped the charts of most major markets and generated more international chart-topping singles, including \"Born This Way\", \"Judas\", and \"The Edge of Glory\".Influenced by Britney Spears, David Bowie, Michael Jackson, Madonna, and Queen, Lady Gaga is recognized for her flamboyant, diverse and outrÃ© contributions to the music industry through her fashion, performances and music videos. As of October 2011, she has sold an estimated 23 million albums and 64 million singles worldwide and her singles are some of the best-selling worldwide. Her achievements include five Grammy Awards and 13 MTV Video Music Awards. Lady Gaga has consecutively appeared on Billboard magazine's Artists of the Year (scoring the definitive title in 2010), ranked fourth in VH1's list of 100 Greatest Women in Music, is the sixth best selling digital singles artist in US according to RIAA, is regularly placed on lists composed by Forbes magazine and was named one of the most influential people in the world by Time magazine. Besides her musical career, she involves herself with humanitarian causes and LGBT activism.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.jacksonvillewebsitedevelopmentco.ladygagaapp.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

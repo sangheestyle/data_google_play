@@ -1,0 +1,30 @@
+{
+  "title": "MyCatalog",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jberenguer.MyCatalog",
+  "category": "Entertainment",
+  "price": "$0.99",
+  "datePublished": "January 31, 2012",
+  "version": "1.1",
+  "operatingSystems": "1.0 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "SymbiounCore",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jberenguer.MyCatalog",
+  "extendedInfo": {
+    "installSize": "252k",
+    "downloadsCount": "10+",
+    "downloadsCountText": "10 - 50",
+    "description": "The app may crash the first time on some phones. Simply close and reopen the app. It will be fixed soon, the app is simply looking for a config file in a directory that simply does not exist. Upon reopen it will create it's own and the app will run as intended.**** ALWAYS Perform an export before updating ****on main screen hit menu -> more... Import/Export and choose the Export All To File button. After install DO NOT use the open button in the market - some phones will fail.To import follow the same instructions as above but choose Import. Using the built-in file browser go to the MyCatalog folder on the your SD card and go to the exports folder and choose the file to import. This file will have a date stamp on it just choose the latest file. Example if you exported the file on April 3rd 2011 the file name would be MyCatalog_Export_04032011.sqlOwn a lot of movies, music, games, or other items? Rented so many movies in one night that the next time you're shopping you can't remember the names of the ones you liked?MyCatalog allows you to store and sort any item you wish - though movies was the main focus you can add music, games, or anything else you would like to keep a running list of. This list can be sorted so that you can pull up just the horror movies you own. A wish list is also created when you add a main category so you can store items you want to purchase in the future. This list can be sorted by priority and saved as a text file so you can quickly make birthday lists or Christmas lists to hand out to family. The app features:1 - Unlimited categories, genres, and wish lists.2 - Search tools that can search either the owned or wish list groups. It will even search for titles that contain the text you search for.3 - add an image of the DVD or item via your camera4 - tap and hold an item to do a IMDB lookup (web only - link to IMDB app coming soon)5 - build a wish list that you can reorder and save to your SD card for distribution.6 - utilities to move or delete multiple items at a time.7 - data export and import (recommended before every software update)8 - easy move from wish list to owned list or back- can even put a purchase date on it9 - easy editing of all items to change to different genre, add/remove images, etc.10 - move to SD compatible11 - and much much more!!!What the app is not:the app is not a social media tool. You cannot share your ratings or comments on a movie or music, etc with the public. This tool was designed as a database for your belongings not as a practice tool for becoming the next big movie/music/gamer reviewer. The tool isn't for shopping - You won't be ordering a movie, viewing a movie, or listening to music on my app. Again it is a to track movies, music, etc that you own or wish to own in the future.Coming soon:1 - link to IMDB app instead of just the website. 2 - Ability to add other search tools so you can query say music or other type of item.3 - barcode scanner to add items quicker (pending requests)4 - last but not least help file systemTested on The Evo 4g, Moto Droid, and Samsung MyTouch*** SD Card required",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

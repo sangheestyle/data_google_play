@@ -1,0 +1,33 @@
+{
+  "title": "Heart Rate Testing Fake",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.HeartRateTesting_120510",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "datePublished": "May 18, 2013",
+  "version": "0201",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "1",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "3D Play Phone Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.HeartRateTesting_120510",
+  "extendedInfo": {
+    "installSize": "740k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Heart rate can reflect some information of the body.And it could be different by age,gender and other physiological.For adults,women's heart rate generally faster than men.Even the same person,when they are in different condition,the heart rate can speed up or slow down.With this app Heart Rate Testing,you can test your heart beat any time any where.Heart Rate Testing is the best partner for outdoor sports, sports trendsetter, enjoying quality life.When you measure your heart beat,place your finger on the panel and wait for a while.The upper displayer will show the current heart rate.After testing,you will know your heart rate.The more wonderful is that it has a built-in tool to tell that your heart rate is normal ,high or slow.With the heart rate, there is a extremely detailed explanation .I suggest you to read it carefully no matter your heart rate is average or not.These information can help you to know more about the heart rate.In the Help part,you will be guided how to test your heart rate.There are some health tips and benefits of regular exercise,such as reduce stress,anxiety and depression,help you sleep better,and so on.In the Zones part,some knowledge exists.It is more valuable than book.You really can learn a lot about health common sense,such as Basal heart rate,Maximum,Target rate,Arrhythmia,etc.Let us deepen to understand their performance, and further breakthrough myself.Be a health and happy person every day!****************************Declaration************************1.This is the free version, so you will understand that we need to use ads so we can develop more useful and funny things. This app may use your notification or icon ads, but you will easily opt-out or just ignore them. If you don't agree with these ads, please don't install it, thank you.2.FAKE***************************************************************Heart rate is the number of heartbeats per unit of time, typically expressed as beats per minute (bpm). Heart rate can vary as the body's need to absorb oxygen and excrete carbon dioxide changes, such as during physical exercise, sleep, illness, or because of ingesting drugs.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ]
+  }
+}

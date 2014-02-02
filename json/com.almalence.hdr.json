@@ -1,0 +1,228 @@
+{
+  "title": "HDR Camera",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.almalence.hdr",
+  "category": "Photography",
+  "price": "Free",
+  "datePublished": "August 19, 2013",
+  "version": "2.34",
+  "operatingSystems": "2.2 and up",
+  "ratingsCount": "9374",
+  "rating": "3.9926393",
+  "contentRating": "Everyone",
+  "creator": "Almalence",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.almalence.hdr",
+  "extendedInfo": {
+    "installSize": "3.5M",
+    "downloadsCount": "1,000,000+",
+    "downloadsCountText": "1,000,000 - 5,000,000",
+    "description": "Take pictures with vivid colors and rich detail! The best High Dynamic Range camera application. 13.5 million photos a year are taken with HDR Camera!- Full resolution- Take HDR image in one tap- HDR image fused and tone-mapped on device within seconds- Don't have to be rock-solid while shooting- Correct handling of moving objects and de-ghosting- You can control tone-mapping parameters: contrast, micro-contrast, color vividness, exposure- Save original exposure bracketed imagesMore features in paid version: http://play.google.com/store/apps/details?id=com.almalence.hdr_plus- Zoom- Adjust tone mapping parameters on-the-fly- Geo tagging- Flash control- Shutter mute (on some models)Every two seconds someone in the world takes a photo with HDR Camera! Join us on Facebook: http://facebook.com/mobilehdr and on Flickr: http://www.flickr.com/groups/1820156@N20Why HDR------------Real life scenes often have a wide range of light intensity, which cannot be captured by a camera. In a photo of such a scene the bright areas look washed out and everything in shadows is pictured as a black spot with no details. The HDR technique allows you to capture details in bright and dark areas and have them merged in a single photo.HDR photography is widely adopted by professional photographers. Wouldn't it be nice to have an HDR in mobile phones?The problem is that HDR requires taking several differently exposed images in series, which must be precisely aligned and then fused. In order to be usable for real life scenes, the HDR feature should include moving object detection and hand shake compensation to avoid or minimize the ghosting in the final image. That requires a lot of computational resources and makes a challenge even for professional desktop HDR software.Almalence has brought its expertise in professional HDR software to mobile phones. Our HDR fusion algorithms compensate hand shaking and detect moving objects in the scene, suppressing ghosting artifacts. At the same time, the algorithms are quick enough to provide comfortable processing time on mobile devices.Additional info and facts* Available for iOS/iPhone/iPad as well.* Human eye has a built-in HDR-like processing which increases effective dynamic range nearly 10,000 times!* Painters such as van Gogh used techniques similar to Tone Mapping",
+    "reviews": [
+      {
+        "timestampMsec": "1377539351701",
+        "starRating": "5",
+        "title": "Awesome HDR Camera app",
+        "comment": "Perfect, easy, fast. Love it",
+        "commentId": "gp:AOqpTOGDRow_4MTYGBV_9zzE4cMx-PNDENeDITKvyYVk2flmukaCv5E8SsPXjhXmymLEflupprDsDrMYwhe89A",
+        "author": "Arslan Zia",
+        "authorURL": "http://lh4.googleusercontent.com/-4D62Y4k3eSM/AAAAAAAAAAI/AAAAAAAAA4A/gpHffWpJ7sQ/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-4D62Y4k3eSM/AAAAAAAAAAI/AAAAAAAAA4A/gpHffWpJ7sQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373975254429",
+        "starRating": "5",
+        "title": "Great job",
+        "comment": "Keep it up works great with Sony Xperia s greatly enhances clarity and colour depth  No lag Five stars",
+        "commentId": "gp:AOqpTOHqSPH7KUzhChk4B7zl6aheUev3vbB_e3wDWKC3iOFv7l34ZjtOxDgerYW80TRNoqYXdE2p483JJdoNUw",
+        "author": "Momin Iqbal",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372298035046",
+        "starRating": "1",
+        "title": "Poor app",
+        "comment": "Exposure controls the amount of grey you have, contrast controls blurriness micro contrast makes it ugly. Waste of time, poorly executed",
+        "commentId": "gp:AOqpTOFZRxzn2IL-xBulOo4rFl5mr18-XgttgT3eRIha1dDcf_dHi4dpXDI_QhRtWYv0xfRjcrYzEkrbMxP9Bw",
+        "author": "Tom Jones",
+        "authorURL": "http://lh3.googleusercontent.com/-ZDJXtCCC5TU/AAAAAAAAAAI/AAAAAAAAADs/j9cOd6zm3RU/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-ZDJXtCCC5TU/AAAAAAAAAAI/AAAAAAAAADs/j9cOd6zm3RU/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373370179997",
+        "starRating": "1",
+        "title": "Poor Quality",
+        "comment": "Very slow and of poor quality. The only thing I miss from the iPhone is HDR and this is not a replacement. And the nag screen after ever shot makes is too annoying.",
+        "commentId": "gp:AOqpTOE0fE5QAYSR4MphtaIKYxWc4bgQbs5UCrZ87nowz8PdyWDDd5MUy8ZvGTG2O5V4paayDLxos9raQiG7-A",
+        "author": "Richard Pruitt",
+        "authorURL": "http://lh3.googleusercontent.com/-mcBXssWeZLE/AAAAAAAAAAI/AAAAAAAAB_0/aNj_V1RkvPc/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-mcBXssWeZLE/AAAAAAAAAAI/AAAAAAAAB_0/aNj_V1RkvPc/photo.jpg"
+      },
+      {
+        "timestampMsec": "1372606094643",
+        "starRating": "5",
+        "title": "Excellent",
+        "comment": "Takes great still life pics with real HDR right on your phone. Tested the free one then bought the pro version (worth it).  HTC One X",
+        "commentId": "gp:AOqpTOFoYgiITND9bEoy3e-UGUbw3VkCz1sSCwETFp0UrtWOuiGLehPFDQgBLhEYbiYYjsCC97eW4RWn8ZnKnQ",
+        "author": "Jim Hendrickson",
+        "authorURL": "http://lh6.googleusercontent.com/-bfefvI8o7Fg/AAAAAAAAAAI/AAAAAAAAANA/zjb9yMCCKio/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-bfefvI8o7Fg/AAAAAAAAAAI/AAAAAAAAANA/zjb9yMCCKio/photo.jpg"
+      },
+      {
+        "timestampMsec": "1377318383276",
+        "starRating": "4",
+        "title": "Pretty good",
+        "comment": "Love the way they show how the image is taken in different exposures and merged to form HDR. A lil concern over image quality. Comes out a bit more noisy than the stock camera app. A Nexus 4 user.",
+        "commentId": "gp:AOqpTOFIkfpjbIJBaqfB-F2NlNu2axggCGXDxXVbDSDDLNmr1Hh6e06Ir9BPh0X7Cva7YjBdx_crssp_9iauzw",
+        "author": "Gurushankar P",
+        "authorURL": "http://lh6.googleusercontent.com/-Dpc9LJkVaFc/AAAAAAAAAAI/AAAAAAAAAr4/UQDE244NfGM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Dpc9LJkVaFc/AAAAAAAAAAI/AAAAAAAAAr4/UQDE244NfGM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1376318901861",
+        "starRating": "1",
+        "comment": "My phone cameras quality was better than this app.. still looking for an HDR program.\\tPictures came out fuzzy and I saw no HDR effect.",
+        "commentId": "gp:AOqpTOHflMToOWtol-Uucrvd5OCAkkIFgpmb3DHELNBkm4rnuUJ-WvJSWM_AO_WQmUxoNsruNLjI2ZcfcOUZtA",
+        "author": "StainedSkin27",
+        "authorURL": "http://lh6.googleusercontent.com/-yYDsTBEm8Og/AAAAAAAAAAI/AAAAAAAAABo/ICmwGvFY23A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-yYDsTBEm8Og/AAAAAAAAAAI/AAAAAAAAABo/ICmwGvFY23A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370703414981",
+        "starRating": "2",
+        "title": "Thanks but no thanks",
+        "comment": "Yeah, it\\'s free, but who wants to see the same nag screens over and over every time you take a pic?  Once is enough.  If I want to buy the paid app I will.  If I don\\'t, nagging me incessantly isn\\'t going to make me want to buy it, its just going to annoy me, make me ditch the app and hate your company.",
+        "commentId": "gp:AOqpTOHzLneDjRwjOQKVWVooU4nzNvtjOFJit0357PdIebWaiT1MKA8LNNZ36kQIUuVbKtfDfOWCR3A4XCwXAQ",
+        "author": "Erica Kensho",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1373293722714",
+        "starRating": "4",
+        "title": "Hdr camera",
+        "comment": "Screen image is sideways on viewer but turns the correct way once taken, otherwise would be 5 strs.       Update, sorted view finder in setting,  looks good so  far",
+        "commentId": "gp:AOqpTOFomTGnAruR6I2HHSg9078C7SeVmNAuMyQQVVQNSYae2XN-KEPkhkmkRZ-18xI-zWyyZwc0cj3PS909JA",
+        "author": "gary curtis",
+        "authorURL": "http://lh5.googleusercontent.com/-9lhAeyrKqBk/AAAAAAAAAAI/AAAAAAAAAHg/I-sOrXD90bw/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-9lhAeyrKqBk/AAAAAAAAAAI/AAAAAAAAAHg/I-sOrXD90bw/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373500573702",
+        "starRating": "3",
+        "title": "Too slow for me",
+        "comment": "While Camera 360 is not true HDR, it is hard to see the difference between it and HDR Camera. The biggest prob is HDR Camera is slow on my Galaxy 2. Don\\'t think it is my processor. Maybe ok for when time doesn\\'t matter. I will keep using it along with all my other Cam Apps and return here if I am doing something wrong to make it slow. I know the process, but should run in background allowing faster shots.",
+        "commentId": "gp:AOqpTOFda0jiXgyfgOuHNbKIzndpGL_VRH5YjsSJVWCmIwRl2WeWiMGVWleGExXfQhzEOQkS6fSjleI8jSHCtA",
+        "author": "Steve Travis",
+        "authorURL": "http://lh6.googleusercontent.com/-Z2bzZyuRrTQ/AAAAAAAAAAI/AAAAAAAAAJs/WGIwm96rE9A/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-Z2bzZyuRrTQ/AAAAAAAAAAI/AAAAAAAAAJs/WGIwm96rE9A/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371397977224",
+        "starRating": "5",
+        "title": "Dramatically easy app!",
+        "comment": "Best thing is that it comes up with good results, even when ur hands are not steady. Very happy with it in my S2.",
+        "commentId": "gp:AOqpTOEkzkOPRitV93duHq8eRxmeTPu9lEPC6xDIqMyZ5HoRgLcX_CDU6bHXQnJFZ2r5n4rRE-1YJ-X8QAE7Ag",
+        "author": "Navin Verma",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1376114723804",
+        "starRating": "3",
+        "title": "Laggy and moderate",
+        "comment": "Is it HDR software?  - yes Is it good software? -meh The program lags at least three times after every shot.  Gosting is very clearly visible and maximum contrast it can handle is not really mindblowing or anything really impressing.  If you have a high end mobile phone with standard HDR software it might qork better.  If your camera on your phone isn\\'t that great it might be helpfull",
+        "commentId": "gp:AOqpTOEYv-aHGho6FQ_QXe2DGesCyk6g66QjGVpIqhEQGYd5rvrxKk3oGwBeTaKrTilpx2jSUkTMKOMJIWgFqA",
+        "author": "Ruben Aders",
+        "authorURL": "http://lh6.googleusercontent.com/-SSiXKQVGiLQ/AAAAAAAAAAI/AAAAAAAAAHE/RSHQZ4QgkKM/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-SSiXKQVGiLQ/AAAAAAAAAAI/AAAAAAAAAHE/RSHQZ4QgkKM/photo.jpg"
+      },
+      {
+        "timestampMsec": "1370467574790",
+        "starRating": "1",
+        "title": "doesn\\'t seem to work",
+        "comment": "Takes the photos then does nothing.",
+        "commentId": "gp:AOqpTOFYU3X7jLZfFvqAZOk6G1cflyTBg9Vd-NxJz1IASxp_ZNmdWDmW0RnO8suDo7GEnWeshU25aelmAGLpgQ",
+        "author": "Norm Douglas",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371549077024",
+        "starRating": "3",
+        "title": "effective.",
+        "comment": "effective, does exactly what it should.",
+        "commentId": "gp:AOqpTOFp4mn7Kr76b-90aJiyB8BYhqxA1IZvcnfcl3jTwUsI-UfW6HE7XL2WC57BEjx6dvy9QTXMMF3bT0WLNA",
+        "author": "Michael Eckley",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1378222522063",
+        "starRating": "5",
+        "title": "Nice colour",
+        "comment": "Great camera",
+        "commentId": "gp:AOqpTOFMC2BU797SsO7vIHq0j5JMVXlaL1MYNrjFq2qkXDGvES3N1xGi1qDae4iBsrvWrnSpjjUy4m5MidInZg",
+        "author": "shaikh minhazuddin",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372185965451",
+        "starRating": "3",
+        "title": "Decent",
+        "comment": "This is actually a great app when you can get it to open it takes forever to load and then yes every time you take a picture you have the nagging ad screen",
+        "commentId": "gp:AOqpTOEMFuVK2LBm0UCPKVzzt2x8IyTNheNO5-MYGNS2FhgQfYzXRxOVhr-u_ZCshSbIhZqjpHEjAvw3uNfzWw",
+        "author": "Darryl Willhite",
+        "authorURL": "http://lh5.googleusercontent.com/-tfaQ0cppEHM/AAAAAAAAAAI/AAAAAAAAACU/ZR0C16K2trQ/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-tfaQ0cppEHM/AAAAAAAAAAI/AAAAAAAAACU/ZR0C16K2trQ/photo.jpg"
+      },
+      {
+        "timestampMsec": "1373819325124",
+        "starRating": "5",
+        "title": "Able to take pictures worth looking at",
+        "comment": "Phone pics were always just a novelty before this app.  Had to use a real cam to get good pictures.  Now my phone can take good pictures.",
+        "commentId": "gp:AOqpTOGuPG5r8HxBUDnPrcCpJHgiPea2sMJl9agpP8ZL9ie29NyRj0FoRbDIDBETUsT74hETOZCEV8PzbTr53Q",
+        "author": "Aaron Edwards",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1371369675662",
+        "starRating": "3",
+        "title": "Good",
+        "comment": "Good",
+        "commentId": "gp:AOqpTOHGggayBBSpcKKzJQ2G8WIpTg71T2nlXTNszPxQCLFx7G-uUnjO0G009X-Nq-YZgh-SU-J7_X7Y7HS1cQ",
+        "author": "IVAAN E M",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1370808063180",
+        "starRating": "5",
+        "title": "Just got the thing, tried it once, looked good, seems hopeful!",
+        "comment": "I\\'m looking forward to giving it a good run,I think it looks like a hopeful.",
+        "commentId": "gp:AOqpTOFhyZ7JlcQD2yGF8LDF20jhr6EhMWD3W4wWmHSWA2dCdgRYsaDEb51nLfBc_TwPYxanbqobP8bz8u28rQ",
+        "author": "Freezone Herald",
+        "authorURL": "http://lh3.googleusercontent.com/-FAAfwXFQQ80/AAAAAAAAAAI/AAAAAAAAAI8/9M6YQ4GLq5M/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-FAAfwXFQQ80/AAAAAAAAAAI/AAAAAAAAAI8/9M6YQ4GLq5M/photo.jpg"
+      },
+      {
+        "timestampMsec": "1371079891906",
+        "starRating": "4",
+        "title": "Excellent",
+        "comment": "Works great.  Easy to use.  Nice images.",
+        "commentId": "gp:AOqpTOHlcRD-MEFSFL3yARA-PZRa1aQugUHML2cPh0Sww-wM0aiWvXP9LggT2ESEy7BhkeLKVMDBZ6_tqZOs0g",
+        "author": "Greg Marcy",
+        "authorURL": "http://lh5.googleusercontent.com/-dSI-hpJxf3Q/AAAAAAAAAAI/AAAAAAAAFDs/iU9DZF43kTs/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-dSI-hpJxf3Q/AAAAAAAAAAI/AAAAAAAAFDs/iU9DZF43kTs/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

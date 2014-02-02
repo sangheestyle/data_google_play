@@ -1,0 +1,50 @@
+{
+  "title": "Diagnosis of blood type B",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.ji.bloodgroup.b",
+  "category": "Casual",
+  "price": "Free",
+  "datePublished": "April 21, 2013",
+  "version": "2.2",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "250",
+  "rating": "4.212",
+  "contentRating": "Everyone",
+  "creator": "HANAUTA BERRY",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.ji.bloodgroup.b",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "100,000+",
+    "downloadsCountText": "100,000 - 500,000",
+    "description": "ââOver than 120,000 downloads!!âââ NO.10 for lastest casual application!!Are you usually be misconstrued as wrong blood type ?Diagnose that how you are in blood group B by 30 questions âJust follow your intuition to select without thinking too much.You can comprehend how you are from others' eyes.It is not an diagnosis of blood-type character, but is analyzed by your temperament.It depends on your innate personality.âThe essence of blood group Bï¼    âdoing on your unique wayããânot aware to others, think straightããâunrestrained, uncontrolledããâoptimisticããâbuoyant and cheerfulããâunnoticedããâafraid of being pushed out from a groupããâafraid of being aloneããâfickleããâhumbleããâpragmatismããâdo not persue the dreamããâlike to have funããâlike festivalããâlike being in loveããâbrace heart soon from a failure in loveâThe inner character of ood group Bï¼ããâamiableï¼easy to be cheatedããâbluntããâwitless and do not know what should do, what should not doããâfine start and poor finishããâabsent-mindedããâtroublemakerããâdoing something wrong roughlyããâbe bad at relationship to peopleããâsquanderããâcan not resist to moneyããâlike gambleing, may lose a fortuneâ½How does blood group B face to each groupsããto get along with group Aãããã \"TIRED\" is usually be said and you are usually complained.ããto get along with group Bãããã\"OPTIMISTIC\" two of you are usually ditsy.ã  to get along with group ABãããã\"ARDOR\" good atmosphere between two of you.ããto get along with group Oãããã\"REALIZE\" good at talking and is complement to you.",
+    "reviews": [
+      {
+        "timestampMsec": "1363325245270",
+        "starRating": "4",
+        "title": "\\345\\210\\235\\343\\202\\201\\343\\201\\246\\346\\233\\270\\343\\201\\221\\343\\201\\237",
+        "comment": "B\\345\\236\\213\\343\\201\\260\\343\\202\\223\\343\\201\\226\\343\\201\\204\\357\\274\\201",
+        "commentId": "gp:AOqpTOESzY-58SIEI1WKMDM02Pkufzu6JOk9lfLqnqJZe4JFcu8jUEvaWyOs9M2tmDR_cw-hnM-PNC2mkuGz",
+        "author": "\\345\\257\\214\\345\\262\\241\\347\\234\\237\\350\\250\\230",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1355197072989",
+        "starRating": "3",
+        "title": "English language version? Please?",
+        "comment": "Maybe more stars whn i can read what 2 do??",
+        "commentId": "gp:AOqpTOGCaHfMZ79SQGhzaG1CdiCOuXbtEQcadM_916H7GhV71Fr4Hs4GjeshfSAVDnobaLK9BHmlxf8ILRdi",
+        "author": "Justine Penny",
+        "authorURL": "http://lh6.googleusercontent.com/-IjwpJIOazmU/AAAAAAAAAAI/AAAAAAAAACE/P8sImqCTLQg/photo.jpg",
+        "authorSecureURL": "https://lh6.googleusercontent.com/-IjwpJIOazmU/AAAAAAAAAAI/AAAAAAAAACE/P8sImqCTLQg/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.ji.bloodgroup.b.permission.C2D_MESSAGE"
+    ]
+  }
+}

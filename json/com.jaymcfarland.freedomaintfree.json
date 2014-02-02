@@ -1,0 +1,58 @@
+{
+  "title": "Freedom Ain't Free",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jaymcfarland.freedomaintfree",
+  "category": "Books & Reference",
+  "price": "Free",
+  "datePublished": "March 2, 2011",
+  "version": "1.4",
+  "operatingSystems": "1.5 and up",
+  "ratingsCount": "5",
+  "rating": "2.4",
+  "contentRating": "Low Maturity",
+  "creator": "aprendium",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jaymcfarland.freedomaintfree",
+  "extendedInfo": {
+    "installSize": "3.1M",
+    "downloadsCount": "1,000+",
+    "downloadsCountText": "1,000 - 5,000",
+    "description": "This is the official iphone application for the book \"Freedom Ain't Free!\" by Jay Mcfarland. This book cuts through all of the partisan nonsense of the day and identifies the principles that make the United States the nation that it is. Once these core concepts are identified the book then applies them to the important issues of our day. \"It's about time we look at issues as to how they affect Americans as opposed to how they affect our political party!\"What is the cost of freedom when it comes to...- Abortion- Affirmative Action- Criminal Justice System- Discrimination- Education- Equality via Legislation- Federal Powers- Gun Control- Hate Crimes- Health Care- Illegal Drugs- Minimum Wage- Political Parties- Entitlement Programs- War and ConflictThis app contains...- Entire text of the book- Separate list of important quotes from the founding fathers- Topical Index- Not internet connection required for most functions- Ability to directly contact Jay and provide feedback (internet connection required)",
+    "reviews": [
+      {
+        "timestampMsec": "1312990431945",
+        "starRating": "4",
+        "comment": "I don\\'t agree 100% but a very well written book that is thought provoking. Again, change to download to M-card! You would have more downloads",
+        "commentId": "lg:AOqpTOFCgdGuKqhpQYnznVvxQs1yvQTR98VbHYcy7fu1s4PkNSk_gweGfccnVagGBNGCGkBJm8eGX-9yckuU6kk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1303039030256",
+        "starRating": "1",
+        "comment": "Some of the content is biased and not based on facts. Activists will always be needed by the way, people that don\\'t agree have never been oppressed.",
+        "commentId": "lg:AOqpTOE41-kJWg3ch161wZ-gYqOiKpTaBf14rW_9Mlomh9kO4e9UhhtRRrrQxnGdolRtZ325ZT06JLfAY8hbEJs",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1298780374999",
+        "starRating": "5",
+        "comment": "Great read. Presents a common sense understanding of governments appropriate place in our lives.",
+        "commentId": "lg:AOqpTOFv3TRyMoeWEw866iEzdIGdLcfpbUQN-n_mDHY7qEQynzPYncVA_7asLKBmYxw0hAv0GPiqLt3EKH7O8Ts",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1295335561055",
+        "starRating": "1",
+        "comment": "too big to not move to SD card. Will try it again if that option is added. Until then, uninstalled",
+        "commentId": "lg:AOqpTOER2q4HrsOA47zoxw9rmZtmqGm-4M0rb7QW3UXbslYjB-ecOrjnf3a1_kow6UDynAw4ONfUW1DcrTpKFog",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ]
+  }
+}

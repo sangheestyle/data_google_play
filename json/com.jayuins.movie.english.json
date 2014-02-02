@@ -1,0 +1,129 @@
+{
+  "title": "MePlayer Movie",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jayuins.movie.english",
+  "category": "Education",
+  "price": "$2.73",
+  "datePublished": "September 9, 2013",
+  "version": "7.65.148",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "157",
+  "rating": "4.3248405",
+  "contentRating": "Everyone",
+  "creator": "MEsoft",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jayuins.movie.english",
+  "extendedInfo": {
+    "installSize": "1.1M",
+    "downloadsCount": "500,000+",
+    "downloadsCountText": "10,000 - 50,000",
+    "description": "Learn English while Watching Movies!Playing movies in vertical view â watch a movie and read subtitle script at once!MePlayer Movie, Movie English is a movie player for studying language/English that supports SMI and SRT subtitles.The whole subtitle script can be read by scrolling so that you can study English while watching a movie. Words can be found on a dictionary just by clicking at them.You can study English easily while watching movie with automatic intelligent replay and repeat.Just like ordinary video players, you can use this program to watch movies conveniently.==== Before-Playing Settings ====Put a movie file and its subtitle file in a same folder of the device.It generally provides MP4 and AVI. The file should have the format that is played in the phone itself.For flawless playing, we recommend you to encode files to MP4. Subtitles should be in SMI or SRT file formats.==== Directions for Use ====1. Start MePlayer Movie and select the item to play from the playlist.2. Rewind, Pause/Play and Fast Forward functions: Play the buttons on the displayed movie. - Rewind: Goes back to the last subtitle starting point.- Pause/Play: Displays control menu.- Fast Forward: Goes to the next subtitle starting point.3. Scroll and find the part you want to see from the subtitle script. Playing will start from that point by touching the part.4. Replay: Replays the sentence automatically as many times as you chose.- Intelligent Replay: Automatically decides number of replays considering difficulty of the sentence.- Section Replay: Provides convenient section replays by sentences.5. Repeat: Automatically pauses after playing one sentence before playing the next sentence. During the pause, you can read out the subtitle or practice speaking. If the device is set to TTS (Text To Speech), the subtitle will be read by TTS.6. Subtitle Selection: Korean/English/All subtitles can be selected.7. Horizontal View <-> Vertical View: The movie can be played in full page by selecting Horizontal View.8. Sound Play: When you quit movie playing (by clicking Back button), only the sound of the movie can be played like using a MP3 player.9. Dictionary: By touching the subtitle lightly from the movie image or by long clicking the subtitle from the lower script, the word list will be displayed. When you select a word to search, the word will be shown in the dictionary.- The list of searched words can be used as the vocabulary list.- Delete searched words: Long click words to delete.- TTS pronunciation support: If you canât hear the sound, set from the phone options.10. Setting: Resume Play, Dictionary Selection, Horizontal View/Vertical View and other details can be set.==== Supported Functions ====. View SMI or SRT subtitles: Automatically scrolled as the movie is played.. One-touch navigation: Rewind, Play/Pause and Fast Forward by touching movie display area.. Subtitle Navigation. Sentence Replay/Intelligent Sentence Replay/Section Replay. Repeat. Dictionary function (Provides various languages in the world with Google dictionary.). TTS Pronunciation support for subtitle sentences and dictionary. Searched Word List (Vocabulary List) . Movies in Horizontal View/Vertical View (Play in Vertical View). Play movie in MP3. Continued Play from the last play stopped point. Continued Play. Adjust Subtitle Sync. Listen to subtitles with TTS. Section Replay for selected subtitle units. Supports Colordict. Supports Fora Dictionary. Record your voice and listen when Shadowing ON. Click memu while playing.. Home screen Shortcut (dictionary, Resume play, select a movie). Volume and Biright Control by scrolling (set perference menu). Pop up play (POP-UP Player)",
+    "reviews": [
+      {
+        "documentVersion": "7.65.147",
+        "timestampMsec": "1370752022426",
+        "starRating": "2",
+        "title": ".mkv audio",
+        "comment": "The video player is very good but about mkv format do not support audio.",
+        "commentId": "gp:AOqpTOFSoQjaigTRHaZWFijlKv0R6OIi25AwjOIOXfd4imytaJGuv5bAL1PqpkGWlvwIkQ3hWA4sIjsbusmi",
+        "author": "Caio Henrique de Assump\\303\\247\\303\\243o Barbosa",
+        "authorURL": "http://lh4.googleusercontent.com/-ZBnfPzM_-po/AAAAAAAAAAI/AAAAAAAAABc/vCMZ6xhNXNU/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-ZBnfPzM_-po/AAAAAAAAAAI/AAAAAAAAABc/vCMZ6xhNXNU/photo.jpg"
+      },
+      {
+        "documentVersion": "7.65.147",
+        "timestampMsec": "1367202822346",
+        "starRating": "5",
+        "title": "Incredible...",
+        "comment": "Worth every little penny.",
+        "commentId": "gp:AOqpTOFJ7zXfo52bYu_W_8lzdlydTdTWS2bAmes9AIVw2TlFBnUoreN98ls6Svz4_WGg_gAOmCJaD4zdWmXz",
+        "author": "Kent F",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "7.4.137",
+        "timestampMsec": "1354955810803",
+        "starRating": "5",
+        "title": "More than I expected",
+        "comment": "This is exactly what I have searched for ...",
+        "commentId": "gp:AOqpTOGuMJ8ad3tbbyTTJ9YF7jq3RckCEB-FDUnqLexl21t9jJk98LCXQ4rzhCaLmPU_fDQn2UJF3rgFO99m",
+        "author": "Jeongroh Lee",
+        "authorURL": "http://lh4.googleusercontent.com/-mGYMxjs3mkY/AAAAAAAAAAI/AAAAAAAAAAA/BoDAX-LVpzo/photo.jpg",
+        "authorSecureURL": "https://lh4.googleusercontent.com/-mGYMxjs3mkY/AAAAAAAAAAI/AAAAAAAAAAA/BoDAX-LVpzo/photo.jpg"
+      },
+      {
+        "documentVersion": "6.48.128",
+        "timestampMsec": "1348317320542",
+        "starRating": "5",
+        "title": "Good app",
+        "comment": "I like this app !!!!!!!!",
+        "commentId": "lg:AOqpTOFayTkLeYDLW8pPWNDpdVk7WTXgbUddJ_zZqQFmapK-x6OxjJmXIctp98wMowLgsoUVcHdA1-1I_mcK",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "6.48.126",
+        "timestampMsec": "1347871039609",
+        "starRating": "5",
+        "title": "Great! But needs^^",
+        "comment": "It\\342\\200\\231s great to study but I\\342\\200\\231m looking for something. How can I play  continue the mives on the list? I tried to play but I couldn\\342\\200\\231t. Could you say more in the imformation if you can? Thanks.",
+        "commentId": "lg:AOqpTOE3eNDxqLdzft7DD1DxoiZR68XjL8d8n1ywKyCdhyftyWkgpgWlbNikkhtf3-l9cx9vHU7S30YV5lul",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "5.3.6",
+        "timestampMsec": "1318334444427",
+        "starRating": "5",
+        "title": "Best Apps for learning languages",
+        "comment": "* Unique Functions * Developer is always responsive",
+        "commentId": "lg:AOqpTOEWLSPHSwd0ZFl18UC9o8qYF0JElytfjRPQN1hYgUl1h7lwqbxu8jB9m8C3Iy6dxoRGWua2OcGgkuSg",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "documentVersion": "4.6.1",
+        "timestampMsec": "1309666778809",
+        "starRating": "5",
+        "comment": "It gets a lot better with much improvement for language learners. It is not an ordinary video player, it caters for the needs of a language learner.",
+        "commentId": "lg:AOqpTOHV9ZeEY-AuOwXMBgo_yMSmqDHOeffOHXevXfAMBvRYPmbAFRCfGqMEF64jyaeEFQhcnn_BgmZ3N0qS",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1302316010340",
+        "starRating": "5",
+        "comment": "Great app for English learners. Works well on Nexus S.",
+        "commentId": "lg:AOqpTOEXGvja4GEEIWTzuGGy30u4IFoQLOfLZEStiynwicAQegHYnQ_OpQ_t5dshoay7erJvYWnxR8OElqSK",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1349664686896",
+        "starRating": "1",
+        "title": "Never ran...moto razr",
+        "comment": "Never even able to launch.   Un installed",
+        "commentId": "lg:AOqpTOEv_MemXa7MAGb5h6lf9acZay2v2UoQPbK2Gh0MyFRkWDIxpuFkse0z4JBXrENpUsSO1XmLUnKLfXEk",
+        "author": "A Google User",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1363838276956",
+        "starRating": "5",
+        "comment": "Very good application....",
+        "commentId": "gp:AOqpTOG9el09B0UwYg04v1Chvvlw3J1r094KAdI4DP4TL8EwW-ozSnwqW6NZUFhpci32wfvgjnF_qTiJlVIY",
+        "author": "Mohammad Irfan Safdar Ali",
+        "authorURL": "http://lh3.googleusercontent.com/-xMbKvNUs5os/AAAAAAAAAAI/AAAAAAAAAAA/H3qgvVheLys/photo.jpg",
+        "authorSecureURL": "https://lh3.googleusercontent.com/-xMbKvNUs5os/AAAAAAAAAAI/AAAAAAAAAAA/H3qgvVheLys/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

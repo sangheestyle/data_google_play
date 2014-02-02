@@ -1,0 +1,35 @@
+{
+  "title": "Auto Voice Notebook",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.AutoVoiceNotebook_110510",
+  "category": "Tools",
+  "price": "Free",
+  "datePublished": "May 14, 2013",
+  "version": "1",
+  "operatingSystems": "1.6 and up",
+  "ratingsCount": "1",
+  "rating": "2.0",
+  "contentRating": "Everyone",
+  "creator": "3D Play Phone Inc",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.AutoVoiceNotebook_110510",
+  "extendedInfo": {
+    "installSize": "928k",
+    "downloadsCount": "100+",
+    "downloadsCountText": "100 - 500",
+    "description": "From now on, with this app, you can leave a voice note rather than a simple note. Words remind you not to forget things, while voice also let you remember the feelings of that time.Start to record your voice!Here are two ways to use this voice note1.\tPress the top button in the main interface to start to record a new voice note.2.\tOpen this app to start recording, it needs you to set this function in its settingThe rest steps are almost all the same to these 2 ways. Click to stop the recording when you want to finish the voice note. This app will force to stop the recording if it is longer than the set time. The set time is adjustable here, you can change it in the settings, the longest time of recording is 40 seconds.The recorded voice will be saved and displayed on the other page of this app. Press the last button to check them.In the voice notes list, you can click any of them to listen to. And long press to rename, share and delete. The audio format in this app is 3 GP, it is widely used in 3g phones, and also used on some 2g and 4g phones.The way to uninstall an activated app:Press the Menu button and open the cell phone SettingsClick to open the Location & Security partDeactivate this app in the Device AdministrationThen you can uninstall it at anytime===============To create more free apps, this FREE app may contain some icon ads or notification ads.Thanks for your understanding.===============The voice consists of sound made by a human being using the vocal folds for talking, singing and laughing and so on. The mechanism for generating the human voice can be subdivided into three parts, the lungs, the vocal folds within the larynx and the articulators.",
+    "reviews": [
+      {
+        "comment": "No reviews given!"
+      }
+    ],
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ]
+  }
+}

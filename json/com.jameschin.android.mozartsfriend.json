@@ -1,0 +1,47 @@
+{
+  "title": "Mozart's Friend",
+  "playStoreURL": "https://play.google.com/store/apps/details?id=com.jameschin.android.mozartsfriend",
+  "category": "Music & Audio",
+  "price": "Free",
+  "datePublished": "August 26, 2013",
+  "version": "1.0.22",
+  "operatingSystems": "2.1 and up",
+  "ratingsCount": "4",
+  "rating": "5.0",
+  "contentRating": "Everyone",
+  "creator": "JLC Software",
+  "creatorURL": "https://play.google.com/store/apps/details?id=com.jameschin.android.mozartsfriend",
+  "extendedInfo": {
+    "installSize": "637k",
+    "downloadsCount": "500+",
+    "downloadsCountText": "500 - 1,000",
+    "description": "Mozart's Friend, the companion app for music education and the practicing musician.Mozart's Friend includes an interactive music library with over 1,200 scales, modes and chords for every music key signature, complete with piano view and neck view for 6, 7 or 8-string guitar and 4, 5 or 6-string bass. Notes and intervals are labeled using music theory conventions, making Mozart's Friend a great companion for the composer or music student. One-touch audio demonstrations provide interactive ear training.Mozart's Friend also includes a chromatic guitar tuner and the first metronome with fully programmable tones and intervallic beats, allowing you to quickly outline a chord to play along with. Transpose keys easily in a single swipe.Programmable Metronome:- Precisely dial in any tempo using the slider and fine tune keys- Tap Tempo feature acquires beat quickly and accurately- Odd and complex time signatures like 7:8 and 9:8 time- Adjustable volume and tone- Choose any musical interval between the offbeats and downbeat- Automatically mutes the metronome during incoming calls and other foreground eventsChromatic Guitar Tuner:- Fast, smooth note tracking- Accurate to +/- 0.8 cent- Precise frequency display- Easy-to-read large readout and sharp/flat indicators for handsfree operation from far away- Uses your Android device's built-in mic- Resistant to noise compared to other tunersMusical Reference:- Over 1,200 scales, modes and chords in every key signature- All notes and intervals labeled using music theory conventions, including double sharps and flats- One-touch ear training with audio demonstrations- Piano view and fretboard views for 6, 7 or 8-string guitar and 4, 5 or 6-string bass- Save user-defined custom tunings for every instrument- Quickly find any interval anywhere on the neckPermissions:- Uses permission to prevent the device from automatically shutting off while unattended during metronome or tuner use. When the metronome or tuner are not actively being used, no lock is held.- Uses microphone audio for tuning function.Designed to be the one source for all your musical essentials. Save hundreds of dollars on devices and educational materials. No more wires, batteries or books to carry around. Uses minimal space and system resources.This app does not save nor send personal data and contains no ads.",
+    "reviews": [
+      {
+        "documentVersion": "1.0.11",
+        "timestampMsec": "1373931922316",
+        "starRating": "5",
+        "title": "Great Find!",
+        "comment": "Nice Android app! Clean, no spam, no ads, very lightweight and functional. I\\'ve been using it primarily as a metronome and tuner. It\\'s convenient and easy to use. Mozart\\'s Friend has the only metronome I\\'ve found that lets you set pitch intervals and adjust the tick pitch. Hopefully this app will continue to be available!",
+        "commentId": "gp:AOqpTOEe9V-bN38bd3fl5upT_nl4XnKoeynDe5cf81va-uzpg7sGgjHXZgXRY-bukkzHXroTweIkTodRGWC18A",
+        "author": "Robert Gibbs",
+        "authorURL": "http://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY",
+        "authorSecureURL": "https://lh5.ggpht.com/RREE0f2gSFRq9Yi_umALXt_ML6nJbTYJ6TEsCJg-75c1TUjH4nqP0KNfOsDqxaa_CqY"
+      },
+      {
+        "timestampMsec": "1372730623681",
+        "starRating": "5",
+        "title": "Recommended for musicians and students",
+        "comment": "I use it for practicing guitar and piano. Quick and easy to use, only takes one or two swipes to customize the beat track to the song you are practicing to. Almost like a quick backing track. Also helpful for finding notes on the fly, you can look up scales and chords and go right back to your custom track.",
+        "commentId": "gp:AOqpTOGs9IYMBrq63Jxz7gKN3Nc12ypwqFG35wdEZY9TeHlHWi3acqoOX4YJ-90HZpBocIgGFE3QdFy0fPULEA",
+        "author": "James Chin",
+        "authorURL": "http://lh5.googleusercontent.com/-P6G5IINskCY/AAAAAAAAAAI/AAAAAAAAAEM/D4J-NwFavKU/photo.jpg",
+        "authorSecureURL": "https://lh5.googleusercontent.com/-P6G5IINskCY/AAAAAAAAAAI/AAAAAAAAAEM/D4J-NwFavKU/photo.jpg"
+      }
+    ],
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO"
+    ]
+  }
+}
